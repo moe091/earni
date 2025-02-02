@@ -17,7 +17,7 @@ def get_cik(ticker):
         Returns:
             int: the CIK number of the company.
     """
-    with open('./ticker.txt', 'r', encoding='utf-8') as file:
+    with open('./symbols.txt', 'r', encoding='utf-8') as file:
         cik = None
         for line in file:
             t, c = line.split('\t')
