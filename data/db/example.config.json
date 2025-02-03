@@ -1,0 +1,6 @@
+// This is an example config file. You'll need to create your own config file with the same data. It should be in the same directory as this file, with the name 'config.json'
+
+{
+    "user": "earni",
+    "password":"example_password"
+}
