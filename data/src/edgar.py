@@ -1,7 +1,7 @@
 """
     This module is used to retrieve data from the SEC EDGAR database.
 """
-
+import psycopg2
 
 
 def get_cik(ticker):

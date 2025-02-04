@@ -1,4 +1,5 @@
 {
     "user": "earni",
-    "password":"example_password"
+    "password":"example_password",
+    "quandl_api_key": "example_key"
 }
