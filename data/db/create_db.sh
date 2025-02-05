@@ -29,4 +29,20 @@ else
         sector VARCHAR(100),
         industry VARCHAR(100)
         )"
+
+    psql -U earni -c "CREATE TABLE earnings_reports (
+        report_id SERIAL PRIMARY KEY,
+        ticker VARCHAR(10) NOT NULL,
+        date DATE,
+        period_end DATE,
+        eps_reported NUMERIC,
+        eps_estimate NUMERIC,
+        surprise NUMERIC,
+        surprice_percent NUMERIC,
+        time_of_report VARCHAR(20),
+        CONSTRAINT fk_ticker
+            FOREIGN KEY (ticker)
+                REFERENCES companies(ticker)
+    );"
+
 fi
