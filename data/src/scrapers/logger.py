@@ -11,20 +11,32 @@ class Logger:
         self.name = name
         self.cur = "Default"
 
-    def debug(self, message):
+    def debug(self, message, print_message = False):
+        if print_message:
+            print(f"[DEBUG][{self.cur}] :: {message}\n")
+
         with open(f"./log.{self.name}", "a") as file:
             file.write(f"[DEBUG][{self.cur}] :: {message}\n")
 
-    def log(self, message):
+    def log(self, message, print_message = False):
+        if print_message:
+            print(f"[LOG][{self.cur}] :: {message}\n")
+
         with open(f"./log.{self.name}", "a") as file:
             file.write(f"[LOG][{self.cur}] :: {message}\n")
 
-    def warn(self, message):
+    def warn(self, message, print_message = False):
+        if print_message:
+            print(f"[WARN][{self.cur}] :: {message}\n")
+
         with open(f"./log.{self.name}", "a") as file:
             file.write(f"[WARN][{self.cur}] :: {message}\n")
 
-    def error(self, message, e = None):
-        with open(f"./log.{self.name}", "a") as file:
+    def error(self, message, e = None, print_message = True):
+        if print_message:
+            print(f"[ERROR][{self.cur}] :: {message}\n")
+
+        with open(f"./error.{self.name}", "a") as file:
             file.write(f"[ERROR][{self.cur}] :: {message}\n")
             if e is not None:
                 file.write(f"[EXCEPTION][{self.cur}] :: {e}\n")

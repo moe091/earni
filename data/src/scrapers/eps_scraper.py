@@ -24,12 +24,9 @@ def start_driver():
     global chrome_service, driver 
 
     if driver is None:
-        print("[eps_scraper] Starting chrome driver")
         chrome_service = Service("util/chromedriver-linux64/chromedriver")
         driver = webdriver.Chrome(service=chrome_service)
         driver.set_page_load_timeout(5)  # Timeout after 5 seconds
-    else:
-        print("[eps_scraper] Chrome driver running")
 
 
 def load_page(ticker, attempts=5, delay=1):
@@ -44,7 +41,6 @@ def load_page(ticker, attempts=5, delay=1):
     """
     for i in range(attempts):
         try: # try to load the page. If it works, break out of loop
-            print(f"[eps_scraper] Loading page: https://www.zacks.com/stock/research/{ticker}/earnings-calendar - attempt {i}")
             driver.get(f"https://www.zacks.com/stock/research/{ticker}/earnings-calendar")
             log.cur = ticker
             log.log(f"-------------------  Loaded page for {ticker}  -------------------")
@@ -56,9 +52,8 @@ def load_page(ticker, attempts=5, delay=1):
             else:
                 time.sleep(delay)
 
-def expand_table():
+def expand_table(ticker):
     """ Executes some javascript to set the row count of the earnings table to 100, which is the max. I don't think the data goes over 60 rows for any tickers anyway"""
-    print(f"[eps_scraper] Changing rows dropdown to 100")
 
     # change table to show 100 rows with javascript
     driver.execute_script("""
@@ -67,21 +62,18 @@ def expand_table():
                       dropdown.value = 100;
                       dropdown.dispatchEvent(event)""")
 
-    print(f"[eps_scraper] Waiting for table to load")
     # wait for extra rows to load. If it takes too long just continue, some tickers only have a few rows available
     try:
-        print("[DEBUG] Before - WebDriverWait")
         WebDriverWait(driver, 1).until(
             lambda d: len(d.find_elements(By.CSS_SELECTOR, "table#earnings_announcements_earnings_table tr")) > 20
         )
-        print("[DEBUG] After - WebDriverWait")
     except:
-        print("Unable to load extra rows for {ticker}. Continuing with what we have.")
+        print(f"Unable to load extra rows for {ticker}. Continuing with what we have.")
+        log.error(f"Unable to load extra rows for {ticker}. Continuing with what we have.")
 
 
 def get_soup():
     """ Just gets the soup for the earnings table """
-    print(f"[eps_scraper] pulling HTML from table")
 
     # soupify the earnings table
     table = driver.find_element(By.ID, "earnings_announcements_earnings_table")
@@ -95,7 +87,6 @@ def get_soup():
 
 def parse_soup(soup, ticker):
     """ parses the earnings table soup into a list of dictionaries containing all the data."""
-    print(f"[eps_scraper] Parsing table")
 
     # parse the soup
     quarterlies = []
@@ -113,10 +104,6 @@ def parse_soup(soup, ticker):
         entry['ticker'] = ticker
         quarterlies.append(entry)
 
-    for v in quarterlies:
-        print(v)
-
-    print("[eps_scraper] Done!")
     return quarterlies
 
 
@@ -127,7 +114,6 @@ def clean_data(reports, ticker):
         Args:
             reports (list): list of dictionaries containing earnings_reports data
     """
-    print("[eps_scraper] Cleaning data")
 
     faulty = []
     for i in range(len(reports)):
@@ -146,7 +132,6 @@ def clean_data(reports, ticker):
         log.warn(f"Unable to clean data for {len(faulty)} out of {len(reports)} reports for ticker {ticker}. Deleting them(details below)")
         for index in faulty:
             log.debug(f"faulty report at index {index}: {reports[index]}")
-            print(f"[eps_scraper] Error cleaning data for report {index}: {reports[index]}. Deleting report.")
             del reports[index]
 
 
@@ -173,7 +158,7 @@ def scrape_eps(ticker):
         return []
 
     # expand the table to show all rows
-    expand_table()
+    expand_table(ticker)
 
     # get the soup from the table
     soup = get_soup()
@@ -185,6 +170,7 @@ def scrape_eps(ticker):
     clean_data(reports, ticker)
 
     # return the cleaned earnings reports data
+    print(f"Scraped {len(reports)} earnings reports for {ticker}")
     return reports
 
     

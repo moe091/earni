@@ -1,0 +1,639 @@
+[ERROR][Default] :: Failed to scrape EPS data for ticker dnp
+[EXCEPTION][Default] :: Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/eps_runner.py", line 93, in scrape_eps
+    data = eps.scrape_eps(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 161, in scrape_eps
+    expand_table(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 59, in expand_table
+    driver.execute_script("""
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 528, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot set properties of undefined (setting 'value')
+  (Session info: chrome=132.0.6834.159)
+Stacktrace:
+#0 0x581edbf0053a <unknown>
+#1 0x581edb9fbf00 <unknown>
+#2 0x581edba0204c <unknown>
+#3 0x581edba0484e <unknown>
+#4 0x581edba9002c <unknown>
+#5 0x581edba705a2 <unknown>
+#6 0x581edba8ef84 <unknown>
+#7 0x581edba70343 <unknown>
+#8 0x581edba3d78a <unknown>
+#9 0x581edba3e9de <unknown>
+#10 0x581edbeca2cb <unknown>
+#11 0x581edbece242 <unknown>
+#12 0x581edbeb77ac <unknown>
+#13 0x581edbecedf7 <unknown>
+#14 0x581edbe9bb2f <unknown>
+#15 0x581edbeef1a8 <unknown>
+#16 0x581edbeef370 <unknown>
+#17 0x581edbeff3b6 <unknown>
+#18 0x7a927b694ac3 <unknown>
+
+
+[ERROR][Default] :: Failed to scrape EPS data for ticker atco
+[EXCEPTION][Default] :: Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/eps_runner.py", line 93, in scrape_eps
+    data = eps.scrape_eps(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 161, in scrape_eps
+    expand_table(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 59, in expand_table
+    driver.execute_script("""
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 528, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot set properties of undefined (setting 'value')
+  (Session info: chrome=132.0.6834.159)
+Stacktrace:
+#0 0x581edbf0053a <unknown>
+#1 0x581edb9fbf00 <unknown>
+#2 0x581edba0204c <unknown>
+#3 0x581edba0484e <unknown>
+#4 0x581edba9002c <unknown>
+#5 0x581edba705a2 <unknown>
+#6 0x581edba8ef84 <unknown>
+#7 0x581edba70343 <unknown>
+#8 0x581edba3d78a <unknown>
+#9 0x581edba3e9de <unknown>
+#10 0x581edbeca2cb <unknown>
+#11 0x581edbece242 <unknown>
+#12 0x581edbeb77ac <unknown>
+#13 0x581edbecedf7 <unknown>
+#14 0x581edbe9bb2f <unknown>
+#15 0x581edbeef1a8 <unknown>
+#16 0x581edbeef370 <unknown>
+#17 0x581edbeff3b6 <unknown>
+#18 0x7a927b694ac3 <unknown>
+
+
+[ERROR][Default] :: Failed to scrape EPS data for ticker nea
+[EXCEPTION][Default] :: Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/eps_runner.py", line 93, in scrape_eps
+    data = eps.scrape_eps(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 161, in scrape_eps
+    expand_table(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 59, in expand_table
+    driver.execute_script("""
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 528, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot set properties of undefined (setting 'value')
+  (Session info: chrome=132.0.6834.159)
+Stacktrace:
+#0 0x581edbf0053a <unknown>
+#1 0x581edb9fbf00 <unknown>
+#2 0x581edba0204c <unknown>
+#3 0x581edba0484e <unknown>
+#4 0x581edba9002c <unknown>
+#5 0x581edba705a2 <unknown>
+#6 0x581edba8ef84 <unknown>
+#7 0x581edba70343 <unknown>
+#8 0x581edba3d78a <unknown>
+#9 0x581edba3e9de <unknown>
+#10 0x581edbeca2cb <unknown>
+#11 0x581edbece242 <unknown>
+#12 0x581edbeb77ac <unknown>
+#13 0x581edbecedf7 <unknown>
+#14 0x581edbe9bb2f <unknown>
+#15 0x581edbeef1a8 <unknown>
+#16 0x581edbeef370 <unknown>
+#17 0x581edbeff3b6 <unknown>
+#18 0x7a927b694ac3 <unknown>
+
+
+[ERROR][Default] :: Failed to scrape EPS data for ticker nvg
+[EXCEPTION][Default] :: Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/eps_runner.py", line 93, in scrape_eps
+    data = eps.scrape_eps(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 161, in scrape_eps
+    expand_table(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 59, in expand_table
+    driver.execute_script("""
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 528, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot set properties of undefined (setting 'value')
+  (Session info: chrome=132.0.6834.159)
+Stacktrace:
+#0 0x581edbf0053a <unknown>
+#1 0x581edb9fbf00 <unknown>
+#2 0x581edba0204c <unknown>
+#3 0x581edba0484e <unknown>
+#4 0x581edba9002c <unknown>
+#5 0x581edba705a2 <unknown>
+#6 0x581edba8ef84 <unknown>
+#7 0x581edba70343 <unknown>
+#8 0x581edba3d78a <unknown>
+#9 0x581edba3e9de <unknown>
+#10 0x581edbeca2cb <unknown>
+#11 0x581edbece242 <unknown>
+#12 0x581edbeb77ac <unknown>
+#13 0x581edbecedf7 <unknown>
+#14 0x581edbe9bb2f <unknown>
+#15 0x581edbeef1a8 <unknown>
+#16 0x581edbeef370 <unknown>
+#17 0x581edbeff3b6 <unknown>
+#18 0x7a927b694ac3 <unknown>
+
+
+[ERROR][Default] :: Failed to scrape EPS data for ticker nad
+[EXCEPTION][Default] :: Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/eps_runner.py", line 93, in scrape_eps
+    data = eps.scrape_eps(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 161, in scrape_eps
+    expand_table(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 59, in expand_table
+    driver.execute_script("""
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 528, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot set properties of undefined (setting 'value')
+  (Session info: chrome=132.0.6834.159)
+Stacktrace:
+#0 0x581edbf0053a <unknown>
+#1 0x581edb9fbf00 <unknown>
+#2 0x581edba0204c <unknown>
+#3 0x581edba0484e <unknown>
+#4 0x581edba9002c <unknown>
+#5 0x581edba705a2 <unknown>
+#6 0x581edba8ef84 <unknown>
+#7 0x581edba70343 <unknown>
+#8 0x581edba3d78a <unknown>
+#9 0x581edba3e9de <unknown>
+#10 0x581edbeca2cb <unknown>
+#11 0x581edbece242 <unknown>
+#12 0x581edbeb77ac <unknown>
+#13 0x581edbecedf7 <unknown>
+#14 0x581edbe9bb2f <unknown>
+#15 0x581edbeef1a8 <unknown>
+#16 0x581edbeef370 <unknown>
+#17 0x581edbeff3b6 <unknown>
+#18 0x7a927b694ac3 <unknown>
+
+
+[ERROR][Default] :: Failed to scrape EPS data for ticker exg
+[EXCEPTION][Default] :: Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/eps_runner.py", line 93, in scrape_eps
+    data = eps.scrape_eps(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 161, in scrape_eps
+    expand_table(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 59, in expand_table
+    driver.execute_script("""
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 528, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot set properties of undefined (setting 'value')
+  (Session info: chrome=132.0.6834.159)
+Stacktrace:
+#0 0x581edbf0053a <unknown>
+#1 0x581edb9fbf00 <unknown>
+#2 0x581edba0204c <unknown>
+#3 0x581edba0484e <unknown>
+#4 0x581edba9002c <unknown>
+#5 0x581edba705a2 <unknown>
+#6 0x581edba8ef84 <unknown>
+#7 0x581edba70343 <unknown>
+#8 0x581edba3d78a <unknown>
+#9 0x581edba3e9de <unknown>
+#10 0x581edbeca2cb <unknown>
+#11 0x581edbece242 <unknown>
+#12 0x581edbeb77ac <unknown>
+#13 0x581edbecedf7 <unknown>
+#14 0x581edbe9bb2f <unknown>
+#15 0x581edbeef1a8 <unknown>
+#16 0x581edbeef370 <unknown>
+#17 0x581edbeff3b6 <unknown>
+#18 0x7a927b694ac3 <unknown>
+
+
+[ERROR][Default] :: Failed to scrape EPS data for ticker utf
+[EXCEPTION][Default] :: Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/eps_runner.py", line 93, in scrape_eps
+    data = eps.scrape_eps(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 161, in scrape_eps
+    expand_table(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 59, in expand_table
+    driver.execute_script("""
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 528, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot set properties of undefined (setting 'value')
+  (Session info: chrome=132.0.6834.159)
+Stacktrace:
+#0 0x581edbf0053a <unknown>
+#1 0x581edb9fbf00 <unknown>
+#2 0x581edba0204c <unknown>
+#3 0x581edba0484e <unknown>
+#4 0x581edba9002c <unknown>
+#5 0x581edba705a2 <unknown>
+#6 0x581edba8ef84 <unknown>
+#7 0x581edba70343 <unknown>
+#8 0x581edba3d78a <unknown>
+#9 0x581edba3e9de <unknown>
+#10 0x581edbeca2cb <unknown>
+#11 0x581edbece242 <unknown>
+#12 0x581edbeb77ac <unknown>
+#13 0x581edbecedf7 <unknown>
+#14 0x581edbe9bb2f <unknown>
+#15 0x581edbeef1a8 <unknown>
+#16 0x581edbeef370 <unknown>
+#17 0x581edbeff3b6 <unknown>
+#18 0x7a927b694ac3 <unknown>
+
+
+[ERROR][Default] :: Failed to scrape EPS data for ticker csq
+[EXCEPTION][Default] :: Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/eps_runner.py", line 93, in scrape_eps
+    data = eps.scrape_eps(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 161, in scrape_eps
+    expand_table(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 59, in expand_table
+    driver.execute_script("""
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 528, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot set properties of undefined (setting 'value')
+  (Session info: chrome=132.0.6834.159)
+Stacktrace:
+#0 0x581edbf0053a <unknown>
+#1 0x581edb9fbf00 <unknown>
+#2 0x581edba0204c <unknown>
+#3 0x581edba0484e <unknown>
+#4 0x581edba9002c <unknown>
+#5 0x581edba705a2 <unknown>
+#6 0x581edba8ef84 <unknown>
+#7 0x581edba70343 <unknown>
+#8 0x581edba3d78a <unknown>
+#9 0x581edba3e9de <unknown>
+#10 0x581edbeca2cb <unknown>
+#11 0x581edbece242 <unknown>
+#12 0x581edbeb77ac <unknown>
+#13 0x581edbecedf7 <unknown>
+#14 0x581edbe9bb2f <unknown>
+#15 0x581edbeef1a8 <unknown>
+#16 0x581edbeef370 <unknown>
+#17 0x581edbeff3b6 <unknown>
+#18 0x7a927b694ac3 <unknown>
+
+
+[ERROR][Default] :: Failed to scrape EPS data for ticker utg
+[EXCEPTION][Default] :: Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/eps_runner.py", line 93, in scrape_eps
+    data = eps.scrape_eps(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 161, in scrape_eps
+    expand_table(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 59, in expand_table
+    driver.execute_script("""
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 528, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot set properties of undefined (setting 'value')
+  (Session info: chrome=132.0.6834.159)
+Stacktrace:
+#0 0x581edbf0053a <unknown>
+#1 0x581edb9fbf00 <unknown>
+#2 0x581edba0204c <unknown>
+#3 0x581edba0484e <unknown>
+#4 0x581edba9002c <unknown>
+#5 0x581edba705a2 <unknown>
+#6 0x581edba8ef84 <unknown>
+#7 0x581edba70343 <unknown>
+#8 0x581edba3d78a <unknown>
+#9 0x581edba3e9de <unknown>
+#10 0x581edbeca2cb <unknown>
+#11 0x581edbece242 <unknown>
+#12 0x581edbeb77ac <unknown>
+#13 0x581edbecedf7 <unknown>
+#14 0x581edbe9bb2f <unknown>
+#15 0x581edbeef1a8 <unknown>
+#16 0x581edbeef370 <unknown>
+#17 0x581edbeff3b6 <unknown>
+#18 0x7a927b694ac3 <unknown>
+
+
+[ERROR][Default] :: Failed to scrape EPS data for ticker ety
+[EXCEPTION][Default] :: Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/eps_runner.py", line 93, in scrape_eps
+    data = eps.scrape_eps(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 161, in scrape_eps
+    expand_table(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 59, in expand_table
+    driver.execute_script("""
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 528, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot set properties of undefined (setting 'value')
+  (Session info: chrome=132.0.6834.159)
+Stacktrace:
+#0 0x581edbf0053a <unknown>
+#1 0x581edb9fbf00 <unknown>
+#2 0x581edba0204c <unknown>
+#3 0x581edba0484e <unknown>
+#4 0x581edba9002c <unknown>
+#5 0x581edba705a2 <unknown>
+#6 0x581edba8ef84 <unknown>
+#7 0x581edba70343 <unknown>
+#8 0x581edba3d78a <unknown>
+#9 0x581edba3e9de <unknown>
+#10 0x581edbeca2cb <unknown>
+#11 0x581edbece242 <unknown>
+#12 0x581edbeb77ac <unknown>
+#13 0x581edbecedf7 <unknown>
+#14 0x581edbe9bb2f <unknown>
+#15 0x581edbeef1a8 <unknown>
+#16 0x581edbeef370 <unknown>
+#17 0x581edbeff3b6 <unknown>
+#18 0x7a927b694ac3 <unknown>
+
+
+[ERROR][Default] :: Failed to scrape EPS data for ticker gdv
+[EXCEPTION][Default] :: Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/eps_runner.py", line 93, in scrape_eps
+    data = eps.scrape_eps(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 161, in scrape_eps
+    expand_table(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 59, in expand_table
+    driver.execute_script("""
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 528, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot set properties of undefined (setting 'value')
+  (Session info: chrome=132.0.6834.159)
+Stacktrace:
+#0 0x581edbf0053a <unknown>
+#1 0x581edb9fbf00 <unknown>
+#2 0x581edba0204c <unknown>
+#3 0x581edba0484e <unknown>
+#4 0x581edba9002c <unknown>
+#5 0x581edba705a2 <unknown>
+#6 0x581edba8ef84 <unknown>
+#7 0x581edba70343 <unknown>
+#8 0x581edba3d78a <unknown>
+#9 0x581edba3e9de <unknown>
+#10 0x581edbeca2cb <unknown>
+#11 0x581edbece242 <unknown>
+#12 0x581edbeb77ac <unknown>
+#13 0x581edbecedf7 <unknown>
+#14 0x581edbe9bb2f <unknown>
+#15 0x581edbeef1a8 <unknown>
+#16 0x581edbeef370 <unknown>
+#17 0x581edbeff3b6 <unknown>
+#18 0x7a927b694ac3 <unknown>
+
+
+[ERROR][Default] :: Failed to scrape EPS data for ticker expi
+[EXCEPTION][Default] :: Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/eps_runner.py", line 93, in scrape_eps
+    data = eps.scrape_eps(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 164, in scrape_eps
+    soup = get_soup()
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 79, in get_soup
+    table = driver.find_element(By.ID, "earnings_announcements_earnings_table")
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 888, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+#0 0x581edbf0053a <unknown>
+#1 0x581edb9fbd5d <unknown>
+#2 0x581edba3d497 <unknown>
+#3 0x581edba3e9de <unknown>
+#4 0x581edbeca2cb <unknown>
+#5 0x581edbece242 <unknown>
+#6 0x581edbeb77ac <unknown>
+#7 0x581edbecedf7 <unknown>
+#8 0x581edbe9bb2f <unknown>
+#9 0x581edbeef1a8 <unknown>
+#10 0x581edbeef370 <unknown>
+#11 0x581edbeff3b6 <unknown>
+#12 0x7a927b694ac3 <unknown>
+
+
+[ERROR][Default] :: Failed to scrape EPS data for ticker nuv
+[EXCEPTION][Default] :: Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/eps_runner.py", line 106, in scrape_eps
+    data = eps.scrape_eps(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 161, in scrape_eps
+    expand_table(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 59, in expand_table
+    driver.execute_script("""
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 528, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot set properties of undefined (setting 'value')
+  (Session info: chrome=132.0.6834.159)
+Stacktrace:
+#0 0x5878fae2d53a <unknown>
+#1 0x5878fa928f00 <unknown>
+#2 0x5878fa92f04c <unknown>
+#3 0x5878fa93184e <unknown>
+#4 0x5878fa9bd02c <unknown>
+#5 0x5878fa99d5a2 <unknown>
+#6 0x5878fa9bbf84 <unknown>
+#7 0x5878fa99d343 <unknown>
+#8 0x5878fa96a78a <unknown>
+#9 0x5878fa96b9de <unknown>
+#10 0x5878fadf72cb <unknown>
+#11 0x5878fadfb242 <unknown>
+#12 0x5878fade47ac <unknown>
+#13 0x5878fadfbdf7 <unknown>
+#14 0x5878fadc8b2f <unknown>
+#15 0x5878fae1c1a8 <unknown>
+#16 0x5878fae1c370 <unknown>
+#17 0x5878fae2c3b6 <unknown>
+#18 0x7a2a1f094ac3 <unknown>
+
+
+[ERROR][Default] :: Failed to scrape EPS data for ticker adx
+[EXCEPTION][Default] :: Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/eps_runner.py", line 106, in scrape_eps
+    data = eps.scrape_eps(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 161, in scrape_eps
+    expand_table(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 59, in expand_table
+    driver.execute_script("""
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 528, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot set properties of undefined (setting 'value')
+  (Session info: chrome=132.0.6834.159)
+Stacktrace:
+#0 0x56d68f20d53a <unknown>
+#1 0x56d68ed08f00 <unknown>
+#2 0x56d68ed0f04c <unknown>
+#3 0x56d68ed1184e <unknown>
+#4 0x56d68ed9d02c <unknown>
+#5 0x56d68ed7d5a2 <unknown>
+#6 0x56d68ed9bf84 <unknown>
+#7 0x56d68ed7d343 <unknown>
+#8 0x56d68ed4a78a <unknown>
+#9 0x56d68ed4b9de <unknown>
+#10 0x56d68f1d72cb <unknown>
+#11 0x56d68f1db242 <unknown>
+#12 0x56d68f1c47ac <unknown>
+#13 0x56d68f1dbdf7 <unknown>
+#14 0x56d68f1a8b2f <unknown>
+#15 0x56d68f1fc1a8 <unknown>
+#16 0x56d68f1fc370 <unknown>
+#17 0x56d68f20c3b6 <unknown>
+#18 0x76b6ace94ac3 <unknown>
+
+
+[ERROR][Default] :: Failed to scrape EPS data for ticker nzf
+[EXCEPTION][Default] :: Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/eps_runner.py", line 106, in scrape_eps
+    data = eps.scrape_eps(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 161, in scrape_eps
+    expand_table(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 59, in expand_table
+    driver.execute_script("""
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 528, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot set properties of undefined (setting 'value')
+  (Session info: chrome=132.0.6834.159)
+Stacktrace:
+#0 0x56d68f20d53a <unknown>
+#1 0x56d68ed08f00 <unknown>
+#2 0x56d68ed0f04c <unknown>
+#3 0x56d68ed1184e <unknown>
+#4 0x56d68ed9d02c <unknown>
+#5 0x56d68ed7d5a2 <unknown>
+#6 0x56d68ed9bf84 <unknown>
+#7 0x56d68ed7d343 <unknown>
+#8 0x56d68ed4a78a <unknown>
+#9 0x56d68ed4b9de <unknown>
+#10 0x56d68f1d72cb <unknown>
+#11 0x56d68f1db242 <unknown>
+#12 0x56d68f1c47ac <unknown>
+#13 0x56d68f1dbdf7 <unknown>
+#14 0x56d68f1a8b2f <unknown>
+#15 0x56d68f1fc1a8 <unknown>
+#16 0x56d68f1fc370 <unknown>
+#17 0x56d68f20c3b6 <unknown>
+#18 0x76b6ace94ac3 <unknown>
+
+
+[ERROR][Default] :: Failed to scrape EPS data for ticker bdj
+[EXCEPTION][Default] :: Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/eps_runner.py", line 106, in scrape_eps
+    data = eps.scrape_eps(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 161, in scrape_eps
+    expand_table(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 59, in expand_table
+    driver.execute_script("""
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 528, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot set properties of undefined (setting 'value')
+  (Session info: chrome=132.0.6834.159)
+Stacktrace:
+#0 0x56d68f20d53a <unknown>
+#1 0x56d68ed08f00 <unknown>
+#2 0x56d68ed0f04c <unknown>
+#3 0x56d68ed1184e <unknown>
+#4 0x56d68ed9d02c <unknown>
+#5 0x56d68ed7d5a2 <unknown>
+#6 0x56d68ed9bf84 <unknown>
+#7 0x56d68ed7d343 <unknown>
+#8 0x56d68ed4a78a <unknown>
+#9 0x56d68ed4b9de <unknown>
+#10 0x56d68f1d72cb <unknown>
+#11 0x56d68f1db242 <unknown>
+#12 0x56d68f1c47ac <unknown>
+#13 0x56d68f1dbdf7 <unknown>
+#14 0x56d68f1a8b2f <unknown>
+#15 0x56d68f1fc1a8 <unknown>
+#16 0x56d68f1fc370 <unknown>
+#17 0x56d68f20c3b6 <unknown>
+#18 0x76b6ace94ac3 <unknown>
+
+
+[ERROR][Default] :: Failed to scrape EPS data for ticker nac
+[EXCEPTION][Default] :: Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/eps_runner.py", line 106, in scrape_eps
+    data = eps.scrape_eps(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 161, in scrape_eps
+    expand_table(ticker)
+  File "/home/moe/ws/earni/data/src/scrapers/eps_scraper.py", line 59, in expand_table
+    driver.execute_script("""
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 528, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "/home/moe/miniconda3/envs/earni/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot set properties of undefined (setting 'value')
+  (Session info: chrome=132.0.6834.159)
+Stacktrace:
+#0 0x56d68f20d53a <unknown>
+#1 0x56d68ed08f00 <unknown>
+#2 0x56d68ed0f04c <unknown>
+#3 0x56d68ed1184e <unknown>
+#4 0x56d68ed9d02c <unknown>
+#5 0x56d68ed7d5a2 <unknown>
+#6 0x56d68ed9bf84 <unknown>
+#7 0x56d68ed7d343 <unknown>
+#8 0x56d68ed4a78a <unknown>
+#9 0x56d68ed4b9de <unknown>
+#10 0x56d68f1d72cb <unknown>
+#11 0x56d68f1db242 <unknown>
+#12 0x56d68f1c47ac <unknown>
+#13 0x56d68f1dbdf7 <unknown>
+#14 0x56d68f1a8b2f <unknown>
+#15 0x56d68f1fc1a8 <unknown>
+#16 0x56d68f1fc370 <unknown>
+#17 0x56d68f20c3b6 <unknown>
+#18 0x76b6ace94ac3 <unknown>
+
+
