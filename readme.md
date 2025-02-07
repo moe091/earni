@@ -12,3 +12,24 @@ Earni will be divided into a couple of subprojects:
 
     
 
+
+
+## Project Notes and Todos (for personal use):
+
+#### Random:
+look into harpoon
+vim
+
+### Todo:
+Grab stock prices for dates around each earnings report.
+Use pandas_market_calendars to check for market holidays
+
+Store stock price for:
+    - open and closing price before announcement(same day for pre-market reports, previous (market-open)day for post-market reports)
+    - closing price for 2, 3, 4, 5, 10, 30 days before report
+    - open/close and hourly data for directly after announcements(same day for pre-market, next day for post-market reports)
+    - closing price for 2, 3, 4, 5, 10, 30 days after report
+
+this means we'll have 2 + 6 + 8 + 6 = 22 price points for each earnings report, or around 3 million
+
+
