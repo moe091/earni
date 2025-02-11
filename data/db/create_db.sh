@@ -47,7 +47,8 @@ else
 
     psql -U earni -c "CREATE TABLE price_history (
         ticker VARCHAR(10) NOT NULL,
-        earnings_report_date DATE NOT NULL,
+        report_date DATE NOT NULL,
+        is_valid BOOLEAN DEFAULT true,
         
         open_minus_20 INTEGER,
         open_minus_30 INTEGER,
@@ -134,7 +135,7 @@ else
         volume_plus_20 INTEGER,
         volume_plus_30 INTEGER,
         
-        PRIMARY KEY (ticker, earnings_report_date)
-    );:
+        PRIMARY KEY (ticker, report_date)
+    );"
 
 fi

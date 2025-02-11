@@ -1,6 +1,7 @@
 from wakepy import keep
 import eps_scraper as eps
 import psycopg2
+import psycopg2.extras
 import traceback
 from logger import Logger
 
