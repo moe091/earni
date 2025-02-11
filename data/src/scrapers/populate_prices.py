@@ -39,11 +39,8 @@ def get_dates_for_ticker(ticker):
 
 
 def find_relative_dates(date, offset):
-    #print(f"\n\nFinding relative dates for {date}. Offset={offset}")
     if offset:
         date = date - timedelta(days=1)
-    
-    #print(f"new date = {date}")
 
     offsets = [1, 2, 3, 4, 5, 10, 20, 30]
     rel_dates = []
@@ -64,9 +61,6 @@ def find_relative_dates(date, offset):
         odate = sched.iloc[o].iloc[0].date()
         rel_dates.append((o, odate))
     
-    #print(rel_dates)
-
-
     #sched[1] is the day after 'date'. For post-market this makes sense. for pre-market we set 'date' back by 1 day, so sched[1] is
     #actually the same day as the report, which is what we want because thats the first trading session 'after' the report
     
@@ -126,19 +120,7 @@ def get_db_entry(price_data):
         entry[f"low_{suffix}"] = p['low']
         entry[f"volume_{suffix}"] = p['volume']
 
-    print(f"[{entry['report_date']}] close_minus_1={entry['close_minus_1']}, close_plus_1={entry['close_plus_1']}")
     return entry
-    
-    # conn = db.get_conn()
-    # with conn.cursor() as curs:
-    #     for p in price_data:
-    #         try:
-    #             #curs.execute(f"INSERT INTO stock_prices (ticker, report_date, offset, open, close, high, low, volume) VALUES ('{p['ticker']}', '{p['report_date']}', {p['offset']}, {p['open']}, {p['close']}, {p['high']}, {p['low']}, {p['volume']})")
-    #         except Exception as e:
-    #             print(f"Failed to insert price data for {p['ticker']} on {p['report_date']} offset {p['offset']}", traceback.format_exc())
-    #             raise e
-    # conn.commit()
-    # print(f"Inserted {len(price_data)} price records into the database")
 
 
 def create_row(report, rel):
@@ -216,12 +198,14 @@ def populate_prices(ticker):
     with conn.cursor() as curs:
         for r in rows: # each row is a tuple: (query, entry)
             try:
-                print(f"Inserting row | {r[1]['ticker']} - {r[1]['report_date']}: ", traceback.format_exc())
                 curs.execute(r[0], r[1])
             except:
+                conn.rollback()
                 print(f"!!!!!!!!!!!!!!Failed to insert row for {ticker}!", traceback.format_exc())
                 with open("./ph_errors.txt", "w", encoding="utf-8") as file:
                     file.write(f"\n\n[Insertion Failed!] {ticker} - {r[1]} :: {r[0]}\n")
+                # if we fail to insert a row, just abort the whole ticker. Would rather have no data and deal with it afterwards than have to sort through incomplete data
+                break 
         
     conn.commit()
 
@@ -243,12 +227,10 @@ with open("./tickerlist.txt", "r", encoding="utf-8") as file:
 
 # loop through tickers 1 at a time. 
 print(f"Retrieving and inserting data for {len(tickers)} tickers. Starting with {tickers[-1]}")
-#while len(tickers) > 0:
-#    t = tickers.pop()
-#    print(f"Next Ticker: {t}")
-#    populate_prices(t)
+while len(tickers) > 0:
+   t = tickers.pop()
+   print(f"Next Ticker: {t}")
+   populate_prices(t)
+   update_tickerlist(tickers)
 
-
-
-populate_prices('hut')
-#db.close_conn()
+db.close_conn()
