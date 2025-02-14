@@ -21,6 +21,12 @@ look into harpoon
 vim
 
 ### Todo:
+
+
+- data :: scraping data, inserting into db.
+- api :: functions for operating on data, analyzing, generating visualizations, etc. As well as the actual api and endpoints. db_helpers module will be part of this too
+- website :: everything related to the web app itself. the backend implemented in here will make frequent calls to the api endpoints defined in api/
+
 Finished gather basic financial and stock price data. Going to move on to creating the visualization and filter/query functions and the api endpoint to request them. 
 I will probably add a lot more financial data(revenue and costs and whatnot, maybe even some sentiment analysis on articles or ER calls) later but for now it's better to 
 get a minimum-viable-product up and running. Once I work through all of the other stuff I'll have a MUCH better idea of what info I want to get and how best to store and manage it.

@@ -6,6 +6,10 @@
 
 import psycopg2
 import traceback
+from pathlib import Path
+
+current_dir = Path(__file__).resolve().parent
+pwpath = (current_dir / ".."  / ".." / "db" / "dbpassword").resolve()
 
 conn = None
 
@@ -22,7 +26,7 @@ def get_conn():
         return conn
     
     # grab database password from file
-    with open("../../db/dbpassword", "r", encoding="utf-8") as file:
+    with open(pwpath, "r", encoding="utf-8") as file:
         dbpassword = file.readline().strip()
 
     # create database connection
