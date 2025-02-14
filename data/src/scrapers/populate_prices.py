@@ -5,6 +5,7 @@ import pandas_market_calendars as mcal
 import traceback
 import sys
 import os
+import time
 from datetime import date, timedelta
 
 sys.path.append(os.path.abspath(os.path.join(os.getcwd(), '..')))
@@ -76,7 +77,13 @@ def get_prices_for_dates(ticker, dates, report_date):
 
     # yt.history end date isn't inclusive, have to increase our last date by 1 day to include it
     end_date = dates[-1][1] + timedelta(days=1)
-    prices = yt.history(start=dates[0][1].strftime("%Y-%m-%d"), end=end_date.strftime("%Y-%m-%d"))
+    try:
+        prices = yt.history(start=dates[0][1].strftime("%Y-%m-%d"), end=end_date.strftime("%Y-%m-%d"))
+    except:
+        print("\n\n YAHOO RATE LIMIT REACHED. Pausing for 90s then continuing")
+        time.sleep(90)
+        return get_prices_for_dates(ticker, dates, report_date)
+
     prices.index = prices.index.map(lambda d: d.date().strftime("%Y-%m-%d"))
     price_data = []
     
@@ -98,7 +105,7 @@ def get_prices_for_dates(ticker, dates, report_date):
             price_data.append(price_point)
         except:
             print(f"[Skipping PricePoint] Unable to insert pricepoint for {ticker} - {d}")
-            with open("./ph_skips.txt", "w", encoding="utf-8") as file:
+            with open("./ph_skips.txt", "a", encoding="utf-8") as file:
                 file.write(f"\n[Skipping PricePoint] {ticker} - {d}\n")
 
     return price_data
@@ -182,7 +189,7 @@ def populate_prices(ticker):
     for d in dates:
         if d[2] != "Before Open" and d[2] != "After Close":
             print(f"[Skipping Row] Invalid time_of_report for {ticker} - {d}")
-            with open("./ph_skips.txt", "w", encoding="utf-8") as file:
+            with open("./ph_skips.txt", "a", encoding="utf-8") as file:
                 file.write(f"\n[Missing Data For Row] Invalid time_of_report for {ticker} - {d}. Setting val to 'Invalid'\n")
 
             d = list(d)
@@ -190,9 +197,12 @@ def populate_prices(ticker):
             d = tuple(d)
         
         rel_dates = find_relative_dates(d[1], d[2] == "Before Open")
-        rows.append(create_row(d, rel_dates))
-            
-
+        try:
+            rows.append(create_row(d, rel_dates))
+        except:
+            print(f"[Price Data Failed] Unable to create row: {d} - skipping", traceback.format_exc())    
+            with open("./ph_errors.txt", "a", encoding="utf-8") as file:
+                file.write(f"\n\n[Price Data Failed] Unable to create row: {d} - skipping. {traceback.format_exc()}")
 
     conn = db.get_conn()
     with conn.cursor() as curs:
@@ -202,10 +212,12 @@ def populate_prices(ticker):
             except:
                 conn.rollback()
                 print(f"!!!!!!!!!!!!!!Failed to insert row for {ticker}!", traceback.format_exc())
-                with open("./ph_errors.txt", "w", encoding="utf-8") as file:
+                with open("./ph_errors.txt", "a", encoding="utf-8") as file:
                     file.write(f"\n\n[Insertion Failed!] {ticker} - {r[1]} :: {r[0]}\n")
                 # if we fail to insert a row, just abort the whole ticker. Would rather have no data and deal with it afterwards than have to sort through incomplete data
                 break 
+        else:
+            print(f"Inserted {len(rows)} rows for ticker {ticker}!")
         
     conn.commit()
 
@@ -217,7 +229,7 @@ def update_tickerlist(tickers):
     After each ticker, update the tickerlist file with the remaining tickers. This makes it easier if there is a problem with the script,
     I can just re-run it and it will pickup where it left off
     """
-    print(f"Updating tickerlist before starting next ticker. Writing {len(tickers)} tickers.")
+    print(f"Updating tickerlist before starting next ticker. {len(tickers)} tickers left.")
     with open("./tickerlist.txt", "w", encoding="utf-8") as file:
         file.write("\n".join(tickers))
 

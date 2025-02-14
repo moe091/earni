@@ -21,15 +21,31 @@ look into harpoon
 vim
 
 ### Todo:
-Grab stock prices for dates around each earnings report.
-Use pandas_market_calendars to check for market holidays
+Finished gather basic financial and stock price data. Going to move on to creating the visualization and filter/query functions and the api endpoint to request them. 
+I will probably add a lot more financial data(revenue and costs and whatnot, maybe even some sentiment analysis on articles or ER calls) later but for now it's better to 
+get a minimum-viable-product up and running. Once I work through all of the other stuff I'll have a MUCH better idea of what info I want to get and how best to store and manage it.
 
-Store stock price for:
-    - open and closing price before announcement(same day for pre-market reports, previous (market-open)day for post-market reports)
-    - closing price for 2, 3, 4, 5, 10, 30 days before report
-    - open/close and hourly data for directly after announcements(same day for pre-market, next day for post-market reports)
-    - closing price for 2, 3, 4, 5, 10, 30 days after report
+To start out I'll just add a couple simple visualizations with a few basic filtering options:
+    - select all stocks or a user-submitted list of stocks
+    - filter based on date range(of earnings reports), eps values(reported, estimated, diff), and x_day stock price difference(e.g. price_change > 20% at 5-day mark)
+        - LATER: add filters based on pre-earnigns price change. e.g. select only reports where minus_1_day is 10% less than minus_10_day, AND eps_reported - eps_estimate is > 0.08.
+    - generate bar graph. 
+        - y-axis can be eps values or x_day price diffs.
+        - x-axis can also be eps vals or price diffs(e.g. grouped by eps or price diff 0-0.1, 0.1-0.2, 0.2-0.3, etc), or a subset of the stocks. Or it can just be 'days'(will show (avg)price diff at each x-day mark. 1,2,3,4,5,10, etc)
+        - for some types of bar graphs, we can have double or triple bars. e.g. showing avg, top 25%, and bottom 25%. Or maybe open + close price. 
+        - LATER: custom x-axis can be created. User clicks 'add bar', and then can create sub-filters that allow them to select a subset of the reports and then name that subset and assign it to a bar. e.g. someone may create custom
+            sub-filters for (close_minus_1 / close_minus_5) = < 0.8, 0.8 - 0.9, 0.9-1, 1-1.1, 1.1-1.2, and > 1.2. This can allow them to see important differences, e.g.:
+            y-axis is price change on day after earnigns. x-axis is divided into the sub-filters mentioned above. The user could discover that "stocks that were down a lot in the week prior to earnings had a MUCH higher bounceback after a positive ER"
 
-this means we'll have 2 + 6 + 8 + 6 = 22 price points for each earnings report, or around 3 million
 
 
+
+
+### scratch pad
+
+SELECT ph.ticker, ph.report_date, er.eps_estimate, er.eps_reported, (er.eps_estimate / er.eps_reported), er.surprise, ph.close_minus_1, ph.close_plus_1, (ph.close_plus_1 - ph.close_minus_1) FROM price_history ph JOIN earnings_reports er ON ph.ticker = er.ticker AND ph.report_date = er.date WHERE (er.eps_estimate / er.eps_reported) > 1.20;
+
+
+find all reports where close_plus_1 is 20% greater than close_minus_1.
+
+select ph.ticker, ph.report_date, ph.close_minus_1, ph.close_plus_1, (ph.close_plus_1::double precision / ph.close_minus_1) as price_change, er.eps_estimate, er.eps_reported, (er.eps_reported - er.eps_estimate) as eps_diff FROM price_history ph JOIN earnings_reports er ON ph.ticker = er.ticker AND ph.report_date = er.date WHERE (ph.close_plus_1::double precision / ph.close_minus_1) > 1.2;

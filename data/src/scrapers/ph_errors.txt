@@ -1,0 +1,2852 @@
+
+
+[Price Data Failed] Unable to create row: ('svm', datetime.date(2013, 11, 14), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('svm', datetime.date(2013, 8, 8), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('svm', datetime.date(2013, 5, 22), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('svm', datetime.date(2013, 2, 13), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('svm', datetime.date(2012, 11, 13), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('amr', datetime.date(2019, 8, 14), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('amr', datetime.date(2019, 4, 1), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('amr', datetime.date(2018, 11, 14), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('amr', datetime.date(2018, 5, 24), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('amr', datetime.date(2018, 3, 29), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('baly', datetime.date(2024, 7, 31), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('baly', datetime.date(2024, 5, 1), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('baly', datetime.date(2024, 2, 21), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('baly', datetime.date(2023, 11, 1), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('baly', datetime.date(2023, 8, 3), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('baly', datetime.date(2023, 5, 9), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('baly', datetime.date(2023, 2, 23), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('baly', datetime.date(2022, 11, 3), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('baly', datetime.date(2022, 8, 4), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('baly', datetime.date(2022, 5, 5), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('baly', datetime.date(2022, 2, 24), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('baly', datetime.date(2021, 11, 4), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('baly', datetime.date(2021, 8, 9), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('baly', datetime.date(2021, 5, 10), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('baly', datetime.date(2021, 3, 4), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('nesr', datetime.date(2021, 11, 3), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('nesr', datetime.date(2021, 8, 4), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('nesr', datetime.date(2021, 2, 24), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('nesr', datetime.date(2020, 10, 28), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('nesr', datetime.date(2020, 8, 4), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('nesr', datetime.date(2020, 5, 6), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('nesr', datetime.date(2020, 2, 26), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('nesr', datetime.date(2019, 11, 6), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('nesr', datetime.date(2019, 8, 7), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('nesr', datetime.date(2019, 5, 13), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('gnk', datetime.date(2013, 11, 6), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('gnk', datetime.date(2013, 7, 31), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('gnk', datetime.date(2013, 5, 1), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('gnk', datetime.date(2013, 2, 20), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('gnk', datetime.date(2012, 10, 31), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2024, 10, 30), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2024, 7, 30), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2024, 4, 30), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2024, 2, 13), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2023, 10, 30), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2023, 7, 25), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2023, 4, 25), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2023, 2, 8), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2022, 10, 25), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2022, 7, 28), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2022, 4, 26), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2022, 2, 9), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2021, 10, 25), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2021, 7, 29), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2021, 4, 22), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2021, 2, 18), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2020, 10, 27), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2020, 7, 28), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2020, 4, 30), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2020, 2, 13), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2019, 10, 30), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2019, 7, 29), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2019, 4, 23), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2019, 2, 20), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('sitc', datetime.date(2018, 10, 24), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('bhvn', datetime.date(2022, 8, 5), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('bhvn', datetime.date(2022, 5, 10), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('bhvn', datetime.date(2022, 2, 25), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('bhvn', datetime.date(2021, 11, 9), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('bhvn', datetime.date(2021, 8, 9), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('bhvn', datetime.date(2021, 5, 10), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('bhvn', datetime.date(2021, 3, 1), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('bhvn', datetime.date(2020, 11, 9), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('bhvn', datetime.date(2020, 8, 10), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('bhvn', datetime.date(2020, 5, 7), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('bhvn', datetime.date(2020, 2, 25), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('bhvn', datetime.date(2019, 11, 1), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('bhvn', datetime.date(2019, 8, 8), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('bhvn', datetime.date(2019, 5, 7), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('bhvn', datetime.date(2019, 2, 28), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('bhvn', datetime.date(2018, 11, 14), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('bhvn', datetime.date(2018, 8, 14), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('bhvn', datetime.date(2018, 5, 15), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('bhvn', datetime.date(2018, 3, 6), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('bhvn', datetime.date(2017, 11, 14), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('bhvn', datetime.date(2017, 8, 14), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lgl', datetime.date(2023, 11, 14), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lgl', datetime.date(2023, 8, 23), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lgl', datetime.date(2023, 6, 16), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lgl', datetime.date(2022, 11, 14), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lgl', datetime.date(2022, 8, 9), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lgl', datetime.date(2022, 5, 12), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lgl', datetime.date(2021, 11, 15), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lgl', datetime.date(2021, 8, 11), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Insertion Failed!] nvda - {'ticker': 'nvda', 'report_date': datetime.date(2017, 2, 9), 'open_minus_30': 295, 'close_minus_30': 269, 'high_minus_30': 295, 'low_minus_30': 268, 'volume_minus_30': 2295764000, 'open_minus_20': 257, 'close_minus_20': 254, 'high_minus_20': 258, 'low_minus_20': 250, 'volume_minus_20': 625616000, 'open_minus_10': 271, 'close_minus_10': 275, 'high_minus_10': 276, 'low_minus_10': 268, 'volume_minus_10': 471996000, 'open_minus_5': 284, 'close_minus_5': 282, 'high_minus_5': 286, 'low_minus_5': 281, 'volume_minus_5': 372744000, 'open_minus_4': 281, 'close_minus_4': 289, 'high_minus_4': 289, 'low_minus_4': 281, 'volume_minus_4': 506768000, 'open_minus_3': 292, 'close_minus_3': 293, 'high_minus_3': 298, 'low_minus_3': 290, 'volume_minus_3': 746224000, 'open_minus_2': 292, 'close_minus_2': 292, 'high_minus_2': 294, 'low_minus_2': 287, 'volume_minus_2': 449580000, 'open_minus_1': 293, 'close_minus_1': 287, 'high_minus_1': 293, 'low_minus_1': 285, 'volume_minus_1': 842568000, 'open_plus_1': 295, 'close_plus_1': 280, 'high_plus_1': 297, 'low_plus_1': 277, 'volume_plus_1': 1651092000, 'open_plus_2': 279, 'close_plus_2': 267, 'high_plus_2': 281, 'low_plus_2': 267, 'volume_plus_2': 1180724000, 'open_plus_3': 266, 'close_plus_3': 268, 'high_plus_3': 271, 'low_plus_3': 262, 'volume_plus_3': 850632000, 'open_plus_4': 268, 'close_plus_4': 269, 'high_plus_4': 270, 'low_plus_4': 265, 'volume_plus_4': 373020000, 'open_plus_5': 269, 'close_plus_5': 264, 'high_plus_5': 270, 'low_plus_5': 260, 'volume_plus_5': 647176000, 'open_plus_10': 239, 'close_plus_10': 250, 'high_plus_10': 252, 'low_plus_10': 236, 'volume_plus_10': 1029904000, 'open_plus_20': 246, 'close_plus_20': 244, 'high_plus_20': 247, 'low_plus_20': 243, 'volume_plus_20': 499740000, 'open_plus_30': 269, 'close_plus_30': 265, 'high_plus_30': 270, 'low_plus_30': 262, 'volume_plus_30': 439500000, 'is_valid': True} :: 
+    INSERT INTO price_history (ticker, report_date, open_minus_30, close_minus_30, high_minus_30, low_minus_30, volume_minus_30, open_minus_20, close_minus_20, high_minus_20, low_minus_20, volume_minus_20, open_minus_10, close_minus_10, high_minus_10, low_minus_10, volume_minus_10, open_minus_5, close_minus_5, high_minus_5, low_minus_5, volume_minus_5, open_minus_4, close_minus_4, high_minus_4, low_minus_4, volume_minus_4, open_minus_3, close_minus_3, high_minus_3, low_minus_3, volume_minus_3, open_minus_2, close_minus_2, high_minus_2, low_minus_2, volume_minus_2, open_minus_1, close_minus_1, high_minus_1, low_minus_1, volume_minus_1, open_plus_1, close_plus_1, high_plus_1, low_plus_1, volume_plus_1, open_plus_2, close_plus_2, high_plus_2, low_plus_2, volume_plus_2, open_plus_3, close_plus_3, high_plus_3, low_plus_3, volume_plus_3, open_plus_4, close_plus_4, high_plus_4, low_plus_4, volume_plus_4, open_plus_5, close_plus_5, high_plus_5, low_plus_5, volume_plus_5, open_plus_10, close_plus_10, high_plus_10, low_plus_10, volume_plus_10, open_plus_20, close_plus_20, high_plus_20, low_plus_20, volume_plus_20, open_plus_30, close_plus_30, high_plus_30, low_plus_30, volume_plus_30, is_valid)
+    VALUES (%(ticker)s, %(report_date)s, %(open_minus_30)s, %(close_minus_30)s, %(high_minus_30)s, %(low_minus_30)s, %(volume_minus_30)s, %(open_minus_20)s, %(close_minus_20)s, %(high_minus_20)s, %(low_minus_20)s, %(volume_minus_20)s, %(open_minus_10)s, %(close_minus_10)s, %(high_minus_10)s, %(low_minus_10)s, %(volume_minus_10)s, %(open_minus_5)s, %(close_minus_5)s, %(high_minus_5)s, %(low_minus_5)s, %(volume_minus_5)s, %(open_minus_4)s, %(close_minus_4)s, %(high_minus_4)s, %(low_minus_4)s, %(volume_minus_4)s, %(open_minus_3)s, %(close_minus_3)s, %(high_minus_3)s, %(low_minus_3)s, %(volume_minus_3)s, %(open_minus_2)s, %(close_minus_2)s, %(high_minus_2)s, %(low_minus_2)s, %(volume_minus_2)s, %(open_minus_1)s, %(close_minus_1)s, %(high_minus_1)s, %(low_minus_1)s, %(volume_minus_1)s, %(open_plus_1)s, %(close_plus_1)s, %(high_plus_1)s, %(low_plus_1)s, %(volume_plus_1)s, %(open_plus_2)s, %(close_plus_2)s, %(high_plus_2)s, %(low_plus_2)s, %(volume_plus_2)s, %(open_plus_3)s, %(close_plus_3)s, %(high_plus_3)s, %(low_plus_3)s, %(volume_plus_3)s, %(open_plus_4)s, %(close_plus_4)s, %(high_plus_4)s, %(low_plus_4)s, %(volume_plus_4)s, %(open_plus_5)s, %(close_plus_5)s, %(high_plus_5)s, %(low_plus_5)s, %(volume_plus_5)s, %(open_plus_10)s, %(close_plus_10)s, %(high_plus_10)s, %(low_plus_10)s, %(volume_plus_10)s, %(open_plus_20)s, %(close_plus_20)s, %(high_plus_20)s, %(low_plus_20)s, %(volume_plus_20)s, %(open_plus_30)s, %(close_plus_30)s, %(high_plus_30)s, %(low_plus_30)s, %(volume_plus_30)s, %(is_valid)s)
+    
+
+
+[Insertion Failed!] hut - {'ticker': 'hut', 'report_date': datetime.date(2024, 11, 13), 'open_minus_30': 1144, 'close_minus_30': 1198, 'high_minus_30': 1216, 'low_minus_30': 1136, 'volume_minus_30': 2556400, 'open_minus_20': 1203, 'close_minus_20': 1290, 'high_minus_20': 1293, 'low_minus_20': 1171, 'volume_minus_20': 6529600, 'open_minus_10': 1677, 'close_minus_10': 1816, 'high_minus_10': 1839, 'low_minus_10': 1664, 'volume_minus_10': 6647200, 'open_minus_5': 1925, 'close_minus_5': 1859, 'high_minus_5': 1982, 'low_minus_5': 1800, 'volume_minus_5': 11597800, 'open_minus_4': 1847, 'close_minus_4': 1897, 'high_minus_4': 1942, 'low_minus_4': 1830, 'volume_minus_4': 6168400, 'open_minus_3': 1911, 'close_minus_3': 1957, 'high_minus_3': 1996, 'low_minus_3': 1891, 'volume_minus_3': 4712400, 'open_minus_2': 2134, 'close_minus_2': 2459, 'high_minus_2': 2532, 'low_minus_2': 2057, 'volume_minus_2': 13684700, 'open_minus_1': 2380, 'close_minus_1': 2386, 'high_minus_1': 2440, 'low_minus_1': 2281, 'volume_minus_1': 8961500, 'open_plus_1': 2547, 'close_plus_1': 2478, 'high_plus_1': 2847, 'low_plus_1': 2434, 'volume_plus_1': 17988400, 'open_plus_2': 2610, 'close_plus_2': 2314, 'high_plus_2': 2645, 'low_plus_2': 2312, 'volume_plus_2': 7483100, 'open_plus_3': 2426, 'close_plus_3': 2526, 'high_plus_3': 2574, 'low_plus_3': 2344, 'volume_plus_3': 7458300, 'open_plus_4': 2519, 'close_plus_4': 2504, 'high_plus_4': 2585, 'low_plus_4': 2410, 'volume_plus_4': 8320600, 'open_plus_5': 2482, 'close_plus_5': 2532, 'high_plus_5': 2538, 'low_plus_5': 2367, 'volume_plus_5': 8259200, 'open_plus_10': 2414, 'close_plus_10': 2442, 'high_plus_10': 2592, 'low_plus_10': 2394, 'volume_plus_10': 4740800, 'open_plus_20': 2700, 'close_plus_20': 2669, 'high_plus_20': 2733, 'low_plus_20': 2561, 'volume_plus_20': 6518800, 'open_plus_30': 2383, 'close_plus_30': 2389, 'high_plus_30': 2460, 'low_plus_30': 2330, 'volume_plus_30': 3039500, 'is_valid': True} :: 
+    INSERT INTO price_history (ticker, report_date, open_minus_30, close_minus_30, high_minus_30, low_minus_30, volume_minus_30, open_minus_20, close_minus_20, high_minus_20, low_minus_20, volume_minus_20, open_minus_10, close_minus_10, high_minus_10, low_minus_10, volume_minus_10, open_minus_5, close_minus_5, high_minus_5, low_minus_5, volume_minus_5, open_minus_4, close_minus_4, high_minus_4, low_minus_4, volume_minus_4, open_minus_3, close_minus_3, high_minus_3, low_minus_3, volume_minus_3, open_minus_2, close_minus_2, high_minus_2, low_minus_2, volume_minus_2, open_minus_1, close_minus_1, high_minus_1, low_minus_1, volume_minus_1, open_plus_1, close_plus_1, high_plus_1, low_plus_1, volume_plus_1, open_plus_2, close_plus_2, high_plus_2, low_plus_2, volume_plus_2, open_plus_3, close_plus_3, high_plus_3, low_plus_3, volume_plus_3, open_plus_4, close_plus_4, high_plus_4, low_plus_4, volume_plus_4, open_plus_5, close_plus_5, high_plus_5, low_plus_5, volume_plus_5, open_plus_10, close_plus_10, high_plus_10, low_plus_10, volume_plus_10, open_plus_20, close_plus_20, high_plus_20, low_plus_20, volume_plus_20, open_plus_30, close_plus_30, high_plus_30, low_plus_30, volume_plus_30, is_valid)
+    VALUES (%(ticker)s, %(report_date)s, %(open_minus_30)s, %(close_minus_30)s, %(high_minus_30)s, %(low_minus_30)s, %(volume_minus_30)s, %(open_minus_20)s, %(close_minus_20)s, %(high_minus_20)s, %(low_minus_20)s, %(volume_minus_20)s, %(open_minus_10)s, %(close_minus_10)s, %(high_minus_10)s, %(low_minus_10)s, %(volume_minus_10)s, %(open_minus_5)s, %(close_minus_5)s, %(high_minus_5)s, %(low_minus_5)s, %(volume_minus_5)s, %(open_minus_4)s, %(close_minus_4)s, %(high_minus_4)s, %(low_minus_4)s, %(volume_minus_4)s, %(open_minus_3)s, %(close_minus_3)s, %(high_minus_3)s, %(low_minus_3)s, %(volume_minus_3)s, %(open_minus_2)s, %(close_minus_2)s, %(high_minus_2)s, %(low_minus_2)s, %(volume_minus_2)s, %(open_minus_1)s, %(close_minus_1)s, %(high_minus_1)s, %(low_minus_1)s, %(volume_minus_1)s, %(open_plus_1)s, %(close_plus_1)s, %(high_plus_1)s, %(low_plus_1)s, %(volume_plus_1)s, %(open_plus_2)s, %(close_plus_2)s, %(high_plus_2)s, %(low_plus_2)s, %(volume_plus_2)s, %(open_plus_3)s, %(close_plus_3)s, %(high_plus_3)s, %(low_plus_3)s, %(volume_plus_3)s, %(open_plus_4)s, %(close_plus_4)s, %(high_plus_4)s, %(low_plus_4)s, %(volume_plus_4)s, %(open_plus_5)s, %(close_plus_5)s, %(high_plus_5)s, %(low_plus_5)s, %(volume_plus_5)s, %(open_plus_10)s, %(close_plus_10)s, %(high_plus_10)s, %(low_plus_10)s, %(volume_plus_10)s, %(open_plus_20)s, %(close_plus_20)s, %(high_plus_20)s, %(low_plus_20)s, %(volume_plus_20)s, %(open_plus_30)s, %(close_plus_30)s, %(high_plus_30)s, %(low_plus_30)s, %(volume_plus_30)s, %(is_valid)s)
+    
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2024, 11, 6), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2024, 7, 31), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2024, 5, 2), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2024, 2, 15), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2023, 10, 31), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2023, 8, 2), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2023, 5, 3), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2023, 2, 16), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2022, 11, 3), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2022, 8, 4), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2022, 5, 5), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2022, 2, 24), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2021, 11, 4), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2021, 8, 5), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2021, 5, 7), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2021, 2, 18), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2020, 11, 5), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2020, 8, 6), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2020, 5, 7), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2020, 2, 20), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2019, 11, 6), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2019, 8, 7), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2019, 5, 8), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2019, 2, 27), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2018, 11, 6), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2018, 8, 8), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2018, 5, 8), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2018, 2, 27), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2017, 11, 7), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2017, 8, 8), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2017, 5, 9), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2017, 3, 1), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2016, 11, 3), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2016, 8, 9), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2016, 5, 5), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2016, 2, 23), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2015, 11, 5), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2015, 8, 4), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2015, 5, 7), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2015, 2, 19), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2014, 11, 7), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2014, 8, 7), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2014, 5, 8), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2014, 2, 20), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2013, 11, 5), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2013, 8, 7), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2013, 5, 2), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2013, 2, 21), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('lxp', datetime.date(2012, 11, 6), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2024, 11, 12), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2024, 8, 15), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2024, 5, 28), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2024, 2, 29), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2023, 11, 21), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2023, 8, 11), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2023, 5, 30), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2022, 11, 16), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2022, 8, 11), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2022, 5, 26), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2022, 2, 24), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2021, 11, 9), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2021, 8, 9), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2021, 5, 20), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2020, 11, 30), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2020, 8, 13), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2020, 5, 28), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2019, 11, 26), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2019, 8, 29), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2019, 5, 21), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2019, 2, 27), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2018, 11, 5), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2018, 8, 23), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2018, 5, 31), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2018, 2, 28), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2017, 11, 30), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2017, 8, 30), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2017, 5, 31), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2017, 2, 28), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2016, 8, 31), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2016, 5, 31), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2015, 11, 30), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2015, 8, 27), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2015, 5, 27), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2014, 11, 27), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2014, 8, 26), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2014, 5, 28), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2014, 2, 28), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2013, 11, 27), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2013, 8, 29), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('glng', datetime.date(2013, 5, 30), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('drio', datetime.date(2014, 11, 14), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('drio', datetime.date(2014, 8, 15), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('drio', datetime.date(2014, 5, 15), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('drio', datetime.date(2013, 11, 12), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('drio', datetime.date(2013, 8, 14), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('tusk', datetime.date(2018, 5, 2), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('cert', datetime.date(2022, 5, 5), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('ibcp', datetime.date(2023, 1, 26), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('paa', datetime.date(2019, 8, 6), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('dava', datetime.date(2024, 5, 23), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('cio', datetime.date(2021, 11, 3), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('cio', datetime.date(2019, 11, 1), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('cio', datetime.date(2018, 8, 2), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('cio', datetime.date(2018, 5, 4), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('cio', datetime.date(2017, 11, 6), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('cio', datetime.date(2017, 8, 3), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('cio', datetime.date(2016, 8, 4), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('cio', datetime.date(2016, 5, 5), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('cio', datetime.date(2015, 8, 6), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('cio', datetime.date(2015, 3, 5), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('trn', datetime.date(2022, 7, 27), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('trn', datetime.date(2021, 2, 24), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('trn', datetime.date(2019, 4, 24), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('trn', datetime.date(2018, 10, 24), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('trn', datetime.date(2018, 7, 25), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('trn', datetime.date(2014, 4, 29), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('dwsn', datetime.date(2019, 5, 1), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('dwsn', datetime.date(2016, 3, 11), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('anss', datetime.date(2013, 11, 7), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('res', datetime.date(2024, 10, 24), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('res', datetime.date(2024, 7, 25), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('res', datetime.date(2021, 4, 28), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('res', datetime.date(2014, 10, 29), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('stba', datetime.date(2024, 10, 17), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('stba', datetime.date(2022, 10, 20), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('stba', datetime.date(2022, 1, 27), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('stba', datetime.date(2020, 1, 30), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('stba', datetime.date(2019, 1, 31), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('stba', datetime.date(2018, 4, 19), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('stba', datetime.date(2018, 1, 25), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('stba', datetime.date(2016, 1, 26), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('stba', datetime.date(2015, 7, 21), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('vrsn', datetime.date(2019, 2, 7), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('vrsn', datetime.date(2017, 2, 9), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('vips', datetime.date(2022, 11, 22), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('vips', datetime.date(2018, 8, 13), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('vips', datetime.date(2018, 5, 14), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('ame', datetime.date(2016, 11, 1), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('rezi', datetime.date(2021, 11, 4), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('dci', datetime.date(2021, 2, 25), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('dci', datetime.date(2020, 12, 3), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('dci', datetime.date(2020, 6, 2), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('dci', datetime.date(2014, 11, 20), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('acu', datetime.date(2019, 10, 18), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('acu', datetime.date(2019, 2, 28), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('cms', datetime.date(2022, 10, 27), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('nem', datetime.date(2024, 2, 22), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('wf', datetime.date(2024, 8, 14), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('ccu', datetime.date(2014, 8, 6), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('md', datetime.date(2017, 4, 20), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('hrtx', datetime.date(2020, 8, 5), 'Invalid') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('gsbc', datetime.date(2025, 1, 21), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('enva', datetime.date(2024, 1, 30), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2024, 11, 12), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2024, 8, 6), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2024, 5, 2), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2024, 2, 21), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2023, 11, 2), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2023, 8, 3), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2023, 5, 3), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2023, 2, 22), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2022, 11, 3), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2022, 8, 3), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2022, 5, 2), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2022, 2, 23), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2021, 11, 4), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2021, 8, 5), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2021, 5, 4), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2021, 2, 25), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2020, 11, 4), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2020, 8, 5), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2020, 5, 8), 'Before Open') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2020, 2, 25), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2019, 11, 4), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2019, 8, 5), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2019, 5, 7), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2019, 2, 26), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2018, 11, 5), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2018, 8, 8), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2018, 5, 2), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2018, 2, 27), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2017, 11, 6), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2017, 8, 3), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2017, 5, 3), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2017, 2, 22), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2016, 11, 7), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2016, 8, 4), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2016, 5, 5), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2015, 8, 6), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
+
+
+[Price Data Failed] Unable to create row: ('out', datetime.date(2015, 2, 26), 'After Close') - skipping. Traceback (most recent call last):
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 201, in populate_prices
+    rows.append(create_row(d, rel_dates))
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 151, in create_row
+    entry = get_db_entry(price_data)
+  File "/home/moe/ws/earni/data/src/scrapers/populate_prices.py", line 116, in get_db_entry
+    entry['ticker'] = price_data[0]['ticker']
+IndexError: list index out of range
