@@ -1,0 +1,6 @@
+WARNING:db_helpers:Invalid arg 'b' passed into where_price_diff. Expected int with a value of -30 to 30, corresponding to price_history column names. Got: 12 (type: <class 'int'>)
+WARNING:db_helpers:Invalid arg 'b' passed into where_price_diff. Expected int with a value of -30 to 30, corresponding to price_history column names. Got: 12 (type: <class 'int'>)
+WARNING:db_helpers:Invalid arg 'a' passed into where_price_diff. Expected int with a value of -30 to 30, corresponding to price_history column names. Got: -55 (type: <class 'int'>)
+WARNING:db_helpers:Invalid arg 'b' passed into where_price_diff. Expected int with a value of -30 to 30, corresponding to price_history column names. Got: 12 (type: <class 'int'>)
+WARNING:db_helpers:Invalid arg 'b' passed into where_price_diff. Expected int with a value of -30 to 30, corresponding to price_history column names. Got: 12 (type: <class 'int'>)
+WARNING:db_helpers:Invalid arg 'a' passed into where_price_diff. Expected int with a value of -30 to 30, corresponding to price_history column names. Got: -55 (type: <class 'int'>)

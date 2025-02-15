@@ -7,14 +7,54 @@
 import psycopg2
 import traceback
 from pathlib import Path
+import logging
+
+
+ # TODO :: move all the logging stuff somewhere else once I create an actual main script
+logger = logging.getLogger(__name__)
+logging.basicConfig(filename='earni_api.log')
+console_handler = logging.StreamHandler()
+console_handler.setLevel(logging.DEBUG)  
+console_formatter = logging.Formatter('[%(name)s :: %(levelname)s] %(message)s')
+console_handler.setFormatter(console_formatter)
+logger.addHandler(console_handler)
 
 # get the path to the file with my pw in it. will research how to keep passwords secure and change this functionality before deploying this code anywhere
 # TODO :: look into how to keep db passwords hidden in deployed apps
 _pwpath = (Path(__file__).resolve().parent / ".." / "db" / "dbpassword").resolve()
 
+# mapping from int values to column names, so that code can just use integer values to compare prices for different days
+_col_names = {
+    -30: "_minus_30", 
+    -20: "_minus_20", 
+    -10: "_minus_10", 
+    -5: "_minus_5", 
+    -4: "_minus_4", 
+    -3: "_minus_3", 
+    -2: "_minus_2", 
+    -1: "_minus_1", 
+    1: "_plus_1", 
+    2: "_plus_2", 
+    3: "_plus_3", 
+    4: "_plus_4", 
+    5: "_plus_5", 
+    10: "_plus_10", 
+    20: "_plus_20", 
+    30: "_plus_30"
+}
+
 class DatabaseHelper:
     def __init__(self):
         self.conn = None
+
+        # use a builder pattern. user can build up a query step-by-step. Example:
+        # dbh.select(["ticker", "date", "close_plus_1", "close_plus_5"]).whereIncrease(-5, -1).whereIncrease(1, 5).whereGreater("volume_plus_1", 1000).whereGreater("eps", "estimated_eps")
+        # dbh.execute()
+        self.options = {
+            "SELECT": [],
+            "FROM": "price_history ph JOIN earnings_reports er ON ph.ticker = er.ticker AND ph.report_date = er.date", # default from. If I end up needing different tables/joins I'll subclass and create separate helpers for different types of queries
+            "WHERE": []
+        }
 
     def connect(self):
         """
@@ -44,10 +84,103 @@ class DatabaseHelper:
     
 
     def disconnect(self):
-        """
-        This method closes the connection to the database.
-        """
+        """ This method closes the connection to the database. """
         if self.conn is not None:
             self.conn.commit()
             self.conn.close()
             self.conn = None
+
+
+    # executes query based on current self.params
+    def execute(self):
+        """ This function actually executes a query and returns the output. The other helper functions in this module are for building queries, but
+            they need to be passed to this function to actually be executed """
+        pass
+
+
+    def resetQuery(self):
+        self.options = {}
+
+    
+    def select(self, cols):
+        # TODO :: Add hidden global variable for "valid_fields". If cols contains any values that aren't valid, throw an error and/or log a warning
+        if type(cols) is not list:
+            self.options.select.append(cols)
+        else:
+            self.options.select.extend(cols)
+
+        return self
+    
+
+    def where_price_diff(self, a, b, amount=None, percent=None, type_a='close', type_b='close'):
+        """ adds a where clause to the query, where a is greater than b.
+
+            a and b represent days relative to ER date. -1 is the day before ER. 1 is the day after. 
+            by default, the close price is used for both, but type_a and type_b can be set to 'close', 'open', 'high', or 'low'
+            
+            if amount and percent are both none, just do a > b
+            if amount isn't none, do a > (b + amount)
+            if percent isn't none, do a >= (b * percent)
+            
+            
+            Args:
+                a (int): days relative from the ER date for first comparator(the greater value), from which to take the price. e.g. -1 is the day before ER, 30 is 30 days after ER
+                b (int): days relative from the ER date for second comparator(the lesser value)
+                amount (float) - default None: how MUCH greater a needs to be than b. Default is None, which means it just needs to be greater at all
+                percent (float) - default None: how much greater a needs to be than a, as a percentage. Default is none. Percent will only be used if amount is None and percent is not None
+                type_a (string) - default 'close': which price to take for comparator a. possible values are 'close', 'open', 'high', 'low'
+                type_a (string) - default 'close': which price to take for comparator b. possible values are 'close', 'open', 'high', 'low' """
+        
+        # convert a and b to the appropriate column names
+        if a in _col_names:
+            col_a = type_a + _col_names[a] # TODO :: add a _price_types hidden dict with valid type values. Throw/log error if an invalid type is passed in
+        else:
+            logger.warning("Invalid arg 'a' passed into where_price_diff. Expected int with a value of -30 to 30, corresponding to price_history column names. Got: %s (type: %s)", a, type(a))
+
+
+        if b in _col_names:
+            col_b = type_b + _col_names[b] # TODO :: add a _price_types hidden dict with valid type values. Throw/log error if an invalid type is passed in
+        else:
+            logger.warning("Invalid arg 'b' passed into where_price_diff. Expected int with a value of -30 to 30, corresponding to price_history column names. Got: %s (type: %s)", b, type(b))
+
+        #print(f"[DEBUG :: where_price_diff] comparing {col_a} and {col_b}")
+
+        if amount is not None: # we are doing an amount comparison. a > (b + amount)
+            # NOTE :: I AM HERE. create the where clause(without the word WHERE - that's part of the build func) for a > (b + amount) type queries. Then do the same for percent. Then do the same for basic a > b
+            return self 
+
+        return self
+
+
+    
+
+
+'''
+
+
+NOTES
+
+walking through an example use-case to figure out the most effective design:
+"For all earnings_reports where the +1_closing price was 90% or less of the -1_closing price, AND the +5_closing price was 
+105% or more of the +1_closing price, return the EPS, EPS_Estimate, EPS_Diff, -1_diff(-1_closing - -2_closing, day-before-ER price minus the 2-days-before-ER price)"
+
+^ This means we want the EPS info and the pre-earnings price movement for all ERs that caused a large dip followed by a decent sized rebound.
+(extra: allow a user-defined inverse or comparator. In this case it'd be ERs that caused a large dip followed by no rebound. +1 is 90% or less, but +5 is ~102% or less of +1.
+this will allow easy side-by-side comparison to see what the differences are between companies that bounce back, vs ones that don't.
+BONUS: retrieve headlines/articles around the earnings report and sentiment analyze)
+
+
+
+'''
+
+
+
+
+
+
+
+
+
+
+
+
