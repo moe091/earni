@@ -51,15 +51,34 @@ _valid_fields = {
     "period_end": "er.period_end",
     "eps_reported": "er.eps_reported",
     "eps_estimate": "er.eps_estimate",
-    "eps_diff": "(er.eps_reported - er.eps_estimate) as eps_diff",
+    "eps_diff": "(er.eps_reported - er.eps_estimate)",
     "surprise": "er.surprise",
     "surprise_percent": "er.surprise_percent",
     "time_of_report": "er.time_of_report"
 }
 for t in ["close", "open", "high", "low", "volume"]:
     for c in _col_names:
-        _valid_fields[t + _col_names[c]] = "er." + t + _col_names[c]
+        _valid_fields[t + _col_names[c]] = "ph." + t + _col_names[c]
 
+# used in select clauses for constructed fields. If name exists in _special_fields, add the 'as xxxx'
+# these values are duplicated in _valid_fields because WHERE clauses use the normal _valid_field strings. This is an extra check for SELECT clauses
+# if i wanted to I could add a quick loop to append keys from _special_fields to _valid_fields, to remove the risks of code duplication, but I prefer knowing if I missed something
+_special_fields = {
+    "eps_diff": "(er.eps_reported - er.eps_estimate) as eps_diff"
+}
+
+
+# helper function to get a field based on it's name, and throw an error(or not) if it doesn't exist. Not used for special fields
+# TODO :: shorten some previously written functions by making them use this instead of doing the same check on their own. maybe add an is_special named arg and have it handle that, if there is any need for it
+def _get_field(name, is_strict):
+    if not name in _valid_fields:
+        if is_strict:
+            logger.error(f"Failed to add value({name}, {type(name)}) to SELECT! value does not exist in _valid_fields")
+            raise ValueError(f"Invalid SELECT field: {name}. Valid fields are: {list(_valid_fields)}")
+        else:
+            return name
+    else:
+        return _valid_fields[name]
 
 class DatabaseHelper:
     def __init__(self):
@@ -92,7 +111,6 @@ class DatabaseHelper:
             dbpassword = file.readline().strip()
 
         # create database connection
-        # TODO :: implement real logging
         try:
             self.conn = psycopg2.connect(f"dbname='earni' user='earni' host='localhost' password='{dbpassword}'")
             print("[api.db_helpers :: connect] Connected to earni database", True)
@@ -130,20 +148,29 @@ class DatabaseHelper:
         for w in self.options["WHERE"][1:]:
             query = query + " AND " + w
 
+        self.resetQuery()
+
         # TODO :: Execute query instead of just returning
         return query
 
 
     def resetQuery(self):
-        self.options = {}
+        self.options = {
+            "SELECT": [],
+            "FROM": "price_history ph JOIN earnings_reports er ON ph.ticker = er.ticker AND ph.report_date = er.date", # default from. If I end up needing different tables/joins I'll subclass and create separate helpers for different types of queries
+            "WHERE": []
+        }
 
-    
+
     def select(self, cols):
         # TODO :: Add hidden global variable for "valid_fields". If cols contains any values that aren't valid, throw an error and/or log a warning
         
         def add_select(val):
             if val in _valid_fields:
-                self.options["SELECT"].append(_valid_fields[val])
+                if val in _special_fields:
+                    self.options["SELECT"].append(_special_fields[val])
+                else:
+                    self.options["SELECT"].append(_valid_fields[val])
             else: # log and throw an error if val is invalid. We don't want queries to complete if there is anything wrong - better to give no output than incorrect or unexpected data
                 logger.error(f"Failed to add value({val}, {type(val)}) to SELECT! value does not exist in _valid_fields")
                 raise ValueError(f"Invalid SELECT field: {val}. Valid fields are: {list(_valid_fields)}")
@@ -155,6 +182,12 @@ class DatabaseHelper:
                 add_select(c)
 
         return self
+    
+
+    def custom_select(self, a, operator, b, name):
+        a = _get_field(a, True)
+        b = _get_field(b, False)
+        self.options["SELECT"].append(f"{a} {operator} {b} as {name}")
     
 
     def where_price_diff(self, a, b, amount=None, percent=None, type_a='close', type_b='close'):
@@ -202,6 +235,34 @@ class DatabaseHelper:
             self.options["WHERE"].append(clause)
         else: # regular comparison. a > b
             clause = f"ph.{col_a} > ph.{col_b}"
+
+        return self
+    
+
+    def where_value_is(self, prop, relation, val, offset=None):
+        """ Creates a where clause where any given prop(column name) is related to(<, >, =, <=, >=, !=) a given number OR another property.
+            if 'val' arg exists in _valid_fields, it will be treated as a column name. If not, it will be treated as a numeric value or string
+            
+            Args:
+                prop (str): The name of the property to be compared(possible values are defined in _valid_fields)
+                relation (str): The type of comparison: <, >, =, <=, >=, or !=
+                val (not None): The value that prop is being compared against. If it exists in _valid_feilds, it will compare against that field. Otherwise it will be treated as a raw value
+                offset (int or float): an offset applied to the 2nd value(val). Can be negative
+        """
+
+        if not prop in _valid_fields:
+            logger.error(f"Invalid prop({prop}) passed into where_value_is. Valid prop names: {_valid_fields}")
+            raise ValueError(f"Invalid arg prop: {prop}. Expected one of: {_valid_fields}")
+        
+        if val in _valid_fields:
+            val = _valid_fields[val]
+        
+        if offset:
+            clause = f"{_valid_fields[prop]} {relation} {val} + {offset}"
+        else:
+            clause = f"{_valid_fields[prop]} {relation} {val}"
+
+        self.options["WHERE"].append(clause)
 
         return self
 
