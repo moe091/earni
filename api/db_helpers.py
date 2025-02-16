@@ -43,6 +43,24 @@ _col_names = {
     30: "_plus_30"
 }
 
+# add some more useful constructed fields. e.g. er_close_diff = close_plus_1 - close_minus_1
+# valid fields, used for limiting/building SELECT clause
+_valid_fields = {
+    "ticker": "ph.ticker",
+    "report_date": "ph.report_date",
+    "period_end": "er.period_end",
+    "eps_reported": "er.eps_reported",
+    "eps_estimate": "er.eps_estimate",
+    "eps_diff": "(er.eps_reported - er.eps_estimate) as eps_diff",
+    "surprise": "er.surprise",
+    "surprise_percent": "er.surprise_percent",
+    "time_of_report": "er.time_of_report"
+}
+for t in ["close", "open", "high", "low", "volume"]:
+    for c in _col_names:
+        _valid_fields[t + _col_names[c]] = "er." + t + _col_names[c]
+
+
 class DatabaseHelper:
     def __init__(self):
         self.conn = None
@@ -95,7 +113,25 @@ class DatabaseHelper:
     def execute(self):
         """ This function actually executes a query and returns the output. The other helper functions in this module are for building queries, but
             they need to be passed to this function to actually be executed """
-        pass
+        
+        # build SELECT clause
+        # TODO :: Throw error(or just add * ?) if options.SELECT is empty
+        query = "SELECT "
+        for s in self.options["SELECT"][:-1]: 
+            query = query + s + ", "
+        query = query + self.options["SELECT"][-1]
+
+        # insert FROM clause
+        query = query + " FROM " + self.options["FROM"]
+
+        # create WHERE clause
+        # TODO :: Throw error if options.WHERE is empty
+        query = query + " WHERE " + self.options["WHERE"][0]
+        for w in self.options["WHERE"][1:]:
+            query = query + " AND " + w
+
+        # TODO :: Execute query instead of just returning
+        return query
 
 
     def resetQuery(self):
@@ -104,10 +140,19 @@ class DatabaseHelper:
     
     def select(self, cols):
         # TODO :: Add hidden global variable for "valid_fields". If cols contains any values that aren't valid, throw an error and/or log a warning
+        
+        def add_select(val):
+            if val in _valid_fields:
+                self.options["SELECT"].append(_valid_fields[val])
+            else: # log and throw an error if val is invalid. We don't want queries to complete if there is anything wrong - better to give no output than incorrect or unexpected data
+                logger.error(f"Failed to add value({val}, {type(val)}) to SELECT! value does not exist in _valid_fields")
+                raise ValueError(f"Invalid SELECT field: {val}. Valid fields are: {list(_valid_fields)}")
+
         if type(cols) is not list:
-            self.options.select.append(cols)
+            add_select(cols)
         else:
-            self.options.select.extend(cols)
+            for c in cols:
+                add_select(c)
 
         return self
     
@@ -134,20 +179,29 @@ class DatabaseHelper:
         # convert a and b to the appropriate column names
         if a in _col_names:
             col_a = type_a + _col_names[a] # TODO :: add a _price_types hidden dict with valid type values. Throw/log error if an invalid type is passed in
-        else:
-            logger.warning("Invalid arg 'a' passed into where_price_diff. Expected int with a value of -30 to 30, corresponding to price_history column names. Got: %s (type: %s)", a, type(a))
+        else: # log and throw an error if val is invalid. We don't want queries to complete if there is anything wrong - better to give no output than incorrect or unexpected data
+            logger.error("Invalid arg 'a' passed into where_price_diff. Expected int with a value of -30 to 30, corresponding to price_history column names. Got: %s (type: %s)", a, type(a))
+            raise ValueError(f"Invalid arg a: {a}, {type(a)}. Expected one of: 1, 2, 3, 4, 5, 10, 20, 30 (or the negative of any of these values)")
 
 
         if b in _col_names:
             col_b = type_b + _col_names[b] # TODO :: add a _price_types hidden dict with valid type values. Throw/log error if an invalid type is passed in
-        else:
-            logger.warning("Invalid arg 'b' passed into where_price_diff. Expected int with a value of -30 to 30, corresponding to price_history column names. Got: %s (type: %s)", b, type(b))
+        else: # log and throw an error if val is invalid. We don't want queries to complete if there is anything wrong - better to give no output than incorrect or unexpected data
+            logger.error("Invalid arg 'b' passed into where_price_diff. Expected int with a value of -30 to 30, corresponding to price_history column names. Got: %s (type: %s)", b, type(b))
+            raise ValueError(f"Invalid arg b: {b}, {type(b)}. Expected one of: 1, 2, 3, 4, 5, 10, 20, 30 (or the negative of any of these values)")
 
         #print(f"[DEBUG :: where_price_diff] comparing {col_a} and {col_b}")
 
-        if amount is not None: # we are doing an amount comparison. a > (b + amount)
+        if amount is not None: # we are doing an amount comparison. a > (b + amount). amount takes precedence if an amount and percent arg are passed in for some reason
             # NOTE :: I AM HERE. create the where clause(without the word WHERE - that's part of the build func) for a > (b + amount) type queries. Then do the same for percent. Then do the same for basic a > b
+            clause = f"ph.{col_a} > ph.{col_b} + amount"
+            self.options["WHERE"].append(clause)
             return self 
+        elif percent is not None: # percent comparison. a > (b * percent)
+            clause = f"ph.{col_a} > ph.{col_b} * {percent}"
+            self.options["WHERE"].append(clause)
+        else: # regular comparison. a > b
+            clause = f"ph.{col_a} > ph.{col_b}"
 
         return self
 

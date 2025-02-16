@@ -1,6 +1,4 @@
-WARNING:db_helpers:Invalid arg 'b' passed into where_price_diff. Expected int with a value of -30 to 30, corresponding to price_history column names. Got: 12 (type: <class 'int'>)
-WARNING:db_helpers:Invalid arg 'b' passed into where_price_diff. Expected int with a value of -30 to 30, corresponding to price_history column names. Got: 12 (type: <class 'int'>)
-WARNING:db_helpers:Invalid arg 'a' passed into where_price_diff. Expected int with a value of -30 to 30, corresponding to price_history column names. Got: -55 (type: <class 'int'>)
-WARNING:db_helpers:Invalid arg 'b' passed into where_price_diff. Expected int with a value of -30 to 30, corresponding to price_history column names. Got: 12 (type: <class 'int'>)
-WARNING:db_helpers:Invalid arg 'b' passed into where_price_diff. Expected int with a value of -30 to 30, corresponding to price_history column names. Got: 12 (type: <class 'int'>)
-WARNING:db_helpers:Invalid arg 'a' passed into where_price_diff. Expected int with a value of -30 to 30, corresponding to price_history column names. Got: -55 (type: <class 'int'>)
+ERROR:db_helpers:Failed to add value(close_plus_11, <class 'str'>) to SELECT! value does not exist in _valid_fields
+ERROR:db_helpers:Failed to add value(close_plus_11, <class 'str'>) to SELECT! value does not exist in _valid_fields
+ERROR:db_helpers:Failed to add value(eps_something, <class 'str'>) to SELECT! value does not exist in _valid_fields
+ERROR:db_helpers:Failed to add value(eps_something, <class 'str'>) to SELECT! value does not exist in _valid_fields
