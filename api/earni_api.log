@@ -2,3 +2,4 @@ ERROR:db_helpers:Failed to add value(close_plus_11, <class 'str'>) to SELECT! va
 ERROR:db_helpers:Failed to add value(close_plus_11, <class 'str'>) to SELECT! value does not exist in _valid_fields
 ERROR:db_helpers:Failed to add value(eps_something, <class 'str'>) to SELECT! value does not exist in _valid_fields
 ERROR:db_helpers:Failed to add value(eps_something, <class 'str'>) to SELECT! value does not exist in _valid_fields
+ERROR:db_helpers:Failed to add value(dps_diff, <class 'str'>) to SELECT! value does not exist in _valid_fields

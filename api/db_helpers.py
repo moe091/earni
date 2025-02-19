@@ -67,7 +67,6 @@ _special_fields = {
     "eps_diff": "(er.eps_reported - er.eps_estimate) as eps_diff"
 }
 
-
 # helper function to get a field based on it's name, and throw an error(or not) if it doesn't exist. Not used for special fields
 # TODO :: shorten some previously written functions by making them use this instead of doing the same check on their own. maybe add an is_special named arg and have it handle that, if there is any need for it
 def _get_field(name, is_strict):
@@ -79,6 +78,14 @@ def _get_field(name, is_strict):
             return name
     else:
         return _valid_fields[name]
+
+
+""" 
+    This class will provide very easy-to-use functions for all types of queries required by the API.
+    The goal is that any possible query required by the API can be created in a straightforward and readable way, all the complexity
+    is offloaded to this class so the actual API code can be super clean and streamlined, since that will be the most complicated
+    and difficult part of this project
+"""
 
 class DatabaseHelper:
     def __init__(self):
@@ -104,7 +111,7 @@ class DatabaseHelper:
         # TODO :: check if conn is closed
         if self.conn is not None and self.conn.closed == 0:
             print("[api.db_helpers :: connect] Already connected to db, returning existing connection.")
-            return self.conn
+            return
         
         # grab database password from file
         with open(_pwpath, "r", encoding="utf-8") as file:
@@ -117,6 +124,7 @@ class DatabaseHelper:
         except Exception as e:
             print("[api.db_helpers :: connect] Failed to connect to database", traceback.format_exc())
             raise
+
     
 
     def disconnect(self):
@@ -125,6 +133,15 @@ class DatabaseHelper:
             self.conn.commit()
             self.conn.close()
             self.conn = None
+
+    
+    def execute_sql(self, query):
+        self.connect()
+
+        with self.conn.cursor() as curs:
+            curs.execute(query)
+            return curs.fetchall()
+
 
 
     # executes query based on current self.params
@@ -151,7 +168,7 @@ class DatabaseHelper:
         self.resetQuery()
 
         # TODO :: Execute query instead of just returning
-        return query
+        return self.execute_sql(query)
 
 
     def resetQuery(self):
