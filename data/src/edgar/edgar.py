@@ -12,6 +12,8 @@
 import requests
 import logging
 from bs4 import BeautifulSoup
+import traceback
+import re
 
 # create logger that logs to console, as well as .log and .err files. 
 logger = logging.getLogger('EDGAR')
@@ -91,7 +93,7 @@ def get_access_numbers(filing, type):
     return access_nums
 
 
-def request_index(cik, access_num):
+def request_archive(cik, access_num):
     """ This function requests the index page for a given accessionNumber for a given company(cik). It is usually an HTML page that needs to be parsed to find the relevant xml docs """
     url = f"https://www.sec.gov/Archives/edgar/data/{cik}/{access_num}"
     logger.debug(f"Requesting forms from: {url}")
@@ -105,10 +107,19 @@ def find_doc_url(page):
     links = soup.find_all('a')
     hrefs = [el.attrs['href'] for el in links]
     xml = [url for url in hrefs if "_htm.xml" in url]
-    # TODO :: ERROR CHECKING / HANDLING! Here and in all the _request functions!
+
+    if len(xml) == 0: #if there is no link ending in _htm.xml, then check for files that end with digits followed by .xml
+        pattern = re.compile(r'.*\d\.xml$')
+        xml = [url for url in hrefs if pattern.match(url)]
+        
+    # # TODO :: ERROR CHECKING / HANDLING! Here and in all the _request functions!
+    # if len(xml) == 0:
+    #     logger.error("Unable to find xml file with XBRL data for page!")
+    
     url = xml[0]
     if "http://" not in url:
         url = "https://www.sec.gov" + url
+        
 
     return url
 
@@ -120,7 +131,7 @@ def request_doc(url):
 
 # filings = request_filings(cik)
 # a_nums = get_access_numbers(filings['recent'], "10-Q")            // or "10-K"
-# page = request_index(cik, a_nums[-1])
+# page = request_archive(cik, a_nums[-1])
 #
 # url = find_doc_url(page)
 # data = request_doc(url)
@@ -133,7 +144,40 @@ def request_doc(url):
 #   xml = [url for url in hrefs if "_htm.xml" in url]
 #   url = xml[0]
 #   if url starts with http://, the request it. If not, append "https://www.sec.gov" then request it
+def get_recent_filings(cik, type):
+    filings = request_filings(cik)
+    anums = get_access_numbers(filings['recent'], type)
 
+    # making this an inner function to neatly log different errors for each step when iterating over a list of anums
+    def extract_data(anum):
+        try:
+            page = request_archive(cik, anum)
+        except:
+            logger.error(f"{cik} - Unable to request_archive for accessionNumber: {anum}")
+            return None
+
+        try:
+            url = find_doc_url(page)
+        except:
+            logger.error(f"{cik} Unable to find xml URL for XBRL data with accessionNumber: {anum}")
+            return None
+
+        try: # TODO :: check response code and log errors / handle non-200 responses
+            data = request_doc(url)
+        except:
+            logger.error(f"{cik} Unable to download doc(anum={anum}) from URL: {url}")
+            return None
+        
+        return data
+
+
+    datas = []
+    for anum in anums:
+        data = extract_data(anum)
+        if data is not None:
+            datas.append(data)
+
+    return datas
 
 
 
