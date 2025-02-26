@@ -129,6 +129,10 @@ def request_doc(url):
     resp = requests.get(url, headers=headers)
     return resp
 
+def request_doc_soup(url):
+    resp = request_doc(url)
+    return BeautifulSoup(resp.text, "lxml")
+
 # filings = request_filings(cik)
 # a_nums = get_access_numbers(filings['recent'], "10-Q")            // or "10-K"
 # page = request_archive(cik, a_nums[-1])
