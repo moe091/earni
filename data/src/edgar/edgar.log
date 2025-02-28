@@ -1,22 +1,192 @@
+[EDGAR :: DEBUG] Creating EdgarInstance for msft-789019 with start date 2010-01-01
 [EDGAR :: INFO] 
-Getting filings from URL: https://data.sec.gov/submissions/CIK0001674416.json
-[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/1674416/000156459017022720
+Getting filings from URL: https://data.sec.gov/submissions/CIK0000789019.json
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459018009307
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459018001129
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459017020171
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459017007547
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459017000654
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312516742796
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312516550254
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312515020351
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312514380252
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017025010491
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017024118967
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017024048288
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017024008814
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017023054855
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017023014423
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459023000733
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459022035087
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459022015675
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459022002324
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459021051992
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459021020891
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459021002316
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459020047996
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459020019706
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459020002450
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459019037549
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459019012709
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459019001392
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459018024893
+[EDGAR :: DEBUG] Creating EdgarInstance for msft-789019 with start date 1900-01-01
 [EDGAR :: INFO] 
-Getting filings from URL: https://data.sec.gov/submissions/CIK0000858877.json
-[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/858877/000085887725000007
-[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/858877/000085887724000030
-[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/858877/000085887724000007
-[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/858877/000085887724000003
-[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/858877/000085887723000031
-[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/858877/000085887723000013
-[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/858877/000085887723000005
-[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/858877/000085887722000025
-[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/858877/000085887722000009
-[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/858877/000085887722000004
-[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/858877/000085887721000018
-[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/858877/000085887721000008
-[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/858877/000085887721000004
-[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/858877/000085887720000015
-[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/858877/000085887720000006
-[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/858877/000085887720000004
-[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/858877/000085887719000018
+Getting filings from URL: https://data.sec.gov/submissions/CIK0000789019.json
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459018009307
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459018001129
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459017020171
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459017007547
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459017000654
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312516742796
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312516550254
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312515020351
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312514380252
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017025010491
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017024118967
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017024048288
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017024008814
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017023054855
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017023014423
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459023000733
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459022035087
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459022015675
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459022002324
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459021051992
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459021020891
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459021002316
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459020047996
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459020019706
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459020002450
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459019037549
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459019012709
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459019001392
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459018024893
+[EDGAR :: DEBUG] Creating EdgarInstance for msft-789019 with start date 1900-01-01
+[EDGAR :: INFO] 
+Getting filings from URL: https://data.sec.gov/submissions/CIK0000789019.json
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459018009307
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459018001129
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459017020171
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459017007547
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459017000654
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312516742796
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312516550254
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312515020351
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312514380252
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017025010491
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017024118967
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017024048288
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017024008814
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017023054855
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017023014423
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459023000733
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459022035087
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459022015675
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459022002324
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459021051992
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459021020891
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459021002316
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459020047996
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459020019706
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459020002450
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459019037549
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459019012709
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459019001392
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459018024893
+[EDGAR :: DEBUG] Creating EdgarInstance for msft-789019 with start date 1900-01-01
+[EDGAR :: INFO] 
+Getting filings from URL: https://data.sec.gov/submissions/CIK0000789019.json
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459018009307
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459018001129
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459017020171
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459017007547
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459017000654
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312516742796
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312516550254
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312515020351
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312514380252
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017025010491
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017024118967
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017024048288
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017024008814
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017023054855
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017023014423
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459023000733
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459022035087
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459022015675
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459022002324
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459021051992
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459021020891
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459021002316
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459020047996
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459020019706
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459020002450
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459019037549
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459019012709
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459019001392
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459018024893
+[EDGAR :: DEBUG] Creating EdgarInstance for msft-789019 with start date 1900-01-01
+[EDGAR :: INFO] 
+Getting filings from URL: https://data.sec.gov/submissions/CIK0000789019.json
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459018009307
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459018001129
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459017020171
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459017007547
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459017000654
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312516742796
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312516550254
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312515020351
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312514380252
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017025010491
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017024118967
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017024048288
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017024008814
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017023054855
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017023014423
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459023000733
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459022035087
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459022015675
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459022002324
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459021051992
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459021020891
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459021002316
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459020047996
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459020019706
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459020002450
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459019037549
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459019012709
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459019001392
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459018024893
+[EDGAR :: DEBUG] Creating EdgarInstance for msft-789019 with start date 1900-01-01
+[EDGAR :: INFO] 
+Getting filings from URL: https://data.sec.gov/submissions/CIK0000789019.json
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459018009307
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459018001129
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459017020171
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459017007547
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459017000654
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312516742796
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312516550254
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312515020351
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000119312514380252
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017025010491
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017024118967
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017024048288
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017024008814
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017023054855
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000095017023014423
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459023000733
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459022035087
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459022015675
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459022002324
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459021051992
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459021020891
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459021002316
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459020047996
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459020019706
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459020002450
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459019037549
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459019012709
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459019001392
+[EDGAR :: DEBUG] Requesting forms from: https://www.sec.gov/Archives/edgar/data/789019/000156459018024893
