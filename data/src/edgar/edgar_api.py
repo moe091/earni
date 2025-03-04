@@ -1,14 +1,23 @@
+# TODO :: Rework XBRL parsing after researching financial metrics and XBRL formats. Instead of grabbing everything, I'll come up with a list of relevant fields and their us-gaap tag names
+# and then determine exactly how to accurately pull them from the correct filing and date range/type while avoiding duplicates. 
 from datetime import datetime
+from collections import defaultdict
 import requests
 import logging
 from bs4 import BeautifulSoup
 import traceback
 import re
+import sys
+import os
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../../'))
+sys.path.append(project_root)
 
+
+gaap = re.compile(r'^us-gaap:', re.IGNORECASE)
 headers = {
     'User-Agent': 'Your Name (your.email@example.com)'
 }
-
+mydir = os.path.dirname(os.path.abspath(__file__))
 
 # create logger that logs to console, as well as .log and .err files. 
 logger = logging.getLogger('EDGAR')
@@ -80,12 +89,17 @@ class EdgarInstance:
         for d in report_dates:
             reports[d] = {}
             
+        temp = []
+
         for f in self.filings: # for each filing/xdoc we've pulled down
-            contexts = f['soup'].find_all('context') # grab all the contexts from it's soup
-            
+            soup = f['soup']
+            refs = defaultdict(list) # dictionary for all relevant ID's in this filing. key will be the enddate, value will be list of ids(correspond to contextRef) 
+            contexts = soup.find_all('context') # grab all the contexts from it's soup
+
+
             for c in contexts: # and for each of those contexts
-                ed = c.find(re.compile(r'enddate', re.IGNORECASE)) # find it's enddate tag if it has one
-                sd = c.find(re.compile(r'startdate', re.IGNORECASE)) # find it's enddate tag if it has one
+                ed = c.find(re.compile(r'^enddate$', re.IGNORECASE)) # find it's enddate tag if it has one
+                sd = c.find(re.compile(r'^startdate$', re.IGNORECASE)) # find it's enddate tag if it has one
                 if ed is None or sd is None: 
                     print(f"enddate-{ed} or startdate-{sd} is None! Exiting")
                     continue # if it doesn't have an enddate or startdate tag, continue to the next report
@@ -103,18 +117,51 @@ class EdgarInstance:
                     print(f"Matched a report for endDate {ed}!")
                     if 'context' not in reports[ed]: # if report for this enddate doesn't exist yet, intialize it as a list
                         reports[ed]['context'] = []
-                    reports[ed]['context'].append(c) # then append the context to the reports dict for the given enddate
+                    reports[ed]['context'].append((c.attrs['id'], soup)) # then append the context to the reports dict for the given enddate(along with the rest of the soup)
+                    
+                    refs[ed].append(c.attrs['id']) # and add the contextRef to the refs dict for this enddate
 
-        return reports
-               
+            for ed, ids in refs.items():
+                for id in ids: # for each contextRef in the ids list for the current enddate
+                    for tag in soup.find_all(gaap, attrs={'contextRef': id}): # find all us-gaap tags
+                        temp.append({'name': tag.name, 'value': tag, 'enddate': ed})
 
 
+        return temp
+    
+
+    def parse_filing(self, filing):
+        year, month, day = filing['report_date'].split("-")
+        report_date = f"{month.zfill(2)}/{year}"
+
+        print(f"Report Date: {report_date} - searching for matching contexts")
+        soup = filing['soup']
+        contexts = soup.find_all('context')
+
+        ids = []
+        for c in contexts:
+            ed = c.find(re.compile(r'^enddate$', re.IGNORECASE))
+            sd = c.find(re.compile(r'^startdate$', re.IGNORECASE))
+            if ed is None or sd is None:
+                continue
+            ed = datetime.strptime(ed.text, "%Y-%m-%d").date()
+            sd = datetime.strptime(sd.text, "%Y-%m-%d").date()    
+            days = (ed - sd).days
+            if days > 105 or days < 75:
+                continue
+            
+            ed = ed.strftime("%m/%Y") 
+            if ed == report_date:
+                print(f"Found matching date({ed}) for report. Context ID: {c.attrs['id']}")
+                ids.append(c.attrs['id'])
+
+        return ids
 
 
 ######################################################################
 
 def get_cik(ticker):
-    with open("./cikmap.txt", "r") as file:
+    with open(mydir + "/cikmap.txt", "r") as file:
         cikmap = file.readlines()
         cikmap = [line.strip("\n") for line in cikmap]
 
@@ -220,3 +267,28 @@ def request_doc(url):
     """ This function is used to request xblrp docs from the sec archives. Technically it could be used to request any url though... """
     resp = requests.get(url, headers=headers)
     return resp
+
+
+
+
+
+def start():
+    sofi = EdgarInstance('sofi')
+    from api import db_helpers
+    db = db_helpers.DatabaseHelper()
+
+    def get_report_dates(ticker):
+        db.select("period_end")
+        db.where_ticker_is(ticker)
+        res = db.execute()
+        res = [re.sub(r'^(\d)/', r'0\1/', r[0]) for r in res]
+        return res
+    
+    report_dates = get_report_dates('sofi')
+    print(report_dates)
+    temp = sofi.populate_reports(report_dates)
+    return temp
+
+if __name__ == "__main__":
+    start()
+    

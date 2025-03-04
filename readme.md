@@ -19,6 +19,9 @@ Earni will be divided into a couple of subprojects:
 #### Random:
 look into harpoon
 vim
+Gamified historical financials? - present all details(financials, previous price movement, articles) for a company at a given time period, then have users guess the price change in the next week/month/year/etc. 
+Compare their answer to the ACTUAL result and to the EXPECTED result based on other companies/time-periods 
+with similar financials
 
 ### Todo:
 

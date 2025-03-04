@@ -194,4 +194,3 @@ def check_filings(filings):
 
     return f
 
-

@@ -283,6 +283,10 @@ class DatabaseHelper:
 
         return self
 
+    def where_ticker_is(self, ticker):
+        """ Adds a where clause to the query, where the ticker is equal to the given value """
+        self.options["WHERE"].append(f"er.ticker = '{ticker}'")
+        return self
 
     
 

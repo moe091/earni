@@ -1,0 +1,29 @@
+DEBUG:EDGAR:Creating EdgarInstance for 1818874-None with start date 1900-01-01
+DEBUG:EDGAR:Creating EdgarInstance for sofi-1818874 with start date 1900-01-01
+INFO:EDGAR:
+Getting filings from URL: https://data.sec.gov/submissions/CIK0001818874.json
+DEBUG:EDGAR:Requesting forms from: https://www.sec.gov/Archives/edgar/data/1818874/000181887424000233
+DEBUG:EDGAR:Requesting forms from: https://www.sec.gov/Archives/edgar/data/1818874/000181887424000175
+DEBUG:EDGAR:Requesting forms from: https://www.sec.gov/Archives/edgar/data/1818874/000181887424000121
+DEBUG:EDGAR:Requesting forms from: https://www.sec.gov/Archives/edgar/data/1818874/000181887423000173
+DEBUG:EDGAR:Requesting forms from: https://www.sec.gov/Archives/edgar/data/1818874/000181887423000144
+DEBUG:EDGAR:Requesting forms from: https://www.sec.gov/Archives/edgar/data/1818874/000181887423000095
+DEBUG:EDGAR:Requesting forms from: https://www.sec.gov/Archives/edgar/data/1818874/000181887422000241
+DEBUG:EDGAR:Requesting forms from: https://www.sec.gov/Archives/edgar/data/1818874/000181887422000185
+DEBUG:EDGAR:Requesting forms from: https://www.sec.gov/Archives/edgar/data/1818874/000181887422000071
+DEBUG:EDGAR:Requesting forms from: https://www.sec.gov/Archives/edgar/data/1818874/000181887421000081
+DEBUG:EDGAR:Requesting forms from: https://www.sec.gov/Archives/edgar/data/1818874/000181887421000037
+DEBUG:EDGAR:Creating EdgarInstance for sofi-1818874 with start date 1900-01-01
+INFO:EDGAR:
+Getting filings from URL: https://data.sec.gov/submissions/CIK0001818874.json
+DEBUG:EDGAR:Requesting forms from: https://www.sec.gov/Archives/edgar/data/1818874/000181887424000233
+DEBUG:EDGAR:Requesting forms from: https://www.sec.gov/Archives/edgar/data/1818874/000181887424000175
+DEBUG:EDGAR:Requesting forms from: https://www.sec.gov/Archives/edgar/data/1818874/000181887424000121
+DEBUG:EDGAR:Requesting forms from: https://www.sec.gov/Archives/edgar/data/1818874/000181887423000173
+DEBUG:EDGAR:Requesting forms from: https://www.sec.gov/Archives/edgar/data/1818874/000181887423000144
+DEBUG:EDGAR:Requesting forms from: https://www.sec.gov/Archives/edgar/data/1818874/000181887423000095
+DEBUG:EDGAR:Requesting forms from: https://www.sec.gov/Archives/edgar/data/1818874/000181887422000241
+DEBUG:EDGAR:Requesting forms from: https://www.sec.gov/Archives/edgar/data/1818874/000181887422000185
+DEBUG:EDGAR:Requesting forms from: https://www.sec.gov/Archives/edgar/data/1818874/000181887422000071
+DEBUG:EDGAR:Requesting forms from: https://www.sec.gov/Archives/edgar/data/1818874/000181887421000081
+DEBUG:EDGAR:Requesting forms from: https://www.sec.gov/Archives/edgar/data/1818874/000181887421000037
