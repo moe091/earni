@@ -61,7 +61,43 @@ def get_revenue_value(filing_data):
 financial_metrics = {
     # Revenue using a custom function for smart determination
     "Revenue": get_revenue_value,
-    
+
+    "Gross Profit": [
+        "GrossProfit", 
+        "GrossProfitLoss"
+    ],
+
+    #Operating Margin Percentage - decided to calculate this as Operating Income / Revenue instead of checking for field, as it is more consistent
+    #Free Cash Flow - decided to calculate this as Operating Cash Flow - Capital Expenditures instead of checking for field, as it is more consistent
+
+    "Share Repurchases": [
+        "PaymentsForRepurchaseOfCommonStock",
+        "PaymentsToRepurchaseCommonStock"
+    ],
+
+    "Capital Expenditures": [
+        "PaymentsToAcquirePropertyPlantAndEquipment",
+        "PaymentsForPropertyPlantAndEquipment",
+        "PaymentsForAcquisitionOfPropertyPlantAndEquipment",
+        "CapitalExpenditures"
+    ],
+
+    "Current Liabilities": [
+        "LiabilitiesCurrent",
+        "CurrentLiabilities"
+    ],
+
+    "Inventory": [
+        "InventoryNet",
+        "Inventory"
+    ],
+
+    "Accounts Receivable": [
+        "AccountsReceivableNetCurrent",
+        "AccountsReceivableNet",
+        "TradeAccountsReceivableNetCurrent"
+    ],
+
     # Other metrics still using prioritized lists
     "Net Income": [
         "NetIncomeLoss",
@@ -81,53 +117,50 @@ financial_metrics = {
         "CostOfGoodsSold",
         "CostOfSales"
     ],
+
+    "OperatingIncomeLoss": [
+        "OperatingIncomeLoss",  # Standard term
+        "OperatingProfitLoss",  # Alternative but equivalent
+        "OperatingEarningsLoss"  # Less common variant
+    ],
     
     "Total Assets": [
-        "Assets",  # Most common term
+        "ConsolidatedAssetsAmount", # if this exists it is the most comprehensive
         "TotalAssets",  # Explicitly indicates it's the total
-        "ConsolidatedAssetsAmount"  # Used in consolidated financial statements
+        "Assets"  # Most common term
     ],
     
     "Total Liabilities": [
-        "Liabilities",  # Most common term
+        "ConsolidatedLiabilitiesAmount",  # Most comprehensive
         "TotalLiabilities",  # Explicitly indicates it's the total
-        "ConsolidatedLiabilitiesAmount"  # Used in consolidated financial statements
+        "Liabilities"  # Most common term
     ],
     
-    "Stockholders Equity": [
-        "StockholdersEquity",  # Standard term
-        "TotalEquity",  # Alternative that may include minority interests
-        "TotalShareholdersEquity"  # Alternative phrasing
-        # Removed: "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest" as it explicitly includes minority interests
+    "Stockholders Equity": [ 
+        "TotalShareholdersEquity", 
+        "StockholdersEquity",
+        "TotalEquity"  
     ],
     
     "Long Term Debt": [
         "LongTermDebt",  # Standard term for long-term debt only
         "LongTermBorrowings"  # Alternative term for long-term debt
-        # Removed: "LongTermDebtAndCapitalLeaseObligations" - includes lease obligations which may not be debt
-        # Removed: "DebtLongtermAndShorttermCombinedAmount" - includes short-term debt
     ],
     
     "Cash and Cash Equivalents": [
         "CashAndCashEquivalents",  # Standard term
         "CashAndCashEquivalentsAtCarryingValue"  # Same but specifies carrying value
-        # Removed: "CashAndDueFromBanks" - banking-specific and might not include all cash equivalents
-        # Removed: "CashCashEquivalentsAndShortTermInvestments" - includes short-term investments which are not cash equivalents
     ],
     
     "Goodwill": [
         "Goodwill",  # Clean, direct measure of goodwill
         "GoodwillGross"  # Before any impairments
-        # Removed: "GoodwillAndIntangibleAssetsNet" - includes other intangible assets
     ],
     
     # Banking and Financial Specific Metrics
     "Deposits": [
         "Deposits",  # Most general term for total deposits
-        "DepositLiabilities",  # Alternative term for total deposits
-        "CustomerDeposits"  # Similar but focuses on customer origin
-        # Removed: "DemandDepositAccounts" - specific deposit type, not total
-        # Removed: "TimeDeposits" - specific deposit type, not total
+        "DepositLiabilities"  # Alternative term for total deposits
     ],
     
     "Loans Held for Sale": [
@@ -139,8 +172,6 @@ financial_metrics = {
     "Net Loans": [
         "LoansReceivableNet",  # Most direct and common term
         "FinancingReceivableNet",  # Alternative terminology
-        "FinancingReceivableExcludingAccruedInterestAfterAllowanceForCreditLoss"  # More specific version
-        # Removed: "NetLoansFifth" - appears to be a specific category or segment
     ],
     
     "Loan Loss Reserves": [
@@ -153,36 +184,28 @@ financial_metrics = {
     "CET1 Capital Ratio": [
         "CommonEquityTierOneCapitalRatio",  # Full official term
         "CET1CapitalRatio"  # Common abbreviation
-        # Removed: "CoreCapitalRatio" - may refer to a different regulatory concept
-        # Removed: "CapitalAdequacyRatio" - broader concept that includes other capital types
     ],
     
     "Non-Interest Income": [
         "NoninterestIncome",  # Standard banking term
         "NonInterestRevenue"  # Alternative phrasing
-        # Removed: "FeeAndCommissionIncome" - component of non-interest income but not comprehensive
-        # Removed: "OtherOperatingIncome" - may include items outside non-interest income
     ],
     
     # Operational Expenses
     "R&D Expense": [
         "ResearchAndDevelopmentExpense",  # Most specific and accurate
         "ResearchAndDevelopment"  # Slightly less specific but common
-        # Removed: "TechnologyAndDevelopmentExpense" - may include broader tech costs beyond R&D
     ],
     
     "G&A Expense": [
         "GeneralAndAdministrativeExpense",  # Standard term
         "GeneralAndAdministrative"  # Alternate form without "Expense"
-        # Removed: "OperatingAndAdministrativeExpense" - may include broader operating costs
     ],
     
     "Sales & Marketing Expense": [
         "SellingAndMarketingExpense",  # Most comprehensive
         "MarketingExpense",  # Component but major
         "SellingExpense"  # Component but major
-        # Removed: "SellingGeneralAndAdministrativeExpense" - includes G&A, which we track separately
-        # Removed: "AdvertisingExpense" - specific subset of marketing expenses
     ],
     
     # Cash Flow Metrics

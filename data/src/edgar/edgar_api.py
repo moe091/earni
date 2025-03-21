@@ -73,6 +73,7 @@ logger.addHandler(error_handler)
     Assets (us-gaap:Assets)
     Liabilities (us-gaap:Liabilities)
     StockholdersEquity (us-gaap:StockholdersEquity)
+    Deposits (us-gaap:Deposits)
 """
 class EdgarInstance:
     def __init__(self, ticker, start_date='1900-01-01'):

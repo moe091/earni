@@ -4276,3 +4276,314 @@ Getting filings from URL: https://data.sec.gov/submissions/CIK0001370637.json
 [EDGAR :: DEBUG] Used function to determine Revenue value: 65585000000
 [EDGAR :: DEBUG] Processing report date: 12/2024
 [EDGAR :: DEBUG] Used function to determine Revenue value: 69632000000
+[EDGAR :: INFO] Creating EdgarInstance for msft with start date 2015-03-24
+[EDGAR :: INFO] Found CIK: 0000789019
+[EDGAR :: INFO] Fetching filings from: https://data.sec.gov/submissions/CIK0000789019.json
+[EDGAR :: DEBUG] Fetching additional filings from: https://data.sec.gov/submissions/CIK0000789019-submissions-001.json
+[EDGAR :: INFO] Fetched 40 10-K and 10-Q filings
+[EDGAR :: INFO] Processing 10-Q filing for 03/2015
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000119312515144151
+[EDGAR :: INFO] Processing 10-K filing for 06/2015
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000119312515272806
+[EDGAR :: INFO] Processing 10-Q filing for 09/2015
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000119312515350718
+[EDGAR :: INFO] Processing 10-Q filing for 12/2015
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000119312516441821
+[EDGAR :: INFO] Processing 10-Q filing for 03/2016
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000119312516550254
+[EDGAR :: INFO] Processing 10-K filing for 06/2016
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000119312516662209
+[EDGAR :: INFO] Processing 10-Q filing for 09/2016
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000119312516742796
+[EDGAR :: INFO] Processing 10-Q filing for 12/2016
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459017000654
+[EDGAR :: INFO] Processing 10-Q filing for 03/2017
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459017007547
+[EDGAR :: INFO] Processing 10-K filing for 06/2017
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459017014900
+[EDGAR :: INFO] Processing 10-Q filing for 09/2017
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459017020171
+[EDGAR :: INFO] Processing 10-Q filing for 12/2017
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459018001129
+[EDGAR :: INFO] Processing 10-Q filing for 03/2018
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459018009307
+[EDGAR :: INFO] Processing 10-K filing for 06/2018
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459018019062
+[EDGAR :: INFO] Processing 10-Q filing for 09/2018
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459018024893
+[EDGAR :: INFO] Processing 10-Q filing for 12/2018
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459019001392
+[EDGAR :: INFO] Processing 10-Q filing for 03/2019
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459019012709
+[EDGAR :: INFO] Processing 10-K filing for 06/2019
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459019027952
+[EDGAR :: INFO] Processing 10-Q filing for 09/2019
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459019037549
+[EDGAR :: INFO] Processing 10-Q filing for 12/2019
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459020002450
+[EDGAR :: INFO] Processing 10-Q filing for 03/2020
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459020019706
+[EDGAR :: INFO] Processing 10-K filing for 06/2020
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459020034944
+[EDGAR :: INFO] Processing 10-Q filing for 09/2020
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459020047996
+[EDGAR :: INFO] Processing 10-Q filing for 12/2020
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459021002316
+[EDGAR :: INFO] Processing 10-Q filing for 03/2021
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459021020891
+[EDGAR :: INFO] Processing 10-K filing for 06/2021
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459021039151
+[EDGAR :: INFO] Processing 10-Q filing for 09/2021
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459021051992
+[EDGAR :: INFO] Processing 10-Q filing for 12/2021
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459022002324
+[EDGAR :: INFO] Processing 10-Q filing for 03/2022
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459022015675
+[EDGAR :: INFO] Processing 10-K filing for 06/2022
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459022026876
+[EDGAR :: INFO] Processing 10-Q filing for 09/2022
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459022035087
+[EDGAR :: INFO] Processing 10-Q filing for 12/2022
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000156459023000733
+[EDGAR :: INFO] Processing 10-Q filing for 03/2023
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000095017023014423
+[EDGAR :: INFO] Processing 10-K filing for 06/2023
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000095017023035122
+[EDGAR :: INFO] Processing 10-Q filing for 09/2023
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000095017023054855
+[EDGAR :: INFO] Processing 10-Q filing for 12/2023
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000095017024008814
+[EDGAR :: INFO] Processing 10-Q filing for 03/2024
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000095017024048288
+[EDGAR :: INFO] Processing 10-K filing for 06/2024
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000095017024087843
+[EDGAR :: INFO] Processing 10-Q filing for 09/2024
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000095017024118967
+[EDGAR :: INFO] Processing 10-Q filing for 12/2024
+[EDGAR :: DEBUG] Requesting archive page: https://www.sec.gov/Archives/edgar/data/0000789019/000095017025010491
+[EDGAR :: INFO] Populating schema with 26 financial metrics
+[EDGAR :: DEBUG] Processing report date: 03/2015
+[EDGAR :: DEBUG] Used function to determine Revenue value: 21729000000
+[EDGAR :: DEBUG] Processing report date: 06/2015
+[EDGAR :: DEBUG] Used function to determine Revenue value: 93580000000
+[EDGAR :: DEBUG] Processing report date: 09/2015
+[EDGAR :: DEBUG] Used function to determine Revenue value: 20379000000
+[EDGAR :: DEBUG] Processing report date: 12/2015
+[EDGAR :: DEBUG] Used function to determine Revenue value: 23796000000
+[EDGAR :: DEBUG] Processing report date: 03/2016
+[EDGAR :: DEBUG] Used function to determine Revenue value: 20531000000
+[EDGAR :: DEBUG] Processing report date: 06/2016
+[EDGAR :: DEBUG] Used function to determine Revenue value: 85320000000
+[EDGAR :: INFO] Multiple matches found for COGS in report date 06/2016:
+[EDGAR :: INFO]   Field: CostOfRevenue, Value: 32780000000, Priority: 0
+[EDGAR :: INFO]   Field: CostOfGoodsSold, Value: 17880000000, Priority: 2
+[EDGAR :: INFO] Selected CostOfRevenue with value 32780000000 for COGS
+[EDGAR :: DEBUG] Processing report date: 09/2016
+[EDGAR :: DEBUG] Used function to determine Revenue value: 20453000000
+[EDGAR :: INFO] Multiple matches found for COGS in report date 09/2016:
+[EDGAR :: INFO]   Field: CostOfRevenue, Value: 7844000000, Priority: 0
+[EDGAR :: INFO]   Field: CostOfGoodsSold, Value: 3581000000, Priority: 2
+[EDGAR :: INFO] Selected CostOfRevenue with value 7844000000 for COGS
+[EDGAR :: DEBUG] Processing report date: 12/2016
+[EDGAR :: DEBUG] Used function to determine Revenue value: 24090000000
+[EDGAR :: INFO] Multiple matches found for COGS in report date 12/2016:
+[EDGAR :: INFO]   Field: CostOfRevenue, Value: 9901000000, Priority: 0
+[EDGAR :: INFO]   Field: CostOfGoodsSold, Value: 5378000000, Priority: 2
+[EDGAR :: INFO] Selected CostOfRevenue with value 9901000000 for COGS
+[EDGAR :: DEBUG] Processing report date: 03/2017
+[EDGAR :: DEBUG] Used function to determine Revenue value: 22090000000
+[EDGAR :: INFO] Multiple matches found for COGS in report date 03/2017:
+[EDGAR :: INFO]   Field: CostOfRevenue, Value: 8060000000, Priority: 0
+[EDGAR :: INFO]   Field: CostOfGoodsSold, Value: 3075000000, Priority: 2
+[EDGAR :: INFO] Selected CostOfRevenue with value 8060000000 for COGS
+[EDGAR :: DEBUG] Processing report date: 06/2017
+[EDGAR :: DEBUG] Used function to determine Revenue value: 89950000000
+[EDGAR :: INFO] Multiple matches found for COGS in report date 06/2017:
+[EDGAR :: INFO]   Field: CostOfRevenue, Value: 34261000000, Priority: 0
+[EDGAR :: INFO]   Field: CostOfGoodsSold, Value: 15175000000, Priority: 2
+[EDGAR :: INFO] Selected CostOfRevenue with value 34261000000 for COGS
+[EDGAR :: DEBUG] Processing report date: 09/2017
+[EDGAR :: DEBUG] Used function to determine Revenue value: 24538000000
+[EDGAR :: INFO] Multiple matches found for COGS in report date 09/2017:
+[EDGAR :: INFO]   Field: CostOfRevenue, Value: 8278000000, Priority: 0
+[EDGAR :: INFO]   Field: CostOfGoodsSold, Value: 2980000000, Priority: 2
+[EDGAR :: INFO] Selected CostOfRevenue with value 8278000000 for COGS
+[EDGAR :: DEBUG] Processing report date: 12/2017
+[EDGAR :: DEBUG] Used function to determine Revenue value: 28918000000
+[EDGAR :: INFO] Multiple matches found for COGS in report date 12/2017:
+[EDGAR :: INFO]   Field: CostOfRevenue, Value: 11064000000, Priority: 0
+[EDGAR :: INFO]   Field: CostOfGoodsSold, Value: 5498000000, Priority: 2
+[EDGAR :: INFO] Selected CostOfRevenue with value 11064000000 for COGS
+[EDGAR :: DEBUG] Processing report date: 03/2018
+[EDGAR :: DEBUG] Used function to determine Revenue value: 26819000000
+[EDGAR :: INFO] Multiple matches found for COGS in report date 03/2018:
+[EDGAR :: INFO]   Field: CostOfRevenue, Value: 9269000000, Priority: 0
+[EDGAR :: INFO]   Field: CostOfGoodsSold, Value: 3425000000, Priority: 2
+[EDGAR :: INFO] Selected CostOfRevenue with value 9269000000 for COGS
+[EDGAR :: DEBUG] Processing report date: 06/2018
+[EDGAR :: DEBUG] Used function to determine Revenue value: 110360000000
+[EDGAR :: DEBUG] Processing report date: 09/2018
+[EDGAR :: DEBUG] Used function to determine Revenue value: 29084000000
+[EDGAR :: DEBUG] Processing report date: 12/2018
+[EDGAR :: DEBUG] Used function to determine Revenue value: 32471000000
+[EDGAR :: DEBUG] Processing report date: 03/2019
+[EDGAR :: DEBUG] Used function to determine Revenue value: 30571000000
+[EDGAR :: DEBUG] Processing report date: 06/2019
+[EDGAR :: DEBUG] Used function to determine Revenue value: 125843000000
+[EDGAR :: DEBUG] Processing report date: 09/2019
+[EDGAR :: DEBUG] Used function to determine Revenue value: 33055000000
+[EDGAR :: DEBUG] Processing report date: 12/2019
+[EDGAR :: DEBUG] Used function to determine Revenue value: 36906000000
+[EDGAR :: DEBUG] Processing report date: 03/2020
+[EDGAR :: DEBUG] Used function to determine Revenue value: 35021000000
+[EDGAR :: DEBUG] Processing report date: 06/2020
+[EDGAR :: DEBUG] Used function to determine Revenue value: 143015000000
+[EDGAR :: DEBUG] Processing report date: 09/2020
+[EDGAR :: DEBUG] Used function to determine Revenue value: 37154000000
+[EDGAR :: DEBUG] Processing report date: 12/2020
+[EDGAR :: DEBUG] Used function to determine Revenue value: 43076000000
+[EDGAR :: DEBUG] Processing report date: 03/2021
+[EDGAR :: DEBUG] Used function to determine Revenue value: 41706000000
+[EDGAR :: DEBUG] Processing report date: 06/2021
+[EDGAR :: DEBUG] Used function to determine Revenue value: 168088000000
+[EDGAR :: DEBUG] Processing report date: 09/2021
+[EDGAR :: DEBUG] Used function to determine Revenue value: 45317000000
+[EDGAR :: DEBUG] Processing report date: 12/2021
+[EDGAR :: DEBUG] Used function to determine Revenue value: 51728000000
+[EDGAR :: DEBUG] Processing report date: 03/2022
+[EDGAR :: DEBUG] Used function to determine Revenue value: 49360000000
+[EDGAR :: DEBUG] Processing report date: 06/2022
+[EDGAR :: DEBUG] Used function to determine Revenue value: 198270000000
+[EDGAR :: DEBUG] Processing report date: 09/2022
+[EDGAR :: DEBUG] Used function to determine Revenue value: 50122000000
+[EDGAR :: DEBUG] Processing report date: 12/2022
+[EDGAR :: DEBUG] Used function to determine Revenue value: 52747000000
+[EDGAR :: DEBUG] Processing report date: 03/2023
+[EDGAR :: DEBUG] Used function to determine Revenue value: 52857000000
+[EDGAR :: DEBUG] Processing report date: 06/2023
+[EDGAR :: DEBUG] Used function to determine Revenue value: 211915000000
+[EDGAR :: DEBUG] Processing report date: 09/2023
+[EDGAR :: DEBUG] Used function to determine Revenue value: 56517000000
+[EDGAR :: DEBUG] Processing report date: 12/2023
+[EDGAR :: DEBUG] Used function to determine Revenue value: 62020000000
+[EDGAR :: DEBUG] Processing report date: 03/2024
+[EDGAR :: DEBUG] Used function to determine Revenue value: 61858000000
+[EDGAR :: DEBUG] Processing report date: 06/2024
+[EDGAR :: DEBUG] Used function to determine Revenue value: 245122000000
+[EDGAR :: DEBUG] Processing report date: 09/2024
+[EDGAR :: DEBUG] Used function to determine Revenue value: 65585000000
+[EDGAR :: DEBUG] Processing report date: 12/2024
+[EDGAR :: DEBUG] Used function to determine Revenue value: 69632000000
+[EDGAR :: INFO] Populating schema with 26 financial metrics
+[EDGAR :: DEBUG] Processing report date: 03/2015
+[EDGAR :: DEBUG] Used function to determine Revenue value: 21729000000
+[EDGAR :: DEBUG] Processing report date: 06/2015
+[EDGAR :: DEBUG] Used function to determine Revenue value: 93580000000
+[EDGAR :: DEBUG] Processing report date: 09/2015
+[EDGAR :: DEBUG] Used function to determine Revenue value: 20379000000
+[EDGAR :: DEBUG] Processing report date: 12/2015
+[EDGAR :: DEBUG] Used function to determine Revenue value: 23796000000
+[EDGAR :: DEBUG] Processing report date: 03/2016
+[EDGAR :: DEBUG] Used function to determine Revenue value: 20531000000
+[EDGAR :: DEBUG] Processing report date: 06/2016
+[EDGAR :: DEBUG] Used function to determine Revenue value: 85320000000
+[EDGAR :: INFO] Multiple matches found for COGS in report date 06/2016:
+[EDGAR :: INFO]   Field: CostOfRevenue, Value: 32780000000, Priority: 0
+[EDGAR :: INFO]   Field: CostOfGoodsSold, Value: 17880000000, Priority: 2
+[EDGAR :: INFO] Selected CostOfRevenue with value 32780000000 for COGS
+[EDGAR :: DEBUG] Processing report date: 09/2016
+[EDGAR :: DEBUG] Used function to determine Revenue value: 20453000000
+[EDGAR :: INFO] Multiple matches found for COGS in report date 09/2016:
+[EDGAR :: INFO]   Field: CostOfRevenue, Value: 7844000000, Priority: 0
+[EDGAR :: INFO]   Field: CostOfGoodsSold, Value: 3581000000, Priority: 2
+[EDGAR :: INFO] Selected CostOfRevenue with value 7844000000 for COGS
+[EDGAR :: DEBUG] Processing report date: 12/2016
+[EDGAR :: DEBUG] Used function to determine Revenue value: 24090000000
+[EDGAR :: INFO] Multiple matches found for COGS in report date 12/2016:
+[EDGAR :: INFO]   Field: CostOfRevenue, Value: 9901000000, Priority: 0
+[EDGAR :: INFO]   Field: CostOfGoodsSold, Value: 5378000000, Priority: 2
+[EDGAR :: INFO] Selected CostOfRevenue with value 9901000000 for COGS
+[EDGAR :: DEBUG] Processing report date: 03/2017
+[EDGAR :: DEBUG] Used function to determine Revenue value: 22090000000
+[EDGAR :: INFO] Multiple matches found for COGS in report date 03/2017:
+[EDGAR :: INFO]   Field: CostOfRevenue, Value: 8060000000, Priority: 0
+[EDGAR :: INFO]   Field: CostOfGoodsSold, Value: 3075000000, Priority: 2
+[EDGAR :: INFO] Selected CostOfRevenue with value 8060000000 for COGS
+[EDGAR :: DEBUG] Processing report date: 06/2017
+[EDGAR :: DEBUG] Used function to determine Revenue value: 89950000000
+[EDGAR :: INFO] Multiple matches found for COGS in report date 06/2017:
+[EDGAR :: INFO]   Field: CostOfRevenue, Value: 34261000000, Priority: 0
+[EDGAR :: INFO]   Field: CostOfGoodsSold, Value: 15175000000, Priority: 2
+[EDGAR :: INFO] Selected CostOfRevenue with value 34261000000 for COGS
+[EDGAR :: DEBUG] Processing report date: 09/2017
+[EDGAR :: DEBUG] Used function to determine Revenue value: 24538000000
+[EDGAR :: INFO] Multiple matches found for COGS in report date 09/2017:
+[EDGAR :: INFO]   Field: CostOfRevenue, Value: 8278000000, Priority: 0
+[EDGAR :: INFO]   Field: CostOfGoodsSold, Value: 2980000000, Priority: 2
+[EDGAR :: INFO] Selected CostOfRevenue with value 8278000000 for COGS
+[EDGAR :: DEBUG] Processing report date: 12/2017
+[EDGAR :: DEBUG] Used function to determine Revenue value: 28918000000
+[EDGAR :: INFO] Multiple matches found for COGS in report date 12/2017:
+[EDGAR :: INFO]   Field: CostOfRevenue, Value: 11064000000, Priority: 0
+[EDGAR :: INFO]   Field: CostOfGoodsSold, Value: 5498000000, Priority: 2
+[EDGAR :: INFO] Selected CostOfRevenue with value 11064000000 for COGS
+[EDGAR :: DEBUG] Processing report date: 03/2018
+[EDGAR :: DEBUG] Used function to determine Revenue value: 26819000000
+[EDGAR :: INFO] Multiple matches found for COGS in report date 03/2018:
+[EDGAR :: INFO]   Field: CostOfRevenue, Value: 9269000000, Priority: 0
+[EDGAR :: INFO]   Field: CostOfGoodsSold, Value: 3425000000, Priority: 2
+[EDGAR :: INFO] Selected CostOfRevenue with value 9269000000 for COGS
+[EDGAR :: DEBUG] Processing report date: 06/2018
+[EDGAR :: DEBUG] Used function to determine Revenue value: 110360000000
+[EDGAR :: DEBUG] Processing report date: 09/2018
+[EDGAR :: DEBUG] Used function to determine Revenue value: 29084000000
+[EDGAR :: DEBUG] Processing report date: 12/2018
+[EDGAR :: DEBUG] Used function to determine Revenue value: 32471000000
+[EDGAR :: DEBUG] Processing report date: 03/2019
+[EDGAR :: DEBUG] Used function to determine Revenue value: 30571000000
+[EDGAR :: DEBUG] Processing report date: 06/2019
+[EDGAR :: DEBUG] Used function to determine Revenue value: 125843000000
+[EDGAR :: DEBUG] Processing report date: 09/2019
+[EDGAR :: DEBUG] Used function to determine Revenue value: 33055000000
+[EDGAR :: DEBUG] Processing report date: 12/2019
+[EDGAR :: DEBUG] Used function to determine Revenue value: 36906000000
+[EDGAR :: DEBUG] Processing report date: 03/2020
+[EDGAR :: DEBUG] Used function to determine Revenue value: 35021000000
+[EDGAR :: DEBUG] Processing report date: 06/2020
+[EDGAR :: DEBUG] Used function to determine Revenue value: 143015000000
+[EDGAR :: DEBUG] Processing report date: 09/2020
+[EDGAR :: DEBUG] Used function to determine Revenue value: 37154000000
+[EDGAR :: DEBUG] Processing report date: 12/2020
+[EDGAR :: DEBUG] Used function to determine Revenue value: 43076000000
+[EDGAR :: DEBUG] Processing report date: 03/2021
+[EDGAR :: DEBUG] Used function to determine Revenue value: 41706000000
+[EDGAR :: DEBUG] Processing report date: 06/2021
+[EDGAR :: DEBUG] Used function to determine Revenue value: 168088000000
+[EDGAR :: DEBUG] Processing report date: 09/2021
+[EDGAR :: DEBUG] Used function to determine Revenue value: 45317000000
+[EDGAR :: DEBUG] Processing report date: 12/2021
+[EDGAR :: DEBUG] Used function to determine Revenue value: 51728000000
+[EDGAR :: DEBUG] Processing report date: 03/2022
+[EDGAR :: DEBUG] Used function to determine Revenue value: 49360000000
+[EDGAR :: DEBUG] Processing report date: 06/2022
+[EDGAR :: DEBUG] Used function to determine Revenue value: 198270000000
+[EDGAR :: DEBUG] Processing report date: 09/2022
+[EDGAR :: DEBUG] Used function to determine Revenue value: 50122000000
+[EDGAR :: DEBUG] Processing report date: 12/2022
+[EDGAR :: DEBUG] Used function to determine Revenue value: 52747000000
+[EDGAR :: DEBUG] Processing report date: 03/2023
+[EDGAR :: DEBUG] Used function to determine Revenue value: 52857000000
+[EDGAR :: DEBUG] Processing report date: 06/2023
+[EDGAR :: DEBUG] Used function to determine Revenue value: 211915000000
+[EDGAR :: DEBUG] Processing report date: 09/2023
+[EDGAR :: DEBUG] Used function to determine Revenue value: 56517000000
+[EDGAR :: DEBUG] Processing report date: 12/2023
+[EDGAR :: DEBUG] Used function to determine Revenue value: 62020000000
+[EDGAR :: DEBUG] Processing report date: 03/2024
+[EDGAR :: DEBUG] Used function to determine Revenue value: 61858000000
+[EDGAR :: DEBUG] Processing report date: 06/2024
+[EDGAR :: DEBUG] Used function to determine Revenue value: 245122000000
+[EDGAR :: DEBUG] Processing report date: 09/2024
+[EDGAR :: DEBUG] Used function to determine Revenue value: 65585000000
+[EDGAR :: DEBUG] Processing report date: 12/2024
+[EDGAR :: DEBUG] Used function to determine Revenue value: 69632000000
