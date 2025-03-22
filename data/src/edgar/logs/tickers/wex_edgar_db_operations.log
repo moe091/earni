@@ -1,0 +1,83 @@
+[2025-03-22 13:19:30,370] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 13:19:30,385] WARNING: wex (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 13:19:30,385] INFO: wex (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 13:19:30,407] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 13:19:30,424] WARNING: wex (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 13:19:30,424] INFO: wex (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 13:19:30,443] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 13:19:30,457] WARNING: wex (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 13:19:30,458] INFO: wex (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 13:19:30,477] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 13:19:30,491] WARNING: wex (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 13:19:30,492] INFO: wex (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 13:19:30,510] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 13:19:30,524] WARNING: wex (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 13:19:30,524] INFO: wex (6/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 13:19:30,540] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 13:19:30,554] WARNING: wex (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 13:19:30,555] INFO: wex (9/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 13:19:30,574] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 13:19:30,588] WARNING: wex (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 13:19:30,589] INFO: wex (12/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 13:19:30,605] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 13:19:30,620] WARNING: wex (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 13:19:30,621] INFO: wex (3/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 13:19:30,637] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 13:19:30,652] WARNING: wex (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 13:19:30,652] INFO: wex (6/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 13:19:30,682] INFO: wex (9/2012): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:19:30,712] INFO: wex (12/2012): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:19:30,742] INFO: wex (3/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:19:30,771] INFO: wex (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 13:19:30,802] INFO: wex (9/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:19:30,833] INFO: wex (12/2013): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:19:30,864] INFO: wex (3/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:19:30,894] INFO: wex (6/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:19:30,924] INFO: wex (9/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:19:30,955] INFO: wex (12/2014): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:19:30,985] INFO: wex (3/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:19:31,014] INFO: wex (6/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:19:31,043] INFO: wex (9/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:19:31,074] INFO: wex (12/2015): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:19:31,091] WARNING: wex (3/2016): Found zero values for fields: Share Repurchases
+[2025-03-22 13:19:31,105] INFO: wex (3/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:19:31,135] INFO: wex (6/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:19:31,164] INFO: wex (9/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:19:31,181] WARNING: wex (12/2016): Found zero values for fields: Share Repurchases
+[2025-03-22 13:19:31,196] INFO: wex (12/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:19:31,225] INFO: wex (3/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:19:31,255] INFO: wex (6/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:19:31,285] INFO: wex (9/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:19:31,303] WARNING: wex (12/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 13:19:31,317] INFO: wex (12/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:19:31,347] INFO: wex (3/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:19:31,377] INFO: wex (6/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:19:31,407] INFO: wex (9/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:19:31,437] INFO: wex (12/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:19:31,467] INFO: wex (3/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:19:31,497] INFO: wex (6/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:19:31,526] INFO: wex (9/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:19:31,556] INFO: wex (12/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:19:31,586] INFO: wex (3/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:19:31,619] INFO: wex (6/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:19:31,649] INFO: wex (9/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:19:31,679] INFO: wex (12/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:19:31,709] INFO: wex (3/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:19:31,740] INFO: wex (6/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:19:31,770] INFO: wex (9/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:19:31,788] WARNING: wex (12/2021): Found zero values for fields: EPS Diluted
+[2025-03-22 13:19:31,802] INFO: wex (12/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:19:31,834] INFO: wex (3/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:19:31,864] INFO: wex (6/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:19:31,894] INFO: wex (9/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:19:31,924] INFO: wex (12/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:19:31,955] INFO: wex (3/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:19:31,986] INFO: wex (6/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:19:32,016] INFO: wex (9/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:19:32,046] INFO: wex (12/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:19:32,076] INFO: wex (3/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:19:32,106] INFO: wex (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:19:32,136] INFO: wex (9/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:19:32,152] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 13:19:32,167] WARNING: wex (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 13:19:32,168] INFO: wex (12/2024): Created new record with 22 non-zero financial metrics

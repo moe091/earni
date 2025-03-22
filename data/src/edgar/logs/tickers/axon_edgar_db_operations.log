@@ -1,0 +1,112 @@
+[2025-03-22 11:34:23,819] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 11:34:23,832] WARNING: axon (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 11:34:23,832] INFO: axon (6/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 11:34:23,848] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 11:34:23,862] WARNING: axon (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 11:34:23,863] INFO: axon (9/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 11:34:23,879] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 11:34:23,893] WARNING: axon (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 11:34:23,893] INFO: axon (12/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 11:34:23,909] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 11:34:23,923] WARNING: axon (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 11:34:23,923] INFO: axon (3/2012): Created new record with 17 non-zero financial metrics
+[2025-03-22 11:34:23,938] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 11:34:23,953] WARNING: axon (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 11:34:23,953] INFO: axon (6/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 11:34:23,969] INFO: Trying adjusted date: 10/2012 (original: 9/2012)
+[2025-03-22 11:34:23,982] WARNING: axon (9/2012): No existing record found(9/2012, 2012-09-30) - creating new one
+[2025-03-22 11:34:23,983] INFO: axon (9/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 11:34:23,998] INFO: Trying adjusted date: 1/2013 (original: 12/2012)
+[2025-03-22 11:34:24,011] WARNING: axon (12/2012): No existing record found(12/2012, 2012-12-31) - creating new one
+[2025-03-22 11:34:24,012] INFO: axon (12/2012): Created new record with 19 non-zero financial metrics
+[2025-03-22 11:34:24,029] INFO: Trying adjusted date: 4/2013 (original: 3/2013)
+[2025-03-22 11:34:24,043] WARNING: axon (3/2013): No existing record found(3/2013, 2013-03-31) - creating new one
+[2025-03-22 11:34:24,044] INFO: axon (3/2013): Created new record with 19 non-zero financial metrics
+[2025-03-22 11:34:24,060] INFO: Trying adjusted date: 7/2013 (original: 6/2013)
+[2025-03-22 11:34:24,074] WARNING: axon (6/2013): No existing record found(6/2013, 2013-06-30) - creating new one
+[2025-03-22 11:34:24,075] INFO: axon (6/2013): Created new record with 0 non-zero financial metrics
+[2025-03-22 11:34:24,093] INFO: Trying adjusted date: 10/2013 (original: 9/2013)
+[2025-03-22 11:34:24,108] WARNING: axon (9/2013): No existing record found(9/2013, 2013-09-30) - creating new one
+[2025-03-22 11:34:24,109] INFO: axon (9/2013): Created new record with 14 non-zero financial metrics
+[2025-03-22 11:34:24,124] INFO: Trying adjusted date: 1/2014 (original: 12/2013)
+[2025-03-22 11:34:24,141] WARNING: axon (12/2013): No existing record found(12/2013, 2013-12-31) - creating new one
+[2025-03-22 11:34:24,141] INFO: axon (12/2013): Created new record with 21 non-zero financial metrics
+[2025-03-22 11:34:24,157] INFO: Trying adjusted date: 4/2014 (original: 3/2014)
+[2025-03-22 11:34:24,171] ERROR: Invalid numeric value for Share Repurchases: 
+[2025-03-22 11:34:24,171] ERROR: axon (3/2014): Invalid data types: Share Repurchases=
+[2025-03-22 11:34:24,171] WARNING: axon (3/2014): No existing record found(3/2014, 2014-03-31) - creating new one
+[2025-03-22 11:34:24,172] INFO: axon (3/2014): Created new record with 17 non-zero financial metrics
+[2025-03-22 11:34:24,188] INFO: Trying adjusted date: 7/2014 (original: 6/2014)
+[2025-03-22 11:34:24,202] WARNING: axon (6/2014): No existing record found(6/2014, 2014-06-30) - creating new one
+[2025-03-22 11:34:24,202] INFO: axon (6/2014): Created new record with 17 non-zero financial metrics
+[2025-03-22 11:34:24,219] INFO: Trying adjusted date: 10/2014 (original: 9/2014)
+[2025-03-22 11:34:24,232] WARNING: axon (9/2014): No existing record found(9/2014, 2014-09-30) - creating new one
+[2025-03-22 11:34:24,233] INFO: axon (9/2014): Created new record with 17 non-zero financial metrics
+[2025-03-22 11:34:24,248] INFO: Trying adjusted date: 1/2015 (original: 12/2014)
+[2025-03-22 11:34:24,261] WARNING: axon (12/2014): No existing record found(12/2014, 2014-12-31) - creating new one
+[2025-03-22 11:34:24,262] INFO: axon (12/2014): Created new record with 21 non-zero financial metrics
+[2025-03-22 11:34:24,277] INFO: Trying adjusted date: 4/2015 (original: 3/2015)
+[2025-03-22 11:34:24,292] WARNING: axon (3/2015): No existing record found(3/2015, 2015-03-31) - creating new one
+[2025-03-22 11:34:24,292] INFO: axon (3/2015): Created new record with 20 non-zero financial metrics
+[2025-03-22 11:34:24,308] INFO: Trying adjusted date: 7/2015 (original: 6/2015)
+[2025-03-22 11:34:24,322] WARNING: axon (6/2015): No existing record found(6/2015, 2015-06-30) - creating new one
+[2025-03-22 11:34:24,323] INFO: axon (6/2015): Created new record with 16 non-zero financial metrics
+[2025-03-22 11:34:24,354] INFO: axon (9/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:34:24,384] INFO: axon (12/2015): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 11:34:24,415] INFO: axon (3/2016): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 11:34:24,444] INFO: axon (6/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:34:24,473] INFO: axon (9/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:34:24,502] INFO: axon (12/2016): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 11:34:24,520] WARNING: axon (3/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 11:34:24,535] INFO: axon (3/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:34:24,564] INFO: axon (6/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:34:24,598] INFO: axon (9/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:34:24,614] WARNING: axon (12/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 11:34:24,628] INFO: axon (12/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:34:24,657] INFO: axon (3/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 11:34:24,687] INFO: axon (6/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:34:24,716] INFO: axon (9/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:34:24,731] INFO: Trying adjusted date: 1/2019 (original: 12/2018)
+[2025-03-22 11:34:24,746] WARNING: axon (12/2018): Found zero values for fields: Share Repurchases
+[2025-03-22 11:34:24,746] WARNING: axon (12/2018): No existing record found(12/2018, 2018-12-31) - creating new one
+[2025-03-22 11:34:24,746] INFO: axon (12/2018): Created new record with 21 non-zero financial metrics
+[2025-03-22 11:34:24,762] INFO: Trying adjusted date: 4/2019 (original: 3/2019)
+[2025-03-22 11:34:24,776] WARNING: axon (3/2019): No existing record found(3/2019, 2019-03-31) - creating new one
+[2025-03-22 11:34:24,776] INFO: axon (3/2019): Created new record with 20 non-zero financial metrics
+[2025-03-22 11:34:24,792] INFO: Trying adjusted date: 7/2019 (original: 6/2019)
+[2025-03-22 11:34:24,807] WARNING: axon (6/2019): No existing record found(6/2019, 2019-06-30) - creating new one
+[2025-03-22 11:34:24,807] INFO: axon (6/2019): Created new record with 16 non-zero financial metrics
+[2025-03-22 11:34:24,823] INFO: Trying adjusted date: 10/2019 (original: 9/2019)
+[2025-03-22 11:34:24,838] WARNING: axon (9/2019): No existing record found(9/2019, 2019-09-30) - creating new one
+[2025-03-22 11:34:24,838] INFO: axon (9/2019): Created new record with 16 non-zero financial metrics
+[2025-03-22 11:34:24,853] INFO: Trying adjusted date: 1/2020 (original: 12/2019)
+[2025-03-22 11:34:24,867] WARNING: axon (12/2019): No existing record found(12/2019, 2019-12-31) - creating new one
+[2025-03-22 11:34:24,868] INFO: axon (12/2019): Created new record with 21 non-zero financial metrics
+[2025-03-22 11:34:24,884] INFO: Trying adjusted date: 4/2020 (original: 3/2020)
+[2025-03-22 11:34:24,897] WARNING: axon (3/2020): No existing record found(3/2020, 2020-03-31) - creating new one
+[2025-03-22 11:34:24,898] INFO: axon (3/2020): Created new record with 20 non-zero financial metrics
+[2025-03-22 11:34:24,913] INFO: Trying adjusted date: 7/2020 (original: 6/2020)
+[2025-03-22 11:34:24,927] WARNING: axon (6/2020): No existing record found(6/2020, 2020-06-30) - creating new one
+[2025-03-22 11:34:24,927] INFO: axon (6/2020): Created new record with 16 non-zero financial metrics
+[2025-03-22 11:34:24,942] INFO: Trying adjusted date: 10/2020 (original: 9/2020)
+[2025-03-22 11:34:24,957] WARNING: axon (9/2020): No existing record found(9/2020, 2020-09-30) - creating new one
+[2025-03-22 11:34:24,957] INFO: axon (9/2020): Created new record with 16 non-zero financial metrics
+[2025-03-22 11:34:24,986] INFO: axon (12/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 11:34:25,015] INFO: axon (3/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:34:25,044] INFO: axon (6/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:34:25,074] INFO: axon (9/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:34:25,103] INFO: axon (12/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 11:34:25,133] INFO: axon (3/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:34:25,160] INFO: axon (6/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:34:25,193] INFO: axon (9/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:34:25,224] INFO: axon (12/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 11:34:25,254] INFO: axon (3/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:34:25,283] INFO: axon (6/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:34:25,313] INFO: axon (9/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:34:25,342] INFO: axon (12/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 11:34:25,372] INFO: axon (3/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:34:25,403] INFO: axon (6/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:34:25,433] INFO: axon (9/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:34:25,448] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 11:34:25,462] WARNING: axon (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 11:34:25,462] INFO: axon (12/2024): Created new record with 21 non-zero financial metrics

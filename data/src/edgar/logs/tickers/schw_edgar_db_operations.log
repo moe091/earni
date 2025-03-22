@@ -1,0 +1,81 @@
+[2025-03-21 22:43:06,799] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-21 22:43:06,810] WARNING: schw (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-21 22:43:06,812] INFO: schw (3/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 22:43:06,825] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-21 22:43:06,836] WARNING: schw (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-21 22:43:06,836] INFO: schw (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 22:43:06,849] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-21 22:43:06,861] WARNING: schw (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-21 22:43:06,861] INFO: schw (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 22:43:06,874] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-21 22:43:06,886] WARNING: schw (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-21 22:43:06,886] INFO: schw (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-21 22:43:06,899] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-21 22:43:06,911] WARNING: schw (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-21 22:43:06,913] INFO: schw (6/2011): Created new record with 11 non-zero financial metrics
+[2025-03-21 22:43:06,927] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-21 22:43:06,938] WARNING: schw (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-21 22:43:06,938] INFO: schw (9/2011): Created new record with 11 non-zero financial metrics
+[2025-03-21 22:43:06,951] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-21 22:43:06,963] WARNING: schw (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-21 22:43:06,964] INFO: schw (12/2011): Created new record with 16 non-zero financial metrics
+[2025-03-21 22:43:06,977] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-21 22:43:06,988] WARNING: schw (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-21 22:43:06,988] INFO: schw (3/2012): Created new record with 15 non-zero financial metrics
+[2025-03-21 22:43:07,001] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-21 22:43:07,013] WARNING: schw (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-21 22:43:07,014] INFO: schw (6/2012): Created new record with 11 non-zero financial metrics
+[2025-03-21 22:43:07,040] INFO: schw (9/2012): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:43:07,066] INFO: schw (12/2012): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:43:07,090] INFO: schw (3/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:43:07,114] INFO: schw (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-21 22:43:07,141] INFO: schw (9/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 22:43:07,166] INFO: schw (12/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:43:07,191] INFO: schw (3/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:43:07,216] INFO: schw (6/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 22:43:07,241] INFO: schw (9/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 22:43:07,266] INFO: schw (12/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:43:07,290] INFO: schw (3/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:43:07,315] INFO: schw (6/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 22:43:07,340] INFO: schw (9/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 22:43:07,365] INFO: schw (12/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:43:07,391] INFO: schw (3/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:43:07,414] INFO: schw (6/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 22:43:07,440] INFO: schw (9/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 22:43:07,465] INFO: schw (12/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:43:07,491] INFO: schw (3/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:43:07,516] INFO: schw (6/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 22:43:07,540] INFO: schw (9/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 22:43:07,564] INFO: schw (12/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:43:07,589] INFO: schw (3/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:43:07,614] INFO: schw (6/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:43:07,640] INFO: schw (9/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:43:07,664] INFO: schw (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:43:07,689] INFO: schw (3/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:43:07,714] INFO: schw (6/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 22:43:07,742] INFO: schw (9/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 22:43:07,767] INFO: schw (12/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:43:07,792] INFO: schw (3/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:43:07,817] INFO: schw (6/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 22:43:07,842] INFO: schw (9/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 22:43:07,856] WARNING: schw (12/2020): Found zero values for fields: Share Repurchases
+[2025-03-21 22:43:07,868] INFO: schw (12/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:43:07,893] INFO: schw (3/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:43:07,917] INFO: schw (6/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:43:07,941] INFO: schw (9/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:43:07,954] WARNING: schw (12/2021): Found zero values for fields: Share Repurchases
+[2025-03-21 22:43:07,966] INFO: schw (12/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:43:07,991] INFO: schw (3/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:43:08,015] INFO: schw (6/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 22:43:08,040] INFO: schw (9/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 22:43:08,065] INFO: schw (12/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:43:08,089] INFO: schw (3/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:43:08,114] INFO: schw (6/2023): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 22:43:08,139] INFO: schw (9/2023): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 22:43:08,162] INFO: schw (12/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:43:08,177] WARNING: schw (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-21 22:43:08,189] INFO: schw (3/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:43:08,213] INFO: schw (6/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 22:43:08,239] INFO: schw (9/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 22:43:08,252] WARNING: schw (12/2024): Found zero values for fields: Share Repurchases
+[2025-03-21 22:43:08,264] INFO: schw (12/2024): Updated existing record with 14 non-zero financial metrics

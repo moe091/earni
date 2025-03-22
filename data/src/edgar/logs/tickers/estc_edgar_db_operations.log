@@ -1,0 +1,31 @@
+[2025-03-22 12:00:03,121] INFO: Trying adjusted date: 11/2018 (original: 10/2018)
+[2025-03-22 12:00:03,135] WARNING: estc (10/2018): No existing record found(10/2018, 2018-10-31) - creating new one
+[2025-03-22 12:00:03,136] INFO: estc (10/2018): Created new record with 16 non-zero financial metrics
+[2025-03-22 12:00:03,167] INFO: estc (1/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:00:03,198] INFO: estc (4/2019): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 12:00:03,228] INFO: estc (7/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:00:03,258] INFO: estc (10/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:00:03,289] INFO: estc (1/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:00:03,306] WARNING: estc (4/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 12:00:03,321] INFO: estc (4/2020): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 12:00:03,351] INFO: estc (7/2020): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 12:00:03,382] INFO: estc (10/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:00:03,414] INFO: estc (1/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:00:03,444] INFO: estc (4/2021): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 12:00:03,475] INFO: estc (7/2021): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 12:00:03,505] INFO: estc (10/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:00:03,535] INFO: estc (1/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:00:03,565] INFO: estc (4/2022): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 12:00:03,596] INFO: estc (7/2022): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 12:00:03,626] INFO: estc (10/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:00:03,658] INFO: estc (1/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:00:03,696] INFO: estc (4/2023): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 12:00:03,726] INFO: estc (7/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 12:00:03,754] INFO: estc (10/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:00:03,787] INFO: estc (1/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:00:03,817] INFO: estc (4/2024): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 12:00:03,847] INFO: estc (7/2024): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 12:00:03,876] INFO: estc (10/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:00:03,892] INFO: Trying adjusted date: 2/2025 (original: 1/2025)
+[2025-03-22 12:00:03,906] WARNING: estc (1/2025): No existing record found(1/2025, 2025-01-31) - creating new one
+[2025-03-22 12:00:03,906] INFO: estc (1/2025): Created new record with 19 non-zero financial metrics

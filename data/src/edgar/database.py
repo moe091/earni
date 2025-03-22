@@ -46,7 +46,8 @@ columns = [
     "Investing Cash Flow",
     "Interest Expense",
     "Filing Type",
-    "report_date"
+    "report_date",
+    "date"
 ]
 
 current_dir = Path(__file__).resolve().parent
@@ -210,7 +211,8 @@ def update_financial_data(ticker, report_date, original_report_date, financial_d
                 try:
                     # Convert to Decimal for numeric validation
                     decimal_value = Decimal(str(value))
-                    validated_data[field] = decimal_value
+                    if field in columns:
+                        validated_data[field] = decimal_value
                     
                     # Track non-zero fields
                     if decimal_value != 0:
@@ -223,7 +225,9 @@ def update_financial_data(ticker, report_date, original_report_date, financial_d
                     ticker_logger.error(f"Invalid numeric value for {field}: {value}")
             else:
                 # For Filing Type (string field)
-                validated_data[field] = value
+                if field == "Filing Type":
+                    validated_data[field] = value
+                
                 if not existing_row:
                     validated_data['date'] = original_report_date
         
@@ -241,8 +245,6 @@ def update_financial_data(ticker, report_date, original_report_date, financial_d
         values = []
         
         for field, value in validated_data.items():
-            if field not in columns:
-                continue
             placeholders.append(f'"{field}" = %s')
             values.append(value)
             
@@ -257,7 +259,7 @@ def update_financial_data(ticker, report_date, original_report_date, financial_d
                 cursor.execute(update_sql, values + [ticker, report_date])
                 ticker_logger.info(f"{ticker} ({report_date}): Updated existing record with {non_zero_count} non-zero financial metrics")
         else:
-            ticker_logger.error(f"{ticker} ({report_date}): No existing record found({report_date}, {original_report_date}) - creating new one")
+            ticker_logger.warning(f"{ticker} ({report_date}): No existing record found({report_date}, {original_report_date}) - creating new one")
             # Create new row
             fields = ['ticker', 'period_end'] + [f'"{field}"' for field in validated_data.keys()]
             placeholders = ['%s', '%s'] + ['%s'] * len(validated_data)

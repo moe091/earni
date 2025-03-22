@@ -1,0 +1,87 @@
+[2025-03-22 09:44:26,955] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 09:44:26,968] WARNING: crl (6/2010): No existing record found(6/2010, 2010-06-26) - creating new one
+[2025-03-22 09:44:26,969] INFO: crl (6/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 09:44:26,986] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 09:44:27,000] WARNING: crl (9/2010): No existing record found(9/2010, 2010-09-25) - creating new one
+[2025-03-22 09:44:27,001] INFO: crl (9/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 09:44:27,015] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 09:44:27,028] WARNING: crl (12/2010): No existing record found(12/2010, 2010-12-25) - creating new one
+[2025-03-22 09:44:27,029] INFO: crl (12/2010): Created new record with 15 non-zero financial metrics
+[2025-03-22 09:44:27,044] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 09:44:27,057] WARNING: crl (3/2011): No existing record found(3/2011, 2011-03-26) - creating new one
+[2025-03-22 09:44:27,058] INFO: crl (3/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 09:44:27,073] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 09:44:27,086] WARNING: crl (6/2011): No existing record found(6/2011, 2011-06-25) - creating new one
+[2025-03-22 09:44:27,087] INFO: crl (6/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 09:44:27,103] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 09:44:27,117] WARNING: crl (9/2011): No existing record found(9/2011, 2011-09-24) - creating new one
+[2025-03-22 09:44:27,117] INFO: crl (9/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 09:44:27,135] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 09:44:27,148] WARNING: crl (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 09:44:27,148] INFO: crl (12/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 09:44:27,163] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 09:44:27,177] WARNING: crl (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 09:44:27,177] INFO: crl (3/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 09:44:27,192] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 09:44:27,205] WARNING: crl (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 09:44:27,206] INFO: crl (6/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 09:44:27,234] INFO: crl (9/2012): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:44:27,265] INFO: crl (12/2012): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:44:27,294] INFO: crl (3/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:44:27,323] INFO: crl (6/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:44:27,353] INFO: crl (9/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:44:27,383] INFO: crl (12/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:44:27,412] INFO: crl (3/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:44:27,441] INFO: crl (6/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:44:27,469] INFO: crl (9/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:44:27,499] INFO: crl (12/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:44:27,527] INFO: crl (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:44:27,555] INFO: crl (6/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:44:27,582] INFO: crl (9/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:44:27,613] INFO: crl (12/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:44:27,641] INFO: crl (3/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:44:27,669] INFO: crl (6/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:44:27,698] INFO: crl (9/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:44:27,728] INFO: crl (12/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:44:27,744] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-22 09:44:27,757] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-22 09:44:27,771] INFO: crl (3/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:44:27,786] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-22 09:44:27,799] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-22 09:44:27,813] INFO: crl (6/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:44:27,841] INFO: crl (9/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:44:27,869] INFO: crl (12/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:44:27,898] INFO: crl (3/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:44:27,926] INFO: crl (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:44:27,954] INFO: crl (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:44:27,983] INFO: crl (12/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:44:28,015] INFO: crl (3/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:44:28,044] INFO: crl (6/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:44:28,072] INFO: crl (9/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:44:28,101] INFO: crl (12/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:44:28,130] INFO: crl (3/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:44:28,159] INFO: crl (6/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:44:28,187] INFO: crl (9/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:44:28,216] INFO: crl (12/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:44:28,246] INFO: crl (3/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:44:28,276] INFO: crl (6/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:44:28,305] INFO: crl (9/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:44:28,335] INFO: crl (12/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:44:28,365] INFO: crl (3/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:44:28,394] INFO: crl (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:44:28,423] INFO: crl (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:44:28,452] INFO: crl (12/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:44:28,467] INFO: Trying adjusted date: 3/2023 (original: 4/2023)
+[2025-03-22 09:44:28,480] INFO: Found existing row with adjusted date: 3/2023
+[2025-03-22 09:44:28,494] INFO: crl (3/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:44:28,509] INFO: Trying adjusted date: 6/2023 (original: 7/2023)
+[2025-03-22 09:44:28,523] INFO: Found existing row with adjusted date: 6/2023
+[2025-03-22 09:44:28,535] INFO: crl (6/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:44:28,564] INFO: crl (9/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:44:28,592] INFO: crl (12/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:44:28,620] INFO: crl (3/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:44:28,649] INFO: crl (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:44:28,677] INFO: crl (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:44:28,692] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 09:44:28,705] WARNING: crl (12/2024): No existing record found(12/2024, 2024-12-28) - creating new one
+[2025-03-22 09:44:28,705] INFO: crl (12/2024): Created new record with 17 non-zero financial metrics

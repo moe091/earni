@@ -1,0 +1,88 @@
+[2025-03-22 13:36:03,315] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 13:36:03,328] WARNING: thc (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 13:36:03,328] INFO: thc (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 13:36:03,346] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 13:36:03,359] WARNING: thc (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 13:36:03,360] INFO: thc (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 13:36:03,378] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 13:36:03,393] WARNING: thc (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 13:36:03,393] INFO: thc (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 13:36:03,409] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 13:36:03,423] WARNING: thc (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 13:36:03,424] INFO: thc (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 13:36:03,440] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 13:36:03,454] WARNING: thc (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 13:36:03,454] INFO: thc (6/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 13:36:03,470] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 13:36:03,484] WARNING: thc (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 13:36:03,485] INFO: thc (9/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 13:36:03,502] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 13:36:03,516] WARNING: thc (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 13:36:03,516] INFO: thc (12/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 13:36:03,532] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 13:36:03,547] WARNING: thc (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 13:36:03,547] INFO: thc (3/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 13:36:03,563] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 13:36:03,577] WARNING: thc (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 13:36:03,577] INFO: thc (6/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 13:36:03,606] INFO: thc (9/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:36:03,637] INFO: thc (12/2012): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:36:03,670] INFO: thc (3/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:36:03,700] INFO: thc (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 13:36:03,729] INFO: thc (9/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:36:03,759] INFO: thc (12/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:36:03,775] WARNING: thc (3/2014): Found zero values for fields: Share Repurchases
+[2025-03-22 13:36:03,789] INFO: thc (3/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:36:03,806] INFO: Trying adjusted date: 7/2014 (original: 6/2014)
+[2025-03-22 13:36:03,820] WARNING: thc (6/2014): No existing record found(6/2014, 2014-06-30) - creating new one
+[2025-03-22 13:36:03,820] INFO: thc (6/2014): Created new record with 12 non-zero financial metrics
+[2025-03-22 13:36:03,850] INFO: thc (9/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:36:03,881] INFO: thc (12/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:36:03,911] INFO: thc (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:36:03,941] INFO: thc (6/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:36:03,970] INFO: thc (9/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:36:04,002] INFO: thc (12/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:36:04,033] INFO: thc (3/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:36:04,063] INFO: thc (6/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:36:04,094] INFO: thc (9/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:36:04,124] INFO: thc (12/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:36:04,155] INFO: thc (3/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:36:04,188] INFO: thc (6/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:36:04,220] INFO: thc (9/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:36:04,236] WARNING: thc (12/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 13:36:04,251] INFO: thc (12/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:36:04,267] INFO: Trying adjusted date: 4/2018 (original: 3/2018)
+[2025-03-22 13:36:04,281] WARNING: thc (3/2018): No existing record found(3/2018, 2018-03-31) - creating new one
+[2025-03-22 13:36:04,282] INFO: thc (3/2018): Created new record with 16 non-zero financial metrics
+[2025-03-22 13:36:04,312] INFO: thc (6/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:36:04,343] INFO: thc (9/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:36:04,373] INFO: thc (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:36:04,405] INFO: thc (3/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:36:04,435] INFO: thc (6/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:36:04,467] INFO: thc (9/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:36:04,501] INFO: thc (12/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:36:04,531] INFO: thc (3/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:36:04,561] INFO: thc (6/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:36:04,592] INFO: thc (9/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:36:04,623] INFO: thc (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:36:04,653] INFO: thc (3/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:36:04,684] INFO: thc (6/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:36:04,714] INFO: thc (9/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:36:04,745] INFO: thc (12/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:36:04,773] INFO: thc (3/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:36:04,805] INFO: thc (6/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:36:04,836] INFO: thc (9/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:36:04,874] INFO: thc (12/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:36:04,909] INFO: thc (3/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:36:04,939] INFO: thc (6/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:36:04,956] WARNING: thc (9/2023): Found zero values for fields: Deferred Revenue
+[2025-03-22 13:36:04,970] INFO: thc (9/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:36:04,989] WARNING: thc (12/2023): Found zero values for fields: Deferred Revenue
+[2025-03-22 13:36:05,003] INFO: thc (12/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:36:05,033] INFO: thc (3/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:36:05,064] INFO: thc (6/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:36:05,094] INFO: thc (9/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:36:05,110] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 13:36:05,124] WARNING: thc (12/2024): Found zero values for fields: Deferred Revenue
+[2025-03-22 13:36:05,124] WARNING: thc (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 13:36:05,125] INFO: thc (12/2024): Created new record with 18 non-zero financial metrics

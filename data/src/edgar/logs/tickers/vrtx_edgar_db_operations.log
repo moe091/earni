@@ -1,0 +1,84 @@
+[2025-03-22 00:02:27,371] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 00:02:27,383] WARNING: vrtx (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 00:02:27,383] INFO: vrtx (3/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 00:02:27,398] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 00:02:27,411] WARNING: vrtx (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 00:02:27,411] INFO: vrtx (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 00:02:27,425] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 00:02:27,438] WARNING: vrtx (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 00:02:27,438] INFO: vrtx (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 00:02:27,451] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 00:02:27,464] WARNING: vrtx (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 00:02:27,464] INFO: vrtx (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 00:02:27,479] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 00:02:27,491] WARNING: vrtx (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 00:02:27,492] INFO: vrtx (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 00:02:27,506] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 00:02:27,518] WARNING: vrtx (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 00:02:27,518] INFO: vrtx (6/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 00:02:27,533] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 00:02:27,545] WARNING: vrtx (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 00:02:27,545] INFO: vrtx (9/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 00:02:27,559] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 00:02:27,571] WARNING: vrtx (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 00:02:27,571] INFO: vrtx (12/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 00:02:27,584] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 00:02:27,596] WARNING: vrtx (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 00:02:27,596] INFO: vrtx (3/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 00:02:27,609] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 00:02:27,621] WARNING: vrtx (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 00:02:27,621] INFO: vrtx (6/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 00:02:27,646] INFO: vrtx (9/2012): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:02:27,671] INFO: vrtx (12/2012): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:02:27,696] INFO: vrtx (3/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:02:27,721] INFO: vrtx (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 00:02:27,746] INFO: vrtx (9/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:02:27,771] INFO: vrtx (12/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:02:27,796] INFO: vrtx (3/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:02:27,821] INFO: vrtx (6/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:02:27,846] INFO: vrtx (9/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:02:27,871] INFO: vrtx (12/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:02:27,895] INFO: vrtx (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:02:27,921] INFO: vrtx (6/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:02:27,945] INFO: vrtx (9/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:02:27,970] INFO: vrtx (12/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:02:27,995] INFO: vrtx (3/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:02:28,020] INFO: vrtx (6/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:02:28,045] INFO: vrtx (9/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:02:28,071] INFO: vrtx (12/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:02:28,097] INFO: vrtx (3/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:02:28,122] INFO: vrtx (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:02:28,147] INFO: vrtx (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:02:28,171] INFO: vrtx (12/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:02:28,206] INFO: vrtx (3/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 00:02:28,232] INFO: vrtx (6/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:02:28,258] INFO: vrtx (9/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:02:28,285] INFO: vrtx (12/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 00:02:28,310] INFO: vrtx (3/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:02:28,334] INFO: vrtx (6/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:02:28,360] INFO: vrtx (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:02:28,384] INFO: vrtx (12/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 00:02:28,409] INFO: vrtx (3/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:02:28,436] INFO: vrtx (6/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:02:28,461] INFO: vrtx (9/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:02:28,489] INFO: vrtx (12/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 00:02:28,515] INFO: vrtx (3/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 00:02:28,541] INFO: vrtx (6/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:02:28,566] INFO: vrtx (9/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:02:28,594] INFO: vrtx (12/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 00:02:28,607] WARNING: vrtx (3/2022): Found zero values for fields: Share Repurchases
+[2025-03-22 00:02:28,620] INFO: vrtx (3/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:02:28,645] INFO: vrtx (6/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:02:28,671] INFO: vrtx (9/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:02:28,685] WARNING: vrtx (12/2022): Found zero values for fields: Share Repurchases
+[2025-03-22 00:02:28,697] INFO: vrtx (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:02:28,722] INFO: vrtx (3/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:02:28,748] INFO: vrtx (6/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:02:28,773] INFO: vrtx (9/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:02:28,802] INFO: vrtx (12/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:02:28,827] INFO: vrtx (3/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:02:28,854] INFO: vrtx (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:02:28,878] INFO: vrtx (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:02:28,892] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 00:02:28,904] WARNING: vrtx (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 00:02:28,905] INFO: vrtx (12/2024): Created new record with 19 non-zero financial metrics

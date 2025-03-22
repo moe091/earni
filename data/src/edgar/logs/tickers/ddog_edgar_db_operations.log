@@ -1,0 +1,25 @@
+[2025-03-22 03:36:57,229] INFO: ddog (9/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:36:57,271] INFO: ddog (12/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:36:57,299] INFO: ddog (3/2020): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 03:36:57,318] WARNING: ddog (6/2020): Found zero values for fields: EPS Diluted
+[2025-03-22 03:36:57,331] INFO: ddog (6/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:36:57,359] INFO: ddog (9/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:36:57,386] INFO: ddog (12/2020): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 03:36:57,414] INFO: ddog (3/2021): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 03:36:57,442] INFO: ddog (6/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:36:57,469] INFO: ddog (9/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:36:57,495] INFO: ddog (12/2021): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 03:36:57,521] INFO: ddog (3/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 03:36:57,547] INFO: ddog (6/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:36:57,574] INFO: ddog (9/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:36:57,601] INFO: ddog (12/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 03:36:57,627] INFO: ddog (3/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:36:57,653] INFO: ddog (6/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:36:57,679] INFO: ddog (9/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:36:57,706] INFO: ddog (12/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:36:57,733] INFO: ddog (3/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:36:57,760] INFO: ddog (6/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:36:57,787] INFO: ddog (9/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:36:57,801] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 03:36:57,814] WARNING: ddog (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 03:36:57,814] INFO: ddog (12/2024): Created new record with 20 non-zero financial metrics

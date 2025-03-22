@@ -1,0 +1,81 @@
+[2025-03-22 15:55:56,073] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 15:55:56,088] WARNING: vno (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 15:55:56,088] INFO: vno (3/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,105] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 15:55:56,119] WARNING: vno (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 15:55:56,120] INFO: vno (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,137] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 15:55:56,152] WARNING: vno (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 15:55:56,152] INFO: vno (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,169] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 15:55:56,184] WARNING: vno (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 15:55:56,184] INFO: vno (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,201] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 15:55:56,215] WARNING: vno (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 15:55:56,216] INFO: vno (6/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,232] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 15:55:56,247] WARNING: vno (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 15:55:56,247] INFO: vno (9/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,264] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 15:55:56,279] WARNING: vno (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 15:55:56,280] INFO: vno (12/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,296] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 15:55:56,311] WARNING: vno (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 15:55:56,312] INFO: vno (3/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,328] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 15:55:56,343] WARNING: vno (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 15:55:56,344] INFO: vno (6/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,375] INFO: vno (9/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,407] INFO: vno (12/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,439] INFO: vno (3/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,471] INFO: vno (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,503] INFO: vno (9/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,520] INFO: Trying adjusted date: 1/2014 (original: 12/2013)
+[2025-03-22 15:55:56,535] WARNING: vno (12/2013): No existing record found(12/2013, 2013-12-31) - creating new one
+[2025-03-22 15:55:56,536] INFO: vno (12/2013): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,567] INFO: vno (3/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,598] INFO: vno (6/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,631] INFO: vno (9/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,663] INFO: vno (12/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,694] INFO: vno (3/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,725] INFO: vno (6/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,756] INFO: vno (9/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,788] INFO: vno (12/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,820] INFO: vno (3/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,851] INFO: vno (6/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,880] INFO: vno (9/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,914] INFO: vno (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,945] INFO: vno (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:56,976] INFO: vno (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,007] INFO: vno (9/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,038] INFO: vno (12/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,069] INFO: vno (3/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,100] INFO: vno (6/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,131] INFO: vno (9/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,162] INFO: vno (12/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,194] INFO: vno (3/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,225] INFO: vno (6/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,257] INFO: vno (9/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,288] INFO: vno (12/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,319] INFO: vno (3/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,351] INFO: vno (6/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,381] INFO: vno (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,412] INFO: vno (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,443] INFO: vno (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,474] INFO: vno (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,506] INFO: vno (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,537] INFO: vno (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,567] INFO: vno (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,598] INFO: vno (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,629] INFO: vno (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,659] INFO: vno (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,690] INFO: vno (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,721] INFO: vno (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,754] INFO: vno (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,785] INFO: vno (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,816] INFO: vno (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,848] INFO: vno (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,880] INFO: vno (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:55:57,897] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 15:55:57,912] WARNING: vno (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 15:55:57,913] INFO: vno (12/2024): Created new record with 0 non-zero financial metrics

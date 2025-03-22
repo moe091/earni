@@ -1,0 +1,63 @@
+[2025-03-22 14:17:19,756] INFO: qlys (9/2012): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 14:17:19,788] INFO: qlys (12/2012): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 14:17:19,820] INFO: qlys (3/2013): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 14:17:19,852] INFO: qlys (6/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 14:17:19,884] INFO: qlys (9/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 14:17:19,916] INFO: qlys (12/2013): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 14:17:19,947] INFO: qlys (3/2014): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 14:17:19,978] INFO: qlys (6/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:17:20,011] INFO: qlys (9/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:17:20,041] INFO: qlys (12/2014): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 14:17:20,058] WARNING: qlys (3/2015): Found zero values for fields: Interest Expense
+[2025-03-22 14:17:20,072] INFO: qlys (3/2015): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 14:17:20,102] INFO: qlys (6/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:17:20,118] WARNING: qlys (9/2015): Found zero values for fields: Interest Expense
+[2025-03-22 14:17:20,132] INFO: qlys (9/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 14:17:20,163] INFO: qlys (12/2015): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 14:17:20,193] INFO: qlys (3/2016): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 14:17:20,224] INFO: qlys (6/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:17:20,255] INFO: qlys (9/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:17:20,286] INFO: qlys (12/2016): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 14:17:20,317] INFO: qlys (3/2017): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 14:17:20,347] INFO: qlys (6/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:17:20,364] WARNING: qlys (9/2017): Found zero values for fields: Interest Expense
+[2025-03-22 14:17:20,379] INFO: qlys (9/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 14:17:20,409] INFO: qlys (12/2017): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 14:17:20,439] INFO: qlys (3/2018): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 14:17:20,469] INFO: qlys (6/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:17:20,499] INFO: qlys (9/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:17:20,529] INFO: qlys (12/2018): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 14:17:20,560] INFO: qlys (3/2019): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 14:17:20,591] INFO: qlys (6/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:17:20,621] INFO: qlys (9/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:17:20,652] INFO: qlys (12/2019): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 14:17:20,681] INFO: qlys (3/2020): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 14:17:20,697] WARNING: qlys (6/2020): Found zero values for fields: Interest Expense
+[2025-03-22 14:17:20,712] INFO: qlys (6/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 14:17:20,743] INFO: qlys (9/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:17:20,775] INFO: qlys (12/2020): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 14:17:20,807] INFO: qlys (3/2021): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 14:17:20,825] WARNING: qlys (6/2021): Found zero values for fields: Interest Expense
+[2025-03-22 14:17:20,840] INFO: qlys (6/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 14:17:20,857] WARNING: qlys (9/2021): Found zero values for fields: Interest Expense
+[2025-03-22 14:17:20,871] INFO: qlys (9/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:17:20,889] WARNING: qlys (12/2021): Found zero values for fields: Interest Expense
+[2025-03-22 14:17:20,902] INFO: qlys (12/2021): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 14:17:20,919] WARNING: qlys (3/2022): Found zero values for fields: Interest Expense
+[2025-03-22 14:17:20,933] INFO: qlys (3/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 14:17:20,950] WARNING: qlys (6/2022): Found zero values for fields: Interest Expense
+[2025-03-22 14:17:20,964] INFO: qlys (6/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 14:17:20,980] WARNING: qlys (9/2022): Found zero values for fields: Interest Expense
+[2025-03-22 14:17:20,995] INFO: qlys (9/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 14:17:21,011] WARNING: qlys (12/2022): Found zero values for fields: Interest Expense
+[2025-03-22 14:17:21,025] INFO: qlys (12/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 14:17:21,057] INFO: qlys (3/2023): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 14:17:21,087] INFO: qlys (6/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:17:21,119] INFO: qlys (9/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 14:17:21,149] INFO: qlys (12/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 14:17:21,180] INFO: qlys (3/2024): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 14:17:21,211] INFO: qlys (6/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 14:17:21,243] INFO: qlys (9/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 14:17:21,259] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 14:17:21,274] WARNING: qlys (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 14:17:21,275] INFO: qlys (12/2024): Created new record with 22 non-zero financial metrics

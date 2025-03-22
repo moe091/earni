@@ -1,0 +1,132 @@
+[2025-03-22 11:35:53,420] INFO: Trying adjusted date: 3/2011 (original: 4/2011)
+[2025-03-22 11:35:53,433] WARNING: lea (4/2011): No existing record found(4/2011, 2011-04-02) - creating new one
+[2025-03-22 11:35:53,433] INFO: lea (4/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 11:35:53,450] INFO: Trying adjusted date: 6/2011 (original: 7/2011)
+[2025-03-22 11:35:53,464] WARNING: lea (7/2011): No existing record found(7/2011, 2011-07-02) - creating new one
+[2025-03-22 11:35:53,465] INFO: lea (7/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 11:35:53,481] INFO: Trying adjusted date: 9/2011 (original: 10/2011)
+[2025-03-22 11:35:53,494] WARNING: lea (10/2011): No existing record found(10/2011, 2011-10-01) - creating new one
+[2025-03-22 11:35:53,495] INFO: lea (10/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 11:35:53,510] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 11:35:53,524] WARNING: lea (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 11:35:53,525] INFO: lea (12/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 11:35:53,540] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 11:35:53,554] WARNING: lea (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 11:35:53,554] INFO: lea (3/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 11:35:53,570] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 11:35:53,583] WARNING: lea (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 11:35:53,584] INFO: lea (6/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 11:35:53,613] INFO: lea (9/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:35:53,641] INFO: lea (12/2012): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:35:53,671] INFO: lea (3/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:35:53,700] INFO: lea (6/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:35:53,730] INFO: lea (9/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:35:53,760] INFO: lea (12/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:35:53,775] INFO: Trying adjusted date: 4/2014 (original: 3/2014)
+[2025-03-22 11:35:53,791] WARNING: lea (3/2014): No existing record found(3/2014, 2014-03-29) - creating new one
+[2025-03-22 11:35:53,792] INFO: lea (3/2014): Created new record with 12 non-zero financial metrics
+[2025-03-22 11:35:53,822] INFO: lea (6/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:35:53,851] INFO: lea (9/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:35:53,879] INFO: lea (12/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:35:53,910] INFO: lea (3/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:35:53,939] INFO: lea (6/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:35:53,969] INFO: lea (9/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:35:53,997] INFO: lea (12/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:35:54,016] INFO: Trying adjusted date: 3/2016 (original: 4/2016)
+[2025-03-22 11:35:54,030] INFO: Found existing row with adjusted date: 3/2016
+[2025-03-22 11:35:54,044] INFO: lea (3/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:35:54,062] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-22 11:35:54,076] INFO: Found existing row with adjusted date: 6/2016
+[2025-03-22 11:35:54,090] INFO: lea (6/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:35:54,111] INFO: Trying adjusted date: 9/2016 (original: 10/2016)
+[2025-03-22 11:35:54,125] INFO: Found existing row with adjusted date: 9/2016
+[2025-03-22 11:35:54,139] INFO: lea (9/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:35:54,168] INFO: lea (12/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:35:54,184] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-22 11:35:54,198] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-22 11:35:54,212] INFO: lea (3/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:35:54,228] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-22 11:35:54,242] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-22 11:35:54,255] INFO: lea (6/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:35:54,285] INFO: lea (9/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:35:54,314] INFO: lea (12/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:35:54,330] WARNING: lea (3/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:54,344] INFO: lea (3/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:35:54,360] WARNING: lea (6/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:54,373] INFO: lea (6/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:35:54,389] WARNING: lea (9/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:54,403] INFO: lea (9/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:35:54,420] WARNING: lea (12/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:54,434] INFO: lea (12/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:35:54,449] WARNING: lea (3/2019): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:54,462] INFO: lea (3/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:35:54,478] WARNING: lea (6/2019): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:54,492] INFO: lea (6/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:35:54,508] WARNING: lea (9/2019): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:54,521] INFO: lea (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:35:54,537] WARNING: lea (12/2019): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:54,551] INFO: lea (12/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:35:54,567] INFO: Trying adjusted date: 3/2020 (original: 4/2020)
+[2025-03-22 11:35:54,581] INFO: Found existing row with adjusted date: 3/2020
+[2025-03-22 11:35:54,581] WARNING: lea (3/2020): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:54,595] INFO: lea (3/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:35:54,611] INFO: Trying adjusted date: 6/2020 (original: 7/2020)
+[2025-03-22 11:35:54,625] INFO: Found existing row with adjusted date: 6/2020
+[2025-03-22 11:35:54,625] WARNING: lea (6/2020): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:54,639] INFO: lea (6/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:35:54,654] INFO: Trying adjusted date: 9/2020 (original: 10/2020)
+[2025-03-22 11:35:54,668] INFO: Found existing row with adjusted date: 9/2020
+[2025-03-22 11:35:54,668] WARNING: lea (9/2020): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:54,682] INFO: lea (9/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:35:54,697] WARNING: lea (12/2020): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:54,711] INFO: lea (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:35:54,726] INFO: Trying adjusted date: 3/2021 (original: 4/2021)
+[2025-03-22 11:35:54,740] INFO: Found existing row with adjusted date: 3/2021
+[2025-03-22 11:35:54,741] WARNING: lea (3/2021): Found zero values for fields: Share Repurchases, Deferred Revenue
+[2025-03-22 11:35:54,753] INFO: lea (3/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:35:54,769] INFO: Trying adjusted date: 6/2021 (original: 7/2021)
+[2025-03-22 11:35:54,783] INFO: Found existing row with adjusted date: 6/2021
+[2025-03-22 11:35:54,783] WARNING: lea (6/2021): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:54,796] INFO: lea (6/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:35:54,812] INFO: Trying adjusted date: 9/2021 (original: 10/2021)
+[2025-03-22 11:35:54,825] INFO: Found existing row with adjusted date: 9/2021
+[2025-03-22 11:35:54,825] WARNING: lea (9/2021): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:54,839] INFO: lea (9/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:35:54,854] WARNING: lea (12/2021): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:54,868] INFO: lea (12/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:35:54,883] INFO: Trying adjusted date: 3/2022 (original: 4/2022)
+[2025-03-22 11:35:54,897] INFO: Found existing row with adjusted date: 3/2022
+[2025-03-22 11:35:54,897] WARNING: lea (3/2022): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:54,910] INFO: lea (3/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:35:54,925] INFO: Trying adjusted date: 6/2022 (original: 7/2022)
+[2025-03-22 11:35:54,939] INFO: Found existing row with adjusted date: 6/2022
+[2025-03-22 11:35:54,939] WARNING: lea (6/2022): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:54,953] INFO: lea (6/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:35:54,969] INFO: Trying adjusted date: 9/2022 (original: 10/2022)
+[2025-03-22 11:35:54,982] INFO: Found existing row with adjusted date: 9/2022
+[2025-03-22 11:35:54,982] WARNING: lea (9/2022): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:54,995] INFO: lea (9/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:35:55,011] WARNING: lea (12/2022): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:55,024] INFO: lea (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:35:55,040] INFO: Trying adjusted date: 3/2023 (original: 4/2023)
+[2025-03-22 11:35:55,053] INFO: Found existing row with adjusted date: 3/2023
+[2025-03-22 11:35:55,054] WARNING: lea (3/2023): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:55,067] INFO: lea (3/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:35:55,083] INFO: Trying adjusted date: 6/2023 (original: 7/2023)
+[2025-03-22 11:35:55,096] INFO: Found existing row with adjusted date: 6/2023
+[2025-03-22 11:35:55,096] WARNING: lea (6/2023): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:55,109] INFO: lea (6/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:35:55,124] WARNING: lea (9/2023): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:55,138] INFO: lea (9/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:35:55,154] WARNING: lea (12/2023): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:55,168] INFO: lea (12/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:35:55,184] WARNING: lea (3/2024): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:55,198] INFO: lea (3/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:35:55,216] WARNING: lea (6/2024): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:55,229] INFO: lea (6/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:35:55,245] WARNING: lea (9/2024): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:55,259] INFO: lea (9/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:35:55,274] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 11:35:55,289] WARNING: lea (12/2024): Found zero values for fields: Deferred Revenue
+[2025-03-22 11:35:55,289] WARNING: lea (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 11:35:55,289] INFO: lea (12/2024): Created new record with 18 non-zero financial metrics

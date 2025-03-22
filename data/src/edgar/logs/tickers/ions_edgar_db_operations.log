@@ -1,0 +1,113 @@
+[2025-03-22 13:14:37,249] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 13:14:37,262] WARNING: ions (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 13:14:37,263] INFO: ions (6/2010): Created new record with 12 non-zero financial metrics
+[2025-03-22 13:14:37,281] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 13:14:37,296] WARNING: ions (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 13:14:37,296] INFO: ions (9/2010): Created new record with 12 non-zero financial metrics
+[2025-03-22 13:14:37,312] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 13:14:37,326] WARNING: ions (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 13:14:37,326] INFO: ions (12/2010): Created new record with 16 non-zero financial metrics
+[2025-03-22 13:14:37,342] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 13:14:37,357] WARNING: ions (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 13:14:37,357] INFO: ions (3/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 13:14:37,376] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 13:14:37,390] WARNING: ions (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 13:14:37,391] INFO: ions (6/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 13:14:37,409] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 13:14:37,423] WARNING: ions (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 13:14:37,423] INFO: ions (9/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 13:14:37,446] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 13:14:37,460] WARNING: ions (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 13:14:37,460] INFO: ions (12/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 13:14:37,483] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 13:14:37,497] WARNING: ions (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 13:14:37,498] INFO: ions (3/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 13:14:37,515] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 13:14:37,528] WARNING: ions (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 13:14:37,529] INFO: ions (6/2012): Created new record with 10 non-zero financial metrics
+[2025-03-22 13:14:37,546] INFO: Trying adjusted date: 10/2012 (original: 9/2012)
+[2025-03-22 13:14:37,560] WARNING: ions (9/2012): No existing record found(9/2012, 2012-09-30) - creating new one
+[2025-03-22 13:14:37,560] INFO: ions (9/2012): Created new record with 10 non-zero financial metrics
+[2025-03-22 13:14:37,576] INFO: Trying adjusted date: 1/2013 (original: 12/2012)
+[2025-03-22 13:14:37,590] WARNING: ions (12/2012): No existing record found(12/2012, 2012-12-31) - creating new one
+[2025-03-22 13:14:37,590] INFO: ions (12/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 13:14:37,607] INFO: Trying adjusted date: 4/2013 (original: 3/2013)
+[2025-03-22 13:14:37,621] WARNING: ions (3/2013): No existing record found(3/2013, 2013-03-31) - creating new one
+[2025-03-22 13:14:37,621] INFO: ions (3/2013): Created new record with 11 non-zero financial metrics
+[2025-03-22 13:14:37,639] INFO: Trying adjusted date: 7/2013 (original: 6/2013)
+[2025-03-22 13:14:37,654] WARNING: ions (6/2013): No existing record found(6/2013, 2013-06-30) - creating new one
+[2025-03-22 13:14:37,654] INFO: ions (6/2013): Created new record with 10 non-zero financial metrics
+[2025-03-22 13:14:37,670] INFO: Trying adjusted date: 10/2013 (original: 9/2013)
+[2025-03-22 13:14:37,685] WARNING: ions (9/2013): No existing record found(9/2013, 2013-09-30) - creating new one
+[2025-03-22 13:14:37,686] INFO: ions (9/2013): Created new record with 10 non-zero financial metrics
+[2025-03-22 13:14:37,702] INFO: Trying adjusted date: 1/2014 (original: 12/2013)
+[2025-03-22 13:14:37,716] WARNING: ions (12/2013): No existing record found(12/2013, 2013-12-31) - creating new one
+[2025-03-22 13:14:37,717] INFO: ions (12/2013): Created new record with 12 non-zero financial metrics
+[2025-03-22 13:14:37,733] INFO: Trying adjusted date: 4/2014 (original: 3/2014)
+[2025-03-22 13:14:37,747] WARNING: ions (3/2014): No existing record found(3/2014, 2014-03-31) - creating new one
+[2025-03-22 13:14:37,748] INFO: ions (3/2014): Created new record with 11 non-zero financial metrics
+[2025-03-22 13:14:37,763] INFO: Trying adjusted date: 7/2014 (original: 6/2014)
+[2025-03-22 13:14:37,777] WARNING: ions (6/2014): No existing record found(6/2014, 2014-06-30) - creating new one
+[2025-03-22 13:14:37,777] INFO: ions (6/2014): Created new record with 9 non-zero financial metrics
+[2025-03-22 13:14:37,793] INFO: Trying adjusted date: 10/2014 (original: 9/2014)
+[2025-03-22 13:14:37,806] WARNING: ions (9/2014): No existing record found(9/2014, 2014-09-30) - creating new one
+[2025-03-22 13:14:37,807] INFO: ions (9/2014): Created new record with 9 non-zero financial metrics
+[2025-03-22 13:14:37,822] INFO: Trying adjusted date: 1/2015 (original: 12/2014)
+[2025-03-22 13:14:37,836] WARNING: ions (12/2014): No existing record found(12/2014, 2014-12-31) - creating new one
+[2025-03-22 13:14:37,837] INFO: ions (12/2014): Created new record with 12 non-zero financial metrics
+[2025-03-22 13:14:37,853] INFO: Trying adjusted date: 4/2015 (original: 3/2015)
+[2025-03-22 13:14:37,867] WARNING: ions (3/2015): No existing record found(3/2015, 2015-03-31) - creating new one
+[2025-03-22 13:14:37,867] INFO: ions (3/2015): Created new record with 11 non-zero financial metrics
+[2025-03-22 13:14:37,883] INFO: Trying adjusted date: 7/2015 (original: 6/2015)
+[2025-03-22 13:14:37,898] WARNING: ions (6/2015): No existing record found(6/2015, 2015-06-30) - creating new one
+[2025-03-22 13:14:37,898] INFO: ions (6/2015): Created new record with 11 non-zero financial metrics
+[2025-03-22 13:14:37,914] INFO: Trying adjusted date: 10/2015 (original: 9/2015)
+[2025-03-22 13:14:37,929] WARNING: ions (9/2015): No existing record found(9/2015, 2015-09-30) - creating new one
+[2025-03-22 13:14:37,930] INFO: ions (9/2015): Created new record with 10 non-zero financial metrics
+[2025-03-22 13:14:37,960] INFO: ions (12/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:14:37,989] INFO: ions (3/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 13:14:38,019] INFO: ions (6/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 13:14:38,051] INFO: ions (9/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 13:14:38,081] INFO: ions (12/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:14:38,112] INFO: ions (3/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 13:14:38,143] INFO: ions (6/2017): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 13:14:38,159] WARNING: ions (9/2017): Found zero values for fields: EPS Diluted
+[2025-03-22 13:14:38,173] INFO: ions (9/2017): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 13:14:38,204] INFO: ions (12/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:14:38,235] INFO: ions (3/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:14:38,265] INFO: ions (6/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 13:14:38,295] INFO: ions (9/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 13:14:38,311] INFO: Trying adjusted date: 1/2019 (original: 12/2018)
+[2025-03-22 13:14:38,325] WARNING: ions (12/2018): No existing record found(12/2018, 2018-12-31) - creating new one
+[2025-03-22 13:14:38,325] INFO: ions (12/2018): Created new record with 17 non-zero financial metrics
+[2025-03-22 13:14:38,355] INFO: ions (3/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:14:38,385] INFO: ions (6/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:14:38,415] INFO: ions (9/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:14:38,447] INFO: ions (12/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:14:38,476] INFO: ions (3/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:14:38,505] INFO: ions (6/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:14:38,536] INFO: ions (9/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:14:38,552] INFO: Trying adjusted date: 1/2021 (original: 12/2020)
+[2025-03-22 13:14:38,566] WARNING: ions (12/2020): No existing record found(12/2020, 2020-12-31) - creating new one
+[2025-03-22 13:14:38,567] INFO: ions (12/2020): Created new record with 18 non-zero financial metrics
+[2025-03-22 13:14:38,583] WARNING: ions (3/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 13:14:38,597] INFO: ions (3/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:14:38,627] INFO: ions (6/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:14:38,657] INFO: ions (9/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:14:38,673] WARNING: ions (12/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 13:14:38,687] INFO: ions (12/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:14:38,719] INFO: ions (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:14:38,750] INFO: ions (6/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:14:38,781] INFO: ions (9/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:14:38,797] WARNING: ions (12/2022): Found zero values for fields: Share Repurchases
+[2025-03-22 13:14:38,811] INFO: ions (12/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:14:38,841] INFO: ions (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:14:38,871] INFO: ions (6/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:14:38,902] INFO: ions (9/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:14:38,933] INFO: ions (12/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:14:38,964] INFO: ions (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:14:38,993] INFO: ions (6/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:14:39,024] INFO: ions (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:14:39,041] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 13:14:39,054] WARNING: ions (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 13:14:39,055] INFO: ions (12/2024): Created new record with 17 non-zero financial metrics

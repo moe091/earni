@@ -1,0 +1,141 @@
+[2025-03-22 07:31:23,606] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 07:31:23,619] WARNING: hwm (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 07:31:23,619] INFO: hwm (3/2010): Created new record with 17 non-zero financial metrics
+[2025-03-22 07:31:23,637] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 07:31:23,650] WARNING: hwm (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 07:31:23,650] INFO: hwm (9/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 07:31:23,664] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 07:31:23,677] WARNING: hwm (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 07:31:23,677] INFO: hwm (12/2010): Created new record with 19 non-zero financial metrics
+[2025-03-22 07:31:23,692] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 07:31:23,705] WARNING: hwm (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 07:31:23,705] INFO: hwm (3/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 07:31:23,720] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 07:31:23,732] WARNING: hwm (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 07:31:23,732] INFO: hwm (6/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 07:31:23,747] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 07:31:23,760] WARNING: hwm (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 07:31:23,760] INFO: hwm (9/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 07:31:23,775] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 07:31:23,788] WARNING: hwm (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 07:31:23,788] INFO: hwm (12/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 07:31:23,803] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 07:31:23,816] WARNING: hwm (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 07:31:23,816] INFO: hwm (3/2012): Created new record with 17 non-zero financial metrics
+[2025-03-22 07:31:23,831] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 07:31:23,843] WARNING: hwm (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 07:31:23,844] INFO: hwm (6/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 07:31:23,858] INFO: Trying adjusted date: 10/2012 (original: 9/2012)
+[2025-03-22 07:31:23,871] WARNING: hwm (9/2012): No existing record found(9/2012, 2012-09-30) - creating new one
+[2025-03-22 07:31:23,871] INFO: hwm (9/2012): Created new record with 13 non-zero financial metrics
+[2025-03-22 07:31:23,885] INFO: Trying adjusted date: 1/2013 (original: 12/2012)
+[2025-03-22 07:31:23,898] WARNING: hwm (12/2012): No existing record found(12/2012, 2012-12-31) - creating new one
+[2025-03-22 07:31:23,899] INFO: hwm (12/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 07:31:23,915] INFO: Trying adjusted date: 4/2013 (original: 3/2013)
+[2025-03-22 07:31:23,927] WARNING: hwm (3/2013): No existing record found(3/2013, 2013-03-31) - creating new one
+[2025-03-22 07:31:23,928] INFO: hwm (3/2013): Created new record with 17 non-zero financial metrics
+[2025-03-22 07:31:23,943] INFO: Trying adjusted date: 7/2013 (original: 6/2013)
+[2025-03-22 07:31:23,956] WARNING: hwm (6/2013): No existing record found(6/2013, 2013-06-30) - creating new one
+[2025-03-22 07:31:23,957] INFO: hwm (6/2013): Created new record with 13 non-zero financial metrics
+[2025-03-22 07:31:23,973] INFO: Trying adjusted date: 10/2013 (original: 9/2013)
+[2025-03-22 07:31:23,986] WARNING: hwm (9/2013): No existing record found(9/2013, 2013-09-30) - creating new one
+[2025-03-22 07:31:23,987] INFO: hwm (9/2013): Created new record with 13 non-zero financial metrics
+[2025-03-22 07:31:24,002] INFO: Trying adjusted date: 1/2014 (original: 12/2013)
+[2025-03-22 07:31:24,015] WARNING: hwm (12/2013): No existing record found(12/2013, 2013-12-31) - creating new one
+[2025-03-22 07:31:24,015] INFO: hwm (12/2013): Created new record with 18 non-zero financial metrics
+[2025-03-22 07:31:24,029] INFO: Trying adjusted date: 4/2014 (original: 3/2014)
+[2025-03-22 07:31:24,043] WARNING: hwm (3/2014): No existing record found(3/2014, 2014-03-31) - creating new one
+[2025-03-22 07:31:24,043] INFO: hwm (3/2014): Created new record with 17 non-zero financial metrics
+[2025-03-22 07:31:24,058] INFO: Trying adjusted date: 7/2014 (original: 6/2014)
+[2025-03-22 07:31:24,072] WARNING: hwm (6/2014): No existing record found(6/2014, 2014-06-30) - creating new one
+[2025-03-22 07:31:24,072] INFO: hwm (6/2014): Created new record with 13 non-zero financial metrics
+[2025-03-22 07:31:24,087] INFO: Trying adjusted date: 10/2014 (original: 9/2014)
+[2025-03-22 07:31:24,100] WARNING: hwm (9/2014): No existing record found(9/2014, 2014-09-30) - creating new one
+[2025-03-22 07:31:24,101] INFO: hwm (9/2014): Created new record with 14 non-zero financial metrics
+[2025-03-22 07:31:24,115] INFO: Trying adjusted date: 1/2015 (original: 12/2014)
+[2025-03-22 07:31:24,129] WARNING: hwm (12/2014): No existing record found(12/2014, 2014-12-31) - creating new one
+[2025-03-22 07:31:24,129] INFO: hwm (12/2014): Created new record with 16 non-zero financial metrics
+[2025-03-22 07:31:24,144] INFO: Trying adjusted date: 4/2015 (original: 3/2015)
+[2025-03-22 07:31:24,158] WARNING: hwm (3/2015): No existing record found(3/2015, 2015-03-31) - creating new one
+[2025-03-22 07:31:24,158] INFO: hwm (3/2015): Created new record with 14 non-zero financial metrics
+[2025-03-22 07:31:24,173] INFO: Trying adjusted date: 7/2015 (original: 6/2015)
+[2025-03-22 07:31:24,187] WARNING: hwm (6/2015): No existing record found(6/2015, 2015-06-30) - creating new one
+[2025-03-22 07:31:24,187] INFO: hwm (6/2015): Created new record with 12 non-zero financial metrics
+[2025-03-22 07:31:24,202] INFO: Trying adjusted date: 10/2015 (original: 9/2015)
+[2025-03-22 07:31:24,215] WARNING: hwm (9/2015): No existing record found(9/2015, 2015-09-30) - creating new one
+[2025-03-22 07:31:24,215] INFO: hwm (9/2015): Created new record with 12 non-zero financial metrics
+[2025-03-22 07:31:24,229] INFO: Trying adjusted date: 1/2016 (original: 12/2015)
+[2025-03-22 07:31:24,242] WARNING: hwm (12/2015): No existing record found(12/2015, 2015-12-31) - creating new one
+[2025-03-22 07:31:24,242] INFO: hwm (12/2015): Created new record with 15 non-zero financial metrics
+[2025-03-22 07:31:24,257] INFO: Trying adjusted date: 4/2016 (original: 3/2016)
+[2025-03-22 07:31:24,270] WARNING: hwm (3/2016): Found zero values for fields: EPS Diluted
+[2025-03-22 07:31:24,270] WARNING: hwm (3/2016): No existing record found(3/2016, 2016-03-31) - creating new one
+[2025-03-22 07:31:24,271] INFO: hwm (3/2016): Created new record with 13 non-zero financial metrics
+[2025-03-22 07:31:24,288] INFO: Trying adjusted date: 7/2016 (original: 6/2016)
+[2025-03-22 07:31:24,302] WARNING: hwm (6/2016): No existing record found(6/2016, 2016-06-30) - creating new one
+[2025-03-22 07:31:24,302] INFO: hwm (6/2016): Created new record with 12 non-zero financial metrics
+[2025-03-22 07:31:24,317] INFO: Trying adjusted date: 10/2016 (original: 9/2016)
+[2025-03-22 07:31:24,329] WARNING: hwm (9/2016): No existing record found(9/2016, 2016-09-30) - creating new one
+[2025-03-22 07:31:24,329] INFO: hwm (9/2016): Created new record with 12 non-zero financial metrics
+[2025-03-22 07:31:24,345] INFO: Trying adjusted date: 1/2017 (original: 12/2016)
+[2025-03-22 07:31:24,357] WARNING: hwm (12/2016): No existing record found(12/2016, 2016-12-31) - creating new one
+[2025-03-22 07:31:24,358] INFO: hwm (12/2016): Created new record with 15 non-zero financial metrics
+[2025-03-22 07:31:24,373] INFO: Trying adjusted date: 4/2017 (original: 3/2017)
+[2025-03-22 07:31:24,386] WARNING: hwm (3/2017): No existing record found(3/2017, 2017-03-31) - creating new one
+[2025-03-22 07:31:24,386] INFO: hwm (3/2017): Created new record with 14 non-zero financial metrics
+[2025-03-22 07:31:24,402] INFO: Trying adjusted date: 7/2017 (original: 6/2017)
+[2025-03-22 07:31:24,414] WARNING: hwm (6/2017): No existing record found(6/2017, 2017-06-30) - creating new one
+[2025-03-22 07:31:24,414] INFO: hwm (6/2017): Created new record with 14 non-zero financial metrics
+[2025-03-22 07:31:24,429] INFO: Trying adjusted date: 10/2017 (original: 9/2017)
+[2025-03-22 07:31:24,442] WARNING: hwm (9/2017): No existing record found(9/2017, 2017-09-30) - creating new one
+[2025-03-22 07:31:24,443] INFO: hwm (9/2017): Created new record with 14 non-zero financial metrics
+[2025-03-22 07:31:24,458] INFO: Trying adjusted date: 1/2018 (original: 12/2017)
+[2025-03-22 07:31:24,471] WARNING: hwm (12/2017): No existing record found(12/2017, 2017-12-31) - creating new one
+[2025-03-22 07:31:24,472] INFO: hwm (12/2017): Created new record with 16 non-zero financial metrics
+[2025-03-22 07:31:24,486] INFO: Trying adjusted date: 4/2018 (original: 3/2018)
+[2025-03-22 07:31:24,500] WARNING: hwm (3/2018): No existing record found(3/2018, 2018-03-31) - creating new one
+[2025-03-22 07:31:24,500] INFO: hwm (3/2018): Created new record with 19 non-zero financial metrics
+[2025-03-22 07:31:24,515] INFO: Trying adjusted date: 7/2018 (original: 6/2018)
+[2025-03-22 07:31:24,528] WARNING: hwm (6/2018): No existing record found(6/2018, 2018-06-30) - creating new one
+[2025-03-22 07:31:24,528] INFO: hwm (6/2018): Created new record with 15 non-zero financial metrics
+[2025-03-22 07:31:24,543] INFO: Trying adjusted date: 10/2018 (original: 9/2018)
+[2025-03-22 07:31:24,556] WARNING: hwm (9/2018): No existing record found(9/2018, 2018-09-30) - creating new one
+[2025-03-22 07:31:24,557] INFO: hwm (9/2018): Created new record with 15 non-zero financial metrics
+[2025-03-22 07:31:24,571] INFO: Trying adjusted date: 1/2019 (original: 12/2018)
+[2025-03-22 07:31:24,584] WARNING: hwm (12/2018): No existing record found(12/2018, 2018-12-31) - creating new one
+[2025-03-22 07:31:24,585] INFO: hwm (12/2018): Created new record with 19 non-zero financial metrics
+[2025-03-22 07:31:24,600] INFO: Trying adjusted date: 4/2019 (original: 3/2019)
+[2025-03-22 07:31:24,613] WARNING: hwm (3/2019): No existing record found(3/2019, 2019-03-31) - creating new one
+[2025-03-22 07:31:24,613] INFO: hwm (3/2019): Created new record with 20 non-zero financial metrics
+[2025-03-22 07:31:24,628] INFO: Trying adjusted date: 7/2019 (original: 6/2019)
+[2025-03-22 07:31:24,641] WARNING: hwm (6/2019): No existing record found(6/2019, 2019-06-30) - creating new one
+[2025-03-22 07:31:24,642] INFO: hwm (6/2019): Created new record with 15 non-zero financial metrics
+[2025-03-22 07:31:24,656] INFO: Trying adjusted date: 10/2019 (original: 9/2019)
+[2025-03-22 07:31:24,670] WARNING: hwm (9/2019): No existing record found(9/2019, 2019-09-30) - creating new one
+[2025-03-22 07:31:24,671] INFO: hwm (9/2019): Created new record with 15 non-zero financial metrics
+[2025-03-22 07:31:24,685] INFO: Trying adjusted date: 1/2020 (original: 12/2019)
+[2025-03-22 07:31:24,698] WARNING: hwm (12/2019): No existing record found(12/2019, 2019-12-31) - creating new one
+[2025-03-22 07:31:24,699] INFO: hwm (12/2019): Created new record with 20 non-zero financial metrics
+[2025-03-22 07:31:24,713] WARNING: hwm (3/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 07:31:24,726] INFO: hwm (3/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:31:24,754] INFO: hwm (6/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:31:24,783] INFO: hwm (9/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:31:24,809] INFO: hwm (12/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:31:24,838] INFO: hwm (3/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:31:24,866] INFO: hwm (6/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:31:24,894] INFO: hwm (9/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:31:24,922] INFO: hwm (12/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:31:24,952] INFO: hwm (3/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:31:24,980] INFO: hwm (6/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 07:31:25,008] INFO: hwm (9/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 07:31:25,038] INFO: hwm (12/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:31:25,067] INFO: hwm (3/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:31:25,093] INFO: hwm (6/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:31:25,121] INFO: hwm (9/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:31:25,149] INFO: hwm (12/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:31:25,176] INFO: hwm (3/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:31:25,205] INFO: hwm (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:31:25,232] INFO: hwm (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:31:25,246] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 07:31:25,260] WARNING: hwm (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 07:31:25,260] INFO: hwm (12/2024): Created new record with 20 non-zero financial metrics

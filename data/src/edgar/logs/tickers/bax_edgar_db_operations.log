@@ -1,0 +1,93 @@
+[2025-03-22 03:45:06,145] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 03:45:06,157] WARNING: bax (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 03:45:06,157] INFO: bax (3/2010): Created new record with 16 non-zero financial metrics
+[2025-03-22 03:45:06,172] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 03:45:06,184] WARNING: bax (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 03:45:06,185] INFO: bax (6/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 03:45:06,198] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 03:45:06,211] WARNING: bax (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 03:45:06,212] INFO: bax (9/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 03:45:06,225] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 03:45:06,237] WARNING: bax (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 03:45:06,238] INFO: bax (12/2010): Created new record with 17 non-zero financial metrics
+[2025-03-22 03:45:06,254] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 03:45:06,267] WARNING: bax (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 03:45:06,268] INFO: bax (3/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 03:45:06,282] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 03:45:06,295] WARNING: bax (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 03:45:06,295] INFO: bax (6/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 03:45:06,309] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 03:45:06,321] WARNING: bax (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 03:45:06,322] INFO: bax (9/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 03:45:06,336] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 03:45:06,348] WARNING: bax (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 03:45:06,349] INFO: bax (12/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 03:45:06,363] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 03:45:06,375] WARNING: bax (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 03:45:06,376] INFO: bax (3/2012): Created new record with 17 non-zero financial metrics
+[2025-03-22 03:45:06,389] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 03:45:06,403] WARNING: bax (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 03:45:06,403] INFO: bax (6/2012): Created new record with 13 non-zero financial metrics
+[2025-03-22 03:45:06,429] INFO: bax (9/2012): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:45:06,456] INFO: bax (12/2012): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:45:06,486] INFO: bax (3/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:45:06,512] INFO: bax (6/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:45:06,539] INFO: bax (9/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:45:06,566] INFO: bax (12/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:45:06,592] INFO: bax (3/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:45:06,619] INFO: bax (6/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:45:06,646] INFO: bax (9/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:45:06,672] INFO: bax (12/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:45:06,701] INFO: bax (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:45:06,728] INFO: bax (6/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:45:06,742] WARNING: bax (9/2015): Found zero values for fields: EPS Diluted
+[2025-03-22 03:45:06,755] INFO: bax (9/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:45:06,781] INFO: bax (12/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:45:06,807] INFO: bax (3/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:45:06,835] INFO: bax (6/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:45:06,861] INFO: bax (9/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:45:06,887] INFO: bax (12/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:45:06,913] INFO: bax (3/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:45:06,939] INFO: bax (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:45:06,968] INFO: bax (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:45:06,994] INFO: bax (12/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:45:07,008] WARNING: bax (3/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 03:45:07,021] INFO: bax (3/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:45:07,035] WARNING: bax (6/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 03:45:07,048] INFO: bax (6/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:45:07,061] WARNING: bax (9/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 03:45:07,074] INFO: bax (9/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:45:07,088] WARNING: bax (12/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 03:45:07,100] INFO: bax (12/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:45:07,127] INFO: bax (3/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:45:07,152] INFO: bax (6/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:45:07,166] INFO: Trying adjusted date: 10/2019 (original: 9/2019)
+[2025-03-22 03:45:07,179] WARNING: bax (9/2019): No existing record found(9/2019, 2019-09-30) - creating new one
+[2025-03-22 03:45:07,179] INFO: bax (9/2019): Created new record with 16 non-zero financial metrics
+[2025-03-22 03:45:07,206] INFO: bax (12/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:45:07,221] WARNING: bax (3/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 03:45:07,233] INFO: bax (3/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:45:07,261] INFO: bax (6/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:45:07,288] INFO: bax (9/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:45:07,315] INFO: bax (12/2020): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 03:45:07,341] INFO: bax (3/2021): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 03:45:07,368] INFO: bax (6/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:45:07,395] INFO: bax (9/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:45:07,422] INFO: bax (12/2021): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 03:45:07,435] WARNING: bax (3/2022): Found zero values for fields: Share Repurchases
+[2025-03-22 03:45:07,448] INFO: bax (3/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:45:07,474] INFO: bax (6/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:45:07,500] INFO: bax (9/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:45:07,526] INFO: bax (12/2022): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 03:45:07,556] INFO: bax (3/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:45:07,583] INFO: bax (6/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:45:07,610] INFO: bax (9/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:45:07,624] WARNING: bax (12/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 03:45:07,637] INFO: bax (12/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 03:45:07,664] INFO: bax (3/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:45:07,690] INFO: bax (6/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:45:07,717] INFO: bax (9/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:45:07,732] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 03:45:07,744] WARNING: bax (12/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 03:45:07,745] WARNING: bax (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 03:45:07,745] INFO: bax (12/2024): Created new record with 22 non-zero financial metrics

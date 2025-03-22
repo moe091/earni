@@ -1,0 +1,23 @@
+[2025-03-22 06:13:05,831] INFO: rprx (6/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:13:05,864] INFO: rprx (9/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:13:05,880] WARNING: rprx (12/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 06:13:05,894] INFO: rprx (12/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:13:05,922] INFO: rprx (3/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:13:05,954] INFO: rprx (6/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 06:13:05,983] INFO: rprx (9/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 06:13:05,998] WARNING: rprx (12/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 06:13:06,011] INFO: rprx (12/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:13:06,038] INFO: rprx (3/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:13:06,067] INFO: rprx (6/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 06:13:06,094] INFO: rprx (9/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 06:13:06,121] INFO: rprx (12/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:13:06,150] INFO: rprx (3/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:13:06,178] INFO: rprx (6/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 06:13:06,206] INFO: rprx (9/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 06:13:06,234] INFO: rprx (12/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:13:06,260] INFO: rprx (3/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:13:06,291] INFO: rprx (6/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:13:06,318] INFO: rprx (9/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:13:06,333] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 06:13:06,346] WARNING: rprx (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 06:13:06,346] INFO: rprx (12/2024): Created new record with 15 non-zero financial metrics

@@ -1,0 +1,23 @@
+[2025-03-22 13:12:04,972] INFO: afrm (12/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:12:05,003] INFO: afrm (3/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:12:05,032] INFO: afrm (6/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:12:05,062] INFO: afrm (9/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:12:05,093] INFO: afrm (12/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:12:05,123] INFO: afrm (3/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:12:05,155] INFO: afrm (6/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:12:05,185] INFO: afrm (9/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:12:05,215] INFO: afrm (12/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:12:05,245] INFO: afrm (3/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:12:05,275] INFO: afrm (6/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:12:05,292] WARNING: afrm (9/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 13:12:05,306] INFO: afrm (9/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:12:05,336] INFO: afrm (12/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:12:05,367] INFO: afrm (3/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:12:05,384] WARNING: afrm (6/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 13:12:05,398] INFO: afrm (6/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:12:05,417] WARNING: afrm (9/2024): Found zero values for fields: Loans Held for Sale
+[2025-03-22 13:12:05,430] INFO: afrm (9/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:12:05,448] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 13:12:05,463] WARNING: afrm (12/2024): Found zero values for fields: Loans Held for Sale
+[2025-03-22 13:12:05,463] WARNING: afrm (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 13:12:05,464] INFO: afrm (12/2024): Created new record with 15 non-zero financial metrics

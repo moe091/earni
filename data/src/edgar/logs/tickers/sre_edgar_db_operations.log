@@ -1,0 +1,86 @@
+[2025-03-22 01:08:10,441] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 01:08:10,453] WARNING: sre (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 01:08:10,453] INFO: sre (3/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 01:08:10,466] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 01:08:10,478] WARNING: sre (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 01:08:10,478] INFO: sre (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 01:08:10,493] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 01:08:10,505] WARNING: sre (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 01:08:10,506] INFO: sre (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 01:08:10,525] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 01:08:10,542] WARNING: sre (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 01:08:10,543] INFO: sre (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 01:08:10,556] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 01:08:10,567] WARNING: sre (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 01:08:10,568] INFO: sre (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 01:08:10,584] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 01:08:10,597] WARNING: sre (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 01:08:10,597] INFO: sre (6/2011): Created new record with 10 non-zero financial metrics
+[2025-03-22 01:08:10,611] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 01:08:10,624] WARNING: sre (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 01:08:10,624] INFO: sre (9/2011): Created new record with 10 non-zero financial metrics
+[2025-03-22 01:08:10,637] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 01:08:10,649] WARNING: sre (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 01:08:10,650] INFO: sre (12/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 01:08:10,663] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 01:08:10,675] WARNING: sre (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 01:08:10,676] INFO: sre (3/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 01:08:10,690] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 01:08:10,702] WARNING: sre (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 01:08:10,703] INFO: sre (6/2012): Created new record with 10 non-zero financial metrics
+[2025-03-22 01:08:10,727] INFO: sre (9/2012): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 01:08:10,751] INFO: sre (12/2012): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 01:08:10,778] INFO: sre (3/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 01:08:10,803] INFO: sre (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 01:08:10,829] INFO: sre (9/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 01:08:10,856] INFO: sre (12/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 01:08:10,881] INFO: sre (3/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 01:08:10,906] INFO: sre (6/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 01:08:10,931] INFO: sre (9/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 01:08:10,957] INFO: sre (12/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 01:08:10,983] INFO: sre (3/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 01:08:11,007] INFO: sre (6/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 01:08:11,033] INFO: sre (9/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 01:08:11,058] INFO: sre (12/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 01:08:11,083] INFO: sre (3/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 01:08:11,108] INFO: sre (6/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 01:08:11,135] INFO: sre (9/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 01:08:11,160] INFO: sre (12/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 01:08:11,185] INFO: sre (3/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 01:08:11,209] INFO: sre (6/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 01:08:11,234] INFO: sre (9/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 01:08:11,259] INFO: sre (12/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 01:08:11,285] INFO: sre (3/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 01:08:11,310] INFO: sre (6/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 01:08:11,337] INFO: sre (9/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 01:08:11,363] INFO: sre (12/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 01:08:11,390] INFO: sre (3/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 01:08:11,403] ERROR: Invalid numeric value for Capital Expenditures: 
+[2025-03-22 01:08:11,403] ERROR: sre (6/2019): Invalid data types: Capital Expenditures=
+[2025-03-22 01:08:11,415] INFO: sre (6/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 01:08:11,429] ERROR: Invalid numeric value for Capital Expenditures: 
+[2025-03-22 01:08:11,429] ERROR: sre (9/2019): Invalid data types: Capital Expenditures=
+[2025-03-22 01:08:11,440] INFO: sre (9/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 01:08:11,467] INFO: sre (12/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 01:08:11,493] INFO: sre (3/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 01:08:11,518] INFO: sre (6/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 01:08:11,544] INFO: sre (9/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 01:08:11,569] INFO: sre (12/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 01:08:11,594] INFO: sre (3/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 01:08:11,622] INFO: sre (6/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 01:08:11,647] INFO: sre (9/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 01:08:11,673] INFO: sre (12/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 01:08:11,699] INFO: sre (3/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 01:08:11,724] INFO: sre (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 01:08:11,750] INFO: sre (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 01:08:11,775] INFO: sre (12/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 01:08:11,801] INFO: sre (3/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 01:08:11,826] INFO: sre (6/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 01:08:11,852] INFO: sre (9/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 01:08:11,878] INFO: sre (12/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 01:08:11,904] INFO: sre (3/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 01:08:11,930] INFO: sre (6/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 01:08:11,955] INFO: sre (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 01:08:11,969] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 01:08:11,981] WARNING: sre (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 01:08:11,981] INFO: sre (12/2024): Created new record with 16 non-zero financial metrics

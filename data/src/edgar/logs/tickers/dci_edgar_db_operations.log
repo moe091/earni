@@ -1,0 +1,76 @@
+[2025-03-22 13:38:59,928] INFO: Trying adjusted date: 11/2010 (original: 10/2010)
+[2025-03-22 13:38:59,943] WARNING: dci (10/2010): No existing record found(10/2010, 2010-10-31) - creating new one
+[2025-03-22 13:38:59,943] INFO: dci (10/2010): Created new record with 19 non-zero financial metrics
+[2025-03-22 13:38:59,963] INFO: Trying adjusted date: 2/2011 (original: 1/2011)
+[2025-03-22 13:38:59,977] WARNING: dci (1/2011): No existing record found(1/2011, 2011-01-31) - creating new one
+[2025-03-22 13:38:59,978] INFO: dci (1/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 13:38:59,995] INFO: Trying adjusted date: 5/2011 (original: 4/2011)
+[2025-03-22 13:39:00,011] WARNING: dci (4/2011): No existing record found(4/2011, 2011-04-30) - creating new one
+[2025-03-22 13:39:00,011] INFO: dci (4/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 13:39:00,027] INFO: Trying adjusted date: 8/2011 (original: 7/2011)
+[2025-03-22 13:39:00,041] WARNING: dci (7/2011): No existing record found(7/2011, 2011-07-31) - creating new one
+[2025-03-22 13:39:00,042] INFO: dci (7/2011): Created new record with 21 non-zero financial metrics
+[2025-03-22 13:39:00,058] INFO: Trying adjusted date: 11/2011 (original: 10/2011)
+[2025-03-22 13:39:00,073] WARNING: dci (10/2011): No existing record found(10/2011, 2011-10-31) - creating new one
+[2025-03-22 13:39:00,074] INFO: dci (10/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 13:39:00,094] INFO: Trying adjusted date: 2/2012 (original: 1/2012)
+[2025-03-22 13:39:00,108] WARNING: dci (1/2012): No existing record found(1/2012, 2012-01-31) - creating new one
+[2025-03-22 13:39:00,108] INFO: dci (1/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 13:39:00,124] INFO: Trying adjusted date: 5/2012 (original: 4/2012)
+[2025-03-22 13:39:00,137] WARNING: dci (4/2012): No existing record found(4/2012, 2012-04-30) - creating new one
+[2025-03-22 13:39:00,138] INFO: dci (4/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 13:39:00,153] INFO: Trying adjusted date: 8/2012 (original: 7/2012)
+[2025-03-22 13:39:00,167] WARNING: dci (7/2012): No existing record found(7/2012, 2012-07-31) - creating new one
+[2025-03-22 13:39:00,168] INFO: dci (7/2012): Created new record with 21 non-zero financial metrics
+[2025-03-22 13:39:00,197] INFO: dci (10/2012): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:39:00,227] INFO: dci (1/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:39:00,258] INFO: dci (4/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:39:00,288] INFO: dci (7/2013): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:39:00,318] INFO: dci (10/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:39:00,348] INFO: dci (1/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:39:00,379] INFO: dci (4/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:39:00,409] INFO: dci (7/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:39:00,441] INFO: dci (10/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:39:00,471] INFO: dci (1/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:39:00,501] INFO: dci (4/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:39:00,532] INFO: dci (7/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:39:00,564] INFO: dci (10/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:39:00,597] INFO: dci (1/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:39:00,630] INFO: dci (4/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:39:00,662] INFO: dci (7/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:39:00,691] INFO: dci (10/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:39:00,721] INFO: dci (1/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:39:00,751] INFO: dci (4/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:39:00,782] INFO: dci (7/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:39:00,815] INFO: dci (10/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:39:00,847] INFO: dci (1/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:39:00,877] INFO: dci (4/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:39:00,906] INFO: dci (7/2018): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 13:39:00,934] INFO: dci (10/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:39:00,965] INFO: dci (1/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:39:00,998] INFO: dci (4/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:39:01,029] INFO: dci (7/2019): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 13:39:01,058] INFO: dci (10/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:39:01,089] INFO: dci (1/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:39:01,120] INFO: dci (4/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:39:01,150] INFO: dci (7/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:39:01,181] INFO: dci (10/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:39:01,211] INFO: dci (1/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:39:01,242] INFO: dci (4/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:39:01,273] INFO: dci (7/2021): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 13:39:01,302] INFO: dci (10/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:39:01,332] INFO: dci (1/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:39:01,363] INFO: dci (4/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:39:01,395] INFO: dci (7/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 13:39:01,426] INFO: dci (10/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:39:01,456] INFO: dci (1/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:39:01,487] INFO: dci (4/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:39:01,517] INFO: dci (7/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 13:39:01,548] INFO: dci (10/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:39:01,578] INFO: dci (1/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:39:01,610] INFO: dci (4/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:39:01,640] INFO: dci (7/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:39:01,671] INFO: dci (10/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:39:01,687] INFO: Trying adjusted date: 2/2025 (original: 1/2025)
+[2025-03-22 13:39:01,701] WARNING: dci (1/2025): No existing record found(1/2025, 2025-01-31) - creating new one
+[2025-03-22 13:39:01,701] INFO: dci (1/2025): Created new record with 15 non-zero financial metrics

@@ -1,0 +1,85 @@
+[2025-03-22 04:18:05,993] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 04:18:06,006] WARNING: hal (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 04:18:06,006] INFO: hal (3/2010): Created new record with 17 non-zero financial metrics
+[2025-03-22 04:18:06,022] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 04:18:06,034] WARNING: hal (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 04:18:06,035] INFO: hal (6/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 04:18:06,049] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 04:18:06,061] WARNING: hal (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 04:18:06,062] INFO: hal (9/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 04:18:06,076] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 04:18:06,088] WARNING: hal (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 04:18:06,091] INFO: hal (12/2010): Created new record with 19 non-zero financial metrics
+[2025-03-22 04:18:06,105] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 04:18:06,117] WARNING: hal (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 04:18:06,117] INFO: hal (3/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 04:18:06,131] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 04:18:06,143] WARNING: hal (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 04:18:06,144] INFO: hal (6/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 04:18:06,158] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 04:18:06,171] WARNING: hal (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 04:18:06,171] INFO: hal (9/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 04:18:06,185] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 04:18:06,198] WARNING: hal (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 04:18:06,199] INFO: hal (12/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 04:18:06,212] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 04:18:06,226] WARNING: hal (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 04:18:06,227] INFO: hal (3/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 04:18:06,241] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 04:18:06,254] WARNING: hal (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 04:18:06,254] INFO: hal (6/2012): Created new record with 13 non-zero financial metrics
+[2025-03-22 04:18:06,280] INFO: hal (9/2012): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:18:06,308] INFO: hal (12/2012): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 04:18:06,335] INFO: hal (3/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:18:06,363] INFO: hal (6/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:18:06,389] INFO: hal (9/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:18:06,416] INFO: hal (12/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 04:18:06,442] INFO: hal (3/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:18:06,468] INFO: hal (6/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:18:06,497] INFO: hal (9/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:18:06,524] INFO: hal (12/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 04:18:06,538] WARNING: hal (3/2015): Found zero values for fields: Share Repurchases
+[2025-03-22 04:18:06,551] INFO: hal (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:18:06,578] INFO: hal (6/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:18:06,605] INFO: hal (9/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:18:06,619] WARNING: hal (12/2015): Found zero values for fields: Share Repurchases
+[2025-03-22 04:18:06,632] INFO: hal (12/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 04:18:06,658] INFO: hal (3/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:18:06,684] INFO: hal (6/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:18:06,711] INFO: hal (9/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:18:06,725] WARNING: hal (12/2016): Found zero values for fields: Share Repurchases
+[2025-03-22 04:18:06,738] INFO: hal (12/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:18:06,765] INFO: hal (3/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:18:06,792] INFO: hal (6/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:18:06,818] INFO: hal (9/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:18:06,844] INFO: hal (12/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:18:06,870] INFO: hal (3/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 04:18:06,897] INFO: hal (6/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:18:06,924] INFO: hal (9/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 04:18:06,951] INFO: hal (12/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:18:06,978] INFO: hal (3/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:18:07,003] INFO: hal (6/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 04:18:07,030] INFO: hal (9/2019): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 04:18:07,057] INFO: hal (12/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:18:07,083] INFO: hal (3/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:18:07,110] INFO: hal (6/2020): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 04:18:07,137] INFO: hal (9/2020): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 04:18:07,163] INFO: hal (12/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:18:07,176] WARNING: hal (3/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 04:18:07,189] INFO: hal (3/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:18:07,215] INFO: hal (6/2021): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 04:18:07,242] INFO: hal (9/2021): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 04:18:07,256] WARNING: hal (12/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 04:18:07,269] INFO: hal (12/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 04:18:07,297] INFO: hal (3/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:18:07,323] INFO: hal (6/2022): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 04:18:07,349] INFO: hal (9/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 04:18:07,375] INFO: hal (12/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:18:07,402] INFO: hal (3/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 04:18:07,429] INFO: hal (6/2023): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 04:18:07,454] INFO: hal (9/2023): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 04:18:07,481] INFO: hal (12/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:18:07,508] INFO: hal (3/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 04:18:07,534] INFO: hal (6/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 04:18:07,562] INFO: hal (9/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 04:18:07,589] INFO: hal (12/2024): Updated existing record with 15 non-zero financial metrics

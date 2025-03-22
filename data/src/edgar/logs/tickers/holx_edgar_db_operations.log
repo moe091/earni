@@ -1,0 +1,88 @@
+[2025-03-22 06:30:10,133] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 06:30:10,145] WARNING: holx (3/2010): No existing record found(3/2010, 2010-03-27) - creating new one
+[2025-03-22 06:30:10,146] INFO: holx (3/2010): Created new record with 16 non-zero financial metrics
+[2025-03-22 06:30:10,162] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 06:30:10,177] WARNING: holx (6/2010): No existing record found(6/2010, 2010-06-26) - creating new one
+[2025-03-22 06:30:10,177] INFO: holx (6/2010): Created new record with 16 non-zero financial metrics
+[2025-03-22 06:30:10,192] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 06:30:10,206] WARNING: holx (9/2010): No existing record found(9/2010, 2010-09-25) - creating new one
+[2025-03-22 06:30:10,206] INFO: holx (9/2010): Created new record with 20 non-zero financial metrics
+[2025-03-22 06:30:10,221] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 06:30:10,234] WARNING: holx (12/2010): No existing record found(12/2010, 2010-12-25) - creating new one
+[2025-03-22 06:30:10,235] INFO: holx (12/2010): Created new record with 20 non-zero financial metrics
+[2025-03-22 06:30:10,249] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 06:30:10,262] WARNING: holx (3/2011): No existing record found(3/2011, 2011-03-26) - creating new one
+[2025-03-22 06:30:10,263] INFO: holx (3/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 06:30:10,278] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 06:30:10,290] WARNING: holx (6/2011): No existing record found(6/2011, 2011-06-25) - creating new one
+[2025-03-22 06:30:10,291] INFO: holx (6/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 06:30:10,306] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 06:30:10,319] WARNING: holx (9/2011): No existing record found(9/2011, 2011-09-24) - creating new one
+[2025-03-22 06:30:10,319] INFO: holx (9/2011): Created new record with 21 non-zero financial metrics
+[2025-03-22 06:30:10,334] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 06:30:10,347] WARNING: holx (12/2011): No existing record found(12/2011, 2011-12-24) - creating new one
+[2025-03-22 06:30:10,347] INFO: holx (12/2011): Created new record with 20 non-zero financial metrics
+[2025-03-22 06:30:10,362] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 06:30:10,376] WARNING: holx (3/2012): No existing record found(3/2012, 2012-03-24) - creating new one
+[2025-03-22 06:30:10,376] INFO: holx (3/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 06:30:10,403] INFO: holx (6/2012): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:30:10,430] INFO: holx (9/2012): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:30:10,458] INFO: holx (12/2012): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 06:30:10,485] INFO: holx (3/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:30:10,513] INFO: holx (6/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:30:10,541] INFO: holx (9/2013): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:30:10,568] INFO: holx (12/2013): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 06:30:10,596] INFO: holx (3/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:30:10,623] INFO: holx (6/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:30:10,651] INFO: holx (9/2014): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 06:30:10,679] INFO: holx (12/2014): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:30:10,705] INFO: holx (3/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:30:10,733] INFO: holx (6/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:30:10,760] INFO: holx (9/2015): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 06:30:10,787] INFO: holx (12/2015): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:30:10,814] INFO: holx (3/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:30:10,842] INFO: holx (6/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:30:10,869] INFO: holx (9/2016): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 06:30:10,897] INFO: holx (12/2016): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:30:10,913] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-22 06:30:10,926] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-22 06:30:10,939] INFO: holx (3/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:30:10,954] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-22 06:30:10,968] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-22 06:30:10,980] INFO: holx (6/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:30:11,008] INFO: holx (9/2017): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 06:30:11,036] INFO: holx (12/2017): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:30:11,064] INFO: holx (3/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:30:11,091] INFO: holx (6/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:30:11,119] INFO: holx (9/2018): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 06:30:11,147] INFO: holx (12/2018): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 06:30:11,176] INFO: holx (3/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:30:11,203] INFO: holx (6/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:30:11,231] INFO: holx (9/2019): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 06:30:11,258] INFO: holx (12/2019): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 06:30:11,286] INFO: holx (3/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:30:11,313] INFO: holx (6/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:30:11,341] INFO: holx (9/2020): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 06:30:11,367] INFO: holx (12/2020): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 06:30:11,395] INFO: holx (3/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:30:11,422] INFO: holx (6/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:30:11,450] INFO: holx (9/2021): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 06:30:11,477] INFO: holx (12/2021): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:30:11,505] INFO: holx (3/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:30:11,533] INFO: holx (6/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:30:11,560] INFO: holx (9/2022): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 06:30:11,588] INFO: holx (12/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 06:30:11,602] INFO: Trying adjusted date: 3/2023 (original: 4/2023)
+[2025-03-22 06:30:11,616] INFO: Found existing row with adjusted date: 3/2023
+[2025-03-22 06:30:11,629] INFO: holx (3/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:30:11,643] INFO: Trying adjusted date: 6/2023 (original: 7/2023)
+[2025-03-22 06:30:11,655] INFO: Found existing row with adjusted date: 6/2023
+[2025-03-22 06:30:11,668] INFO: holx (6/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:30:11,695] INFO: holx (9/2023): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 06:30:11,723] INFO: holx (12/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:30:11,750] INFO: holx (3/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:30:11,779] INFO: holx (6/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:30:11,807] INFO: holx (9/2024): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 06:30:11,821] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 06:30:11,834] WARNING: holx (12/2024): No existing record found(12/2024, 2024-12-28) - creating new one
+[2025-03-22 06:30:11,834] INFO: holx (12/2024): Created new record with 22 non-zero financial metrics

@@ -1,0 +1,87 @@
+[2025-03-22 10:27:19,840] INFO: Trying adjusted date: 7/2014 (original: 6/2014)
+[2025-03-22 10:27:19,853] WARNING: qrvo (6/2014): Found zero values for fields: Revenue, Current Liabilities, Net Income, Total Assets, Total Liabilities, Stockholders Equity, Cash and Cash Equivalents
+[2025-03-22 10:27:19,853] WARNING: qrvo (6/2014): No existing record found(6/2014, 2014-06-28) - creating new one
+[2025-03-22 10:27:19,854] INFO: qrvo (6/2014): Created new record with 0 non-zero financial metrics
+[2025-03-22 10:27:19,871] INFO: Trying adjusted date: 10/2014 (original: 9/2014)
+[2025-03-22 10:27:19,885] WARNING: qrvo (9/2014): Found zero values for fields: Revenue, Current Liabilities, Net Income, Total Assets, Total Liabilities, Cash and Cash Equivalents
+[2025-03-22 10:27:19,885] WARNING: qrvo (9/2014): No existing record found(9/2014, 2014-09-27) - creating new one
+[2025-03-22 10:27:19,886] INFO: qrvo (9/2014): Created new record with 0 non-zero financial metrics
+[2025-03-22 10:27:19,916] INFO: qrvo (12/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:27:19,946] INFO: qrvo (3/2015): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 10:27:19,976] INFO: qrvo (6/2015): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 10:27:19,992] INFO: Trying adjusted date: 9/2015 (original: 10/2015)
+[2025-03-22 10:27:20,007] INFO: Found existing row with adjusted date: 9/2015
+[2025-03-22 10:27:20,021] INFO: qrvo (9/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:27:20,036] INFO: Trying adjusted date: 12/2015 (original: 1/2016)
+[2025-03-22 10:27:20,050] INFO: Found existing row with adjusted date: 12/2015
+[2025-03-22 10:27:20,065] INFO: qrvo (12/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:27:20,080] INFO: Trying adjusted date: 3/2016 (original: 4/2016)
+[2025-03-22 10:27:20,095] INFO: Found existing row with adjusted date: 3/2016
+[2025-03-22 10:27:20,109] INFO: qrvo (3/2016): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 10:27:20,124] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-22 10:27:20,138] INFO: Found existing row with adjusted date: 6/2016
+[2025-03-22 10:27:20,138] WARNING: qrvo (6/2016): Found zero values for fields: Share Repurchases
+[2025-03-22 10:27:20,152] INFO: qrvo (6/2016): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 10:27:20,168] INFO: Trying adjusted date: 9/2016 (original: 10/2016)
+[2025-03-22 10:27:20,182] INFO: Found existing row with adjusted date: 9/2016
+[2025-03-22 10:27:20,197] INFO: qrvo (9/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:27:20,226] INFO: qrvo (12/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:27:20,242] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-22 10:27:20,255] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-22 10:27:20,269] INFO: qrvo (3/2017): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:27:20,284] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-22 10:27:20,297] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-22 10:27:20,311] INFO: qrvo (6/2017): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:27:20,339] INFO: qrvo (9/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:27:20,371] INFO: qrvo (12/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:27:20,399] INFO: qrvo (3/2018): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:27:20,429] INFO: qrvo (6/2018): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:27:20,461] INFO: qrvo (9/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:27:20,491] INFO: qrvo (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:27:20,522] INFO: qrvo (3/2019): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:27:20,551] INFO: qrvo (6/2019): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:27:20,581] INFO: qrvo (9/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:27:20,610] INFO: qrvo (12/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:27:20,639] INFO: qrvo (3/2020): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:27:20,669] INFO: qrvo (6/2020): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:27:20,685] INFO: Trying adjusted date: 9/2020 (original: 10/2020)
+[2025-03-22 10:27:20,698] INFO: Found existing row with adjusted date: 9/2020
+[2025-03-22 10:27:20,712] INFO: qrvo (9/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:27:20,727] INFO: Trying adjusted date: 12/2020 (original: 1/2021)
+[2025-03-22 10:27:20,741] INFO: Found existing row with adjusted date: 12/2020
+[2025-03-22 10:27:20,754] INFO: qrvo (12/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:27:20,770] INFO: Trying adjusted date: 3/2021 (original: 4/2021)
+[2025-03-22 10:27:20,783] INFO: Found existing row with adjusted date: 3/2021
+[2025-03-22 10:27:20,797] INFO: qrvo (3/2021): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:27:20,812] INFO: Trying adjusted date: 6/2021 (original: 7/2021)
+[2025-03-22 10:27:20,825] INFO: Found existing row with adjusted date: 6/2021
+[2025-03-22 10:27:20,839] INFO: qrvo (6/2021): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:27:20,854] INFO: Trying adjusted date: 9/2021 (original: 10/2021)
+[2025-03-22 10:27:20,868] INFO: Found existing row with adjusted date: 9/2021
+[2025-03-22 10:27:20,881] INFO: qrvo (9/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:27:20,897] INFO: Trying adjusted date: 12/2021 (original: 1/2022)
+[2025-03-22 10:27:20,910] INFO: Found existing row with adjusted date: 12/2021
+[2025-03-22 10:27:20,923] INFO: qrvo (12/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:27:20,938] INFO: Trying adjusted date: 3/2022 (original: 4/2022)
+[2025-03-22 10:27:20,952] INFO: Found existing row with adjusted date: 3/2022
+[2025-03-22 10:27:20,965] INFO: qrvo (3/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:27:20,980] INFO: Trying adjusted date: 6/2022 (original: 7/2022)
+[2025-03-22 10:27:20,995] INFO: Found existing row with adjusted date: 6/2022
+[2025-03-22 10:27:21,009] INFO: qrvo (6/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:27:21,024] INFO: Trying adjusted date: 9/2022 (original: 10/2022)
+[2025-03-22 10:27:21,037] INFO: Found existing row with adjusted date: 9/2022
+[2025-03-22 10:27:21,050] INFO: qrvo (9/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:27:21,078] INFO: qrvo (12/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:27:21,093] INFO: Trying adjusted date: 3/2023 (original: 4/2023)
+[2025-03-22 10:27:21,106] INFO: Found existing row with adjusted date: 3/2023
+[2025-03-22 10:27:21,120] INFO: qrvo (3/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:27:21,135] INFO: Trying adjusted date: 6/2023 (original: 7/2023)
+[2025-03-22 10:27:21,148] INFO: Found existing row with adjusted date: 6/2023
+[2025-03-22 10:27:21,161] INFO: qrvo (6/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:27:21,190] INFO: qrvo (9/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:27:21,221] INFO: qrvo (12/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:27:21,250] INFO: qrvo (3/2024): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:27:21,265] WARNING: qrvo (6/2024): Found zero values for fields: EPS Diluted
+[2025-03-22 10:27:21,278] INFO: qrvo (6/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 10:27:21,307] INFO: qrvo (9/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:27:21,337] INFO: qrvo (12/2024): Updated existing record with 17 non-zero financial metrics

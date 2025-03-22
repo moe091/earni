@@ -1,0 +1,132 @@
+[2025-03-22 06:59:58,227] INFO: Trying adjusted date: 3/2010 (original: 4/2010)
+[2025-03-22 06:59:58,240] WARNING: vfc (4/2010): No existing record found(4/2010, 2010-04-03) - creating new one
+[2025-03-22 06:59:58,240] INFO: vfc (4/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 06:59:58,257] INFO: Trying adjusted date: 6/2010 (original: 7/2010)
+[2025-03-22 06:59:58,271] WARNING: vfc (7/2010): No existing record found(7/2010, 2010-07-03) - creating new one
+[2025-03-22 06:59:58,271] INFO: vfc (7/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 06:59:58,287] INFO: Trying adjusted date: 9/2010 (original: 10/2010)
+[2025-03-22 06:59:58,300] WARNING: vfc (10/2010): No existing record found(10/2010, 2010-10-02) - creating new one
+[2025-03-22 06:59:58,301] INFO: vfc (10/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 06:59:58,316] INFO: Trying adjusted date: 12/2010 (original: 1/2011)
+[2025-03-22 06:59:58,330] WARNING: vfc (1/2011): No existing record found(1/2011, 2011-01-01) - creating new one
+[2025-03-22 06:59:58,330] INFO: vfc (1/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 06:59:58,345] INFO: Trying adjusted date: 3/2011 (original: 4/2011)
+[2025-03-22 06:59:58,358] WARNING: vfc (4/2011): No existing record found(4/2011, 2011-04-02) - creating new one
+[2025-03-22 06:59:58,359] INFO: vfc (4/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 06:59:58,374] INFO: Trying adjusted date: 6/2011 (original: 7/2011)
+[2025-03-22 06:59:58,387] WARNING: vfc (7/2011): No existing record found(7/2011, 2011-07-02) - creating new one
+[2025-03-22 06:59:58,387] INFO: vfc (7/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 06:59:58,402] INFO: Trying adjusted date: 9/2011 (original: 10/2011)
+[2025-03-22 06:59:58,416] WARNING: vfc (10/2011): No existing record found(10/2011, 2011-10-01) - creating new one
+[2025-03-22 06:59:58,416] INFO: vfc (10/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 06:59:58,431] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 06:59:58,443] WARNING: vfc (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 06:59:58,444] INFO: vfc (12/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 06:59:58,458] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 06:59:58,471] WARNING: vfc (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 06:59:58,471] INFO: vfc (3/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 06:59:58,485] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 06:59:58,498] WARNING: vfc (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 06:59:58,498] INFO: vfc (6/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 06:59:58,525] INFO: vfc (9/2012): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:59:58,551] INFO: vfc (12/2012): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:59:58,567] INFO: Trying adjusted date: 4/2013 (original: 3/2013)
+[2025-03-22 06:59:58,579] WARNING: vfc (3/2013): No existing record found(3/2013, 2013-03-30) - creating new one
+[2025-03-22 06:59:58,580] INFO: vfc (3/2013): Created new record with 15 non-zero financial metrics
+[2025-03-22 06:59:58,607] INFO: vfc (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 06:59:58,634] INFO: vfc (9/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:59:58,648] ERROR: Invalid numeric value for Interest Expense: 
+[2025-03-22 06:59:58,648] ERROR: vfc (12/2013): Invalid data types: Interest Expense=
+[2025-03-22 06:59:58,661] INFO: vfc (12/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:59:58,676] INFO: Trying adjusted date: 4/2014 (original: 3/2014)
+[2025-03-22 06:59:58,689] WARNING: vfc (3/2014): No existing record found(3/2014, 2014-03-29) - creating new one
+[2025-03-22 06:59:58,689] INFO: vfc (3/2014): Created new record with 15 non-zero financial metrics
+[2025-03-22 06:59:58,716] INFO: vfc (6/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:59:58,745] INFO: vfc (9/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:59:58,760] INFO: Trying adjusted date: 12/2014 (original: 1/2015)
+[2025-03-22 06:59:58,773] INFO: Found existing row with adjusted date: 12/2014
+[2025-03-22 06:59:58,773] WARNING: vfc (12/2014): Found zero values for fields: Interest Expense
+[2025-03-22 06:59:58,786] INFO: vfc (12/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:59:58,801] INFO: Trying adjusted date: 3/2015 (original: 4/2015)
+[2025-03-22 06:59:58,814] INFO: Found existing row with adjusted date: 3/2015
+[2025-03-22 06:59:58,827] INFO: vfc (3/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:59:58,841] INFO: Trying adjusted date: 6/2015 (original: 7/2015)
+[2025-03-22 06:59:58,854] INFO: Found existing row with adjusted date: 6/2015
+[2025-03-22 06:59:58,867] INFO: vfc (6/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 06:59:58,881] INFO: Trying adjusted date: 9/2015 (original: 10/2015)
+[2025-03-22 06:59:58,896] INFO: Found existing row with adjusted date: 9/2015
+[2025-03-22 06:59:58,909] INFO: vfc (9/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 06:59:58,923] INFO: Trying adjusted date: 12/2015 (original: 1/2016)
+[2025-03-22 06:59:58,934] INFO: Found existing row with adjusted date: 12/2015
+[2025-03-22 06:59:58,935] WARNING: vfc (12/2015): Found zero values for fields: Interest Expense
+[2025-03-22 06:59:58,947] INFO: vfc (12/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:59:58,962] INFO: Trying adjusted date: 3/2016 (original: 4/2016)
+[2025-03-22 06:59:58,975] INFO: Found existing row with adjusted date: 3/2016
+[2025-03-22 06:59:58,987] INFO: vfc (3/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:59:59,002] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-22 06:59:59,015] INFO: Found existing row with adjusted date: 6/2016
+[2025-03-22 06:59:59,028] INFO: vfc (6/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:59:59,042] INFO: Trying adjusted date: 9/2016 (original: 10/2016)
+[2025-03-22 06:59:59,055] INFO: Found existing row with adjusted date: 9/2016
+[2025-03-22 06:59:59,068] INFO: vfc (9/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:59:59,082] WARNING: vfc (12/2016): Found zero values for fields: Interest Expense
+[2025-03-22 06:59:59,095] INFO: vfc (12/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:59:59,109] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-22 06:59:59,122] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-22 06:59:59,135] INFO: vfc (3/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:59:59,150] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-22 06:59:59,163] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-22 06:59:59,175] INFO: vfc (6/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:59:59,203] INFO: vfc (9/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:59:59,230] INFO: vfc (12/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:59:59,246] WARNING: vfc (6/2018): Found zero values for fields: Share Repurchases
+[2025-03-22 06:59:59,258] INFO: vfc (6/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:59:59,285] INFO: vfc (9/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:59:59,314] INFO: vfc (12/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:59:59,343] INFO: vfc (3/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:59:59,371] INFO: vfc (6/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:59:59,400] INFO: vfc (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:59:59,428] INFO: vfc (12/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:59:59,455] INFO: vfc (3/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 06:59:59,483] INFO: vfc (6/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:59:59,510] INFO: vfc (9/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:59:59,538] INFO: vfc (12/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:59:59,553] INFO: Trying adjusted date: 3/2021 (original: 4/2021)
+[2025-03-22 06:59:59,566] INFO: Found existing row with adjusted date: 3/2021
+[2025-03-22 06:59:59,566] WARNING: vfc (3/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 06:59:59,579] INFO: vfc (3/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:59:59,593] INFO: Trying adjusted date: 6/2021 (original: 7/2021)
+[2025-03-22 06:59:59,606] INFO: Found existing row with adjusted date: 6/2021
+[2025-03-22 06:59:59,618] INFO: vfc (6/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:59:59,633] INFO: Trying adjusted date: 9/2021 (original: 10/2021)
+[2025-03-22 06:59:59,646] INFO: Found existing row with adjusted date: 9/2021
+[2025-03-22 06:59:59,659] INFO: vfc (9/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:59:59,674] INFO: Trying adjusted date: 12/2021 (original: 1/2022)
+[2025-03-22 06:59:59,686] INFO: Found existing row with adjusted date: 12/2021
+[2025-03-22 06:59:59,699] INFO: vfc (12/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:59:59,714] INFO: Trying adjusted date: 3/2022 (original: 4/2022)
+[2025-03-22 06:59:59,727] INFO: Found existing row with adjusted date: 3/2022
+[2025-03-22 06:59:59,740] INFO: vfc (3/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 06:59:59,754] INFO: Trying adjusted date: 6/2022 (original: 7/2022)
+[2025-03-22 06:59:59,767] INFO: Found existing row with adjusted date: 6/2022
+[2025-03-22 06:59:59,779] INFO: vfc (6/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:59:59,793] INFO: Trying adjusted date: 9/2022 (original: 10/2022)
+[2025-03-22 06:59:59,806] INFO: Found existing row with adjusted date: 9/2022
+[2025-03-22 06:59:59,818] INFO: vfc (9/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:59:59,844] INFO: vfc (12/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:59:59,859] INFO: Trying adjusted date: 3/2023 (original: 4/2023)
+[2025-03-22 06:59:59,872] INFO: Found existing row with adjusted date: 3/2023
+[2025-03-22 06:59:59,872] WARNING: vfc (3/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 06:59:59,885] INFO: vfc (3/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:59:59,900] INFO: Trying adjusted date: 6/2023 (original: 7/2023)
+[2025-03-22 06:59:59,912] INFO: Found existing row with adjusted date: 6/2023
+[2025-03-22 06:59:59,926] INFO: vfc (6/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:59:59,953] INFO: vfc (9/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:59:59,980] INFO: vfc (12/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:59:59,994] INFO: Trying adjusted date: 4/2024 (original: 3/2024)
+[2025-03-22 07:00:00,008] WARNING: vfc (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 07:00:00,008] WARNING: vfc (3/2024): No existing record found(3/2024, 2024-03-30) - creating new one
+[2025-03-22 07:00:00,008] INFO: vfc (3/2024): Created new record with 19 non-zero financial metrics
+[2025-03-22 07:00:00,036] INFO: vfc (6/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 07:00:00,064] INFO: vfc (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:00:00,091] INFO: vfc (12/2024): Updated existing record with 14 non-zero financial metrics

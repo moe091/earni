@@ -1,0 +1,79 @@
+[2025-03-22 12:23:03,152] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 12:23:03,165] WARNING: wynn (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 12:23:03,166] INFO: wynn (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 12:23:03,183] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 12:23:03,197] WARNING: wynn (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 12:23:03,197] INFO: wynn (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 12:23:03,214] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 12:23:03,227] WARNING: wynn (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 12:23:03,228] INFO: wynn (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 12:23:03,245] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 12:23:03,259] WARNING: wynn (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 12:23:03,260] INFO: wynn (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 12:23:03,275] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 12:23:03,289] WARNING: wynn (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 12:23:03,289] INFO: wynn (6/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 12:23:03,306] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 12:23:03,321] WARNING: wynn (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 12:23:03,322] INFO: wynn (9/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 12:23:03,338] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 12:23:03,353] WARNING: wynn (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 12:23:03,353] INFO: wynn (12/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 12:23:03,372] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 12:23:03,385] WARNING: wynn (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 12:23:03,386] INFO: wynn (3/2012): Created new record with 17 non-zero financial metrics
+[2025-03-22 12:23:03,416] INFO: wynn (6/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:23:03,446] INFO: wynn (9/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:23:03,479] INFO: wynn (12/2012): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:23:03,509] INFO: wynn (3/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:23:03,539] INFO: wynn (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 12:23:03,569] INFO: wynn (9/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:23:03,599] INFO: wynn (12/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:23:03,629] INFO: wynn (3/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:23:03,658] INFO: wynn (6/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:23:03,688] INFO: wynn (9/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:23:03,718] INFO: wynn (12/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:23:03,749] INFO: wynn (3/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:23:03,778] INFO: wynn (6/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:23:03,807] INFO: wynn (9/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:23:03,841] INFO: wynn (12/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:23:03,870] INFO: wynn (3/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:23:03,901] INFO: wynn (6/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:23:03,933] INFO: wynn (9/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:23:03,963] INFO: wynn (12/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:23:03,992] INFO: wynn (3/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:23:04,020] INFO: wynn (6/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:23:04,053] INFO: wynn (9/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:23:04,083] INFO: wynn (12/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:23:04,114] INFO: wynn (3/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:23:04,143] INFO: wynn (6/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:23:04,172] INFO: wynn (9/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:23:04,204] INFO: wynn (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:23:04,234] INFO: wynn (3/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:23:04,264] INFO: wynn (6/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 12:23:04,292] INFO: wynn (9/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 12:23:04,322] INFO: wynn (12/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:23:04,354] INFO: wynn (3/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:23:04,384] INFO: wynn (6/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:23:04,415] INFO: wynn (9/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:23:04,445] INFO: wynn (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:23:04,474] INFO: wynn (3/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:23:04,505] INFO: wynn (6/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:23:04,537] INFO: wynn (9/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:23:04,567] INFO: wynn (12/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:23:04,597] INFO: wynn (3/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:23:04,627] INFO: wynn (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:23:04,656] INFO: wynn (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:23:04,686] INFO: wynn (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:23:04,718] INFO: wynn (3/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:23:04,747] INFO: wynn (6/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:23:04,777] INFO: wynn (9/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:23:04,808] INFO: wynn (12/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:23:04,838] INFO: wynn (3/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:23:04,868] INFO: wynn (6/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:23:04,899] INFO: wynn (9/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:23:04,915] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 12:23:04,929] ERROR: Invalid numeric value for COGS: 
+[2025-03-22 12:23:04,929] ERROR: wynn (12/2024): Invalid data types: COGS=
+[2025-03-22 12:23:04,929] WARNING: wynn (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 12:23:04,930] INFO: wynn (12/2024): Created new record with 18 non-zero financial metrics

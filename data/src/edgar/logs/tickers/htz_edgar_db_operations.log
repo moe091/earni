@@ -1,0 +1,85 @@
+[2025-03-22 10:51:08,512] INFO: Trying adjusted date: 7/2016 (original: 6/2016)
+[2025-03-22 10:51:08,525] WARNING: htz (6/2016): No existing record found(6/2016, 2016-06-30) - creating new one
+[2025-03-22 10:51:08,525] INFO: htz (6/2016): Created new record with 12 non-zero financial metrics
+[2025-03-22 10:51:08,542] INFO: Trying adjusted date: 10/2016 (original: 9/2016)
+[2025-03-22 10:51:08,556] WARNING: htz (9/2016): No existing record found(9/2016, 2016-09-30) - creating new one
+[2025-03-22 10:51:08,556] INFO: htz (9/2016): Created new record with 11 non-zero financial metrics
+[2025-03-22 10:51:08,573] INFO: Trying adjusted date: 1/2017 (original: 12/2016)
+[2025-03-22 10:51:08,587] WARNING: htz (12/2016): No existing record found(12/2016, 2016-12-31) - creating new one
+[2025-03-22 10:51:08,588] INFO: htz (12/2016): Created new record with 11 non-zero financial metrics
+[2025-03-22 10:51:08,603] INFO: Trying adjusted date: 4/2017 (original: 3/2017)
+[2025-03-22 10:51:08,617] WARNING: htz (3/2017): No existing record found(3/2017, 2017-03-31) - creating new one
+[2025-03-22 10:51:08,617] INFO: htz (3/2017): Created new record with 9 non-zero financial metrics
+[2025-03-22 10:51:08,632] INFO: Trying adjusted date: 7/2017 (original: 6/2017)
+[2025-03-22 10:51:08,646] WARNING: htz (6/2017): No existing record found(6/2017, 2017-06-30) - creating new one
+[2025-03-22 10:51:08,646] INFO: htz (6/2017): Created new record with 9 non-zero financial metrics
+[2025-03-22 10:51:08,661] INFO: Trying adjusted date: 10/2017 (original: 9/2017)
+[2025-03-22 10:51:08,675] WARNING: htz (9/2017): No existing record found(9/2017, 2017-09-30) - creating new one
+[2025-03-22 10:51:08,675] INFO: htz (9/2017): Created new record with 9 non-zero financial metrics
+[2025-03-22 10:51:08,691] INFO: Trying adjusted date: 1/2018 (original: 12/2017)
+[2025-03-22 10:51:08,705] WARNING: htz (12/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 10:51:08,705] WARNING: htz (12/2017): No existing record found(12/2017, 2017-12-31) - creating new one
+[2025-03-22 10:51:08,706] INFO: htz (12/2017): Created new record with 10 non-zero financial metrics
+[2025-03-22 10:51:08,722] INFO: Trying adjusted date: 4/2018 (original: 3/2018)
+[2025-03-22 10:51:08,735] WARNING: htz (3/2018): No existing record found(3/2018, 2018-03-31) - creating new one
+[2025-03-22 10:51:08,736] INFO: htz (3/2018): Created new record with 9 non-zero financial metrics
+[2025-03-22 10:51:08,751] INFO: Trying adjusted date: 7/2018 (original: 6/2018)
+[2025-03-22 10:51:08,764] WARNING: htz (6/2018): No existing record found(6/2018, 2018-06-30) - creating new one
+[2025-03-22 10:51:08,765] INFO: htz (6/2018): Created new record with 9 non-zero financial metrics
+[2025-03-22 10:51:08,780] INFO: Trying adjusted date: 10/2018 (original: 9/2018)
+[2025-03-22 10:51:08,794] WARNING: htz (9/2018): No existing record found(9/2018, 2018-09-30) - creating new one
+[2025-03-22 10:51:08,794] INFO: htz (9/2018): Created new record with 9 non-zero financial metrics
+[2025-03-22 10:51:08,809] INFO: Trying adjusted date: 1/2019 (original: 12/2018)
+[2025-03-22 10:51:08,823] WARNING: htz (12/2018): Found zero values for fields: Share Repurchases
+[2025-03-22 10:51:08,823] WARNING: htz (12/2018): No existing record found(12/2018, 2018-12-31) - creating new one
+[2025-03-22 10:51:08,824] INFO: htz (12/2018): Created new record with 9 non-zero financial metrics
+[2025-03-22 10:51:08,838] INFO: Trying adjusted date: 4/2019 (original: 3/2019)
+[2025-03-22 10:51:08,852] WARNING: htz (3/2019): No existing record found(3/2019, 2019-03-31) - creating new one
+[2025-03-22 10:51:08,852] INFO: htz (3/2019): Created new record with 12 non-zero financial metrics
+[2025-03-22 10:51:08,868] INFO: Trying adjusted date: 7/2019 (original: 6/2019)
+[2025-03-22 10:51:08,881] WARNING: htz (6/2019): No existing record found(6/2019, 2019-06-30) - creating new one
+[2025-03-22 10:51:08,882] INFO: htz (6/2019): Created new record with 9 non-zero financial metrics
+[2025-03-22 10:51:08,900] INFO: Trying adjusted date: 10/2019 (original: 9/2019)
+[2025-03-22 10:51:08,914] WARNING: htz (9/2019): No existing record found(9/2019, 2019-09-30) - creating new one
+[2025-03-22 10:51:08,914] INFO: htz (9/2019): Created new record with 9 non-zero financial metrics
+[2025-03-22 10:51:08,929] INFO: Trying adjusted date: 1/2020 (original: 12/2019)
+[2025-03-22 10:51:08,943] WARNING: htz (12/2019): No existing record found(12/2019, 2019-12-31) - creating new one
+[2025-03-22 10:51:08,943] INFO: htz (12/2019): Created new record with 13 non-zero financial metrics
+[2025-03-22 10:51:08,959] INFO: Trying adjusted date: 4/2020 (original: 3/2020)
+[2025-03-22 10:51:08,972] WARNING: htz (3/2020): No existing record found(3/2020, 2020-03-31) - creating new one
+[2025-03-22 10:51:08,973] INFO: htz (3/2020): Created new record with 12 non-zero financial metrics
+[2025-03-22 10:51:08,990] INFO: Trying adjusted date: 7/2020 (original: 6/2020)
+[2025-03-22 10:51:09,003] WARNING: htz (6/2020): No existing record found(6/2020, 2020-06-30) - creating new one
+[2025-03-22 10:51:09,004] INFO: htz (6/2020): Created new record with 9 non-zero financial metrics
+[2025-03-22 10:51:09,019] INFO: Trying adjusted date: 10/2020 (original: 9/2020)
+[2025-03-22 10:51:09,034] WARNING: htz (9/2020): No existing record found(9/2020, 2020-09-30) - creating new one
+[2025-03-22 10:51:09,034] INFO: htz (9/2020): Created new record with 9 non-zero financial metrics
+[2025-03-22 10:51:09,050] INFO: Trying adjusted date: 1/2021 (original: 12/2020)
+[2025-03-22 10:51:09,064] WARNING: htz (12/2020): No existing record found(12/2020, 2020-12-31) - creating new one
+[2025-03-22 10:51:09,064] INFO: htz (12/2020): Created new record with 12 non-zero financial metrics
+[2025-03-22 10:51:09,080] INFO: Trying adjusted date: 4/2021 (original: 3/2021)
+[2025-03-22 10:51:09,093] WARNING: htz (3/2021): No existing record found(3/2021, 2021-03-31) - creating new one
+[2025-03-22 10:51:09,093] INFO: htz (3/2021): Created new record with 12 non-zero financial metrics
+[2025-03-22 10:51:09,110] INFO: Trying adjusted date: 7/2021 (original: 6/2021)
+[2025-03-22 10:51:09,124] WARNING: htz (6/2021): No existing record found(6/2021, 2021-06-30) - creating new one
+[2025-03-22 10:51:09,125] INFO: htz (6/2021): Created new record with 9 non-zero financial metrics
+[2025-03-22 10:51:09,140] INFO: Trying adjusted date: 10/2021 (original: 9/2021)
+[2025-03-22 10:51:09,154] WARNING: htz (9/2021): No existing record found(9/2021, 2021-09-30) - creating new one
+[2025-03-22 10:51:09,154] INFO: htz (9/2021): Created new record with 9 non-zero financial metrics
+[2025-03-22 10:51:09,183] INFO: htz (12/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:51:09,212] INFO: htz (3/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:51:09,241] INFO: htz (6/2022): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 10:51:09,271] INFO: htz (9/2022): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 10:51:09,301] INFO: htz (12/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:51:09,330] INFO: htz (3/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:51:09,360] INFO: htz (6/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:51:09,390] INFO: htz (9/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:51:09,419] INFO: htz (12/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:51:09,434] WARNING: htz (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 10:51:09,447] INFO: htz (3/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:51:09,477] INFO: htz (6/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:51:09,508] INFO: htz (9/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:51:09,523] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 10:51:09,538] WARNING: htz (12/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 10:51:09,539] WARNING: htz (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 10:51:09,539] INFO: htz (12/2024): Created new record with 12 non-zero financial metrics

@@ -1,0 +1,139 @@
+[2025-03-22 09:02:41,232] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 09:02:41,245] WARNING: wtrg (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 09:02:41,245] INFO: wtrg (6/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 09:02:41,262] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 09:02:41,276] WARNING: wtrg (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 09:02:41,277] INFO: wtrg (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 09:02:41,292] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 09:02:41,306] WARNING: wtrg (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 09:02:41,306] INFO: wtrg (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 09:02:41,321] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 09:02:41,335] WARNING: wtrg (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 09:02:41,335] INFO: wtrg (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 09:02:41,352] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 09:02:41,366] WARNING: wtrg (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 09:02:41,367] INFO: wtrg (6/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 09:02:41,381] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 09:02:41,394] WARNING: wtrg (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 09:02:41,395] INFO: wtrg (9/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 09:02:41,410] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 09:02:41,424] WARNING: wtrg (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 09:02:41,424] INFO: wtrg (12/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 09:02:41,439] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 09:02:41,452] WARNING: wtrg (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 09:02:41,452] INFO: wtrg (3/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 09:02:41,467] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 09:02:41,481] WARNING: wtrg (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 09:02:41,482] INFO: wtrg (6/2012): Created new record with 13 non-zero financial metrics
+[2025-03-22 09:02:41,496] INFO: Trying adjusted date: 10/2012 (original: 9/2012)
+[2025-03-22 09:02:41,509] WARNING: wtrg (9/2012): No existing record found(9/2012, 2012-09-30) - creating new one
+[2025-03-22 09:02:41,509] INFO: wtrg (9/2012): Created new record with 13 non-zero financial metrics
+[2025-03-22 09:02:41,525] INFO: Trying adjusted date: 1/2013 (original: 12/2012)
+[2025-03-22 09:02:41,538] WARNING: wtrg (12/2012): No existing record found(12/2012, 2012-12-31) - creating new one
+[2025-03-22 09:02:41,539] INFO: wtrg (12/2012): Created new record with 19 non-zero financial metrics
+[2025-03-22 09:02:41,553] INFO: Trying adjusted date: 4/2013 (original: 3/2013)
+[2025-03-22 09:02:41,566] WARNING: wtrg (3/2013): No existing record found(3/2013, 2013-03-31) - creating new one
+[2025-03-22 09:02:41,567] INFO: wtrg (3/2013): Created new record with 18 non-zero financial metrics
+[2025-03-22 09:02:41,583] INFO: Trying adjusted date: 7/2013 (original: 6/2013)
+[2025-03-22 09:02:41,596] WARNING: wtrg (6/2013): No existing record found(6/2013, 2013-06-30) - creating new one
+[2025-03-22 09:02:41,596] INFO: wtrg (6/2013): Created new record with 0 non-zero financial metrics
+[2025-03-22 09:02:41,613] INFO: Trying adjusted date: 10/2013 (original: 9/2013)
+[2025-03-22 09:02:41,627] WARNING: wtrg (9/2013): No existing record found(9/2013, 2013-09-30) - creating new one
+[2025-03-22 09:02:41,627] INFO: wtrg (9/2013): Created new record with 13 non-zero financial metrics
+[2025-03-22 09:02:41,642] INFO: Trying adjusted date: 1/2014 (original: 12/2013)
+[2025-03-22 09:02:41,655] WARNING: wtrg (12/2013): No existing record found(12/2013, 2013-12-31) - creating new one
+[2025-03-22 09:02:41,656] INFO: wtrg (12/2013): Created new record with 19 non-zero financial metrics
+[2025-03-22 09:02:41,670] INFO: Trying adjusted date: 4/2014 (original: 3/2014)
+[2025-03-22 09:02:41,684] WARNING: wtrg (3/2014): No existing record found(3/2014, 2014-03-31) - creating new one
+[2025-03-22 09:02:41,684] INFO: wtrg (3/2014): Created new record with 18 non-zero financial metrics
+[2025-03-22 09:02:41,700] INFO: Trying adjusted date: 7/2014 (original: 6/2014)
+[2025-03-22 09:02:41,713] WARNING: wtrg (6/2014): No existing record found(6/2014, 2014-06-30) - creating new one
+[2025-03-22 09:02:41,714] INFO: wtrg (6/2014): Created new record with 13 non-zero financial metrics
+[2025-03-22 09:02:41,730] INFO: Trying adjusted date: 10/2014 (original: 9/2014)
+[2025-03-22 09:02:41,743] WARNING: wtrg (9/2014): No existing record found(9/2014, 2014-09-30) - creating new one
+[2025-03-22 09:02:41,744] INFO: wtrg (9/2014): Created new record with 13 non-zero financial metrics
+[2025-03-22 09:02:41,759] INFO: Trying adjusted date: 1/2015 (original: 12/2014)
+[2025-03-22 09:02:41,773] WARNING: wtrg (12/2014): No existing record found(12/2014, 2014-12-31) - creating new one
+[2025-03-22 09:02:41,773] INFO: wtrg (12/2014): Created new record with 19 non-zero financial metrics
+[2025-03-22 09:02:41,788] INFO: Trying adjusted date: 4/2015 (original: 3/2015)
+[2025-03-22 09:02:41,802] WARNING: wtrg (3/2015): No existing record found(3/2015, 2015-03-31) - creating new one
+[2025-03-22 09:02:41,802] INFO: wtrg (3/2015): Created new record with 18 non-zero financial metrics
+[2025-03-22 09:02:41,817] INFO: Trying adjusted date: 7/2015 (original: 6/2015)
+[2025-03-22 09:02:41,830] WARNING: wtrg (6/2015): No existing record found(6/2015, 2015-06-30) - creating new one
+[2025-03-22 09:02:41,831] INFO: wtrg (6/2015): Created new record with 13 non-zero financial metrics
+[2025-03-22 09:02:41,847] INFO: Trying adjusted date: 10/2015 (original: 9/2015)
+[2025-03-22 09:02:41,861] WARNING: wtrg (9/2015): No existing record found(9/2015, 2015-09-30) - creating new one
+[2025-03-22 09:02:41,862] INFO: wtrg (9/2015): Created new record with 13 non-zero financial metrics
+[2025-03-22 09:02:41,879] INFO: Trying adjusted date: 1/2016 (original: 12/2015)
+[2025-03-22 09:02:41,893] WARNING: wtrg (12/2015): No existing record found(12/2015, 2015-12-31) - creating new one
+[2025-03-22 09:02:41,893] INFO: wtrg (12/2015): Created new record with 19 non-zero financial metrics
+[2025-03-22 09:02:41,908] INFO: Trying adjusted date: 4/2016 (original: 3/2016)
+[2025-03-22 09:02:41,922] WARNING: wtrg (3/2016): No existing record found(3/2016, 2016-03-31) - creating new one
+[2025-03-22 09:02:41,922] INFO: wtrg (3/2016): Created new record with 14 non-zero financial metrics
+[2025-03-22 09:02:41,937] INFO: Trying adjusted date: 7/2016 (original: 6/2016)
+[2025-03-22 09:02:41,950] WARNING: wtrg (6/2016): No existing record found(6/2016, 2016-06-30) - creating new one
+[2025-03-22 09:02:41,951] INFO: wtrg (6/2016): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:02:41,967] INFO: Trying adjusted date: 10/2016 (original: 9/2016)
+[2025-03-22 09:02:41,981] WARNING: wtrg (9/2016): No existing record found(9/2016, 2016-09-30) - creating new one
+[2025-03-22 09:02:41,981] INFO: wtrg (9/2016): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:02:41,996] INFO: Trying adjusted date: 1/2017 (original: 12/2016)
+[2025-03-22 09:02:42,010] WARNING: wtrg (12/2016): No existing record found(12/2016, 2016-12-31) - creating new one
+[2025-03-22 09:02:42,010] INFO: wtrg (12/2016): Created new record with 19 non-zero financial metrics
+[2025-03-22 09:02:42,025] INFO: Trying adjusted date: 4/2017 (original: 3/2017)
+[2025-03-22 09:02:42,039] WARNING: wtrg (3/2017): No existing record found(3/2017, 2017-03-31) - creating new one
+[2025-03-22 09:02:42,039] INFO: wtrg (3/2017): Created new record with 14 non-zero financial metrics
+[2025-03-22 09:02:42,055] INFO: Trying adjusted date: 7/2017 (original: 6/2017)
+[2025-03-22 09:02:42,068] WARNING: wtrg (6/2017): No existing record found(6/2017, 2017-06-30) - creating new one
+[2025-03-22 09:02:42,069] INFO: wtrg (6/2017): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:02:42,086] INFO: Trying adjusted date: 10/2017 (original: 9/2017)
+[2025-03-22 09:02:42,103] WARNING: wtrg (9/2017): No existing record found(9/2017, 2017-09-30) - creating new one
+[2025-03-22 09:02:42,103] INFO: wtrg (9/2017): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:02:42,118] INFO: Trying adjusted date: 1/2018 (original: 12/2017)
+[2025-03-22 09:02:42,132] WARNING: wtrg (12/2017): No existing record found(12/2017, 2017-12-31) - creating new one
+[2025-03-22 09:02:42,132] INFO: wtrg (12/2017): Created new record with 19 non-zero financial metrics
+[2025-03-22 09:02:42,148] INFO: Trying adjusted date: 4/2018 (original: 3/2018)
+[2025-03-22 09:02:42,162] WARNING: wtrg (3/2018): No existing record found(3/2018, 2018-03-31) - creating new one
+[2025-03-22 09:02:42,163] INFO: wtrg (3/2018): Created new record with 17 non-zero financial metrics
+[2025-03-22 09:02:42,178] INFO: Trying adjusted date: 7/2018 (original: 6/2018)
+[2025-03-22 09:02:42,192] WARNING: wtrg (6/2018): No existing record found(6/2018, 2018-06-30) - creating new one
+[2025-03-22 09:02:42,192] INFO: wtrg (6/2018): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:02:42,207] INFO: Trying adjusted date: 10/2018 (original: 9/2018)
+[2025-03-22 09:02:42,221] WARNING: wtrg (9/2018): No existing record found(9/2018, 2018-09-30) - creating new one
+[2025-03-22 09:02:42,221] INFO: wtrg (9/2018): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:02:42,236] INFO: Trying adjusted date: 1/2019 (original: 12/2018)
+[2025-03-22 09:02:42,250] WARNING: wtrg (12/2018): No existing record found(12/2018, 2018-12-31) - creating new one
+[2025-03-22 09:02:42,250] INFO: wtrg (12/2018): Created new record with 19 non-zero financial metrics
+[2025-03-22 09:02:42,266] INFO: Trying adjusted date: 4/2019 (original: 3/2019)
+[2025-03-22 09:02:42,279] WARNING: wtrg (3/2019): No existing record found(3/2019, 2019-03-31) - creating new one
+[2025-03-22 09:02:42,280] INFO: wtrg (3/2019): Created new record with 16 non-zero financial metrics
+[2025-03-22 09:02:42,294] INFO: Trying adjusted date: 7/2019 (original: 6/2019)
+[2025-03-22 09:02:42,307] WARNING: wtrg (6/2019): No existing record found(6/2019, 2019-06-30) - creating new one
+[2025-03-22 09:02:42,308] INFO: wtrg (6/2019): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:02:42,322] INFO: Trying adjusted date: 10/2019 (original: 9/2019)
+[2025-03-22 09:02:42,336] WARNING: wtrg (9/2019): No existing record found(9/2019, 2019-09-30) - creating new one
+[2025-03-22 09:02:42,336] INFO: wtrg (9/2019): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:02:42,365] INFO: wtrg (12/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:02:42,396] INFO: wtrg (3/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:02:42,425] INFO: wtrg (6/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:02:42,453] INFO: wtrg (9/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:02:42,483] INFO: wtrg (12/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:02:42,511] INFO: wtrg (3/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:02:42,540] INFO: wtrg (6/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:02:42,568] INFO: wtrg (9/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:02:42,583] INFO: Trying adjusted date: 1/2022 (original: 12/2021)
+[2025-03-22 09:02:42,597] WARNING: wtrg (12/2021): No existing record found(12/2021, 2021-12-31) - creating new one
+[2025-03-22 09:02:42,597] INFO: wtrg (12/2021): Created new record with 16 non-zero financial metrics
+[2025-03-22 09:02:42,627] INFO: wtrg (3/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:02:42,656] INFO: wtrg (6/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:02:42,684] INFO: wtrg (9/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:02:42,713] INFO: wtrg (12/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:02:42,742] INFO: wtrg (3/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:02:42,771] INFO: wtrg (6/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:02:42,800] INFO: wtrg (9/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:02:42,829] INFO: wtrg (12/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:02:42,857] INFO: wtrg (3/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:02:42,885] INFO: wtrg (6/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:02:42,914] INFO: wtrg (9/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:02:42,933] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 09:02:42,946] WARNING: wtrg (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 09:02:42,947] INFO: wtrg (12/2024): Created new record with 16 non-zero financial metrics

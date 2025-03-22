@@ -1,0 +1,88 @@
+[2025-03-22 11:53:14,384] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 11:53:14,399] WARNING: otex (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 11:53:14,399] INFO: otex (3/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 11:53:14,417] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 11:53:14,431] WARNING: otex (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 11:53:14,432] INFO: otex (6/2010): Created new record with 18 non-zero financial metrics
+[2025-03-22 11:53:14,448] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 11:53:14,462] WARNING: otex (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 11:53:14,463] INFO: otex (9/2010): Created new record with 17 non-zero financial metrics
+[2025-03-22 11:53:14,479] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 11:53:14,493] WARNING: otex (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 11:53:14,494] INFO: otex (12/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 11:53:14,510] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 11:53:14,525] WARNING: otex (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 11:53:14,525] INFO: otex (3/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 11:53:14,541] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 11:53:14,554] WARNING: otex (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 11:53:14,555] INFO: otex (6/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 11:53:14,570] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 11:53:14,584] WARNING: otex (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 11:53:14,585] INFO: otex (9/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 11:53:14,600] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 11:53:14,614] WARNING: otex (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 11:53:14,615] INFO: otex (12/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 11:53:14,631] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 11:53:14,644] WARNING: otex (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 11:53:14,645] INFO: otex (3/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 11:53:14,660] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 11:53:14,674] WARNING: otex (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 11:53:14,674] INFO: otex (6/2012): Created new record with 19 non-zero financial metrics
+[2025-03-22 11:53:14,704] INFO: otex (9/2012): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:53:14,736] INFO: otex (12/2012): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:53:14,767] INFO: otex (3/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:53:14,783] WARNING: otex (6/2013): Found zero values for fields: Share Repurchases
+[2025-03-22 11:53:14,797] INFO: otex (6/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:53:14,827] INFO: otex (9/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:53:14,858] INFO: otex (12/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:53:14,886] INFO: otex (3/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:53:14,915] INFO: otex (6/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:53:14,945] INFO: otex (9/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:53:14,974] INFO: otex (12/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:53:15,003] INFO: otex (3/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:53:15,034] INFO: otex (6/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:53:15,064] INFO: otex (9/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:53:15,093] INFO: otex (12/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:53:15,123] INFO: otex (3/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:53:15,156] INFO: otex (6/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:53:15,172] WARNING: otex (9/2016): Found zero values for fields: Share Repurchases
+[2025-03-22 11:53:15,186] INFO: otex (9/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:53:15,216] INFO: otex (12/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:53:15,246] INFO: otex (3/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:53:15,275] INFO: otex (6/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:53:15,305] INFO: otex (9/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:53:15,333] INFO: otex (12/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:53:15,362] INFO: otex (3/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:53:15,392] INFO: otex (6/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:53:15,422] INFO: otex (9/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:53:15,452] INFO: otex (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:53:15,482] INFO: otex (3/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:53:15,511] INFO: otex (6/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:53:15,541] INFO: otex (9/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:53:15,558] WARNING: otex (12/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 11:53:15,572] INFO: otex (12/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:53:15,588] WARNING: otex (3/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 11:53:15,603] INFO: otex (3/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:53:15,633] INFO: otex (6/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:53:15,662] INFO: otex (9/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:53:15,678] WARNING: otex (12/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 11:53:15,692] INFO: otex (12/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:53:15,723] INFO: otex (3/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:53:15,752] INFO: otex (6/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:53:15,781] INFO: otex (9/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:53:15,810] INFO: otex (12/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:53:15,841] INFO: otex (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:53:15,871] INFO: otex (6/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:53:15,902] INFO: otex (9/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:53:15,932] INFO: otex (12/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:53:15,961] INFO: otex (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:53:15,976] WARNING: otex (6/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 11:53:15,991] INFO: otex (6/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:53:16,021] INFO: otex (9/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:53:16,051] INFO: otex (12/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:53:16,080] INFO: otex (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:53:16,109] INFO: otex (6/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:53:16,138] INFO: otex (9/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:53:16,155] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 11:53:16,170] WARNING: otex (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 11:53:16,170] INFO: otex (12/2024): Created new record with 16 non-zero financial metrics

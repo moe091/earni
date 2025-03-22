@@ -1,0 +1,82 @@
+[2025-03-22 05:56:21,258] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 05:56:21,271] WARNING: cms (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 05:56:21,271] INFO: cms (6/2010): Created new record with 10 non-zero financial metrics
+[2025-03-22 05:56:21,288] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 05:56:21,301] WARNING: cms (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 05:56:21,302] INFO: cms (9/2010): Created new record with 10 non-zero financial metrics
+[2025-03-22 05:56:21,317] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 05:56:21,329] WARNING: cms (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 05:56:21,329] INFO: cms (12/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 05:56:21,343] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 05:56:21,356] WARNING: cms (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 05:56:21,357] INFO: cms (3/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 05:56:21,371] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 05:56:21,384] WARNING: cms (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 05:56:21,384] INFO: cms (6/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 05:56:21,399] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 05:56:21,412] WARNING: cms (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 05:56:21,412] INFO: cms (9/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 05:56:21,426] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 05:56:21,440] WARNING: cms (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 05:56:21,440] INFO: cms (12/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 05:56:21,455] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 05:56:21,471] WARNING: cms (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 05:56:21,471] INFO: cms (3/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 05:56:21,486] INFO: Trying adjusted date: 6/2012 (original: 5/2012)
+[2025-03-22 05:56:21,498] WARNING: cms (5/2012): No existing record found(5/2012, 2012-05-30) - creating new one
+[2025-03-22 05:56:21,499] INFO: cms (5/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:56:21,525] INFO: cms (9/2012): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:56:21,553] INFO: cms (12/2012): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:56:21,581] INFO: cms (3/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:56:21,608] INFO: cms (6/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:56:21,635] INFO: cms (9/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:56:21,662] INFO: cms (12/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:56:21,689] INFO: cms (3/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:56:21,717] INFO: cms (6/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:56:21,744] INFO: cms (9/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 05:56:21,772] INFO: cms (12/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:56:21,799] INFO: cms (3/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:56:21,825] INFO: cms (6/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 05:56:21,852] INFO: cms (9/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:56:21,882] INFO: cms (12/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:56:21,918] INFO: cms (3/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:56:21,945] INFO: cms (6/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:56:21,972] INFO: cms (9/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:56:22,004] INFO: cms (12/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:56:22,032] INFO: cms (3/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:56:22,060] INFO: cms (6/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:56:22,087] INFO: cms (9/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:56:22,113] INFO: cms (12/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:56:22,140] INFO: cms (3/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:56:22,154] WARNING: cms (6/2018): Found zero values for fields: Loans Held for Sale
+[2025-03-22 05:56:22,167] INFO: cms (6/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 05:56:22,195] INFO: cms (9/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:56:22,209] WARNING: cms (12/2018): Found zero values for fields: Loans Held for Sale
+[2025-03-22 05:56:22,222] INFO: cms (12/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:56:22,249] INFO: cms (3/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:56:22,276] INFO: cms (6/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 05:56:22,303] INFO: cms (9/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 05:56:22,332] INFO: cms (12/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:56:22,347] WARNING: cms (3/2020): Found zero values for fields: Loans Held for Sale
+[2025-03-22 05:56:22,360] INFO: cms (3/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:56:22,388] INFO: cms (6/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 05:56:22,419] INFO: cms (9/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 05:56:22,446] INFO: cms (12/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:56:22,474] INFO: cms (3/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:56:22,500] INFO: cms (6/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 05:56:22,526] INFO: cms (9/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 05:56:22,554] INFO: cms (12/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:56:22,581] INFO: cms (3/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:56:22,609] INFO: cms (6/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 05:56:22,637] INFO: cms (9/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 05:56:22,665] INFO: cms (12/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:56:22,691] INFO: cms (3/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:56:22,721] INFO: cms (6/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 05:56:22,748] INFO: cms (9/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 05:56:22,777] INFO: cms (12/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:56:22,805] INFO: cms (3/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:56:22,832] INFO: cms (6/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 05:56:22,859] INFO: cms (9/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 05:56:22,875] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 05:56:22,888] WARNING: cms (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 05:56:22,888] INFO: cms (12/2024): Created new record with 12 non-zero financial metrics

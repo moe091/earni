@@ -1,0 +1,80 @@
+[2025-03-22 03:52:11,096] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 03:52:11,109] WARNING: ibkr (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 03:52:11,109] INFO: ibkr (9/2010): Created new record with 8 non-zero financial metrics
+[2025-03-22 03:52:11,125] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 03:52:11,137] WARNING: ibkr (12/2010): Found zero values for fields: Share Repurchases
+[2025-03-22 03:52:11,137] WARNING: ibkr (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 03:52:11,138] INFO: ibkr (12/2010): Created new record with 11 non-zero financial metrics
+[2025-03-22 03:52:11,151] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 03:52:11,164] WARNING: ibkr (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 03:52:11,164] INFO: ibkr (3/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 03:52:11,178] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 03:52:11,190] WARNING: ibkr (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 03:52:11,191] INFO: ibkr (9/2011): Created new record with 8 non-zero financial metrics
+[2025-03-22 03:52:11,204] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 03:52:11,216] WARNING: ibkr (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 03:52:11,217] INFO: ibkr (12/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 03:52:11,230] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 03:52:11,243] WARNING: ibkr (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 03:52:11,243] INFO: ibkr (3/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 03:52:11,257] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 03:52:11,269] WARNING: ibkr (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 03:52:11,270] INFO: ibkr (6/2012): Created new record with 8 non-zero financial metrics
+[2025-03-22 03:52:11,296] INFO: ibkr (9/2012): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:52:11,322] INFO: ibkr (12/2012): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:52:11,348] INFO: ibkr (3/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:52:11,374] INFO: ibkr (6/2013): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:52:11,401] INFO: ibkr (12/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:52:11,428] INFO: ibkr (3/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:52:11,455] INFO: ibkr (6/2014): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:52:11,482] INFO: ibkr (9/2014): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:52:11,507] INFO: ibkr (12/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:52:11,534] INFO: ibkr (3/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:52:11,560] INFO: ibkr (6/2015): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:52:11,586] INFO: ibkr (9/2015): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:52:11,612] INFO: ibkr (12/2015): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:52:11,639] INFO: ibkr (3/2016): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:52:11,666] INFO: ibkr (6/2016): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:52:11,693] INFO: ibkr (9/2016): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:52:11,720] INFO: ibkr (12/2016): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:52:11,747] INFO: ibkr (3/2017): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:52:11,772] INFO: ibkr (6/2017): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:52:11,798] INFO: ibkr (9/2017): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:52:11,824] INFO: ibkr (12/2017): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:52:11,850] INFO: ibkr (3/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:52:11,877] INFO: ibkr (6/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 03:52:11,905] INFO: ibkr (9/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 03:52:11,933] INFO: ibkr (12/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:52:11,960] INFO: ibkr (3/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:52:11,986] INFO: ibkr (6/2019): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 03:52:12,000] INFO: Trying adjusted date: 10/2019 (original: 9/2019)
+[2025-03-22 03:52:12,013] WARNING: ibkr (9/2019): No existing record found(9/2019, 2019-09-30) - creating new one
+[2025-03-22 03:52:12,013] INFO: ibkr (9/2019): Created new record with 9 non-zero financial metrics
+[2025-03-22 03:52:12,028] INFO: Trying adjusted date: 1/2020 (original: 12/2019)
+[2025-03-22 03:52:12,041] WARNING: ibkr (12/2019): No existing record found(12/2019, 2019-12-31) - creating new one
+[2025-03-22 03:52:12,041] INFO: ibkr (12/2019): Created new record with 12 non-zero financial metrics
+[2025-03-22 03:52:12,068] INFO: ibkr (3/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:52:12,094] INFO: ibkr (6/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:52:12,121] INFO: ibkr (9/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:52:12,148] INFO: ibkr (12/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:52:12,176] INFO: ibkr (3/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:52:12,202] INFO: ibkr (6/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:52:12,229] INFO: ibkr (9/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:52:12,255] INFO: ibkr (12/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:52:12,283] INFO: ibkr (3/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:52:12,309] INFO: ibkr (6/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:52:12,336] INFO: ibkr (9/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:52:12,363] INFO: ibkr (12/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:52:12,389] INFO: ibkr (3/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:52:12,416] INFO: ibkr (6/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:52:12,441] INFO: ibkr (9/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:52:12,455] WARNING: ibkr (12/2023): Found zero values for fields: Deferred Revenue
+[2025-03-22 03:52:12,468] INFO: ibkr (12/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:52:12,482] WARNING: ibkr (3/2024): Found zero values for fields: Deferred Revenue
+[2025-03-22 03:52:12,495] INFO: ibkr (3/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:52:12,509] WARNING: ibkr (6/2024): Found zero values for fields: Deferred Revenue
+[2025-03-22 03:52:12,521] INFO: ibkr (6/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:52:12,535] WARNING: ibkr (9/2024): Found zero values for fields: Deferred Revenue
+[2025-03-22 03:52:12,548] INFO: ibkr (9/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:52:12,562] WARNING: ibkr (12/2024): Found zero values for fields: Deferred Revenue
+[2025-03-22 03:52:12,575] INFO: ibkr (12/2024): Updated existing record with 13 non-zero financial metrics

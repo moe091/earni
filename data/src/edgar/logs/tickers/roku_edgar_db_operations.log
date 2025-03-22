@@ -1,0 +1,42 @@
+[2025-03-22 10:03:38,214] INFO: roku (9/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:03:38,246] INFO: roku (12/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:03:38,262] WARNING: roku (3/2018): Found zero values for fields: Long Term Debt, Capitalized Contract Costs
+[2025-03-22 10:03:38,276] INFO: roku (3/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:03:38,292] WARNING: roku (6/2018): Found zero values for fields: EPS Diluted, Long Term Debt, Capitalized Contract Costs
+[2025-03-22 10:03:38,307] INFO: roku (6/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:03:38,322] WARNING: roku (9/2018): Found zero values for fields: Long Term Debt, Capitalized Contract Costs
+[2025-03-22 10:03:38,337] INFO: roku (9/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:03:38,353] WARNING: roku (12/2018): Found zero values for fields: Long Term Debt, Capitalized Contract Costs
+[2025-03-22 10:03:38,366] INFO: roku (12/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 10:03:38,382] WARNING: roku (3/2019): Found zero values for fields: Long Term Debt, Capitalized Contract Costs
+[2025-03-22 10:03:38,396] INFO: roku (3/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 10:03:38,412] WARNING: roku (6/2019): Found zero values for fields: Long Term Debt, Capitalized Contract Costs
+[2025-03-22 10:03:38,425] INFO: roku (6/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:03:38,441] WARNING: roku (9/2019): Found zero values for fields: Long Term Debt, Capitalized Contract Costs
+[2025-03-22 10:03:38,455] INFO: roku (9/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:03:38,470] WARNING: roku (12/2019): Found zero values for fields: Capitalized Contract Costs
+[2025-03-22 10:03:38,484] INFO: roku (12/2019): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:03:38,513] INFO: roku (3/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 10:03:38,542] INFO: roku (6/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:03:38,570] INFO: roku (9/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:03:37,186] INFO: Trying adjusted date: 1/2021 (original: 12/2020)
+[2025-03-22 10:03:37,199] WARNING: roku (12/2020): No existing record found(12/2020, 2020-12-31) - creating new one
+[2025-03-22 10:03:37,200] INFO: roku (12/2020): Created new record with 21 non-zero financial metrics
+[2025-03-22 10:03:37,228] INFO: roku (3/2021): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:03:37,256] INFO: roku (6/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:03:37,286] INFO: roku (9/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:03:37,315] INFO: roku (12/2021): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:03:37,343] INFO: roku (3/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:03:37,372] INFO: roku (6/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:03:37,401] INFO: roku (9/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:03:37,430] INFO: roku (12/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:03:37,459] INFO: roku (3/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:03:37,490] INFO: roku (6/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:03:37,519] INFO: roku (9/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:03:37,547] INFO: roku (12/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:03:37,576] INFO: roku (3/2024): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:03:37,605] INFO: roku (6/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:03:37,637] INFO: roku (9/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:03:37,652] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 10:03:37,666] WARNING: roku (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 10:03:37,666] INFO: roku (12/2024): Created new record with 22 non-zero financial metrics

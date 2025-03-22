@@ -1,0 +1,76 @@
+[2025-03-22 14:18:36,579] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 14:18:36,593] WARNING: rgld (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 14:18:36,594] INFO: rgld (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 14:18:36,611] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 14:18:36,626] WARNING: rgld (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 14:18:36,627] INFO: rgld (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 14:18:36,643] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 14:18:36,658] WARNING: rgld (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 14:18:36,659] INFO: rgld (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 14:18:36,676] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 14:18:36,692] WARNING: rgld (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 14:18:36,692] INFO: rgld (6/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 14:18:36,708] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 14:18:36,723] WARNING: rgld (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 14:18:36,724] INFO: rgld (9/2011): Created new record with 9 non-zero financial metrics
+[2025-03-22 14:18:36,742] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 14:18:36,756] WARNING: rgld (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 14:18:36,756] INFO: rgld (12/2011): Created new record with 9 non-zero financial metrics
+[2025-03-22 14:18:36,774] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 14:18:36,789] WARNING: rgld (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 14:18:36,789] INFO: rgld (3/2012): Created new record with 9 non-zero financial metrics
+[2025-03-22 14:18:36,806] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 14:18:36,821] WARNING: rgld (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 14:18:36,821] INFO: rgld (6/2012): Created new record with 9 non-zero financial metrics
+[2025-03-22 14:18:36,852] INFO: rgld (9/2012): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:18:36,883] INFO: rgld (12/2012): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:18:36,914] INFO: rgld (3/2013): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:18:36,945] INFO: rgld (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 14:18:36,976] INFO: rgld (9/2013): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:18:37,006] INFO: rgld (12/2013): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:18:37,036] INFO: rgld (3/2014): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:18:37,066] INFO: rgld (6/2014): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:18:37,097] INFO: rgld (9/2014): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:18:37,129] INFO: rgld (12/2014): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:18:37,160] INFO: rgld (3/2015): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:18:37,192] INFO: rgld (6/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:18:37,223] INFO: rgld (9/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:18:37,254] INFO: rgld (12/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:18:37,283] INFO: rgld (3/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:18:37,315] INFO: rgld (6/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:18:37,346] INFO: rgld (9/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:18:37,376] INFO: rgld (12/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:18:37,408] INFO: rgld (3/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:18:37,438] INFO: rgld (6/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:18:37,468] INFO: rgld (9/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:18:37,500] INFO: rgld (12/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:18:37,531] INFO: rgld (3/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:18:37,561] INFO: rgld (6/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:18:37,593] INFO: rgld (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:18:37,624] INFO: rgld (12/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 14:18:37,653] INFO: rgld (3/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 14:18:37,685] INFO: rgld (6/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:18:37,715] INFO: rgld (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:18:37,747] INFO: rgld (12/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 14:18:37,777] INFO: rgld (3/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 14:18:37,808] INFO: rgld (6/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:18:37,838] INFO: rgld (9/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:18:37,868] INFO: rgld (12/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 14:18:37,899] INFO: rgld (3/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 14:18:37,928] INFO: rgld (6/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:18:37,959] INFO: rgld (9/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:18:37,988] INFO: rgld (3/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:18:38,021] INFO: rgld (6/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 14:18:38,054] INFO: rgld (9/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 14:18:38,085] INFO: rgld (12/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:18:38,116] INFO: rgld (3/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:18:38,147] INFO: rgld (6/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 14:18:38,179] INFO: rgld (9/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 14:18:38,210] INFO: rgld (12/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:18:38,242] INFO: rgld (3/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:18:38,274] INFO: rgld (6/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 14:18:38,291] WARNING: rgld (9/2024): Found zero values for fields: Long Term Debt
+[2025-03-22 14:18:38,305] INFO: rgld (9/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 14:18:38,322] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 14:18:38,337] WARNING: rgld (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 14:18:38,337] INFO: rgld (12/2024): Created new record with 14 non-zero financial metrics

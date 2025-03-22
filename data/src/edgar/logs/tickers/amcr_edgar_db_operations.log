@@ -1,0 +1,35 @@
+[2025-03-22 06:13:37,437] INFO: Trying adjusted date: 4/2019 (original: 3/2019)
+[2025-03-22 06:13:37,450] WARNING: amcr (3/2019): No existing record found(3/2019, 2019-03-31) - creating new one
+[2025-03-22 06:13:37,451] INFO: amcr (3/2019): Created new record with 6 non-zero financial metrics
+[2025-03-22 06:13:37,468] INFO: Trying adjusted date: 7/2019 (original: 6/2019)
+[2025-03-22 06:13:37,481] WARNING: amcr (6/2019): No existing record found(6/2019, 2019-06-30) - creating new one
+[2025-03-22 06:13:37,482] INFO: amcr (6/2019): Created new record with 21 non-zero financial metrics
+[2025-03-22 06:13:37,497] INFO: Trying adjusted date: 10/2019 (original: 9/2019)
+[2025-03-22 06:13:37,510] WARNING: amcr (9/2019): No existing record found(9/2019, 2019-09-30) - creating new one
+[2025-03-22 06:13:37,511] INFO: amcr (9/2019): Created new record with 20 non-zero financial metrics
+[2025-03-22 06:13:37,539] INFO: amcr (12/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:13:37,567] INFO: amcr (3/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:13:37,582] INFO: Trying adjusted date: 7/2020 (original: 6/2020)
+[2025-03-22 06:13:37,596] WARNING: amcr (6/2020): No existing record found(6/2020, 2020-06-30) - creating new one
+[2025-03-22 06:13:37,596] INFO: amcr (6/2020): Created new record with 20 non-zero financial metrics
+[2025-03-22 06:13:37,612] WARNING: amcr (9/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 06:13:37,625] INFO: amcr (9/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 06:13:37,652] INFO: amcr (12/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:13:37,679] INFO: amcr (3/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:13:37,706] INFO: amcr (6/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 06:13:37,736] INFO: amcr (9/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 06:13:37,763] INFO: amcr (12/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:13:37,791] INFO: amcr (3/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:13:37,818] INFO: amcr (6/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 06:13:37,832] WARNING: amcr (9/2022): Found zero values for fields: Share Repurchases
+[2025-03-22 06:13:37,844] INFO: amcr (9/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:13:37,874] INFO: amcr (12/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:13:37,903] INFO: amcr (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:13:37,930] INFO: amcr (6/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 06:13:37,957] INFO: amcr (9/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 06:13:37,985] INFO: amcr (12/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:13:38,012] INFO: amcr (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:13:38,039] INFO: amcr (6/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 06:13:38,055] WARNING: amcr (9/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 06:13:38,068] INFO: amcr (9/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:13:38,095] INFO: amcr (12/2024): Updated existing record with 15 non-zero financial metrics

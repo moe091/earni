@@ -1,0 +1,86 @@
+[2025-03-22 04:19:08,924] INFO: Trying adjusted date: 11/2010 (original: 10/2010)
+[2025-03-22 04:19:08,937] WARNING: cprt (10/2010): No existing record found(10/2010, 2010-10-31) - creating new one
+[2025-03-22 04:19:08,938] INFO: cprt (10/2010): Created new record with 18 non-zero financial metrics
+[2025-03-22 04:19:08,955] INFO: Trying adjusted date: 2/2011 (original: 1/2011)
+[2025-03-22 04:19:08,969] WARNING: cprt (1/2011): No existing record found(1/2011, 2011-01-31) - creating new one
+[2025-03-22 04:19:08,969] INFO: cprt (1/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 04:19:08,983] INFO: Trying adjusted date: 5/2011 (original: 4/2011)
+[2025-03-22 04:19:08,997] WARNING: cprt (4/2011): No existing record found(4/2011, 2011-04-30) - creating new one
+[2025-03-22 04:19:08,997] INFO: cprt (4/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 04:19:09,012] INFO: Trying adjusted date: 11/2011 (original: 10/2011)
+[2025-03-22 04:19:09,025] WARNING: cprt (10/2011): No existing record found(10/2011, 2011-10-31) - creating new one
+[2025-03-22 04:19:09,026] INFO: cprt (10/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 04:19:09,040] INFO: Trying adjusted date: 2/2012 (original: 1/2012)
+[2025-03-22 04:19:09,053] WARNING: cprt (1/2012): No existing record found(1/2012, 2012-01-31) - creating new one
+[2025-03-22 04:19:09,054] INFO: cprt (1/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 04:19:09,068] INFO: Trying adjusted date: 5/2012 (original: 4/2012)
+[2025-03-22 04:19:09,081] WARNING: cprt (4/2012): No existing record found(4/2012, 2012-04-30) - creating new one
+[2025-03-22 04:19:09,082] INFO: cprt (4/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 04:19:09,096] INFO: Trying adjusted date: 8/2012 (original: 7/2012)
+[2025-03-22 04:19:09,109] WARNING: cprt (7/2012): No existing record found(7/2012, 2012-07-31) - creating new one
+[2025-03-22 04:19:09,110] INFO: cprt (7/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 04:19:09,137] INFO: cprt (10/2012): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:19:09,164] INFO: cprt (1/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 04:19:09,194] INFO: cprt (4/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 04:19:09,222] INFO: cprt (7/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 04:19:09,249] INFO: cprt (10/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 04:19:09,276] INFO: cprt (1/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 04:19:09,305] INFO: cprt (4/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 04:19:09,333] INFO: cprt (7/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 04:19:09,361] INFO: cprt (10/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 04:19:09,389] INFO: cprt (1/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 04:19:09,415] INFO: cprt (4/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 04:19:09,442] INFO: cprt (7/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 04:19:09,455] WARNING: cprt (10/2015): Found zero values for fields: Share Repurchases
+[2025-03-22 04:19:09,467] INFO: cprt (10/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:19:09,495] INFO: cprt (1/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:19:09,525] INFO: cprt (4/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:19:09,551] INFO: cprt (7/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 04:19:09,578] INFO: cprt (10/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:19:09,607] INFO: cprt (1/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:19:09,633] INFO: cprt (4/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:19:09,647] WARNING: cprt (7/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 04:19:09,660] INFO: cprt (7/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:19:09,687] INFO: cprt (10/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:19:09,712] INFO: cprt (1/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:19:09,739] INFO: cprt (4/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:19:09,754] WARNING: cprt (7/2018): Found zero values for fields: Share Repurchases
+[2025-03-22 04:19:09,767] INFO: cprt (7/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:19:09,781] WARNING: cprt (10/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 04:19:09,793] INFO: cprt (10/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:19:09,808] WARNING: cprt (1/2019): Found zero values for fields: Deferred Revenue
+[2025-03-22 04:19:09,820] INFO: cprt (1/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 04:19:09,834] WARNING: cprt (4/2019): Found zero values for fields: Deferred Revenue
+[2025-03-22 04:19:09,847] INFO: cprt (4/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 04:19:09,861] WARNING: cprt (7/2019): Found zero values for fields: Deferred Revenue
+[2025-03-22 04:19:09,874] INFO: cprt (7/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 04:19:09,890] WARNING: cprt (10/2019): Found zero values for fields: Deferred Revenue
+[2025-03-22 04:19:09,904] INFO: cprt (10/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 04:19:09,919] WARNING: cprt (1/2020): Found zero values for fields: Deferred Revenue
+[2025-03-22 04:19:09,931] INFO: cprt (1/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 04:19:09,946] WARNING: cprt (4/2020): Found zero values for fields: Deferred Revenue
+[2025-03-22 04:19:09,959] INFO: cprt (4/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:19:09,974] WARNING: cprt (7/2020): Found zero values for fields: Share Repurchases, Deferred Revenue
+[2025-03-22 04:19:09,988] INFO: cprt (7/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:19:10,002] WARNING: cprt (10/2020): Found zero values for fields: Deferred Revenue
+[2025-03-22 04:19:10,014] INFO: cprt (10/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:19:10,040] INFO: cprt (1/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:19:10,068] INFO: cprt (4/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:19:10,082] WARNING: cprt (7/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 04:19:10,094] INFO: cprt (7/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:19:10,123] INFO: cprt (10/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:19:10,150] INFO: cprt (1/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:19:10,176] INFO: cprt (4/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:19:10,204] INFO: cprt (7/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:19:10,231] INFO: cprt (10/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:19:10,258] INFO: cprt (1/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:19:10,285] INFO: cprt (4/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:19:10,312] INFO: cprt (7/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:19:10,340] INFO: cprt (10/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 04:19:10,367] INFO: cprt (1/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 04:19:10,393] INFO: cprt (4/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 04:19:10,420] INFO: cprt (7/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 04:19:10,448] INFO: cprt (10/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 04:19:10,462] INFO: Trying adjusted date: 2/2025 (original: 1/2025)
+[2025-03-22 04:19:10,475] WARNING: cprt (1/2025): No existing record found(1/2025, 2025-01-31) - creating new one
+[2025-03-22 04:19:10,476] INFO: cprt (1/2025): Created new record with 10 non-zero financial metrics

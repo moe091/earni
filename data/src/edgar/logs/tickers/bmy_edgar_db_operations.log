@@ -1,0 +1,84 @@
+[2025-03-21 22:26:32,842] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-21 22:26:32,853] WARNING: bmy (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-21 22:26:32,855] INFO: bmy (3/2010): Created new record with 16 non-zero financial metrics
+[2025-03-21 22:26:32,867] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-21 22:26:32,879] WARNING: bmy (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-21 22:26:32,880] INFO: bmy (6/2010): Created new record with 14 non-zero financial metrics
+[2025-03-21 22:26:32,893] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-21 22:26:32,904] WARNING: bmy (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-21 22:26:32,904] INFO: bmy (9/2010): Created new record with 14 non-zero financial metrics
+[2025-03-21 22:26:32,918] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-21 22:26:32,929] WARNING: bmy (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-21 22:26:32,929] INFO: bmy (12/2010): Created new record with 21 non-zero financial metrics
+[2025-03-21 22:26:32,942] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-21 22:26:32,954] WARNING: bmy (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-21 22:26:32,954] INFO: bmy (3/2011): Created new record with 19 non-zero financial metrics
+[2025-03-21 22:26:32,966] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-21 22:26:32,978] WARNING: bmy (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-21 22:26:32,978] INFO: bmy (6/2011): Created new record with 14 non-zero financial metrics
+[2025-03-21 22:26:32,992] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-21 22:26:33,004] WARNING: bmy (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-21 22:26:33,005] INFO: bmy (9/2011): Created new record with 14 non-zero financial metrics
+[2025-03-21 22:26:33,018] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-21 22:26:33,030] WARNING: bmy (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-21 22:26:33,031] INFO: bmy (12/2011): Created new record with 21 non-zero financial metrics
+[2025-03-21 22:26:33,043] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-21 22:26:33,055] WARNING: bmy (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-21 22:26:33,055] INFO: bmy (3/2012): Created new record with 19 non-zero financial metrics
+[2025-03-21 22:26:33,070] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-21 22:26:33,082] WARNING: bmy (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-21 22:26:33,082] INFO: bmy (6/2012): Created new record with 13 non-zero financial metrics
+[2025-03-21 22:26:33,108] INFO: bmy (9/2012): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:26:33,132] INFO: bmy (12/2012): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 22:26:33,156] INFO: bmy (3/2013): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:26:33,180] INFO: bmy (6/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:26:33,205] INFO: bmy (9/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:26:33,230] INFO: bmy (12/2013): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 22:26:33,254] INFO: bmy (3/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:26:33,286] INFO: bmy (6/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:26:33,311] INFO: bmy (9/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:26:33,337] INFO: bmy (12/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:26:33,362] INFO: bmy (3/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:26:33,387] INFO: bmy (6/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:26:33,410] INFO: bmy (12/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:26:33,438] INFO: bmy (3/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:26:33,463] INFO: bmy (6/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:26:33,486] INFO: bmy (9/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:26:33,510] INFO: bmy (12/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:26:33,538] INFO: bmy (3/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:26:33,562] INFO: bmy (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:26:33,587] INFO: bmy (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:26:33,610] INFO: bmy (12/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:26:33,634] INFO: bmy (3/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:26:33,658] INFO: bmy (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:26:33,685] INFO: bmy (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:26:33,710] INFO: bmy (12/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:26:33,723] WARNING: bmy (3/2019): Found zero values for fields: Share Repurchases
+[2025-03-21 22:26:33,735] INFO: bmy (3/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:26:33,759] INFO: bmy (6/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:26:33,789] INFO: bmy (9/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:26:33,814] INFO: bmy (12/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:26:33,839] INFO: bmy (3/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:26:33,864] INFO: bmy (6/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:26:33,888] INFO: bmy (9/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:26:33,913] INFO: bmy (12/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:26:33,937] INFO: bmy (3/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:26:33,963] INFO: bmy (6/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:26:33,986] INFO: bmy (9/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:26:34,011] INFO: bmy (12/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:26:34,036] INFO: bmy (3/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:26:34,060] INFO: bmy (6/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:26:34,088] INFO: bmy (9/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:26:34,112] INFO: bmy (12/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:26:34,137] INFO: bmy (3/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:26:34,162] INFO: bmy (6/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:26:34,187] INFO: bmy (9/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:26:34,212] INFO: bmy (12/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:26:34,225] WARNING: bmy (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-21 22:26:34,237] INFO: bmy (3/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:26:34,262] INFO: bmy (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:26:34,286] INFO: bmy (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:26:34,298] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-21 22:26:34,310] WARNING: bmy (12/2024): Found zero values for fields: Share Repurchases
+[2025-03-21 22:26:34,311] WARNING: bmy (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-21 22:26:34,311] INFO: bmy (12/2024): Created new record with 18 non-zero financial metrics

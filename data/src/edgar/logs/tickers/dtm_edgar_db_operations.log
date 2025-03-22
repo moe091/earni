@@ -1,0 +1,29 @@
+[2025-03-22 15:04:20,340] INFO: dtm (6/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:04:20,373] INFO: dtm (9/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:04:20,405] INFO: dtm (12/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 15:04:20,422] WARNING: dtm (3/2022): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 15:04:20,438] INFO: dtm (3/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 15:04:20,454] WARNING: dtm (6/2022): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 15:04:20,468] INFO: dtm (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:04:20,485] WARNING: dtm (9/2022): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 15:04:20,499] INFO: dtm (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:04:20,516] WARNING: dtm (12/2022): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 15:04:20,530] INFO: dtm (12/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:04:20,547] WARNING: dtm (3/2023): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 15:04:20,561] INFO: dtm (3/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:04:20,578] WARNING: dtm (6/2023): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 15:04:20,593] INFO: dtm (6/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:04:20,617] WARNING: dtm (9/2023): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 15:04:20,633] INFO: dtm (9/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:04:20,653] WARNING: dtm (12/2023): Found zero values for fields: Share Repurchases, Loan Loss Reserves
+[2025-03-22 15:04:20,668] INFO: dtm (12/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:04:20,687] WARNING: dtm (3/2024): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 15:04:20,702] INFO: dtm (3/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:04:20,721] WARNING: dtm (6/2024): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 15:04:20,735] INFO: dtm (6/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:04:20,752] WARNING: dtm (9/2024): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 15:04:20,766] INFO: dtm (9/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:04:20,783] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 15:04:20,797] WARNING: dtm (12/2024): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 15:04:20,797] WARNING: dtm (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 15:04:20,797] INFO: dtm (12/2024): Created new record with 19 non-zero financial metrics

@@ -1,0 +1,73 @@
+[2025-03-22 15:13:47,471] INFO: Trying adjusted date: 2/2012 (original: 1/2012)
+[2025-03-22 15:13:47,485] WARNING: gwre (1/2012): No existing record found(1/2012, 2012-01-31) - creating new one
+[2025-03-22 15:13:47,485] INFO: gwre (1/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 15:13:47,506] INFO: Trying adjusted date: 5/2012 (original: 4/2012)
+[2025-03-22 15:13:47,521] WARNING: gwre (4/2012): No existing record found(4/2012, 2012-04-30) - creating new one
+[2025-03-22 15:13:47,521] INFO: gwre (4/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 15:13:47,538] INFO: Trying adjusted date: 8/2012 (original: 7/2012)
+[2025-03-22 15:13:47,553] WARNING: gwre (7/2012): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 15:13:47,553] WARNING: gwre (7/2012): No existing record found(7/2012, 2012-07-31) - creating new one
+[2025-03-22 15:13:47,554] INFO: gwre (7/2012): Created new record with 19 non-zero financial metrics
+[2025-03-22 15:13:47,570] INFO: Trying adjusted date: 11/2012 (original: 10/2012)
+[2025-03-22 15:13:47,584] WARNING: gwre (10/2012): No existing record found(10/2012, 2012-10-31) - creating new one
+[2025-03-22 15:13:47,585] INFO: gwre (10/2012): Created new record with 19 non-zero financial metrics
+[2025-03-22 15:13:47,615] INFO: gwre (1/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 15:13:47,647] INFO: gwre (4/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 15:13:47,664] WARNING: gwre (7/2013): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 15:13:47,679] INFO: gwre (7/2013): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:13:47,710] INFO: gwre (10/2013): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:13:47,741] INFO: gwre (1/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:13:47,773] INFO: gwre (4/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:13:47,790] WARNING: gwre (7/2014): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 15:13:47,804] INFO: gwre (7/2014): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:13:47,835] INFO: gwre (10/2014): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:13:47,865] INFO: gwre (1/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:13:47,899] INFO: gwre (4/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:13:47,915] WARNING: gwre (7/2015): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 15:13:47,930] INFO: gwre (7/2015): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:13:47,960] INFO: gwre (10/2015): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:13:47,992] INFO: gwre (1/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:13:48,023] INFO: gwre (4/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:13:48,039] WARNING: gwre (7/2016): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 15:13:48,053] INFO: gwre (7/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:13:48,084] INFO: gwre (10/2016): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 15:13:48,114] INFO: gwre (1/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 15:13:48,145] INFO: gwre (4/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 15:13:48,163] WARNING: gwre (7/2017): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 15:13:48,177] INFO: gwre (7/2017): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 15:13:48,208] INFO: gwre (10/2017): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 15:13:48,240] INFO: gwre (1/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 15:13:48,272] INFO: gwre (4/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:13:48,302] INFO: gwre (7/2018): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 15:13:48,332] INFO: gwre (10/2018): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 15:13:48,363] INFO: gwre (1/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:13:48,394] INFO: gwre (4/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:13:48,427] INFO: gwre (7/2019): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 15:13:48,458] INFO: gwre (10/2019): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 15:13:48,491] INFO: gwre (1/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:13:48,522] INFO: gwre (4/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:13:48,554] INFO: gwre (7/2020): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 15:13:48,585] INFO: gwre (10/2020): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 15:13:48,602] INFO: Trying adjusted date: 2/2021 (original: 1/2021)
+[2025-03-22 15:13:48,616] WARNING: gwre (1/2021): No existing record found(1/2021, 2021-01-31) - creating new one
+[2025-03-22 15:13:48,616] INFO: gwre (1/2021): Created new record with 19 non-zero financial metrics
+[2025-03-22 15:13:48,648] INFO: gwre (4/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:13:48,679] INFO: gwre (7/2021): Updated existing record with 26 non-zero financial metrics
+[2025-03-22 15:13:48,712] INFO: gwre (10/2021): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 15:13:48,744] INFO: gwre (1/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:13:48,777] INFO: gwre (4/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:13:48,810] INFO: gwre (7/2022): Updated existing record with 26 non-zero financial metrics
+[2025-03-22 15:13:48,841] INFO: gwre (10/2022): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 15:13:48,873] INFO: gwre (1/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:13:48,905] INFO: gwre (4/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:13:48,936] INFO: gwre (7/2023): Updated existing record with 26 non-zero financial metrics
+[2025-03-22 15:13:48,952] WARNING: gwre (10/2023): Found zero values for fields: Share Repurchases, Financing Cash Flow
+[2025-03-22 15:13:48,967] INFO: gwre (10/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 15:13:48,998] INFO: gwre (1/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:13:49,030] INFO: gwre (4/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:13:49,046] WARNING: gwre (7/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 15:13:49,061] INFO: gwre (7/2024): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 15:13:49,094] INFO: gwre (10/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 15:13:49,111] INFO: Trying adjusted date: 2/2025 (original: 1/2025)
+[2025-03-22 15:13:49,125] WARNING: gwre (1/2025): No existing record found(1/2025, 2025-01-31) - creating new one
+[2025-03-22 15:13:49,126] INFO: gwre (1/2025): Created new record with 17 non-zero financial metrics

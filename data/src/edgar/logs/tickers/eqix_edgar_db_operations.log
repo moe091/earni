@@ -1,0 +1,99 @@
+[2025-03-22 00:58:07,742] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 00:58:07,754] WARNING: eqix (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 00:58:07,754] INFO: eqix (6/2010): Created new record with 15 non-zero financial metrics
+[2025-03-22 00:58:07,767] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 00:58:07,780] WARNING: eqix (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 00:58:07,781] INFO: eqix (9/2010): Created new record with 15 non-zero financial metrics
+[2025-03-22 00:58:07,799] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 00:58:07,811] WARNING: eqix (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 00:58:07,812] INFO: eqix (12/2010): Created new record with 19 non-zero financial metrics
+[2025-03-22 00:58:07,826] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 00:58:07,838] WARNING: eqix (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 00:58:07,839] INFO: eqix (3/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 00:58:07,852] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 00:58:07,864] WARNING: eqix (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 00:58:07,865] INFO: eqix (6/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 00:58:07,879] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 00:58:07,891] WARNING: eqix (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 00:58:07,892] INFO: eqix (9/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 00:58:07,905] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 00:58:07,918] WARNING: eqix (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 00:58:07,919] INFO: eqix (12/2011): Created new record with 20 non-zero financial metrics
+[2025-03-22 00:58:07,932] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 00:58:07,945] WARNING: eqix (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 00:58:07,946] INFO: eqix (3/2012): Created new record with 21 non-zero financial metrics
+[2025-03-22 00:58:07,962] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 00:58:07,974] WARNING: eqix (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 00:58:07,974] INFO: eqix (6/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 00:58:07,987] INFO: Trying adjusted date: 10/2012 (original: 9/2012)
+[2025-03-22 00:58:07,999] WARNING: eqix (9/2012): No existing record found(9/2012, 2012-09-30) - creating new one
+[2025-03-22 00:58:08,000] INFO: eqix (9/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 00:58:08,013] INFO: Trying adjusted date: 1/2013 (original: 12/2012)
+[2025-03-22 00:58:08,025] WARNING: eqix (12/2012): No existing record found(12/2012, 2012-12-31) - creating new one
+[2025-03-22 00:58:08,025] INFO: eqix (12/2012): Created new record with 20 non-zero financial metrics
+[2025-03-22 00:58:08,041] INFO: Trying adjusted date: 4/2013 (original: 3/2013)
+[2025-03-22 00:58:08,053] WARNING: eqix (3/2013): No existing record found(3/2013, 2013-03-31) - creating new one
+[2025-03-22 00:58:08,054] INFO: eqix (3/2013): Created new record with 20 non-zero financial metrics
+[2025-03-22 00:58:08,066] INFO: Trying adjusted date: 7/2013 (original: 6/2013)
+[2025-03-22 00:58:08,079] WARNING: eqix (6/2013): No existing record found(6/2013, 2013-06-30) - creating new one
+[2025-03-22 00:58:08,079] INFO: eqix (6/2013): Created new record with 16 non-zero financial metrics
+[2025-03-22 00:58:08,093] INFO: Trying adjusted date: 10/2013 (original: 9/2013)
+[2025-03-22 00:58:08,105] WARNING: eqix (9/2013): No existing record found(9/2013, 2013-09-30) - creating new one
+[2025-03-22 00:58:08,105] INFO: eqix (9/2013): Created new record with 16 non-zero financial metrics
+[2025-03-22 00:58:08,118] INFO: Trying adjusted date: 1/2014 (original: 12/2013)
+[2025-03-22 00:58:08,130] WARNING: eqix (12/2013): No existing record found(12/2013, 2013-12-31) - creating new one
+[2025-03-22 00:58:08,131] INFO: eqix (12/2013): Created new record with 20 non-zero financial metrics
+[2025-03-22 00:58:08,144] INFO: Trying adjusted date: 4/2014 (original: 3/2014)
+[2025-03-22 00:58:08,157] WARNING: eqix (3/2014): No existing record found(3/2014, 2014-03-31) - creating new one
+[2025-03-22 00:58:08,157] INFO: eqix (3/2014): Created new record with 17 non-zero financial metrics
+[2025-03-22 00:58:08,172] INFO: Trying adjusted date: 7/2014 (original: 6/2014)
+[2025-03-22 00:58:08,184] WARNING: eqix (6/2014): No existing record found(6/2014, 2014-06-30) - creating new one
+[2025-03-22 00:58:08,184] INFO: eqix (6/2014): Created new record with 16 non-zero financial metrics
+[2025-03-22 00:58:08,212] INFO: eqix (9/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:58:08,226] INFO: Trying adjusted date: 1/2015 (original: 12/2014)
+[2025-03-22 00:58:08,238] WARNING: eqix (12/2014): No existing record found(12/2014, 2014-12-31) - creating new one
+[2025-03-22 00:58:08,238] INFO: eqix (12/2014): Created new record with 20 non-zero financial metrics
+[2025-03-22 00:58:08,263] INFO: eqix (3/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:58:08,288] INFO: eqix (6/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:58:08,314] INFO: eqix (9/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:58:08,329] WARNING: eqix (12/2015): Found zero values for fields: Share Repurchases
+[2025-03-22 00:58:08,341] INFO: eqix (12/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:58:08,367] INFO: eqix (3/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:58:08,392] INFO: eqix (6/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:58:08,416] INFO: eqix (9/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:58:08,429] WARNING: eqix (12/2016): Found zero values for fields: Share Repurchases
+[2025-03-22 00:58:08,442] INFO: eqix (12/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:58:08,467] INFO: eqix (3/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 00:58:08,492] INFO: eqix (6/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:58:08,517] INFO: eqix (9/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:58:08,543] INFO: eqix (12/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:58:08,568] INFO: eqix (3/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 00:58:08,593] INFO: eqix (6/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:58:08,618] INFO: eqix (9/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:58:08,644] INFO: eqix (12/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 00:58:08,670] INFO: eqix (3/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:58:08,696] INFO: eqix (6/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:58:08,721] INFO: eqix (9/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:58:08,747] INFO: eqix (12/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 00:58:08,774] INFO: eqix (3/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 00:58:08,800] INFO: eqix (6/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:58:08,828] INFO: eqix (9/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:58:08,854] INFO: eqix (12/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 00:58:08,881] INFO: eqix (3/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 00:58:08,908] INFO: eqix (6/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:58:08,934] INFO: eqix (9/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:58:08,962] INFO: eqix (12/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 00:58:08,987] INFO: eqix (3/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 00:58:09,019] INFO: eqix (6/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:58:09,050] INFO: eqix (9/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:58:09,083] INFO: eqix (12/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 00:58:09,111] INFO: eqix (3/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 00:58:09,138] INFO: eqix (6/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:58:09,166] INFO: eqix (9/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:58:09,192] INFO: eqix (12/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 00:58:09,218] INFO: eqix (3/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:58:09,244] INFO: eqix (6/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:58:09,270] INFO: eqix (9/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:58:09,284] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 00:58:09,296] WARNING: eqix (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 00:58:09,297] INFO: eqix (12/2024): Created new record with 19 non-zero financial metrics

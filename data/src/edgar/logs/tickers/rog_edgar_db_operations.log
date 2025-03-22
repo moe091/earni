@@ -1,0 +1,73 @@
+[2025-03-22 16:32:04,551] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 16:32:04,567] WARNING: rog (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 16:32:04,567] INFO: rog (6/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:32:04,587] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 16:32:04,601] WARNING: rog (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 16:32:04,602] INFO: rog (9/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:32:04,622] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 16:32:04,638] WARNING: rog (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 16:32:04,638] INFO: rog (12/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:32:04,658] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 16:32:04,673] WARNING: rog (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 16:32:04,674] INFO: rog (3/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:32:04,691] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 16:32:04,706] WARNING: rog (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 16:32:04,707] INFO: rog (6/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:32:04,739] INFO: rog (9/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:04,772] INFO: rog (12/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:04,804] INFO: rog (3/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:04,836] INFO: rog (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:04,869] INFO: rog (9/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:04,902] INFO: rog (12/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:04,933] INFO: rog (3/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:04,965] INFO: rog (6/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:04,995] INFO: rog (9/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,026] INFO: rog (12/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,043] INFO: Trying adjusted date: 4/2015 (original: 3/2015)
+[2025-03-22 16:32:05,057] WARNING: rog (3/2015): No existing record found(3/2015, 2015-03-31) - creating new one
+[2025-03-22 16:32:05,058] INFO: rog (3/2015): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,074] INFO: Trying adjusted date: 7/2015 (original: 6/2015)
+[2025-03-22 16:32:05,090] WARNING: rog (6/2015): No existing record found(6/2015, 2015-06-30) - creating new one
+[2025-03-22 16:32:05,091] INFO: rog (6/2015): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,123] INFO: rog (9/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,155] INFO: rog (12/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,187] INFO: rog (3/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,219] INFO: rog (6/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,250] INFO: rog (9/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,282] INFO: rog (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,313] INFO: rog (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,345] INFO: rog (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,376] INFO: rog (9/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,408] INFO: rog (12/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,439] INFO: rog (3/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,471] INFO: rog (6/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,503] INFO: rog (9/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,534] INFO: rog (12/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,565] INFO: rog (3/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,597] INFO: rog (6/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,629] INFO: rog (9/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,660] INFO: rog (12/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,690] INFO: rog (3/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,722] INFO: rog (6/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,754] INFO: rog (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,786] INFO: rog (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,819] INFO: rog (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,851] INFO: rog (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,883] INFO: rog (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,914] INFO: rog (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,946] INFO: rog (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,976] INFO: rog (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:05,994] INFO: Trying adjusted date: 10/2022 (original: 9/2022)
+[2025-03-22 16:32:06,010] WARNING: rog (9/2022): No existing record found(9/2022, 2022-09-30) - creating new one
+[2025-03-22 16:32:06,010] INFO: rog (9/2022): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:32:06,041] INFO: rog (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:06,073] INFO: rog (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:06,104] INFO: rog (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:06,135] INFO: rog (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:06,166] INFO: rog (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:06,199] INFO: rog (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:06,230] INFO: rog (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:06,264] INFO: rog (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:32:06,283] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 16:32:06,298] WARNING: rog (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 16:32:06,299] INFO: rog (12/2024): Created new record with 0 non-zero financial metrics

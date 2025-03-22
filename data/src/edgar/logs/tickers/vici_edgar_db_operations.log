@@ -1,0 +1,37 @@
+[2025-03-22 05:37:47,701] INFO: Trying adjusted date: 10/2017 (original: 9/2017)
+[2025-03-22 05:37:47,714] WARNING: vici (9/2017): Found zero values for fields: Total Assets, Stockholders Equity
+[2025-03-22 05:37:47,714] WARNING: vici (9/2017): No existing record found(9/2017, 2017-09-30) - creating new one
+[2025-03-22 05:37:47,714] INFO: vici (9/2017): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:37:47,729] INFO: Trying adjusted date: 1/2018 (original: 12/2017)
+[2025-03-22 05:37:47,741] WARNING: vici (12/2017): No existing record found(12/2017, 2017-12-31) - creating new one
+[2025-03-22 05:37:47,742] INFO: vici (12/2017): Created new record with 10 non-zero financial metrics
+[2025-03-22 05:37:47,769] INFO: vici (3/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:37:47,796] INFO: vici (6/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:37:47,823] INFO: vici (9/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:37:47,850] INFO: vici (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:37:47,876] INFO: vici (3/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:37:47,904] INFO: vici (6/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:37:47,931] INFO: vici (9/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:37:47,959] INFO: vici (12/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:37:47,986] INFO: vici (3/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:37:48,013] INFO: vici (6/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:37:48,041] INFO: vici (9/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:37:48,068] INFO: vici (12/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:37:48,095] INFO: vici (3/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:37:48,122] INFO: vici (6/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:37:48,150] INFO: vici (9/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:37:48,177] INFO: vici (12/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:37:48,205] INFO: vici (3/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:37:48,233] INFO: vici (6/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:37:48,259] INFO: vici (9/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:37:48,286] INFO: vici (12/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:37:48,313] INFO: vici (3/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:37:48,341] INFO: vici (6/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:37:48,368] INFO: vici (9/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:37:48,394] INFO: vici (12/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:37:48,421] INFO: vici (3/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:37:48,448] INFO: vici (6/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 05:37:48,475] INFO: vici (9/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 05:37:48,490] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 05:37:48,503] WARNING: vici (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 05:37:48,504] INFO: vici (12/2024): Created new record with 13 non-zero financial metrics

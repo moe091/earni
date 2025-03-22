@@ -1,0 +1,109 @@
+[2025-03-22 11:39:16,693] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 11:39:16,706] WARNING: oge (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 11:39:16,706] INFO: oge (6/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 11:39:16,724] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 11:39:16,738] WARNING: oge (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 11:39:16,738] INFO: oge (9/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 11:39:16,753] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 11:39:16,768] WARNING: oge (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 11:39:16,768] INFO: oge (12/2010): Created new record with 18 non-zero financial metrics
+[2025-03-22 11:39:16,784] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 11:39:16,797] WARNING: oge (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 11:39:16,798] INFO: oge (3/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 11:39:16,814] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 11:39:16,828] WARNING: oge (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 11:39:16,828] INFO: oge (6/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 11:39:16,844] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 11:39:16,858] WARNING: oge (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 11:39:16,858] INFO: oge (9/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 11:39:16,874] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 11:39:16,887] WARNING: oge (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 11:39:16,887] INFO: oge (12/2011): Created new record with 20 non-zero financial metrics
+[2025-03-22 11:39:16,903] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 11:39:16,917] WARNING: oge (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 11:39:16,917] INFO: oge (3/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 11:39:16,933] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 11:39:16,946] WARNING: oge (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 11:39:16,946] INFO: oge (6/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 11:39:16,975] INFO: oge (9/2012): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:39:17,004] INFO: oge (12/2012): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 11:39:17,034] INFO: oge (3/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:39:17,050] WARNING: oge (6/2013): Found zero values for fields: Cash and Cash Equivalents, Goodwill
+[2025-03-22 11:39:17,064] INFO: oge (6/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:39:17,081] WARNING: oge (9/2013): Found zero values for fields: Cash and Cash Equivalents, Goodwill, Loan Loss Reserves
+[2025-03-22 11:39:17,095] INFO: oge (9/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:39:17,110] WARNING: oge (12/2013): Found zero values for fields: Share Repurchases, Goodwill
+[2025-03-22 11:39:17,124] INFO: oge (12/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:39:17,153] INFO: oge (3/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:39:17,185] INFO: oge (6/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:39:17,200] WARNING: oge (9/2014): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 11:39:17,215] INFO: oge (9/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:39:17,230] WARNING: oge (12/2014): Found zero values for fields: Share Repurchases
+[2025-03-22 11:39:17,244] INFO: oge (12/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:39:17,273] INFO: oge (3/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:39:17,289] WARNING: oge (6/2015): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 11:39:17,303] INFO: oge (6/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:39:17,333] INFO: oge (9/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:39:17,363] INFO: oge (12/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:39:17,379] WARNING: oge (3/2016): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 11:39:17,392] INFO: oge (3/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:39:17,408] WARNING: oge (6/2016): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 11:39:17,421] INFO: oge (6/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:39:17,437] WARNING: oge (9/2016): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 11:39:17,452] INFO: oge (9/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:39:17,483] INFO: oge (12/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:39:17,498] WARNING: oge (3/2017): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 11:39:17,512] INFO: oge (3/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:39:17,529] WARNING: oge (6/2017): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 11:39:17,543] INFO: oge (6/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:39:17,559] WARNING: oge (9/2017): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 11:39:17,572] INFO: oge (9/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:39:17,602] INFO: oge (12/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:39:17,631] INFO: oge (3/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:39:17,647] WARNING: oge (6/2018): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 11:39:17,661] INFO: oge (6/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:39:17,690] INFO: oge (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:39:17,723] INFO: oge (12/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:39:17,738] WARNING: oge (3/2019): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 11:39:17,752] INFO: oge (3/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:39:17,768] WARNING: oge (6/2019): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 11:39:17,783] INFO: oge (6/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:39:17,812] INFO: oge (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:39:17,829] WARNING: oge (12/2019): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 11:39:17,843] INFO: oge (12/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:39:17,872] INFO: oge (3/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:39:17,901] INFO: oge (6/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:39:17,934] INFO: oge (9/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:39:17,950] INFO: Trying adjusted date: 1/2021 (original: 12/2020)
+[2025-03-22 11:39:17,964] WARNING: oge (12/2020): No existing record found(12/2020, 2020-12-31) - creating new one
+[2025-03-22 11:39:17,964] INFO: oge (12/2020): Created new record with 18 non-zero financial metrics
+[2025-03-22 11:39:17,980] WARNING: oge (3/2021): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 11:39:17,994] INFO: oge (3/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:39:18,010] WARNING: oge (6/2021): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 11:39:18,024] INFO: oge (6/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:39:18,040] INFO: Trying adjusted date: 10/2021 (original: 9/2021)
+[2025-03-22 11:39:18,055] WARNING: oge (9/2021): No existing record found(9/2021, 2021-09-30) - creating new one
+[2025-03-22 11:39:18,055] INFO: oge (9/2021): Created new record with 13 non-zero financial metrics
+[2025-03-22 11:39:18,070] INFO: Trying adjusted date: 1/2022 (original: 12/2021)
+[2025-03-22 11:39:18,084] WARNING: oge (12/2021): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 11:39:18,085] WARNING: oge (12/2021): No existing record found(12/2021, 2021-12-31) - creating new one
+[2025-03-22 11:39:18,085] INFO: oge (12/2021): Created new record with 17 non-zero financial metrics
+[2025-03-22 11:39:18,101] INFO: Trying adjusted date: 4/2022 (original: 3/2022)
+[2025-03-22 11:39:18,115] WARNING: oge (3/2022): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 11:39:18,115] WARNING: oge (3/2022): No existing record found(3/2022, 2022-03-31) - creating new one
+[2025-03-22 11:39:18,116] INFO: oge (3/2022): Created new record with 16 non-zero financial metrics
+[2025-03-22 11:39:18,145] INFO: oge (6/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:39:18,175] INFO: oge (9/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:39:18,191] INFO: Trying adjusted date: 1/2023 (original: 12/2022)
+[2025-03-22 11:39:18,205] WARNING: oge (12/2022): No existing record found(12/2022, 2022-12-31) - creating new one
+[2025-03-22 11:39:18,205] INFO: oge (12/2022): Created new record with 18 non-zero financial metrics
+[2025-03-22 11:39:18,234] INFO: oge (3/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:39:18,263] INFO: oge (6/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:39:18,293] INFO: oge (9/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:39:18,322] INFO: oge (12/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:39:18,351] INFO: oge (3/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:39:18,382] INFO: oge (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:39:18,411] INFO: oge (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:39:18,427] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 11:39:18,440] WARNING: oge (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 11:39:18,441] INFO: oge (12/2024): Created new record with 18 non-zero financial metrics

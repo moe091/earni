@@ -1,0 +1,85 @@
+[2025-03-22 07:28:44,853] INFO: Trying adjusted date: 8/2010 (original: 7/2010)
+[2025-03-22 07:28:44,866] WARNING: ttwo (7/2010): No existing record found(7/2010, 2010-07-31) - creating new one
+[2025-03-22 07:28:44,866] INFO: ttwo (7/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 07:28:44,883] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 07:28:44,896] WARNING: ttwo (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 07:28:44,897] INFO: ttwo (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 07:28:44,912] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 07:28:44,925] WARNING: ttwo (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 07:28:44,926] INFO: ttwo (3/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 07:28:44,941] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 07:28:44,954] WARNING: ttwo (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 07:28:44,955] INFO: ttwo (6/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 07:28:44,971] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 07:28:44,984] WARNING: ttwo (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 07:28:44,985] INFO: ttwo (9/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 07:28:45,001] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 07:28:45,015] WARNING: ttwo (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 07:28:45,015] INFO: ttwo (12/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 07:28:45,030] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 07:28:45,044] WARNING: ttwo (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 07:28:45,045] INFO: ttwo (3/2012): Created new record with 21 non-zero financial metrics
+[2025-03-22 07:28:45,059] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 07:28:45,073] WARNING: ttwo (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 07:28:45,073] INFO: ttwo (6/2012): Created new record with 19 non-zero financial metrics
+[2025-03-22 07:28:45,101] INFO: ttwo (9/2012): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:28:45,129] INFO: ttwo (12/2012): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:28:45,157] INFO: ttwo (3/2013): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:28:45,184] INFO: ttwo (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 07:28:45,213] INFO: ttwo (9/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:28:45,240] INFO: ttwo (12/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:28:45,268] INFO: ttwo (3/2014): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 07:28:45,296] INFO: ttwo (6/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:28:45,324] INFO: ttwo (9/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:28:45,352] INFO: ttwo (12/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:28:45,382] INFO: ttwo (3/2015): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:28:45,412] INFO: ttwo (6/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:28:45,427] INFO: Trying adjusted date: 10/2015 (original: 9/2015)
+[2025-03-22 07:28:45,440] WARNING: ttwo (9/2015): No existing record found(9/2015, 2015-09-30) - creating new one
+[2025-03-22 07:28:45,441] INFO: ttwo (9/2015): Created new record with 16 non-zero financial metrics
+[2025-03-22 07:28:45,468] INFO: ttwo (12/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:28:45,496] INFO: ttwo (3/2016): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 07:28:45,525] INFO: ttwo (6/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:28:45,553] INFO: ttwo (9/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:28:45,580] INFO: ttwo (12/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:28:45,596] WARNING: ttwo (3/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 07:28:45,610] INFO: ttwo (3/2017): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:28:45,637] INFO: ttwo (6/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:28:45,652] WARNING: ttwo (9/2017): Found zero values for fields: Interest Expense
+[2025-03-22 07:28:45,664] INFO: ttwo (9/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:28:45,693] INFO: ttwo (12/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:28:45,721] INFO: ttwo (3/2018): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 07:28:45,749] INFO: ttwo (6/2018): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 07:28:45,777] INFO: ttwo (9/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 07:28:45,805] INFO: ttwo (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 07:28:45,833] INFO: ttwo (3/2019): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 07:28:45,847] WARNING: ttwo (6/2019): Found zero values for fields: Share Repurchases, Interest Expense
+[2025-03-22 07:28:45,860] INFO: ttwo (6/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:28:45,889] INFO: ttwo (9/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 07:28:45,918] INFO: ttwo (12/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 07:28:45,933] WARNING: ttwo (3/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 07:28:45,946] INFO: ttwo (3/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:28:45,974] INFO: ttwo (6/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:28:46,002] INFO: ttwo (9/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 07:28:46,030] INFO: ttwo (12/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 07:28:46,045] WARNING: ttwo (3/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 07:28:46,059] INFO: ttwo (3/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:28:46,087] INFO: ttwo (6/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:28:46,115] INFO: ttwo (9/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 07:28:46,143] INFO: ttwo (12/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 07:28:46,171] INFO: ttwo (3/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 07:28:46,199] INFO: ttwo (6/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:28:46,227] INFO: ttwo (9/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:28:46,256] INFO: ttwo (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:28:46,270] WARNING: ttwo (3/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 07:28:46,284] INFO: ttwo (3/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 07:28:46,314] INFO: ttwo (6/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:28:46,343] INFO: ttwo (9/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 07:28:46,371] INFO: ttwo (12/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 07:28:46,386] WARNING: ttwo (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 07:28:46,399] INFO: ttwo (3/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:28:46,428] INFO: ttwo (6/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:28:46,456] INFO: ttwo (9/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 07:28:46,471] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 07:28:46,484] WARNING: ttwo (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 07:28:46,484] INFO: ttwo (12/2024): Created new record with 17 non-zero financial metrics

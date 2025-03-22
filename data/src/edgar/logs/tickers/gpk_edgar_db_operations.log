@@ -1,0 +1,70 @@
+[2025-03-22 12:56:02,701] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 12:56:02,715] WARNING: gpk (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 12:56:02,715] INFO: gpk (6/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 12:56:02,731] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 12:56:02,746] WARNING: gpk (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 12:56:02,746] INFO: gpk (9/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 12:56:02,762] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 12:56:02,776] WARNING: gpk (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 12:56:02,777] INFO: gpk (12/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 12:56:02,792] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 12:56:02,806] WARNING: gpk (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 12:56:02,807] INFO: gpk (3/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 12:56:02,822] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 12:56:02,837] WARNING: gpk (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 12:56:02,837] INFO: gpk (6/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 12:56:02,867] INFO: gpk (9/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:56:02,896] INFO: gpk (12/2012): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:56:02,927] INFO: gpk (3/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:56:02,956] INFO: gpk (6/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:56:02,986] INFO: gpk (9/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:56:03,016] INFO: gpk (12/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:56:03,047] INFO: gpk (3/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:56:03,076] INFO: gpk (6/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 12:56:03,106] INFO: gpk (9/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 12:56:03,122] WARNING: gpk (12/2014): Found zero values for fields: Share Repurchases
+[2025-03-22 12:56:03,137] INFO: gpk (12/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:56:03,167] INFO: gpk (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:56:03,196] INFO: gpk (6/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:56:03,225] INFO: gpk (9/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:56:03,258] INFO: gpk (12/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:56:03,287] INFO: gpk (3/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:56:03,317] INFO: gpk (6/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:56:03,348] INFO: gpk (9/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:56:03,381] INFO: gpk (12/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:56:03,411] INFO: gpk (3/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:56:03,443] INFO: gpk (6/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:56:03,473] INFO: gpk (9/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:56:03,505] INFO: gpk (12/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:56:03,521] WARNING: gpk (3/2018): Found zero values for fields: Share Repurchases
+[2025-03-22 12:56:03,535] INFO: gpk (3/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:56:03,566] INFO: gpk (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:56:03,595] INFO: gpk (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:56:03,625] INFO: gpk (12/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:56:03,658] INFO: gpk (3/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:56:03,690] INFO: gpk (6/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:56:03,720] INFO: gpk (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:56:03,751] INFO: gpk (12/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:56:03,782] INFO: gpk (3/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:56:03,812] INFO: gpk (6/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:56:03,842] INFO: gpk (9/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:56:03,872] INFO: gpk (12/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:56:03,890] WARNING: gpk (3/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 12:56:03,905] INFO: gpk (3/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:56:03,936] INFO: gpk (6/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:56:03,965] INFO: gpk (9/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:56:03,982] WARNING: gpk (12/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 12:56:03,996] INFO: gpk (12/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:56:04,026] INFO: gpk (3/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:56:04,055] INFO: gpk (6/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:56:04,086] INFO: gpk (9/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:56:04,117] INFO: gpk (12/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:56:04,147] INFO: gpk (3/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:56:04,177] INFO: gpk (6/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:56:04,208] INFO: gpk (9/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:56:04,238] INFO: gpk (12/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:56:04,253] WARNING: gpk (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 12:56:04,268] INFO: gpk (3/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:56:04,297] INFO: gpk (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:56:04,326] INFO: gpk (9/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:56:04,356] INFO: gpk (12/2024): Updated existing record with 19 non-zero financial metrics

@@ -1,0 +1,100 @@
+[2025-03-22 12:32:45,344] INFO: bery (12/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 12:32:45,361] INFO: Trying adjusted date: 1/2013 (original: 2/2013)
+[2025-03-22 12:32:45,374] WARNING: bery (2/2013): No existing record found(2/2013, 2013-02-05) - creating new one
+[2025-03-22 12:32:45,375] INFO: bery (2/2013): Created new record with 0 non-zero financial metrics
+[2025-03-22 12:32:45,390] INFO: Trying adjusted date: 4/2013 (original: 5/2013)
+[2025-03-22 12:32:45,404] WARNING: bery (5/2013): No existing record found(5/2013, 2013-05-07) - creating new one
+[2025-03-22 12:32:45,405] INFO: bery (5/2013): Created new record with 0 non-zero financial metrics
+[2025-03-22 12:32:45,419] INFO: Trying adjusted date: 7/2013 (original: 8/2013)
+[2025-03-22 12:32:45,433] WARNING: bery (8/2013): No existing record found(8/2013, 2013-08-06) - creating new one
+[2025-03-22 12:32:45,434] INFO: bery (8/2013): Created new record with 0 non-zero financial metrics
+[2025-03-22 12:32:45,463] INFO: bery (9/2013): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:32:45,492] INFO: bery (12/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:32:45,522] INFO: bery (3/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:32:45,539] INFO: Trying adjusted date: 8/2014 (original: 7/2014)
+[2025-03-22 12:32:45,553] WARNING: bery (7/2014): No existing record found(7/2014, 2014-07-28) - creating new one
+[2025-03-22 12:32:45,553] INFO: bery (7/2014): Created new record with 0 non-zero financial metrics
+[2025-03-22 12:32:45,583] INFO: bery (9/2014): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:32:45,599] INFO: Trying adjusted date: 2/2015 (original: 1/2015)
+[2025-03-22 12:32:45,613] WARNING: bery (1/2015): No existing record found(1/2015, 2015-01-30) - creating new one
+[2025-03-22 12:32:45,613] INFO: bery (1/2015): Created new record with 0 non-zero financial metrics
+[2025-03-22 12:32:45,628] INFO: Trying adjusted date: 5/2015 (original: 4/2015)
+[2025-03-22 12:32:45,642] WARNING: bery (4/2015): No existing record found(4/2015, 2015-04-28) - creating new one
+[2025-03-22 12:32:45,642] INFO: bery (4/2015): Created new record with 0 non-zero financial metrics
+[2025-03-22 12:32:45,658] INFO: Trying adjusted date: 7/2015 (original: 8/2015)
+[2025-03-22 12:32:45,673] WARNING: bery (8/2015): No existing record found(8/2015, 2015-08-03) - creating new one
+[2025-03-22 12:32:45,673] INFO: bery (8/2015): Created new record with 0 non-zero financial metrics
+[2025-03-22 12:32:45,702] INFO: bery (9/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:32:45,718] INFO: Trying adjusted date: 1/2016 (original: 2/2016)
+[2025-03-22 12:32:45,731] WARNING: bery (2/2016): No existing record found(2/2016, 2016-02-11) - creating new one
+[2025-03-22 12:32:45,732] INFO: bery (2/2016): Created new record with 0 non-zero financial metrics
+[2025-03-22 12:32:45,747] INFO: Trying adjusted date: 4/2016 (original: 5/2016)
+[2025-03-22 12:32:45,761] WARNING: bery (5/2016): No existing record found(5/2016, 2016-05-10) - creating new one
+[2025-03-22 12:32:45,761] INFO: bery (5/2016): Created new record with 0 non-zero financial metrics
+[2025-03-22 12:32:45,777] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-22 12:32:45,791] INFO: Found existing row with adjusted date: 6/2016
+[2025-03-22 12:32:45,805] INFO: bery (6/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:32:45,824] INFO: Trying adjusted date: 9/2016 (original: 10/2016)
+[2025-03-22 12:32:45,838] INFO: Found existing row with adjusted date: 9/2016
+[2025-03-22 12:32:45,853] INFO: bery (9/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:32:45,884] INFO: bery (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 12:32:45,903] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-22 12:32:45,918] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-22 12:32:45,931] INFO: bery (3/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:32:45,947] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-22 12:32:45,961] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-22 12:32:45,974] INFO: bery (6/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:32:46,004] INFO: bery (9/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:32:46,033] INFO: bery (12/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:32:46,063] INFO: bery (3/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:32:46,093] INFO: bery (6/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:32:46,123] INFO: bery (9/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:32:46,153] INFO: bery (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:32:46,182] INFO: bery (3/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:32:46,211] INFO: bery (6/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:32:46,242] INFO: bery (9/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:32:46,257] WARNING: bery (12/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 12:32:46,272] INFO: bery (12/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:32:46,302] INFO: bery (3/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 12:32:46,332] INFO: bery (6/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 12:32:46,348] WARNING: bery (9/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 12:32:46,362] INFO: bery (9/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:32:46,378] INFO: Trying adjusted date: 12/2020 (original: 1/2021)
+[2025-03-22 12:32:46,392] INFO: Found existing row with adjusted date: 12/2020
+[2025-03-22 12:32:46,406] INFO: bery (12/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:32:46,421] INFO: Trying adjusted date: 3/2021 (original: 4/2021)
+[2025-03-22 12:32:46,435] INFO: Found existing row with adjusted date: 3/2021
+[2025-03-22 12:32:46,449] INFO: bery (3/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 12:32:46,465] INFO: Trying adjusted date: 6/2021 (original: 7/2021)
+[2025-03-22 12:32:46,478] INFO: Found existing row with adjusted date: 6/2021
+[2025-03-22 12:32:46,492] INFO: bery (6/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 12:32:46,508] INFO: Trying adjusted date: 9/2021 (original: 10/2021)
+[2025-03-22 12:32:46,522] INFO: Found existing row with adjusted date: 9/2021
+[2025-03-22 12:32:46,522] WARNING: bery (9/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 12:32:46,535] INFO: bery (9/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:32:46,551] INFO: Trying adjusted date: 12/2021 (original: 1/2022)
+[2025-03-22 12:32:46,565] INFO: Found existing row with adjusted date: 12/2021
+[2025-03-22 12:32:46,579] INFO: bery (12/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:32:46,595] INFO: Trying adjusted date: 3/2022 (original: 4/2022)
+[2025-03-22 12:32:46,608] INFO: Found existing row with adjusted date: 3/2022
+[2025-03-22 12:32:46,622] INFO: bery (3/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 12:32:46,637] INFO: Trying adjusted date: 6/2022 (original: 7/2022)
+[2025-03-22 12:32:46,650] INFO: Found existing row with adjusted date: 6/2022
+[2025-03-22 12:32:46,664] INFO: bery (6/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 12:32:46,680] INFO: Trying adjusted date: 9/2022 (original: 10/2022)
+[2025-03-22 12:32:46,693] INFO: Found existing row with adjusted date: 9/2022
+[2025-03-22 12:32:46,707] INFO: bery (9/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:32:46,735] INFO: bery (12/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:32:46,751] INFO: Trying adjusted date: 3/2023 (original: 4/2023)
+[2025-03-22 12:32:46,766] INFO: Found existing row with adjusted date: 3/2023
+[2025-03-22 12:32:46,779] INFO: bery (3/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 12:32:46,795] INFO: Trying adjusted date: 6/2023 (original: 7/2023)
+[2025-03-22 12:32:46,809] INFO: Found existing row with adjusted date: 6/2023
+[2025-03-22 12:32:46,823] INFO: bery (6/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 12:32:46,853] INFO: bery (9/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:32:46,883] INFO: bery (12/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:32:46,913] INFO: bery (3/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 12:32:46,941] INFO: bery (6/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 12:32:46,973] INFO: bery (9/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:32:46,988] WARNING: bery (12/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 12:32:47,003] INFO: bery (12/2024): Updated existing record with 15 non-zero financial metrics

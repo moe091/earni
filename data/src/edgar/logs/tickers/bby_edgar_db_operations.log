@@ -1,0 +1,139 @@
+[2025-03-22 06:25:10,468] INFO: Trying adjusted date: 3/2010 (original: 2/2010)
+[2025-03-22 06:25:10,481] WARNING: bby (2/2010): No existing record found(2/2010, 2010-02-27) - creating new one
+[2025-03-22 06:25:10,482] INFO: bby (2/2010): Created new record with 17 non-zero financial metrics
+[2025-03-22 06:25:10,498] INFO: Trying adjusted date: 6/2010 (original: 5/2010)
+[2025-03-22 06:25:10,511] WARNING: bby (5/2010): No existing record found(5/2010, 2010-05-29) - creating new one
+[2025-03-22 06:25:10,512] INFO: bby (5/2010): Created new record with 18 non-zero financial metrics
+[2025-03-22 06:25:10,527] INFO: Trying adjusted date: 9/2010 (original: 8/2010)
+[2025-03-22 06:25:10,540] WARNING: bby (8/2010): No existing record found(8/2010, 2010-08-28) - creating new one
+[2025-03-22 06:25:10,541] INFO: bby (8/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 06:25:10,557] INFO: Trying adjusted date: 12/2010 (original: 11/2010)
+[2025-03-22 06:25:10,570] WARNING: bby (11/2010): No existing record found(11/2010, 2010-11-27) - creating new one
+[2025-03-22 06:25:10,570] INFO: bby (11/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 06:25:10,586] INFO: Trying adjusted date: 3/2011 (original: 2/2011)
+[2025-03-22 06:25:10,599] WARNING: bby (2/2011): No existing record found(2/2011, 2011-02-26) - creating new one
+[2025-03-22 06:25:10,599] INFO: bby (2/2011): Created new record with 20 non-zero financial metrics
+[2025-03-22 06:25:10,614] INFO: Trying adjusted date: 6/2011 (original: 5/2011)
+[2025-03-22 06:25:10,627] WARNING: bby (5/2011): No existing record found(5/2011, 2011-05-28) - creating new one
+[2025-03-22 06:25:10,628] INFO: bby (5/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 06:25:10,643] INFO: Trying adjusted date: 9/2011 (original: 8/2011)
+[2025-03-22 06:25:10,655] WARNING: bby (8/2011): No existing record found(8/2011, 2011-08-27) - creating new one
+[2025-03-22 06:25:10,656] INFO: bby (8/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 06:25:10,671] INFO: Trying adjusted date: 12/2011 (original: 11/2011)
+[2025-03-22 06:25:10,684] WARNING: bby (11/2011): No existing record found(11/2011, 2011-11-26) - creating new one
+[2025-03-22 06:25:10,685] INFO: bby (11/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 06:25:10,700] INFO: Trying adjusted date: 2/2012 (original: 3/2012)
+[2025-03-22 06:25:10,713] WARNING: bby (3/2012): No existing record found(3/2012, 2012-03-03) - creating new one
+[2025-03-22 06:25:10,714] INFO: bby (3/2012): Created new record with 20 non-zero financial metrics
+[2025-03-22 06:25:10,728] INFO: Trying adjusted date: 4/2012 (original: 5/2012)
+[2025-03-22 06:25:10,741] WARNING: bby (5/2012): No existing record found(5/2012, 2012-05-05) - creating new one
+[2025-03-22 06:25:10,741] INFO: bby (5/2012): Created new record with 19 non-zero financial metrics
+[2025-03-22 06:25:10,756] INFO: Trying adjusted date: 7/2012 (original: 8/2012)
+[2025-03-22 06:25:10,768] WARNING: bby (8/2012): No existing record found(8/2012, 2012-08-04) - creating new one
+[2025-03-22 06:25:10,769] INFO: bby (8/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 06:25:10,784] INFO: Trying adjusted date: 10/2012 (original: 11/2012)
+[2025-03-22 06:25:10,797] INFO: Found existing row with adjusted date: 10/2012
+[2025-03-22 06:25:10,809] INFO: bby (10/2012): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:25:10,823] INFO: Trying adjusted date: 4/2013 (original: 5/2013)
+[2025-03-22 06:25:10,836] INFO: Found existing row with adjusted date: 4/2013
+[2025-03-22 06:25:10,836] WARNING: bby (4/2013): Found zero values for fields: Share Repurchases
+[2025-03-22 06:25:10,849] INFO: bby (4/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:25:10,863] INFO: Trying adjusted date: 7/2013 (original: 8/2013)
+[2025-03-22 06:25:10,876] INFO: Found existing row with adjusted date: 7/2013
+[2025-03-22 06:25:10,888] INFO: bby (7/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:25:10,902] INFO: Trying adjusted date: 10/2013 (original: 11/2013)
+[2025-03-22 06:25:10,915] INFO: Found existing row with adjusted date: 10/2013
+[2025-03-22 06:25:10,928] INFO: bby (10/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:25:10,943] INFO: Trying adjusted date: 1/2014 (original: 2/2014)
+[2025-03-22 06:25:10,956] INFO: Found existing row with adjusted date: 1/2014
+[2025-03-22 06:25:10,956] WARNING: bby (1/2014): Found zero values for fields: Share Repurchases
+[2025-03-22 06:25:10,969] INFO: bby (1/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:25:10,984] INFO: Trying adjusted date: 4/2014 (original: 5/2014)
+[2025-03-22 06:25:10,996] INFO: Found existing row with adjusted date: 4/2014
+[2025-03-22 06:25:11,008] INFO: bby (4/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:25:11,022] INFO: Trying adjusted date: 7/2014 (original: 8/2014)
+[2025-03-22 06:25:11,034] INFO: Found existing row with adjusted date: 7/2014
+[2025-03-22 06:25:11,047] INFO: bby (7/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:25:11,062] INFO: Trying adjusted date: 10/2014 (original: 11/2014)
+[2025-03-22 06:25:11,075] INFO: Found existing row with adjusted date: 10/2014
+[2025-03-22 06:25:11,088] INFO: bby (10/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:25:11,102] WARNING: bby (1/2015): Found zero values for fields: Share Repurchases
+[2025-03-22 06:25:11,114] INFO: bby (1/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:25:11,128] INFO: Trying adjusted date: 4/2015 (original: 5/2015)
+[2025-03-22 06:25:11,141] INFO: Found existing row with adjusted date: 4/2015
+[2025-03-22 06:25:11,154] INFO: bby (4/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:25:11,167] INFO: Trying adjusted date: 7/2015 (original: 8/2015)
+[2025-03-22 06:25:11,180] INFO: Found existing row with adjusted date: 7/2015
+[2025-03-22 06:25:11,192] INFO: bby (7/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:25:11,218] INFO: bby (10/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:25:11,245] INFO: bby (1/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:25:11,272] INFO: bby (4/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:25:11,301] INFO: bby (7/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 06:25:11,328] INFO: bby (10/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 06:25:11,356] INFO: bby (1/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:25:11,383] INFO: bby (4/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:25:11,411] INFO: bby (7/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:25:11,439] INFO: bby (10/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:25:11,454] INFO: Trying adjusted date: 1/2018 (original: 2/2018)
+[2025-03-22 06:25:11,467] INFO: Found existing row with adjusted date: 1/2018
+[2025-03-22 06:25:11,480] INFO: bby (1/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:25:11,495] INFO: Trying adjusted date: 4/2018 (original: 5/2018)
+[2025-03-22 06:25:11,508] INFO: Found existing row with adjusted date: 4/2018
+[2025-03-22 06:25:11,521] INFO: bby (4/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:25:11,534] INFO: Trying adjusted date: 7/2018 (original: 8/2018)
+[2025-03-22 06:25:11,547] INFO: Found existing row with adjusted date: 7/2018
+[2025-03-22 06:25:11,560] INFO: bby (7/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:25:11,575] INFO: Trying adjusted date: 10/2018 (original: 11/2018)
+[2025-03-22 06:25:11,587] INFO: Found existing row with adjusted date: 10/2018
+[2025-03-22 06:25:11,600] INFO: bby (10/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:25:11,614] INFO: Trying adjusted date: 1/2019 (original: 2/2019)
+[2025-03-22 06:25:11,627] INFO: Found existing row with adjusted date: 1/2019
+[2025-03-22 06:25:11,640] INFO: bby (1/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:25:11,653] INFO: Trying adjusted date: 4/2019 (original: 5/2019)
+[2025-03-22 06:25:11,665] INFO: Found existing row with adjusted date: 4/2019
+[2025-03-22 06:25:11,678] INFO: bby (4/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:25:11,692] INFO: Trying adjusted date: 7/2019 (original: 8/2019)
+[2025-03-22 06:25:11,705] INFO: Found existing row with adjusted date: 7/2019
+[2025-03-22 06:25:11,717] INFO: bby (7/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:25:11,731] INFO: Trying adjusted date: 10/2019 (original: 11/2019)
+[2025-03-22 06:25:11,744] INFO: Found existing row with adjusted date: 10/2019
+[2025-03-22 06:25:11,757] INFO: bby (10/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:25:11,771] INFO: Trying adjusted date: 1/2020 (original: 2/2020)
+[2025-03-22 06:25:11,783] INFO: Found existing row with adjusted date: 1/2020
+[2025-03-22 06:25:11,797] INFO: bby (1/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:25:11,810] INFO: Trying adjusted date: 4/2020 (original: 5/2020)
+[2025-03-22 06:25:11,823] INFO: Found existing row with adjusted date: 4/2020
+[2025-03-22 06:25:11,836] INFO: bby (4/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:25:11,849] INFO: Trying adjusted date: 7/2020 (original: 8/2020)
+[2025-03-22 06:25:11,862] INFO: Found existing row with adjusted date: 7/2020
+[2025-03-22 06:25:11,874] INFO: bby (7/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:25:11,901] INFO: bby (10/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:25:11,929] INFO: bby (1/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:25:11,943] INFO: Trying adjusted date: 4/2021 (original: 5/2021)
+[2025-03-22 06:25:11,956] INFO: Found existing row with adjusted date: 4/2021
+[2025-03-22 06:25:11,969] INFO: bby (4/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:25:11,995] INFO: bby (7/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:25:12,022] INFO: bby (10/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:25:12,050] INFO: bby (1/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:25:12,077] INFO: bby (4/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:25:12,104] INFO: bby (7/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:25:12,132] INFO: bby (10/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:25:12,160] INFO: bby (1/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:25:12,188] INFO: bby (4/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:25:12,216] INFO: bby (7/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:25:12,243] INFO: bby (10/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:25:12,258] INFO: Trying adjusted date: 1/2024 (original: 2/2024)
+[2025-03-22 06:25:12,271] INFO: Found existing row with adjusted date: 1/2024
+[2025-03-22 06:25:12,284] INFO: bby (1/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:25:12,298] INFO: Trying adjusted date: 4/2024 (original: 5/2024)
+[2025-03-22 06:25:12,310] INFO: Found existing row with adjusted date: 4/2024
+[2025-03-22 06:25:12,322] INFO: bby (4/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:25:12,337] INFO: Trying adjusted date: 7/2024 (original: 8/2024)
+[2025-03-22 06:25:12,350] INFO: Found existing row with adjusted date: 7/2024
+[2025-03-22 06:25:12,363] INFO: bby (7/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:25:12,378] INFO: Trying adjusted date: 10/2024 (original: 11/2024)
+[2025-03-22 06:25:12,391] INFO: Found existing row with adjusted date: 10/2024
+[2025-03-22 06:25:12,404] INFO: bby (10/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:25:12,418] INFO: Trying adjusted date: 1/2025 (original: 2/2025)
+[2025-03-22 06:25:12,431] WARNING: bby (2/2025): No existing record found(2/2025, 2025-02-01) - creating new one
+[2025-03-22 06:25:12,431] INFO: bby (2/2025): Created new record with 19 non-zero financial metrics

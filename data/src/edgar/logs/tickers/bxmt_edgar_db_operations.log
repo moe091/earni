@@ -1,0 +1,75 @@
+[2025-03-22 16:19:31,655] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 16:19:31,670] WARNING: bxmt (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 16:19:31,671] INFO: bxmt (6/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:19:31,688] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 16:19:31,703] WARNING: bxmt (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 16:19:31,703] INFO: bxmt (9/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:19:31,721] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 16:19:31,735] WARNING: bxmt (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 16:19:31,736] INFO: bxmt (12/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:19:31,752] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 16:19:31,767] WARNING: bxmt (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 16:19:31,768] INFO: bxmt (3/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:19:31,786] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 16:19:31,800] WARNING: bxmt (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 16:19:31,801] INFO: bxmt (6/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:19:31,819] INFO: Trying adjusted date: 10/2012 (original: 9/2012)
+[2025-03-22 16:19:31,833] WARNING: bxmt (9/2012): No existing record found(9/2012, 2012-09-30) - creating new one
+[2025-03-22 16:19:31,834] INFO: bxmt (9/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:19:31,850] INFO: Trying adjusted date: 1/2013 (original: 12/2012)
+[2025-03-22 16:19:31,865] WARNING: bxmt (12/2012): No existing record found(12/2012, 2012-12-31) - creating new one
+[2025-03-22 16:19:31,865] INFO: bxmt (12/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:19:31,881] INFO: Trying adjusted date: 4/2013 (original: 3/2013)
+[2025-03-22 16:19:31,896] WARNING: bxmt (3/2013): No existing record found(3/2013, 2013-03-31) - creating new one
+[2025-03-22 16:19:31,896] INFO: bxmt (3/2013): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:19:31,913] INFO: Trying adjusted date: 7/2013 (original: 6/2013)
+[2025-03-22 16:19:31,927] WARNING: bxmt (6/2013): No existing record found(6/2013, 2013-06-30) - creating new one
+[2025-03-22 16:19:31,928] INFO: bxmt (6/2013): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:19:31,959] INFO: bxmt (9/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:31,990] INFO: bxmt (12/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,022] INFO: bxmt (3/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,053] INFO: bxmt (6/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,084] INFO: bxmt (9/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,115] INFO: bxmt (12/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,146] INFO: bxmt (3/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,177] INFO: bxmt (6/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,209] INFO: bxmt (9/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,240] INFO: bxmt (12/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,273] INFO: bxmt (3/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,304] INFO: bxmt (6/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,335] INFO: bxmt (9/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,365] INFO: bxmt (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,394] INFO: bxmt (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,428] INFO: bxmt (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,458] INFO: bxmt (9/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,488] INFO: bxmt (12/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,519] INFO: bxmt (3/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,550] INFO: bxmt (6/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,581] INFO: bxmt (9/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,610] INFO: bxmt (12/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,641] INFO: bxmt (3/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,671] INFO: bxmt (6/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,702] INFO: bxmt (9/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,733] INFO: bxmt (12/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,764] INFO: bxmt (3/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,793] INFO: bxmt (6/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,825] INFO: bxmt (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,857] INFO: bxmt (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,888] INFO: bxmt (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,920] INFO: bxmt (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,951] INFO: bxmt (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:32,984] INFO: bxmt (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:33,015] INFO: bxmt (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:33,045] INFO: bxmt (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:33,078] INFO: bxmt (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:33,110] INFO: bxmt (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:33,140] INFO: bxmt (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:33,171] INFO: bxmt (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:33,202] INFO: bxmt (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:33,233] INFO: bxmt (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:33,265] INFO: bxmt (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:33,295] INFO: bxmt (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:33,326] INFO: bxmt (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:19:33,343] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 16:19:33,357] WARNING: bxmt (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 16:19:33,358] INFO: bxmt (12/2024): Created new record with 0 non-zero financial metrics

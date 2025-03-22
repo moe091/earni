@@ -1,0 +1,111 @@
+[2025-03-22 12:58:43,936] INFO: Trying adjusted date: 6/2011 (original: 7/2011)
+[2025-03-22 12:58:43,949] WARNING: lscc (7/2011): No existing record found(7/2011, 2011-07-02) - creating new one
+[2025-03-22 12:58:43,950] INFO: lscc (7/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 12:58:43,969] INFO: Trying adjusted date: 9/2011 (original: 10/2011)
+[2025-03-22 12:58:43,984] WARNING: lscc (10/2011): No existing record found(10/2011, 2011-10-01) - creating new one
+[2025-03-22 12:58:43,984] INFO: lscc (10/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 12:58:44,002] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 12:58:44,017] WARNING: lscc (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 12:58:44,017] INFO: lscc (12/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 12:58:44,033] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 12:58:44,048] WARNING: lscc (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 12:58:44,048] INFO: lscc (3/2012): Created new record with 19 non-zero financial metrics
+[2025-03-22 12:58:44,064] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 12:58:44,079] WARNING: lscc (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 12:58:44,080] INFO: lscc (6/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 12:58:44,111] INFO: lscc (9/2012): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:58:44,142] INFO: lscc (12/2012): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:58:44,173] INFO: lscc (3/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:58:44,203] INFO: lscc (6/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:58:44,232] INFO: lscc (9/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:58:44,263] INFO: lscc (12/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:58:44,279] WARNING: lscc (3/2014): Found zero values for fields: Share Repurchases
+[2025-03-22 12:58:44,293] INFO: lscc (3/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:58:44,324] INFO: lscc (6/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:58:44,353] INFO: lscc (9/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:58:44,371] INFO: Trying adjusted date: 12/2014 (original: 1/2015)
+[2025-03-22 12:58:44,385] INFO: Found existing row with adjusted date: 12/2014
+[2025-03-22 12:58:44,399] INFO: lscc (12/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:58:44,415] INFO: Trying adjusted date: 3/2015 (original: 4/2015)
+[2025-03-22 12:58:44,428] INFO: Found existing row with adjusted date: 3/2015
+[2025-03-22 12:58:44,442] INFO: lscc (3/2015): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:58:44,458] INFO: Trying adjusted date: 6/2015 (original: 7/2015)
+[2025-03-22 12:58:44,472] INFO: Found existing row with adjusted date: 6/2015
+[2025-03-22 12:58:44,485] INFO: lscc (6/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:58:44,501] INFO: Trying adjusted date: 9/2015 (original: 10/2015)
+[2025-03-22 12:58:44,515] INFO: Found existing row with adjusted date: 9/2015
+[2025-03-22 12:58:44,530] INFO: lscc (9/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:58:44,546] INFO: Trying adjusted date: 12/2015 (original: 1/2016)
+[2025-03-22 12:58:44,559] INFO: Found existing row with adjusted date: 12/2015
+[2025-03-22 12:58:44,573] INFO: lscc (12/2015): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:58:44,588] INFO: Trying adjusted date: 3/2016 (original: 4/2016)
+[2025-03-22 12:58:44,602] INFO: Found existing row with adjusted date: 3/2016
+[2025-03-22 12:58:44,602] WARNING: lscc (3/2016): Found zero values for fields: Share Repurchases
+[2025-03-22 12:58:44,616] INFO: lscc (3/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:58:44,631] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-22 12:58:44,647] INFO: Found existing row with adjusted date: 6/2016
+[2025-03-22 12:58:44,661] INFO: lscc (6/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:58:44,676] INFO: Trying adjusted date: 9/2016 (original: 10/2016)
+[2025-03-22 12:58:44,690] INFO: Found existing row with adjusted date: 9/2016
+[2025-03-22 12:58:44,703] INFO: lscc (9/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:58:44,719] WARNING: lscc (12/2016): Found zero values for fields: Share Repurchases
+[2025-03-22 12:58:44,733] INFO: lscc (12/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:58:44,749] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-22 12:58:44,763] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-22 12:58:44,777] INFO: lscc (3/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:58:44,793] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-22 12:58:44,806] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-22 12:58:44,820] INFO: lscc (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:58:44,847] INFO: lscc (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:58:44,862] WARNING: lscc (12/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 12:58:44,875] INFO: lscc (12/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:58:44,904] INFO: lscc (3/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:58:44,934] INFO: lscc (6/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:58:44,965] INFO: lscc (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:58:44,994] INFO: lscc (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:58:45,024] INFO: lscc (3/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:58:45,054] INFO: lscc (6/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:58:45,084] INFO: lscc (9/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:58:45,115] INFO: lscc (12/2019): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 12:58:45,145] INFO: lscc (3/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:58:45,175] INFO: lscc (6/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:58:45,205] INFO: lscc (9/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:58:45,221] INFO: Trying adjusted date: 12/2020 (original: 1/2021)
+[2025-03-22 12:58:45,235] INFO: Found existing row with adjusted date: 12/2020
+[2025-03-22 12:58:45,249] INFO: lscc (12/2020): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 12:58:45,265] INFO: Trying adjusted date: 3/2021 (original: 4/2021)
+[2025-03-22 12:58:45,279] INFO: Found existing row with adjusted date: 3/2021
+[2025-03-22 12:58:45,293] INFO: lscc (3/2021): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 12:58:45,309] INFO: Trying adjusted date: 6/2021 (original: 7/2021)
+[2025-03-22 12:58:45,323] INFO: Found existing row with adjusted date: 6/2021
+[2025-03-22 12:58:45,337] INFO: lscc (6/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:58:45,354] INFO: Trying adjusted date: 9/2021 (original: 10/2021)
+[2025-03-22 12:58:45,368] INFO: Found existing row with adjusted date: 9/2021
+[2025-03-22 12:58:45,381] INFO: lscc (9/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:58:45,397] INFO: Trying adjusted date: 12/2021 (original: 1/2022)
+[2025-03-22 12:58:45,410] INFO: Found existing row with adjusted date: 12/2021
+[2025-03-22 12:58:45,424] INFO: lscc (12/2021): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 12:58:45,440] INFO: Trying adjusted date: 3/2022 (original: 4/2022)
+[2025-03-22 12:58:45,453] INFO: Found existing row with adjusted date: 3/2022
+[2025-03-22 12:58:45,467] INFO: lscc (3/2022): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 12:58:45,483] INFO: Trying adjusted date: 6/2022 (original: 7/2022)
+[2025-03-22 12:58:45,496] INFO: Found existing row with adjusted date: 6/2022
+[2025-03-22 12:58:45,510] INFO: lscc (6/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:58:45,526] INFO: Trying adjusted date: 9/2022 (original: 10/2022)
+[2025-03-22 12:58:45,540] INFO: Found existing row with adjusted date: 9/2022
+[2025-03-22 12:58:45,553] INFO: lscc (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:58:45,583] INFO: lscc (12/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 12:58:45,599] INFO: Trying adjusted date: 3/2023 (original: 4/2023)
+[2025-03-22 12:58:45,613] INFO: Found existing row with adjusted date: 3/2023
+[2025-03-22 12:58:45,628] INFO: lscc (3/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 12:58:45,643] INFO: Trying adjusted date: 6/2023 (original: 7/2023)
+[2025-03-22 12:58:45,657] INFO: Found existing row with adjusted date: 6/2023
+[2025-03-22 12:58:45,671] INFO: lscc (6/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:58:45,700] INFO: lscc (9/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:58:45,730] INFO: lscc (12/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 12:58:45,760] INFO: lscc (3/2024): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 12:58:45,789] INFO: lscc (6/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:58:45,820] INFO: lscc (9/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:58:45,836] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 12:58:45,850] WARNING: lscc (12/2024): No existing record found(12/2024, 2024-12-28) - creating new one
+[2025-03-22 12:58:45,851] INFO: lscc (12/2024): Created new record with 22 non-zero financial metrics

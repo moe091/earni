@@ -1,0 +1,80 @@
+[2025-03-22 10:14:19,509] INFO: armk (12/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:14:19,543] INFO: armk (3/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:14:19,559] INFO: Trying adjusted date: 7/2014 (original: 8/2014)
+[2025-03-22 10:14:19,572] WARNING: armk (8/2014): No existing record found(8/2014, 2014-08-11) - creating new one
+[2025-03-22 10:14:19,573] INFO: armk (8/2014): Created new record with 0 non-zero financial metrics
+[2025-03-22 10:14:19,588] INFO: Trying adjusted date: 9/2014 (original: 10/2014)
+[2025-03-22 10:14:19,602] INFO: Found existing row with adjusted date: 9/2014
+[2025-03-22 10:14:19,616] INFO: armk (9/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:14:19,631] INFO: Trying adjusted date: 12/2014 (original: 1/2015)
+[2025-03-22 10:14:19,645] INFO: Found existing row with adjusted date: 12/2014
+[2025-03-22 10:14:19,659] INFO: armk (12/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:14:19,675] INFO: Trying adjusted date: 3/2015 (original: 4/2015)
+[2025-03-22 10:14:19,689] INFO: Found existing row with adjusted date: 3/2015
+[2025-03-22 10:14:19,702] INFO: armk (3/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:14:19,718] INFO: Trying adjusted date: 6/2015 (original: 7/2015)
+[2025-03-22 10:14:19,731] INFO: Found existing row with adjusted date: 6/2015
+[2025-03-22 10:14:19,745] INFO: armk (6/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:14:19,760] INFO: Trying adjusted date: 9/2015 (original: 10/2015)
+[2025-03-22 10:14:19,773] INFO: Found existing row with adjusted date: 9/2015
+[2025-03-22 10:14:19,787] INFO: armk (9/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:14:19,802] INFO: Trying adjusted date: 12/2015 (original: 1/2016)
+[2025-03-22 10:14:19,816] INFO: Found existing row with adjusted date: 12/2015
+[2025-03-22 10:14:19,829] INFO: armk (12/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:14:19,844] INFO: Trying adjusted date: 3/2016 (original: 4/2016)
+[2025-03-22 10:14:19,857] INFO: Found existing row with adjusted date: 3/2016
+[2025-03-22 10:14:19,870] INFO: armk (3/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:14:19,885] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-22 10:14:19,899] INFO: Found existing row with adjusted date: 6/2016
+[2025-03-22 10:14:19,913] INFO: armk (6/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:14:19,941] INFO: armk (9/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:14:19,970] INFO: armk (12/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:14:19,999] INFO: armk (3/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:14:20,028] INFO: armk (6/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:14:20,057] INFO: armk (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:14:20,087] INFO: armk (12/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:14:20,116] INFO: armk (3/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:14:20,146] INFO: armk (6/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:14:20,176] INFO: armk (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:14:20,205] INFO: armk (12/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:14:20,234] INFO: armk (3/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:14:20,264] INFO: armk (6/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:14:20,292] INFO: armk (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:14:20,308] WARNING: armk (12/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 10:14:20,322] INFO: armk (12/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:14:20,350] INFO: armk (3/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:14:20,380] INFO: armk (6/2020): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:14:20,395] INFO: Trying adjusted date: 9/2020 (original: 10/2020)
+[2025-03-22 10:14:20,409] INFO: Found existing row with adjusted date: 9/2020
+[2025-03-22 10:14:20,422] INFO: armk (9/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:14:20,437] INFO: Trying adjusted date: 12/2020 (original: 1/2021)
+[2025-03-22 10:14:20,451] INFO: Found existing row with adjusted date: 12/2020
+[2025-03-22 10:14:20,465] INFO: armk (12/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:14:20,480] INFO: Trying adjusted date: 3/2021 (original: 4/2021)
+[2025-03-22 10:14:20,494] INFO: Found existing row with adjusted date: 3/2021
+[2025-03-22 10:14:20,508] INFO: armk (3/2021): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:14:20,524] INFO: Trying adjusted date: 6/2021 (original: 7/2021)
+[2025-03-22 10:14:20,537] INFO: Found existing row with adjusted date: 6/2021
+[2025-03-22 10:14:20,551] INFO: armk (6/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:14:20,566] INFO: Trying adjusted date: 9/2021 (original: 10/2021)
+[2025-03-22 10:14:20,582] INFO: Found existing row with adjusted date: 9/2021
+[2025-03-22 10:14:20,583] WARNING: armk (9/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 10:14:20,596] INFO: armk (9/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:14:20,625] INFO: armk (12/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:14:20,641] INFO: Trying adjusted date: 3/2022 (original: 4/2022)
+[2025-03-22 10:14:20,654] INFO: Found existing row with adjusted date: 3/2022
+[2025-03-22 10:14:20,668] INFO: armk (3/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:14:20,684] INFO: Trying adjusted date: 6/2022 (original: 7/2022)
+[2025-03-22 10:14:20,698] INFO: Found existing row with adjusted date: 6/2022
+[2025-03-22 10:14:20,712] INFO: armk (6/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:14:20,728] WARNING: armk (9/2022): Found zero values for fields: Share Repurchases
+[2025-03-22 10:14:20,743] INFO: armk (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:14:20,772] INFO: armk (12/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:14:20,801] INFO: armk (3/2023): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:14:20,830] INFO: armk (6/2023): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:14:20,859] INFO: armk (9/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:14:20,890] INFO: armk (12/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:14:20,920] INFO: armk (3/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:14:20,949] INFO: armk (6/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:14:20,979] INFO: armk (9/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:14:21,009] INFO: armk (12/2024): Updated existing record with 13 non-zero financial metrics

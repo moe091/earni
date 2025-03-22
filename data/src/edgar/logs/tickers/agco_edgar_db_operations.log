@@ -1,0 +1,85 @@
+[2025-03-22 11:48:54,195] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 11:48:54,208] WARNING: agco (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 11:48:54,208] INFO: agco (6/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 11:48:54,227] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 11:48:54,241] WARNING: agco (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 11:48:54,241] INFO: agco (9/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 11:48:54,256] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 11:48:54,270] WARNING: agco (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 11:48:54,271] INFO: agco (12/2010): Created new record with 18 non-zero financial metrics
+[2025-03-22 11:48:54,286] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 11:48:54,300] WARNING: agco (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 11:48:54,300] INFO: agco (3/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 11:48:54,315] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 11:48:54,329] WARNING: agco (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 11:48:54,329] INFO: agco (6/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 11:48:54,345] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 11:48:54,360] WARNING: agco (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 11:48:54,360] INFO: agco (9/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 11:48:54,376] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 11:48:54,390] WARNING: agco (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 11:48:54,391] INFO: agco (12/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 11:48:54,406] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 11:48:54,420] WARNING: agco (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 11:48:54,421] INFO: agco (3/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 11:48:54,437] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 11:48:54,451] WARNING: agco (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 11:48:54,451] INFO: agco (6/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 11:48:54,480] INFO: agco (9/2012): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:48:54,510] INFO: agco (12/2012): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:48:54,539] INFO: agco (3/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:48:54,569] INFO: agco (6/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:48:54,598] INFO: agco (9/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:48:54,630] INFO: agco (12/2013): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 11:48:54,660] INFO: agco (3/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:48:54,693] INFO: agco (6/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:48:54,728] INFO: agco (9/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:48:54,758] INFO: agco (12/2014): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 11:48:54,788] INFO: agco (3/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:48:54,818] INFO: agco (6/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:48:54,847] INFO: agco (9/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:48:54,877] INFO: agco (12/2015): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 11:48:54,908] INFO: agco (3/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:48:54,938] INFO: agco (6/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:48:54,968] INFO: agco (9/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:48:54,997] INFO: agco (12/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:48:55,012] WARNING: agco (3/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 11:48:55,028] INFO: agco (3/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:48:55,057] INFO: agco (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:48:55,087] INFO: agco (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:48:55,102] WARNING: agco (12/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 11:48:55,116] INFO: agco (12/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:48:55,146] INFO: agco (3/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 11:48:55,176] INFO: agco (6/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:48:55,206] INFO: agco (9/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:48:55,236] INFO: agco (12/2018): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 11:48:55,264] INFO: agco (3/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:48:55,294] INFO: agco (6/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:48:55,324] INFO: agco (9/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:48:55,354] INFO: agco (12/2019): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 11:48:55,386] INFO: agco (3/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:48:55,402] INFO: Trying adjusted date: 7/2020 (original: 6/2020)
+[2025-03-22 11:48:55,416] WARNING: agco (6/2020): No existing record found(6/2020, 2020-06-30) - creating new one
+[2025-03-22 11:48:55,416] INFO: agco (6/2020): Created new record with 15 non-zero financial metrics
+[2025-03-22 11:48:55,449] INFO: agco (9/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:48:55,480] INFO: agco (12/2020): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 11:48:55,496] WARNING: agco (3/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 11:48:55,510] INFO: agco (3/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:48:55,540] INFO: agco (6/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:48:55,570] INFO: agco (9/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:48:55,599] INFO: agco (12/2021): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 11:48:55,628] INFO: agco (3/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:48:55,659] INFO: agco (6/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:48:55,691] INFO: agco (9/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:48:55,705] WARNING: agco (12/2022): Found zero values for fields: Share Repurchases
+[2025-03-22 11:48:55,719] INFO: agco (12/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 11:48:55,749] INFO: agco (3/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:48:55,779] INFO: agco (6/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:48:55,809] INFO: agco (9/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:48:55,839] INFO: agco (12/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 11:48:55,869] INFO: agco (3/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:48:55,899] INFO: agco (6/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:48:55,928] INFO: agco (9/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:48:55,944] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 11:48:55,958] WARNING: agco (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 11:48:55,958] INFO: agco (12/2024): Created new record with 21 non-zero financial metrics

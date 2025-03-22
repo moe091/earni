@@ -1,0 +1,79 @@
+[2025-03-22 15:59:09,319] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 15:59:09,333] WARNING: ubsi (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 15:59:09,334] INFO: ubsi (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:59:09,353] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 15:59:09,368] WARNING: ubsi (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 15:59:09,368] INFO: ubsi (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:59:09,386] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 15:59:09,401] WARNING: ubsi (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 15:59:09,402] INFO: ubsi (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:59:09,420] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 15:59:09,436] WARNING: ubsi (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 15:59:09,437] INFO: ubsi (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:59:09,455] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 15:59:09,471] WARNING: ubsi (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 15:59:09,471] INFO: ubsi (6/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:59:09,488] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 15:59:09,504] WARNING: ubsi (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 15:59:09,504] INFO: ubsi (9/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:59:09,521] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 15:59:09,536] WARNING: ubsi (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 15:59:09,537] INFO: ubsi (12/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:59:09,554] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 15:59:09,569] WARNING: ubsi (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 15:59:09,569] INFO: ubsi (3/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:59:09,586] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 15:59:09,601] WARNING: ubsi (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 15:59:09,602] INFO: ubsi (6/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:59:09,633] INFO: ubsi (9/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:09,665] INFO: ubsi (12/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:09,697] INFO: ubsi (3/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:09,728] INFO: ubsi (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:09,759] INFO: ubsi (9/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:09,790] INFO: ubsi (12/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:09,820] INFO: ubsi (3/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:09,851] INFO: ubsi (6/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:09,882] INFO: ubsi (9/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:09,912] INFO: ubsi (12/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:09,943] INFO: ubsi (3/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:09,975] INFO: ubsi (6/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,005] INFO: ubsi (9/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,035] INFO: ubsi (12/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,067] INFO: ubsi (3/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,098] INFO: ubsi (6/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,128] INFO: ubsi (9/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,159] INFO: ubsi (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,192] INFO: ubsi (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,225] INFO: ubsi (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,256] INFO: ubsi (9/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,286] INFO: ubsi (12/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,318] INFO: ubsi (3/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,351] INFO: ubsi (6/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,383] INFO: ubsi (9/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,414] INFO: ubsi (12/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,446] INFO: ubsi (3/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,478] INFO: ubsi (6/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,510] INFO: ubsi (9/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,541] INFO: ubsi (12/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,572] INFO: ubsi (3/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,602] INFO: ubsi (6/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,633] INFO: ubsi (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,665] INFO: ubsi (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,698] INFO: ubsi (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,729] INFO: ubsi (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,759] INFO: ubsi (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,789] INFO: ubsi (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,821] INFO: ubsi (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,838] INFO: Trying adjusted date: 7/2022 (original: 6/2022)
+[2025-03-22 15:59:10,853] WARNING: ubsi (6/2022): No existing record found(6/2022, 2022-06-30) - creating new one
+[2025-03-22 15:59:10,854] INFO: ubsi (6/2022): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,886] INFO: ubsi (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,917] INFO: ubsi (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,949] INFO: ubsi (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:10,980] INFO: ubsi (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:11,011] INFO: ubsi (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:11,042] INFO: ubsi (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:11,074] INFO: ubsi (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:11,106] INFO: ubsi (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:11,137] INFO: ubsi (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:59:11,168] INFO: ubsi (12/2024): Updated existing record with 0 non-zero financial metrics

@@ -1,0 +1,138 @@
+[2025-03-21 23:45:27,399] INFO: Trying adjusted date: 4/2010 (original: 5/2010)
+[2025-03-21 23:45:27,411] WARNING: tgt (5/2010): No existing record found(5/2010, 2010-05-01) - creating new one
+[2025-03-21 23:45:27,411] INFO: tgt (5/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 23:45:27,424] INFO: Trying adjusted date: 8/2010 (original: 7/2010)
+[2025-03-21 23:45:27,436] WARNING: tgt (7/2010): No existing record found(7/2010, 2010-07-31) - creating new one
+[2025-03-21 23:45:27,436] INFO: tgt (7/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 23:45:27,449] INFO: Trying adjusted date: 11/2010 (original: 10/2010)
+[2025-03-21 23:45:27,461] WARNING: tgt (10/2010): No existing record found(10/2010, 2010-10-30) - creating new one
+[2025-03-21 23:45:27,462] INFO: tgt (10/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 23:45:27,475] INFO: Trying adjusted date: 2/2011 (original: 1/2011)
+[2025-03-21 23:45:27,486] WARNING: tgt (1/2011): No existing record found(1/2011, 2011-01-29) - creating new one
+[2025-03-21 23:45:27,487] INFO: tgt (1/2011): Created new record with 0 non-zero financial metrics
+[2025-03-21 23:45:27,500] INFO: Trying adjusted date: 5/2011 (original: 4/2011)
+[2025-03-21 23:45:27,512] WARNING: tgt (4/2011): No existing record found(4/2011, 2011-04-30) - creating new one
+[2025-03-21 23:45:27,513] INFO: tgt (4/2011): Created new record with 13 non-zero financial metrics
+[2025-03-21 23:45:27,527] INFO: Trying adjusted date: 8/2011 (original: 7/2011)
+[2025-03-21 23:45:27,539] WARNING: tgt (7/2011): No existing record found(7/2011, 2011-07-30) - creating new one
+[2025-03-21 23:45:27,540] INFO: tgt (7/2011): Created new record with 9 non-zero financial metrics
+[2025-03-21 23:45:27,552] INFO: Trying adjusted date: 11/2011 (original: 10/2011)
+[2025-03-21 23:45:27,565] WARNING: tgt (10/2011): No existing record found(10/2011, 2011-10-29) - creating new one
+[2025-03-21 23:45:27,565] INFO: tgt (10/2011): Created new record with 10 non-zero financial metrics
+[2025-03-21 23:45:27,580] INFO: Trying adjusted date: 2/2012 (original: 1/2012)
+[2025-03-21 23:45:27,592] WARNING: tgt (1/2012): No existing record found(1/2012, 2012-01-28) - creating new one
+[2025-03-21 23:45:27,592] INFO: tgt (1/2012): Created new record with 14 non-zero financial metrics
+[2025-03-21 23:45:27,605] INFO: Trying adjusted date: 5/2012 (original: 4/2012)
+[2025-03-21 23:45:27,618] WARNING: tgt (4/2012): No existing record found(4/2012, 2012-04-28) - creating new one
+[2025-03-21 23:45:27,618] INFO: tgt (4/2012): Created new record with 12 non-zero financial metrics
+[2025-03-21 23:45:27,631] INFO: Trying adjusted date: 8/2012 (original: 7/2012)
+[2025-03-21 23:45:27,643] WARNING: tgt (7/2012): No existing record found(7/2012, 2012-07-28) - creating new one
+[2025-03-21 23:45:27,644] INFO: tgt (7/2012): Created new record with 10 non-zero financial metrics
+[2025-03-21 23:45:27,667] INFO: tgt (10/2012): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 23:45:27,680] INFO: Trying adjusted date: 1/2013 (original: 2/2013)
+[2025-03-21 23:45:27,692] INFO: Found existing row with adjusted date: 1/2013
+[2025-03-21 23:45:27,703] INFO: tgt (1/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 23:45:27,717] INFO: Trying adjusted date: 4/2013 (original: 5/2013)
+[2025-03-21 23:45:27,729] INFO: Found existing row with adjusted date: 4/2013
+[2025-03-21 23:45:27,741] INFO: tgt (4/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:45:27,754] INFO: Trying adjusted date: 7/2013 (original: 8/2013)
+[2025-03-21 23:45:27,765] INFO: Found existing row with adjusted date: 7/2013
+[2025-03-21 23:45:27,779] INFO: tgt (7/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-21 23:45:27,795] INFO: Trying adjusted date: 10/2013 (original: 11/2013)
+[2025-03-21 23:45:27,807] INFO: Found existing row with adjusted date: 10/2013
+[2025-03-21 23:45:27,819] INFO: tgt (10/2013): Updated existing record with 9 non-zero financial metrics
+[2025-03-21 23:45:27,834] INFO: Trying adjusted date: 1/2014 (original: 2/2014)
+[2025-03-21 23:45:27,846] INFO: Found existing row with adjusted date: 1/2014
+[2025-03-21 23:45:27,858] INFO: tgt (1/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 23:45:27,873] INFO: Trying adjusted date: 4/2014 (original: 5/2014)
+[2025-03-21 23:45:27,888] INFO: Found existing row with adjusted date: 4/2014
+[2025-03-21 23:45:27,888] WARNING: tgt (4/2014): Found zero values for fields: Share Repurchases
+[2025-03-21 23:45:27,899] INFO: tgt (4/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:45:27,912] INFO: Trying adjusted date: 7/2014 (original: 8/2014)
+[2025-03-21 23:45:27,924] INFO: Found existing row with adjusted date: 7/2014
+[2025-03-21 23:45:27,936] INFO: tgt (7/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 23:45:27,949] INFO: Trying adjusted date: 10/2014 (original: 11/2014)
+[2025-03-21 23:45:27,961] INFO: Found existing row with adjusted date: 10/2014
+[2025-03-21 23:45:27,972] INFO: tgt (10/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 23:45:27,985] WARNING: tgt (1/2015): Found zero values for fields: Share Repurchases
+[2025-03-21 23:45:27,997] INFO: tgt (1/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 23:45:28,010] INFO: Trying adjusted date: 4/2015 (original: 5/2015)
+[2025-03-21 23:45:28,022] INFO: Found existing row with adjusted date: 4/2015
+[2025-03-21 23:45:28,034] INFO: tgt (4/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:45:28,047] INFO: Trying adjusted date: 7/2015 (original: 8/2015)
+[2025-03-21 23:45:28,059] INFO: Found existing row with adjusted date: 7/2015
+[2025-03-21 23:45:28,070] INFO: tgt (7/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 23:45:28,095] INFO: tgt (10/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 23:45:28,120] INFO: tgt (1/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 23:45:28,146] INFO: tgt (4/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:45:28,170] INFO: tgt (7/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 23:45:28,195] INFO: tgt (10/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 23:45:28,219] INFO: tgt (1/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 23:45:28,245] INFO: tgt (4/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 23:45:28,270] INFO: tgt (7/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 23:45:28,296] INFO: tgt (10/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 23:45:28,309] INFO: Trying adjusted date: 1/2018 (original: 2/2018)
+[2025-03-21 23:45:28,321] INFO: Found existing row with adjusted date: 1/2018
+[2025-03-21 23:45:28,334] INFO: tgt (1/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 23:45:28,346] INFO: Trying adjusted date: 4/2018 (original: 5/2018)
+[2025-03-21 23:45:28,358] INFO: Found existing row with adjusted date: 4/2018
+[2025-03-21 23:45:28,370] INFO: tgt (4/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 23:45:28,383] INFO: Trying adjusted date: 7/2018 (original: 8/2018)
+[2025-03-21 23:45:28,395] INFO: Found existing row with adjusted date: 7/2018
+[2025-03-21 23:45:28,407] INFO: tgt (7/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-21 23:45:28,420] INFO: Trying adjusted date: 10/2018 (original: 11/2018)
+[2025-03-21 23:45:28,431] INFO: Found existing row with adjusted date: 10/2018
+[2025-03-21 23:45:28,443] INFO: tgt (10/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-21 23:45:28,456] INFO: Trying adjusted date: 1/2019 (original: 2/2019)
+[2025-03-21 23:45:28,467] INFO: Found existing row with adjusted date: 1/2019
+[2025-03-21 23:45:28,479] INFO: tgt (1/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 23:45:28,492] INFO: Trying adjusted date: 4/2019 (original: 5/2019)
+[2025-03-21 23:45:28,504] INFO: Found existing row with adjusted date: 4/2019
+[2025-03-21 23:45:28,518] INFO: tgt (4/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:45:28,531] INFO: Trying adjusted date: 7/2019 (original: 8/2019)
+[2025-03-21 23:45:28,543] INFO: Found existing row with adjusted date: 7/2019
+[2025-03-21 23:45:28,555] INFO: tgt (7/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 23:45:28,567] INFO: Trying adjusted date: 10/2019 (original: 11/2019)
+[2025-03-21 23:45:28,579] INFO: Found existing row with adjusted date: 10/2019
+[2025-03-21 23:45:28,590] INFO: tgt (10/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:45:28,603] INFO: Trying adjusted date: 1/2020 (original: 2/2020)
+[2025-03-21 23:45:28,614] INFO: Found existing row with adjusted date: 1/2020
+[2025-03-21 23:45:28,626] INFO: tgt (1/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 23:45:28,639] INFO: Trying adjusted date: 4/2020 (original: 5/2020)
+[2025-03-21 23:45:28,652] INFO: Found existing row with adjusted date: 4/2020
+[2025-03-21 23:45:28,663] INFO: tgt (4/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:45:28,676] INFO: Trying adjusted date: 7/2020 (original: 8/2020)
+[2025-03-21 23:45:28,688] INFO: Found existing row with adjusted date: 7/2020
+[2025-03-21 23:45:28,699] INFO: tgt (7/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 23:45:28,724] INFO: tgt (10/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 23:45:28,749] INFO: tgt (1/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 23:45:28,762] INFO: Trying adjusted date: 4/2021 (original: 5/2021)
+[2025-03-21 23:45:28,774] INFO: Found existing row with adjusted date: 4/2021
+[2025-03-21 23:45:28,785] INFO: tgt (4/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:45:28,811] INFO: tgt (7/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 23:45:28,836] INFO: tgt (10/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 23:45:28,860] INFO: tgt (1/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 23:45:28,885] INFO: tgt (4/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:45:28,911] INFO: tgt (7/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 23:45:28,936] INFO: tgt (10/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:45:28,961] INFO: tgt (1/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 23:45:28,974] WARNING: tgt (4/2023): Found zero values for fields: Share Repurchases
+[2025-03-21 23:45:28,985] INFO: tgt (4/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:45:29,010] INFO: tgt (7/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:45:29,034] INFO: tgt (10/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:45:29,047] INFO: Trying adjusted date: 1/2024 (original: 2/2024)
+[2025-03-21 23:45:29,059] INFO: Found existing row with adjusted date: 1/2024
+[2025-03-21 23:45:29,059] WARNING: tgt (1/2024): Found zero values for fields: Share Repurchases
+[2025-03-21 23:45:29,070] INFO: tgt (1/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 23:45:29,083] INFO: Trying adjusted date: 4/2024 (original: 5/2024)
+[2025-03-21 23:45:29,094] INFO: Found existing row with adjusted date: 4/2024
+[2025-03-21 23:45:29,106] INFO: tgt (4/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:45:29,119] INFO: Trying adjusted date: 7/2024 (original: 8/2024)
+[2025-03-21 23:45:29,130] INFO: Found existing row with adjusted date: 7/2024
+[2025-03-21 23:45:29,142] INFO: tgt (7/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 23:45:29,155] INFO: Trying adjusted date: 10/2024 (original: 11/2024)
+[2025-03-21 23:45:29,167] INFO: Found existing row with adjusted date: 10/2024
+[2025-03-21 23:45:29,179] INFO: tgt (10/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 23:45:29,192] INFO: Trying adjusted date: 1/2025 (original: 2/2025)
+[2025-03-21 23:45:29,203] WARNING: tgt (2/2025): No existing record found(2/2025, 2025-02-01) - creating new one
+[2025-03-21 23:45:29,204] INFO: tgt (2/2025): Created new record with 17 non-zero financial metrics

@@ -1,0 +1,77 @@
+[2025-03-22 16:15:55,822] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 16:15:55,837] WARNING: vly (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 16:15:55,838] INFO: vly (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:15:55,858] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 16:15:55,873] WARNING: vly (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 16:15:55,873] INFO: vly (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:15:55,890] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 16:15:55,906] WARNING: vly (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 16:15:55,906] INFO: vly (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:15:55,923] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 16:15:55,937] WARNING: vly (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 16:15:55,938] INFO: vly (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:15:55,955] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 16:15:55,969] WARNING: vly (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 16:15:55,970] INFO: vly (6/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:15:55,986] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 16:15:56,000] WARNING: vly (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 16:15:56,001] INFO: vly (9/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,020] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 16:15:56,036] WARNING: vly (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 16:15:56,036] INFO: vly (12/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,054] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 16:15:56,069] WARNING: vly (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 16:15:56,069] INFO: vly (3/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,088] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 16:15:56,102] WARNING: vly (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 16:15:56,103] INFO: vly (6/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,133] INFO: vly (9/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,163] INFO: vly (12/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,195] INFO: vly (3/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,225] INFO: vly (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,255] INFO: vly (9/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,286] INFO: vly (12/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,317] INFO: vly (3/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,348] INFO: vly (6/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,379] INFO: vly (9/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,410] INFO: vly (12/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,442] INFO: vly (3/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,473] INFO: vly (6/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,502] INFO: vly (9/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,534] INFO: vly (12/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,565] INFO: vly (3/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,596] INFO: vly (6/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,626] INFO: vly (9/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,656] INFO: vly (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,687] INFO: vly (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,718] INFO: vly (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,748] INFO: vly (9/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,779] INFO: vly (12/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,810] INFO: vly (3/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,840] INFO: vly (6/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,871] INFO: vly (9/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,902] INFO: vly (12/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,933] INFO: vly (3/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,964] INFO: vly (6/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:56,993] INFO: vly (9/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:57,024] INFO: vly (12/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:57,055] INFO: vly (3/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:57,087] INFO: vly (6/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:57,119] INFO: vly (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:57,151] INFO: vly (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:57,182] INFO: vly (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:57,214] INFO: vly (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:57,245] INFO: vly (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:57,276] INFO: vly (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:57,306] INFO: vly (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:57,337] INFO: vly (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:57,367] INFO: vly (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:57,399] INFO: vly (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:57,429] INFO: vly (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:57,460] INFO: vly (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:57,491] INFO: vly (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:57,522] INFO: vly (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:57,554] INFO: vly (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:57,584] INFO: vly (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:57,616] INFO: vly (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:15:57,647] INFO: vly (12/2024): Updated existing record with 0 non-zero financial metrics

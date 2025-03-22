@@ -1,0 +1,89 @@
+[2025-03-22 02:21:37,179] INFO: Trying adjusted date: 4/2013 (original: 3/2013)
+[2025-03-22 02:21:37,191] WARNING: iqv (3/2013): No existing record found(3/2013, 2013-03-31) - creating new one
+[2025-03-22 02:21:37,191] INFO: iqv (3/2013): Created new record with 12 non-zero financial metrics
+[2025-03-22 02:21:37,208] INFO: Trying adjusted date: 7/2013 (original: 6/2013)
+[2025-03-22 02:21:37,220] WARNING: iqv (6/2013): No existing record found(6/2013, 2013-06-30) - creating new one
+[2025-03-22 02:21:37,221] INFO: iqv (6/2013): Created new record with 11 non-zero financial metrics
+[2025-03-22 02:21:37,234] INFO: Trying adjusted date: 10/2013 (original: 9/2013)
+[2025-03-22 02:21:37,246] WARNING: iqv (9/2013): No existing record found(9/2013, 2013-09-30) - creating new one
+[2025-03-22 02:21:37,246] INFO: iqv (9/2013): Created new record with 11 non-zero financial metrics
+[2025-03-22 02:21:37,259] INFO: Trying adjusted date: 1/2014 (original: 12/2013)
+[2025-03-22 02:21:37,271] WARNING: iqv (12/2013): No existing record found(12/2013, 2013-12-31) - creating new one
+[2025-03-22 02:21:37,272] INFO: iqv (12/2013): Created new record with 14 non-zero financial metrics
+[2025-03-22 02:21:37,286] INFO: Trying adjusted date: 4/2014 (original: 3/2014)
+[2025-03-22 02:21:37,298] WARNING: iqv (3/2014): No existing record found(3/2014, 2014-03-31) - creating new one
+[2025-03-22 02:21:37,298] INFO: iqv (3/2014): Created new record with 11 non-zero financial metrics
+[2025-03-22 02:21:37,312] INFO: Trying adjusted date: 7/2014 (original: 6/2014)
+[2025-03-22 02:21:37,324] WARNING: iqv (6/2014): No existing record found(6/2014, 2014-06-30) - creating new one
+[2025-03-22 02:21:37,325] INFO: iqv (6/2014): Created new record with 11 non-zero financial metrics
+[2025-03-22 02:21:37,338] INFO: Trying adjusted date: 10/2014 (original: 9/2014)
+[2025-03-22 02:21:37,350] WARNING: iqv (9/2014): No existing record found(9/2014, 2014-09-30) - creating new one
+[2025-03-22 02:21:37,351] INFO: iqv (9/2014): Created new record with 11 non-zero financial metrics
+[2025-03-22 02:21:37,365] INFO: Trying adjusted date: 1/2015 (original: 12/2014)
+[2025-03-22 02:21:37,377] WARNING: iqv (12/2014): No existing record found(12/2014, 2014-12-31) - creating new one
+[2025-03-22 02:21:37,378] INFO: iqv (12/2014): Created new record with 14 non-zero financial metrics
+[2025-03-22 02:21:37,391] INFO: Trying adjusted date: 4/2015 (original: 3/2015)
+[2025-03-22 02:21:37,403] WARNING: iqv (3/2015): No existing record found(3/2015, 2015-03-31) - creating new one
+[2025-03-22 02:21:37,404] INFO: iqv (3/2015): Created new record with 11 non-zero financial metrics
+[2025-03-22 02:21:37,420] INFO: Trying adjusted date: 7/2015 (original: 6/2015)
+[2025-03-22 02:21:37,432] WARNING: iqv (6/2015): No existing record found(6/2015, 2015-06-30) - creating new one
+[2025-03-22 02:21:37,433] INFO: iqv (6/2015): Created new record with 12 non-zero financial metrics
+[2025-03-22 02:21:37,446] INFO: Trying adjusted date: 10/2015 (original: 9/2015)
+[2025-03-22 02:21:37,458] WARNING: iqv (9/2015): No existing record found(9/2015, 2015-09-30) - creating new one
+[2025-03-22 02:21:37,459] INFO: iqv (9/2015): Created new record with 12 non-zero financial metrics
+[2025-03-22 02:21:37,473] INFO: Trying adjusted date: 1/2016 (original: 12/2015)
+[2025-03-22 02:21:37,485] WARNING: iqv (12/2015): No existing record found(12/2015, 2015-12-31) - creating new one
+[2025-03-22 02:21:37,486] INFO: iqv (12/2015): Created new record with 15 non-zero financial metrics
+[2025-03-22 02:21:37,501] INFO: Trying adjusted date: 4/2016 (original: 3/2016)
+[2025-03-22 02:21:37,514] WARNING: iqv (3/2016): No existing record found(3/2016, 2016-03-31) - creating new one
+[2025-03-22 02:21:37,515] INFO: iqv (3/2016): Created new record with 11 non-zero financial metrics
+[2025-03-22 02:21:37,528] INFO: Trying adjusted date: 7/2016 (original: 6/2016)
+[2025-03-22 02:21:37,540] WARNING: iqv (6/2016): No existing record found(6/2016, 2016-06-30) - creating new one
+[2025-03-22 02:21:37,541] INFO: iqv (6/2016): Created new record with 11 non-zero financial metrics
+[2025-03-22 02:21:37,554] INFO: Trying adjusted date: 10/2016 (original: 9/2016)
+[2025-03-22 02:21:37,566] WARNING: iqv (9/2016): No existing record found(9/2016, 2016-09-30) - creating new one
+[2025-03-22 02:21:37,567] INFO: iqv (9/2016): Created new record with 11 non-zero financial metrics
+[2025-03-22 02:21:37,580] INFO: Trying adjusted date: 1/2017 (original: 12/2016)
+[2025-03-22 02:21:37,592] WARNING: iqv (12/2016): No existing record found(12/2016, 2016-12-31) - creating new one
+[2025-03-22 02:21:37,593] INFO: iqv (12/2016): Created new record with 13 non-zero financial metrics
+[2025-03-22 02:21:37,606] INFO: Trying adjusted date: 4/2017 (original: 3/2017)
+[2025-03-22 02:21:37,618] WARNING: iqv (3/2017): No existing record found(3/2017, 2017-03-31) - creating new one
+[2025-03-22 02:21:37,618] INFO: iqv (3/2017): Created new record with 13 non-zero financial metrics
+[2025-03-22 02:21:37,631] INFO: Trying adjusted date: 7/2017 (original: 6/2017)
+[2025-03-22 02:21:37,644] WARNING: iqv (6/2017): No existing record found(6/2017, 2017-06-30) - creating new one
+[2025-03-22 02:21:37,644] INFO: iqv (6/2017): Created new record with 12 non-zero financial metrics
+[2025-03-22 02:21:37,658] INFO: Trying adjusted date: 10/2017 (original: 9/2017)
+[2025-03-22 02:21:37,670] WARNING: iqv (9/2017): No existing record found(9/2017, 2017-09-30) - creating new one
+[2025-03-22 02:21:37,671] INFO: iqv (9/2017): Created new record with 12 non-zero financial metrics
+[2025-03-22 02:21:37,697] INFO: iqv (12/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 02:21:37,722] INFO: iqv (3/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 02:21:37,748] INFO: iqv (6/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:21:37,774] INFO: iqv (9/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 02:21:37,799] INFO: iqv (12/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 02:21:37,825] INFO: iqv (3/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 02:21:37,851] INFO: iqv (6/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 02:21:37,878] INFO: iqv (9/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 02:21:37,903] INFO: iqv (12/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 02:21:37,929] INFO: iqv (3/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 02:21:37,955] INFO: iqv (6/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:21:37,981] INFO: iqv (9/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:21:38,006] INFO: iqv (12/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 02:21:38,034] INFO: iqv (3/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 02:21:38,060] INFO: iqv (6/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:21:38,086] INFO: iqv (9/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:21:38,111] INFO: iqv (12/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 02:21:38,137] INFO: iqv (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 02:21:38,165] INFO: iqv (6/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:21:38,190] INFO: iqv (9/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:21:38,217] INFO: iqv (12/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:21:38,243] INFO: iqv (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 02:21:38,271] INFO: iqv (6/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:21:38,296] INFO: iqv (9/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:21:38,322] INFO: iqv (12/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:21:38,336] WARNING: iqv (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 02:21:38,348] INFO: iqv (3/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 02:21:38,374] INFO: iqv (6/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:21:38,402] INFO: iqv (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:21:38,417] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 02:21:38,429] WARNING: iqv (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 02:21:38,430] INFO: iqv (12/2024): Created new record with 14 non-zero financial metrics

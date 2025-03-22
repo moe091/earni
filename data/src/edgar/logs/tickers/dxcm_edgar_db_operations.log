@@ -1,0 +1,76 @@
+[2025-03-22 11:02:57,132] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 11:02:57,145] WARNING: dxcm (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 11:02:57,145] INFO: dxcm (6/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 11:02:57,162] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 11:02:57,176] WARNING: dxcm (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 11:02:57,176] INFO: dxcm (9/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 11:02:57,192] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 11:02:57,206] WARNING: dxcm (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 11:02:57,207] INFO: dxcm (12/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 11:02:57,222] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 11:02:57,237] WARNING: dxcm (3/2012): Found zero values for fields: Interest Expense
+[2025-03-22 11:02:57,237] WARNING: dxcm (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 11:02:57,237] INFO: dxcm (3/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 11:02:57,252] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 11:02:57,266] WARNING: dxcm (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 11:02:57,266] INFO: dxcm (6/2012): Created new record with 13 non-zero financial metrics
+[2025-03-22 11:02:57,297] INFO: dxcm (9/2012): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:02:57,326] INFO: dxcm (12/2012): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:02:57,354] INFO: dxcm (3/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:02:57,383] INFO: dxcm (6/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:02:57,412] INFO: dxcm (9/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:02:57,441] INFO: dxcm (12/2013): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:02:57,470] INFO: dxcm (3/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:02:57,500] INFO: dxcm (6/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:02:57,529] INFO: dxcm (9/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:02:57,558] INFO: dxcm (12/2014): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:02:57,587] INFO: dxcm (3/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:02:57,617] INFO: dxcm (6/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:02:57,633] INFO: Trying adjusted date: 10/2015 (original: 9/2015)
+[2025-03-22 11:02:57,647] WARNING: dxcm (9/2015): No existing record found(9/2015, 2015-09-30) - creating new one
+[2025-03-22 11:02:57,648] INFO: dxcm (9/2015): Created new record with 14 non-zero financial metrics
+[2025-03-22 11:02:57,664] INFO: Trying adjusted date: 1/2016 (original: 12/2015)
+[2025-03-22 11:02:57,678] WARNING: dxcm (12/2015): No existing record found(12/2015, 2015-12-31) - creating new one
+[2025-03-22 11:02:57,678] INFO: dxcm (12/2015): Created new record with 19 non-zero financial metrics
+[2025-03-22 11:02:57,707] INFO: dxcm (3/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:02:57,736] INFO: dxcm (6/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:02:57,766] INFO: dxcm (9/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:02:57,796] INFO: dxcm (12/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:02:57,826] INFO: dxcm (3/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:02:57,855] INFO: dxcm (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:02:57,884] INFO: dxcm (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:02:57,913] INFO: dxcm (12/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:02:57,942] INFO: dxcm (3/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:02:57,971] INFO: dxcm (6/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:02:58,001] INFO: dxcm (9/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:02:58,031] INFO: dxcm (12/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:02:58,060] INFO: dxcm (3/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:02:58,075] INFO: Trying adjusted date: 7/2019 (original: 6/2019)
+[2025-03-22 11:02:58,094] WARNING: dxcm (6/2019): No existing record found(6/2019, 2019-06-30) - creating new one
+[2025-03-22 11:02:58,095] INFO: dxcm (6/2019): Created new record with 15 non-zero financial metrics
+[2025-03-22 11:02:58,122] INFO: dxcm (9/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:02:58,137] WARNING: dxcm (12/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 11:02:58,152] INFO: dxcm (12/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:02:58,182] INFO: dxcm (3/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:02:58,211] INFO: dxcm (6/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:02:58,239] INFO: dxcm (9/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:02:58,255] WARNING: dxcm (12/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 11:02:58,269] INFO: dxcm (12/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:02:58,299] INFO: dxcm (3/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:02:58,329] INFO: dxcm (6/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:02:58,359] INFO: dxcm (9/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:02:58,388] INFO: dxcm (12/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 11:02:58,419] INFO: dxcm (3/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:02:58,448] INFO: dxcm (6/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:02:58,477] INFO: dxcm (9/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:02:58,506] INFO: dxcm (12/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 11:02:58,535] INFO: dxcm (3/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:02:58,565] INFO: dxcm (6/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:02:58,599] INFO: dxcm (9/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:02:58,628] INFO: dxcm (12/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 11:02:58,657] INFO: dxcm (3/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:02:58,687] INFO: dxcm (6/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:02:58,716] INFO: dxcm (9/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:02:58,732] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 11:02:58,746] WARNING: dxcm (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 11:02:58,746] INFO: dxcm (12/2024): Created new record with 23 non-zero financial metrics

@@ -1,0 +1,84 @@
+[2025-03-22 03:46:36,821] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 03:46:36,835] WARNING: pcg (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 03:46:36,835] INFO: pcg (3/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 03:46:36,848] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 03:46:36,860] WARNING: pcg (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 03:46:36,861] INFO: pcg (6/2010): Created new record with 11 non-zero financial metrics
+[2025-03-22 03:46:36,879] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 03:46:36,891] WARNING: pcg (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 03:46:36,891] INFO: pcg (9/2010): Created new record with 11 non-zero financial metrics
+[2025-03-22 03:46:36,905] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 03:46:36,918] WARNING: pcg (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 03:46:36,918] INFO: pcg (12/2010): Created new record with 15 non-zero financial metrics
+[2025-03-22 03:46:36,930] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 03:46:36,943] WARNING: pcg (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 03:46:36,943] INFO: pcg (3/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 03:46:36,957] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 03:46:36,970] WARNING: pcg (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 03:46:36,970] INFO: pcg (6/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 03:46:36,984] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 03:46:36,996] WARNING: pcg (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 03:46:36,997] INFO: pcg (9/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 03:46:37,012] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 03:46:37,025] WARNING: pcg (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 03:46:37,025] INFO: pcg (12/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 03:46:37,042] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 03:46:37,054] WARNING: pcg (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 03:46:37,055] INFO: pcg (3/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 03:46:37,068] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 03:46:37,080] WARNING: pcg (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 03:46:37,081] INFO: pcg (6/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 03:46:37,107] INFO: pcg (9/2012): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:46:37,135] INFO: pcg (12/2012): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:46:37,161] INFO: pcg (3/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:46:37,188] INFO: pcg (6/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:46:37,202] ERROR: Invalid numeric value for Current Liabilities: 
+[2025-03-22 03:46:37,202] ERROR: pcg (9/2013): Invalid data types: Current Liabilities=
+[2025-03-22 03:46:37,215] INFO: pcg (9/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:46:37,242] INFO: pcg (12/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:46:37,269] INFO: pcg (3/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:46:37,296] INFO: pcg (6/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:46:37,322] INFO: pcg (9/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:46:37,353] INFO: pcg (12/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:46:37,380] INFO: pcg (3/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:46:37,406] INFO: pcg (6/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:46:37,432] INFO: pcg (9/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:46:37,459] INFO: pcg (12/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:46:37,487] INFO: pcg (3/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:46:37,516] INFO: pcg (6/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:46:37,542] INFO: pcg (9/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:46:37,569] INFO: pcg (12/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:46:37,597] INFO: pcg (3/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:46:37,624] INFO: pcg (6/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:46:37,650] INFO: pcg (9/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:46:37,677] INFO: pcg (12/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:46:37,704] INFO: pcg (3/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:46:37,731] INFO: pcg (6/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:46:37,757] INFO: pcg (9/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:46:37,784] INFO: pcg (12/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:46:37,812] INFO: pcg (3/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:46:37,838] INFO: pcg (6/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:46:37,865] INFO: pcg (9/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:46:37,891] INFO: pcg (12/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:46:37,917] INFO: pcg (3/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:46:37,943] INFO: pcg (6/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:46:37,969] INFO: pcg (9/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:46:37,995] INFO: pcg (12/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:46:38,022] INFO: pcg (3/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:46:38,049] INFO: pcg (6/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:46:38,076] INFO: pcg (9/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:46:38,104] INFO: pcg (12/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:46:38,134] INFO: pcg (3/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:46:38,161] INFO: pcg (6/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:46:38,187] INFO: pcg (9/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:46:38,215] INFO: pcg (12/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:46:38,242] INFO: pcg (3/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:46:38,268] INFO: pcg (6/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:46:38,296] INFO: pcg (9/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:46:38,322] INFO: pcg (12/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:46:38,349] INFO: pcg (3/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:46:38,376] INFO: pcg (6/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:46:38,402] INFO: pcg (9/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:46:38,417] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 03:46:38,430] WARNING: pcg (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 03:46:38,430] INFO: pcg (12/2024): Created new record with 15 non-zero financial metrics

@@ -1,0 +1,82 @@
+[2025-03-21 22:25:04,067] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-21 22:25:04,078] WARNING: ups (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-21 22:25:04,078] INFO: ups (3/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 22:25:04,090] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-21 22:25:04,105] WARNING: ups (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-21 22:25:04,105] INFO: ups (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 22:25:04,118] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-21 22:25:04,130] WARNING: ups (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-21 22:25:04,130] INFO: ups (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 22:25:04,143] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-21 22:25:04,154] WARNING: ups (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-21 22:25:04,154] INFO: ups (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 22:25:04,167] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-21 22:25:04,178] WARNING: ups (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-21 22:25:04,179] INFO: ups (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-21 22:25:04,191] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-21 22:25:04,202] WARNING: ups (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-21 22:25:04,202] INFO: ups (6/2011): Created new record with 12 non-zero financial metrics
+[2025-03-21 22:25:04,216] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-21 22:25:04,227] WARNING: ups (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-21 22:25:04,228] INFO: ups (9/2011): Created new record with 12 non-zero financial metrics
+[2025-03-21 22:25:04,240] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-21 22:25:04,252] WARNING: ups (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-21 22:25:04,252] INFO: ups (12/2011): Created new record with 18 non-zero financial metrics
+[2025-03-21 22:25:04,268] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-21 22:25:04,281] WARNING: ups (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-21 22:25:04,281] INFO: ups (3/2012): Created new record with 17 non-zero financial metrics
+[2025-03-21 22:25:04,295] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-21 22:25:04,307] WARNING: ups (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-21 22:25:04,307] INFO: ups (6/2012): Created new record with 12 non-zero financial metrics
+[2025-03-21 22:25:04,331] INFO: ups (9/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:25:04,356] INFO: ups (12/2012): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:25:04,380] INFO: ups (3/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:25:04,405] INFO: ups (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-21 22:25:04,428] INFO: ups (9/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:25:04,452] INFO: ups (12/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:25:04,477] INFO: ups (3/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:25:04,501] INFO: ups (6/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:25:04,526] INFO: ups (9/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:25:04,550] INFO: ups (12/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:25:04,574] INFO: ups (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:25:04,599] INFO: ups (6/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:25:04,625] INFO: ups (9/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:25:04,650] INFO: ups (12/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:25:04,674] INFO: ups (3/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:25:04,701] INFO: ups (6/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:25:04,725] INFO: ups (9/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:25:04,749] INFO: ups (12/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:25:04,775] INFO: ups (3/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:25:04,799] INFO: ups (6/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:25:04,826] INFO: ups (9/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:25:04,850] INFO: ups (12/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:25:04,876] INFO: ups (3/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:25:04,901] INFO: ups (6/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:25:04,926] INFO: ups (9/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:25:04,951] INFO: ups (12/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:25:04,975] INFO: ups (3/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:25:04,999] INFO: ups (6/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:25:05,024] INFO: ups (9/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:25:05,048] INFO: ups (12/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:25:05,073] INFO: ups (3/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:25:05,096] INFO: ups (6/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:25:05,121] INFO: ups (9/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:25:05,146] INFO: ups (12/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:25:05,159] WARNING: ups (3/2021): Found zero values for fields: Share Repurchases
+[2025-03-21 22:25:05,170] INFO: ups (3/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:25:05,195] INFO: ups (6/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:25:05,219] INFO: ups (9/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:25:05,243] INFO: ups (12/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:25:05,267] INFO: ups (3/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:25:05,291] INFO: ups (6/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:25:05,316] INFO: ups (9/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:25:05,341] INFO: ups (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:25:05,366] INFO: ups (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:25:05,390] INFO: ups (6/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:25:05,415] INFO: ups (9/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:25:05,440] INFO: ups (12/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:25:05,453] WARNING: ups (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-21 22:25:05,464] INFO: ups (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:25:05,489] INFO: ups (6/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 22:25:05,513] INFO: ups (9/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 22:25:05,537] INFO: ups (12/2024): Updated existing record with 17 non-zero financial metrics

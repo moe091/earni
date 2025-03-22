@@ -1,0 +1,98 @@
+[2025-03-22 13:46:21,959] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 13:46:21,972] WARNING: hog (3/2010): No existing record found(3/2010, 2010-03-28) - creating new one
+[2025-03-22 13:46:21,973] INFO: hog (3/2010): Created new record with 15 non-zero financial metrics
+[2025-03-22 13:46:21,992] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 13:46:22,006] WARNING: hog (6/2010): No existing record found(6/2010, 2010-06-27) - creating new one
+[2025-03-22 13:46:22,007] INFO: hog (6/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 13:46:22,025] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 13:46:22,039] WARNING: hog (9/2010): No existing record found(9/2010, 2010-09-26) - creating new one
+[2025-03-22 13:46:22,039] INFO: hog (9/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 13:46:22,058] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 13:46:22,073] WARNING: hog (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 13:46:22,074] INFO: hog (12/2010): Created new record with 19 non-zero financial metrics
+[2025-03-22 13:46:22,092] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 13:46:22,107] WARNING: hog (3/2011): No existing record found(3/2011, 2011-03-27) - creating new one
+[2025-03-22 13:46:22,108] INFO: hog (3/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 13:46:22,124] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 13:46:22,137] WARNING: hog (6/2011): No existing record found(6/2011, 2011-06-26) - creating new one
+[2025-03-22 13:46:22,138] INFO: hog (6/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 13:46:22,154] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 13:46:22,168] WARNING: hog (9/2011): No existing record found(9/2011, 2011-09-25) - creating new one
+[2025-03-22 13:46:22,169] INFO: hog (9/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 13:46:22,188] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 13:46:22,202] WARNING: hog (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 13:46:22,203] INFO: hog (12/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 13:46:22,219] INFO: Trying adjusted date: 3/2012 (original: 4/2012)
+[2025-03-22 13:46:22,233] WARNING: hog (4/2012): No existing record found(4/2012, 2012-04-01) - creating new one
+[2025-03-22 13:46:22,234] INFO: hog (4/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 13:46:22,250] INFO: Trying adjusted date: 6/2012 (original: 7/2012)
+[2025-03-22 13:46:22,263] WARNING: hog (7/2012): No existing record found(7/2012, 2012-07-01) - creating new one
+[2025-03-22 13:46:22,264] INFO: hog (7/2012): Created new record with 13 non-zero financial metrics
+[2025-03-22 13:46:22,296] INFO: hog (9/2012): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:46:22,326] INFO: hog (12/2012): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:46:22,356] INFO: hog (3/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:46:22,386] INFO: hog (6/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:46:22,416] INFO: hog (9/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:46:22,445] INFO: hog (12/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:46:22,477] INFO: hog (3/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:46:22,508] INFO: hog (6/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:46:22,536] INFO: hog (9/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:46:22,565] INFO: hog (12/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:46:22,595] INFO: hog (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:46:22,625] INFO: hog (6/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:46:22,657] INFO: hog (9/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:46:22,687] INFO: hog (12/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:46:22,717] INFO: hog (3/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:46:22,746] INFO: hog (6/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:46:22,777] INFO: hog (9/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:46:22,793] INFO: Trying adjusted date: 1/2017 (original: 12/2016)
+[2025-03-22 13:46:22,807] WARNING: hog (12/2016): No existing record found(12/2016, 2016-12-31) - creating new one
+[2025-03-22 13:46:22,808] INFO: hog (12/2016): Created new record with 20 non-zero financial metrics
+[2025-03-22 13:46:22,824] INFO: Trying adjusted date: 4/2017 (original: 3/2017)
+[2025-03-22 13:46:22,839] WARNING: hog (3/2017): No existing record found(3/2017, 2017-03-26) - creating new one
+[2025-03-22 13:46:22,840] INFO: hog (3/2017): Created new record with 19 non-zero financial metrics
+[2025-03-22 13:46:22,856] INFO: Trying adjusted date: 7/2017 (original: 6/2017)
+[2025-03-22 13:46:22,870] WARNING: hog (6/2017): No existing record found(6/2017, 2017-06-25) - creating new one
+[2025-03-22 13:46:22,871] INFO: hog (6/2017): Created new record with 14 non-zero financial metrics
+[2025-03-22 13:46:22,887] INFO: Trying adjusted date: 10/2017 (original: 9/2017)
+[2025-03-22 13:46:22,901] WARNING: hog (9/2017): No existing record found(9/2017, 2017-09-24) - creating new one
+[2025-03-22 13:46:22,901] INFO: hog (9/2017): Created new record with 14 non-zero financial metrics
+[2025-03-22 13:46:22,918] INFO: Trying adjusted date: 1/2018 (original: 12/2017)
+[2025-03-22 13:46:22,931] WARNING: hog (12/2017): No existing record found(12/2017, 2017-12-31) - creating new one
+[2025-03-22 13:46:22,932] INFO: hog (12/2017): Created new record with 20 non-zero financial metrics
+[2025-03-22 13:46:22,949] INFO: Trying adjusted date: 3/2018 (original: 4/2018)
+[2025-03-22 13:46:22,963] WARNING: hog (4/2018): No existing record found(4/2018, 2018-04-01) - creating new one
+[2025-03-22 13:46:22,964] INFO: hog (4/2018): Created new record with 19 non-zero financial metrics
+[2025-03-22 13:46:22,980] INFO: Trying adjusted date: 6/2018 (original: 7/2018)
+[2025-03-22 13:46:22,994] WARNING: hog (7/2018): No existing record found(7/2018, 2018-07-01) - creating new one
+[2025-03-22 13:46:22,994] INFO: hog (7/2018): Created new record with 14 non-zero financial metrics
+[2025-03-22 13:46:23,025] INFO: hog (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:46:23,055] INFO: hog (12/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:46:23,086] INFO: hog (3/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:46:23,116] INFO: hog (6/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:46:23,146] INFO: hog (9/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:46:23,176] INFO: hog (12/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:46:23,207] INFO: hog (3/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:46:23,224] INFO: Trying adjusted date: 7/2020 (original: 6/2020)
+[2025-03-22 13:46:23,239] WARNING: hog (6/2020): No existing record found(6/2020, 2020-06-28) - creating new one
+[2025-03-22 13:46:23,239] INFO: hog (6/2020): Created new record with 15 non-zero financial metrics
+[2025-03-22 13:46:23,270] INFO: hog (9/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:46:23,301] INFO: hog (12/2020): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 13:46:23,330] INFO: hog (3/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:46:23,362] INFO: hog (6/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:46:23,392] INFO: hog (9/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:46:23,423] INFO: hog (12/2021): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 13:46:23,452] INFO: hog (3/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:46:23,483] INFO: hog (6/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:46:23,512] INFO: hog (9/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:46:23,543] INFO: hog (12/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:46:23,576] INFO: hog (3/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:46:23,606] INFO: hog (6/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:46:23,635] INFO: hog (9/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:46:23,665] INFO: hog (12/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 13:46:23,695] INFO: hog (3/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:46:23,726] INFO: hog (6/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:46:23,757] INFO: hog (9/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:46:23,774] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 13:46:23,788] WARNING: hog (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 13:46:23,789] INFO: hog (12/2024): Created new record with 20 non-zero financial metrics

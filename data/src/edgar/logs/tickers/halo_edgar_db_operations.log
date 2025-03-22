@@ -1,0 +1,72 @@
+[2025-03-22 14:22:04,866] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 14:22:04,880] WARNING: halo (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 14:22:04,881] INFO: halo (6/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 14:22:04,898] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 14:22:04,912] WARNING: halo (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 14:22:04,913] INFO: halo (9/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 14:22:04,929] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 14:22:04,944] WARNING: halo (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 14:22:04,944] INFO: halo (12/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 14:22:04,961] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 14:22:04,976] WARNING: halo (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 14:22:04,976] INFO: halo (3/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 14:22:04,993] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 14:22:05,008] WARNING: halo (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 14:22:05,008] INFO: halo (6/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 14:22:05,037] INFO: halo (9/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 14:22:05,071] INFO: halo (12/2012): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:22:05,101] INFO: halo (3/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:22:05,131] INFO: halo (6/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:22:05,161] INFO: halo (9/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:22:05,192] INFO: halo (12/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:22:05,223] INFO: halo (3/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:22:05,253] INFO: halo (6/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:22:05,285] INFO: halo (9/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:22:05,317] INFO: halo (12/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:22:05,347] INFO: halo (3/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:22:05,377] INFO: halo (6/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:22:05,408] INFO: halo (9/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:22:05,439] INFO: halo (12/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:22:05,470] INFO: halo (3/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:22:05,500] INFO: halo (6/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:22:05,530] INFO: halo (9/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:22:05,560] INFO: halo (12/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:22:05,591] INFO: halo (3/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:22:05,622] INFO: halo (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:22:05,652] INFO: halo (9/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:22:05,682] INFO: halo (12/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:22:05,712] INFO: halo (3/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:22:05,743] INFO: halo (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:22:05,775] INFO: halo (9/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:22:05,805] INFO: halo (12/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:22:05,836] INFO: halo (3/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:22:05,866] INFO: halo (6/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:22:05,897] INFO: halo (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:22:05,929] INFO: halo (12/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:22:05,960] INFO: halo (3/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:22:05,990] INFO: halo (6/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:22:06,021] INFO: halo (9/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:22:06,037] WARNING: halo (12/2020): Found zero values for fields: Long Term Debt
+[2025-03-22 14:22:06,052] INFO: halo (12/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:22:06,082] INFO: halo (3/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:22:06,113] INFO: halo (6/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:22:06,144] INFO: halo (9/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:22:06,174] INFO: halo (12/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:22:06,190] WARNING: halo (3/2022): Found zero values for fields: Share Repurchases
+[2025-03-22 14:22:06,205] INFO: halo (3/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:22:06,236] INFO: halo (6/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:22:06,266] INFO: halo (9/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:22:06,296] INFO: halo (12/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 14:22:06,327] INFO: halo (3/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 14:22:06,357] INFO: halo (6/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 14:22:06,388] INFO: halo (9/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 14:22:06,418] INFO: halo (12/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 14:22:06,435] WARNING: halo (3/2024): Found zero values for fields: Share Repurchases, Loan Loss Reserves
+[2025-03-22 14:22:06,450] INFO: halo (3/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 14:22:06,466] WARNING: halo (6/2024): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 14:22:06,480] INFO: halo (6/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:22:06,496] WARNING: halo (9/2024): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 14:22:06,511] INFO: halo (9/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:22:06,526] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 14:22:06,541] WARNING: halo (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 14:22:06,542] INFO: halo (12/2024): Created new record with 21 non-zero financial metrics

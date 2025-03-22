@@ -1,0 +1,81 @@
+[2025-03-22 10:56:40,540] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 10:56:40,553] WARNING: aiz (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 10:56:40,553] INFO: aiz (3/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 10:56:40,570] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 10:56:40,584] WARNING: aiz (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 10:56:40,585] INFO: aiz (6/2010): Created new record with 8 non-zero financial metrics
+[2025-03-22 10:56:40,600] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 10:56:40,614] WARNING: aiz (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 10:56:40,615] INFO: aiz (9/2010): Created new record with 8 non-zero financial metrics
+[2025-03-22 10:56:40,630] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 10:56:40,644] WARNING: aiz (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 10:56:40,644] INFO: aiz (12/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 10:56:40,659] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 10:56:40,673] WARNING: aiz (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 10:56:40,674] INFO: aiz (3/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 10:56:40,689] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 10:56:40,702] WARNING: aiz (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 10:56:40,703] INFO: aiz (6/2011): Created new record with 8 non-zero financial metrics
+[2025-03-22 10:56:40,719] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 10:56:40,734] WARNING: aiz (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 10:56:40,734] INFO: aiz (9/2011): Created new record with 9 non-zero financial metrics
+[2025-03-22 10:56:40,750] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 10:56:40,764] WARNING: aiz (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 10:56:40,765] INFO: aiz (12/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 10:56:40,780] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 10:56:40,794] WARNING: aiz (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 10:56:40,795] INFO: aiz (3/2012): Created new record with 13 non-zero financial metrics
+[2025-03-22 10:56:40,824] INFO: aiz (6/2012): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:56:40,853] INFO: aiz (9/2012): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 10:56:40,882] INFO: aiz (12/2012): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:56:40,912] INFO: aiz (3/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:56:40,940] INFO: aiz (6/2013): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:56:40,969] INFO: aiz (9/2013): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:56:40,998] INFO: aiz (12/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:56:41,027] INFO: aiz (3/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:56:41,056] INFO: aiz (6/2014): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:56:41,087] INFO: aiz (9/2014): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:56:41,115] INFO: aiz (12/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:56:41,143] INFO: aiz (3/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:56:41,174] INFO: aiz (6/2015): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:56:41,207] INFO: aiz (9/2015): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:56:41,240] INFO: aiz (12/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:56:41,270] INFO: aiz (3/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:56:41,302] INFO: aiz (6/2016): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:56:41,332] INFO: aiz (9/2016): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:56:41,363] INFO: aiz (12/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:56:41,392] INFO: aiz (3/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:56:41,422] INFO: aiz (6/2017): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:56:41,451] INFO: aiz (9/2017): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:56:41,479] INFO: aiz (12/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:56:41,507] INFO: aiz (3/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:56:41,536] INFO: aiz (6/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:56:41,567] INFO: aiz (9/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:56:41,596] INFO: aiz (12/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:56:41,625] INFO: aiz (3/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:56:41,655] INFO: aiz (6/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:56:41,684] INFO: aiz (9/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:56:41,714] INFO: aiz (12/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:56:41,744] INFO: aiz (3/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:56:41,773] INFO: aiz (6/2020): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 10:56:41,804] INFO: aiz (9/2020): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:56:41,836] INFO: aiz (12/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:56:41,865] INFO: aiz (3/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:56:41,896] INFO: aiz (6/2021): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:56:41,924] INFO: aiz (9/2021): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:56:41,954] INFO: aiz (12/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:56:41,982] INFO: aiz (3/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:56:42,011] INFO: aiz (6/2022): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:56:42,040] INFO: aiz (9/2022): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:56:42,069] INFO: aiz (12/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:56:42,086] WARNING: aiz (3/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 10:56:42,099] INFO: aiz (3/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:56:42,129] INFO: aiz (6/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:56:42,158] INFO: aiz (9/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:56:42,188] INFO: aiz (12/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:56:42,219] INFO: aiz (3/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:56:42,247] INFO: aiz (6/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:56:42,277] INFO: aiz (9/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:56:42,292] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 10:56:42,306] WARNING: aiz (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 10:56:42,307] INFO: aiz (12/2024): Created new record with 14 non-zero financial metrics

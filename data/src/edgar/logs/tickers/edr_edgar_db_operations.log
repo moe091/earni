@@ -1,0 +1,20 @@
+[2025-03-22 13:23:55,558] INFO: Trying adjusted date: 4/2021 (original: 3/2021)
+[2025-03-22 13:23:55,572] WARNING: edr (3/2021): No existing record found(3/2021, 2021-03-31) - creating new one
+[2025-03-22 13:23:55,573] INFO: edr (3/2021): Created new record with 15 non-zero financial metrics
+[2025-03-22 13:23:55,605] INFO: edr (9/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:23:55,636] INFO: edr (12/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:23:55,665] INFO: edr (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:23:55,695] INFO: edr (6/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:23:55,723] INFO: edr (9/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:23:55,755] INFO: edr (12/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:23:55,786] INFO: edr (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:23:55,816] INFO: edr (6/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:23:55,845] INFO: edr (9/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:23:55,877] INFO: edr (12/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:23:55,907] INFO: edr (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:23:55,937] INFO: edr (6/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:23:55,966] INFO: edr (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:23:55,982] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 13:23:55,996] WARNING: edr (12/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 13:23:55,997] WARNING: edr (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 13:23:55,997] INFO: edr (12/2024): Created new record with 13 non-zero financial metrics

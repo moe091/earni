@@ -1,0 +1,5 @@
+[2025-03-22 04:31:44,502] INFO: ferg (7/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 04:31:44,529] INFO: ferg (10/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 04:31:44,543] INFO: Trying adjusted date: 2/2025 (original: 1/2025)
+[2025-03-22 04:31:44,556] WARNING: ferg (1/2025): No existing record found(1/2025, 2025-01-31) - creating new one
+[2025-03-22 04:31:44,556] INFO: ferg (1/2025): Created new record with 15 non-zero financial metrics

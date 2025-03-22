@@ -1,0 +1,44 @@
+[2025-03-22 03:43:44,799] INFO: Trying adjusted date: 12/2014 (original: 11/2014)
+[2025-03-22 03:43:44,812] WARNING: wba (11/2014): Found zero values for fields: Revenue, Gross Profit, COGS, OperatingIncomeLoss
+[2025-03-22 03:43:44,812] WARNING: wba (11/2014): No existing record found(11/2014, 2014-11-30) - creating new one
+[2025-03-22 03:43:44,812] INFO: wba (11/2014): Created new record with 7 non-zero financial metrics
+[2025-03-22 03:43:44,840] INFO: wba (2/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:43:44,871] INFO: wba (5/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:43:44,901] INFO: wba (8/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:43:44,931] INFO: wba (11/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:43:44,959] INFO: wba (2/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:43:44,990] INFO: wba (5/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:43:45,016] INFO: wba (8/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:43:45,042] INFO: wba (11/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:43:45,068] INFO: wba (2/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:43:45,095] INFO: wba (5/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:43:45,121] INFO: wba (8/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:43:45,147] INFO: wba (11/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:43:45,175] INFO: wba (2/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:43:45,201] INFO: wba (5/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:43:45,227] INFO: wba (8/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:43:45,255] INFO: wba (11/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:43:45,281] INFO: wba (2/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:43:45,309] INFO: wba (5/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:43:45,336] INFO: wba (8/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:43:45,361] INFO: wba (11/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:43:45,388] INFO: wba (2/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:43:45,414] INFO: wba (5/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:43:45,442] INFO: wba (8/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:43:45,468] INFO: wba (11/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:43:45,495] INFO: wba (2/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:43:45,524] INFO: wba (5/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:43:44,151] INFO: wba (8/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:43:44,178] INFO: wba (11/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:43:44,204] INFO: wba (2/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:43:44,229] INFO: wba (5/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:43:44,256] INFO: wba (8/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:43:44,282] INFO: wba (11/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:43:44,308] INFO: wba (2/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:43:44,333] INFO: wba (5/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:43:44,359] INFO: wba (8/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:43:44,385] INFO: wba (11/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:43:44,412] INFO: wba (2/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:43:44,438] INFO: wba (5/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:43:44,464] INFO: wba (8/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:43:44,491] INFO: wba (11/2024): Updated existing record with 21 non-zero financial metrics

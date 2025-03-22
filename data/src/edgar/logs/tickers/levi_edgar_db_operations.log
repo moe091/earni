@@ -1,0 +1,121 @@
+[2025-03-22 12:52:50,556] INFO: Trying adjusted date: 9/2011 (original: 8/2011)
+[2025-03-22 12:52:50,570] WARNING: levi (8/2011): No existing record found(8/2011, 2011-08-28) - creating new one
+[2025-03-22 12:52:50,570] INFO: levi (8/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 12:52:50,586] INFO: Trying adjusted date: 12/2011 (original: 11/2011)
+[2025-03-22 12:52:50,600] WARNING: levi (11/2011): No existing record found(11/2011, 2011-11-27) - creating new one
+[2025-03-22 12:52:50,600] INFO: levi (11/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 12:52:50,618] INFO: Trying adjusted date: 3/2012 (original: 2/2012)
+[2025-03-22 12:52:50,634] WARNING: levi (2/2012): No existing record found(2/2012, 2012-02-26) - creating new one
+[2025-03-22 12:52:50,634] INFO: levi (2/2012): Created new record with 19 non-zero financial metrics
+[2025-03-22 12:52:50,650] INFO: Trying adjusted date: 6/2012 (original: 5/2012)
+[2025-03-22 12:52:50,666] WARNING: levi (5/2012): No existing record found(5/2012, 2012-05-27) - creating new one
+[2025-03-22 12:52:50,666] INFO: levi (5/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 12:52:50,683] INFO: Trying adjusted date: 9/2012 (original: 8/2012)
+[2025-03-22 12:52:50,697] WARNING: levi (8/2012): No existing record found(8/2012, 2012-08-26) - creating new one
+[2025-03-22 12:52:50,698] INFO: levi (8/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 12:52:50,713] INFO: Trying adjusted date: 12/2012 (original: 11/2012)
+[2025-03-22 12:52:50,727] WARNING: levi (11/2012): No existing record found(11/2012, 2012-11-25) - creating new one
+[2025-03-22 12:52:50,728] INFO: levi (11/2012): Created new record with 20 non-zero financial metrics
+[2025-03-22 12:52:50,744] INFO: Trying adjusted date: 3/2013 (original: 2/2013)
+[2025-03-22 12:52:50,758] WARNING: levi (2/2013): Found zero values for fields: Share Repurchases
+[2025-03-22 12:52:50,758] WARNING: levi (2/2013): No existing record found(2/2013, 2013-02-24) - creating new one
+[2025-03-22 12:52:50,759] INFO: levi (2/2013): Created new record with 19 non-zero financial metrics
+[2025-03-22 12:52:50,775] INFO: Trying adjusted date: 6/2013 (original: 5/2013)
+[2025-03-22 12:52:50,788] WARNING: levi (5/2013): No existing record found(5/2013, 2013-05-26) - creating new one
+[2025-03-22 12:52:50,789] INFO: levi (5/2013): Created new record with 15 non-zero financial metrics
+[2025-03-22 12:52:50,805] INFO: Trying adjusted date: 9/2013 (original: 8/2013)
+[2025-03-22 12:52:50,819] WARNING: levi (8/2013): No existing record found(8/2013, 2013-08-25) - creating new one
+[2025-03-22 12:52:50,820] INFO: levi (8/2013): Created new record with 15 non-zero financial metrics
+[2025-03-22 12:52:50,837] INFO: Trying adjusted date: 12/2013 (original: 11/2013)
+[2025-03-22 12:52:50,851] WARNING: levi (11/2013): No existing record found(11/2013, 2013-11-24) - creating new one
+[2025-03-22 12:52:50,851] INFO: levi (11/2013): Created new record with 20 non-zero financial metrics
+[2025-03-22 12:52:50,867] INFO: Trying adjusted date: 3/2014 (original: 2/2014)
+[2025-03-22 12:52:50,881] WARNING: levi (2/2014): No existing record found(2/2014, 2014-02-23) - creating new one
+[2025-03-22 12:52:50,882] INFO: levi (2/2014): Created new record with 19 non-zero financial metrics
+[2025-03-22 12:52:50,897] INFO: Trying adjusted date: 6/2014 (original: 5/2014)
+[2025-03-22 12:52:50,911] WARNING: levi (5/2014): No existing record found(5/2014, 2014-05-25) - creating new one
+[2025-03-22 12:52:50,912] INFO: levi (5/2014): Created new record with 15 non-zero financial metrics
+[2025-03-22 12:52:50,928] INFO: Trying adjusted date: 9/2014 (original: 8/2014)
+[2025-03-22 12:52:50,942] WARNING: levi (8/2014): No existing record found(8/2014, 2014-08-24) - creating new one
+[2025-03-22 12:52:50,942] INFO: levi (8/2014): Created new record with 15 non-zero financial metrics
+[2025-03-22 12:52:50,958] INFO: Trying adjusted date: 12/2014 (original: 11/2014)
+[2025-03-22 12:52:50,972] WARNING: levi (11/2014): No existing record found(11/2014, 2014-11-30) - creating new one
+[2025-03-22 12:52:50,972] INFO: levi (11/2014): Created new record with 20 non-zero financial metrics
+[2025-03-22 12:52:50,988] INFO: Trying adjusted date: 2/2015 (original: 3/2015)
+[2025-03-22 12:52:51,003] WARNING: levi (3/2015): No existing record found(3/2015, 2015-03-01) - creating new one
+[2025-03-22 12:52:51,004] INFO: levi (3/2015): Created new record with 19 non-zero financial metrics
+[2025-03-22 12:52:51,019] INFO: Trying adjusted date: 6/2015 (original: 5/2015)
+[2025-03-22 12:52:51,034] WARNING: levi (5/2015): No existing record found(5/2015, 2015-05-31) - creating new one
+[2025-03-22 12:52:51,034] INFO: levi (5/2015): Created new record with 15 non-zero financial metrics
+[2025-03-22 12:52:51,050] INFO: Trying adjusted date: 9/2015 (original: 8/2015)
+[2025-03-22 12:52:51,064] WARNING: levi (8/2015): No existing record found(8/2015, 2015-08-30) - creating new one
+[2025-03-22 12:52:51,065] INFO: levi (8/2015): Created new record with 15 non-zero financial metrics
+[2025-03-22 12:52:51,081] INFO: Trying adjusted date: 12/2015 (original: 11/2015)
+[2025-03-22 12:52:51,096] WARNING: levi (11/2015): No existing record found(11/2015, 2015-11-29) - creating new one
+[2025-03-22 12:52:51,096] INFO: levi (11/2015): Created new record with 19 non-zero financial metrics
+[2025-03-22 12:52:51,112] INFO: Trying adjusted date: 3/2016 (original: 2/2016)
+[2025-03-22 12:52:51,126] WARNING: levi (2/2016): No existing record found(2/2016, 2016-02-28) - creating new one
+[2025-03-22 12:52:51,127] INFO: levi (2/2016): Created new record with 18 non-zero financial metrics
+[2025-03-22 12:52:51,142] INFO: Trying adjusted date: 6/2016 (original: 5/2016)
+[2025-03-22 12:52:51,156] WARNING: levi (5/2016): No existing record found(5/2016, 2016-05-29) - creating new one
+[2025-03-22 12:52:51,156] INFO: levi (5/2016): Created new record with 14 non-zero financial metrics
+[2025-03-22 12:52:51,172] INFO: Trying adjusted date: 9/2016 (original: 8/2016)
+[2025-03-22 12:52:51,186] WARNING: levi (8/2016): No existing record found(8/2016, 2016-08-28) - creating new one
+[2025-03-22 12:52:51,187] INFO: levi (8/2016): Created new record with 14 non-zero financial metrics
+[2025-03-22 12:52:51,203] INFO: Trying adjusted date: 12/2016 (original: 11/2016)
+[2025-03-22 12:52:51,217] WARNING: levi (11/2016): No existing record found(11/2016, 2016-11-27) - creating new one
+[2025-03-22 12:52:51,218] INFO: levi (11/2016): Created new record with 19 non-zero financial metrics
+[2025-03-22 12:52:51,234] INFO: Trying adjusted date: 3/2017 (original: 2/2017)
+[2025-03-22 12:52:51,249] WARNING: levi (2/2017): No existing record found(2/2017, 2017-02-26) - creating new one
+[2025-03-22 12:52:51,250] INFO: levi (2/2017): Created new record with 20 non-zero financial metrics
+[2025-03-22 12:52:51,265] INFO: Trying adjusted date: 6/2017 (original: 5/2017)
+[2025-03-22 12:52:51,280] WARNING: levi (5/2017): No existing record found(5/2017, 2017-05-28) - creating new one
+[2025-03-22 12:52:51,280] INFO: levi (5/2017): Created new record with 15 non-zero financial metrics
+[2025-03-22 12:52:51,297] INFO: Trying adjusted date: 9/2017 (original: 8/2017)
+[2025-03-22 12:52:51,311] WARNING: levi (8/2017): No existing record found(8/2017, 2017-08-27) - creating new one
+[2025-03-22 12:52:51,311] INFO: levi (8/2017): Created new record with 15 non-zero financial metrics
+[2025-03-22 12:52:51,327] INFO: Trying adjusted date: 12/2017 (original: 11/2017)
+[2025-03-22 12:52:51,341] WARNING: levi (11/2017): No existing record found(11/2017, 2017-11-26) - creating new one
+[2025-03-22 12:52:51,341] INFO: levi (11/2017): Created new record with 19 non-zero financial metrics
+[2025-03-22 12:52:51,357] INFO: Trying adjusted date: 3/2018 (original: 2/2018)
+[2025-03-22 12:52:51,371] WARNING: levi (2/2018): No existing record found(2/2018, 2018-02-25) - creating new one
+[2025-03-22 12:52:51,372] INFO: levi (2/2018): Created new record with 20 non-zero financial metrics
+[2025-03-22 12:52:51,387] INFO: Trying adjusted date: 6/2018 (original: 5/2018)
+[2025-03-22 12:52:51,402] WARNING: levi (5/2018): No existing record found(5/2018, 2018-05-27) - creating new one
+[2025-03-22 12:52:51,402] INFO: levi (5/2018): Created new record with 15 non-zero financial metrics
+[2025-03-22 12:52:51,418] INFO: Trying adjusted date: 9/2018 (original: 8/2018)
+[2025-03-22 12:52:51,432] WARNING: levi (8/2018): No existing record found(8/2018, 2018-08-26) - creating new one
+[2025-03-22 12:52:51,432] INFO: levi (8/2018): Created new record with 15 non-zero financial metrics
+[2025-03-22 12:52:51,449] INFO: Trying adjusted date: 12/2018 (original: 11/2018)
+[2025-03-22 12:52:51,463] WARNING: levi (11/2018): No existing record found(11/2018, 2018-11-25) - creating new one
+[2025-03-22 12:52:51,464] INFO: levi (11/2018): Created new record with 19 non-zero financial metrics
+[2025-03-22 12:52:51,480] INFO: Trying adjusted date: 3/2019 (original: 2/2019)
+[2025-03-22 12:52:51,494] WARNING: levi (2/2019): No existing record found(2/2019, 2019-02-24) - creating new one
+[2025-03-22 12:52:51,494] INFO: levi (2/2019): Created new record with 21 non-zero financial metrics
+[2025-03-22 12:52:51,524] INFO: levi (5/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:52:51,555] INFO: levi (8/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:52:51,586] INFO: levi (11/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:52:51,616] INFO: levi (2/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:52:51,647] INFO: levi (5/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:52:51,677] INFO: levi (8/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:52:51,707] INFO: levi (11/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:52:51,725] WARNING: levi (2/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 12:52:51,738] INFO: levi (2/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:52:51,770] INFO: levi (5/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:52:51,801] INFO: levi (8/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:52:51,832] INFO: levi (11/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:52:51,862] INFO: levi (2/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:52:51,893] INFO: levi (5/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:52:51,922] INFO: levi (8/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:52:51,952] INFO: levi (11/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:52:51,982] INFO: levi (2/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:52:52,000] WARNING: levi (5/2023): Found zero values for fields: EPS Diluted
+[2025-03-22 12:52:52,014] INFO: levi (5/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:52:52,045] INFO: levi (8/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:52:52,076] INFO: levi (11/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:52:52,111] INFO: levi (2/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:52:52,144] INFO: levi (5/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:52:52,175] INFO: levi (8/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:52:52,191] INFO: Trying adjusted date: 11/2024 (original: 12/2024)
+[2025-03-22 12:52:52,205] INFO: Found existing row with adjusted date: 11/2024
+[2025-03-22 12:52:52,220] INFO: levi (11/2024): Updated existing record with 19 non-zero financial metrics

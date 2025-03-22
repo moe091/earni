@@ -1,0 +1,54 @@
+[2025-03-22 04:42:51,783] INFO: Trying adjusted date: 1/2013 (original: 12/2012)
+[2025-03-22 04:42:51,795] WARNING: fang (12/2012): No existing record found(12/2012, 2012-12-31) - creating new one
+[2025-03-22 04:42:51,796] INFO: fang (12/2012): Created new record with 9 non-zero financial metrics
+[2025-03-22 04:42:51,824] INFO: fang (3/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 04:42:51,853] INFO: fang (6/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 04:42:51,880] INFO: fang (9/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 04:42:50,505] INFO: fang (12/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:42:50,532] INFO: fang (3/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:42:50,558] INFO: fang (6/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 04:42:50,584] INFO: fang (9/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:42:50,611] INFO: fang (12/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:42:50,639] INFO: fang (3/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:42:50,667] INFO: fang (6/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:42:50,694] INFO: fang (9/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:42:50,721] INFO: fang (12/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:42:50,748] INFO: fang (3/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:42:50,775] INFO: fang (6/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 04:42:50,802] INFO: fang (9/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 04:42:50,828] INFO: fang (12/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:42:50,855] INFO: fang (3/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 04:42:50,881] INFO: fang (6/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 04:42:50,909] INFO: fang (9/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 04:42:50,936] INFO: fang (12/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:42:50,963] INFO: fang (3/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 04:42:50,990] INFO: fang (6/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 04:42:51,016] INFO: fang (9/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 04:42:51,043] INFO: fang (12/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:42:51,070] INFO: fang (3/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 04:42:51,097] INFO: fang (6/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:42:51,125] INFO: fang (9/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:42:51,152] INFO: fang (12/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:42:51,180] INFO: fang (3/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:42:51,209] INFO: fang (6/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:42:51,239] INFO: fang (9/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:42:51,266] INFO: fang (12/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:42:51,283] WARNING: fang (3/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 04:42:51,296] INFO: fang (3/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:42:51,324] INFO: fang (6/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:42:51,352] INFO: fang (9/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:42:51,379] INFO: fang (12/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:42:51,406] INFO: fang (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:42:51,433] INFO: fang (6/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:42:51,460] INFO: fang (9/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:42:51,489] INFO: fang (12/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:42:51,516] INFO: fang (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:42:51,543] INFO: fang (6/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:42:51,570] INFO: fang (9/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:42:51,600] INFO: fang (12/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:42:51,627] INFO: fang (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:42:51,655] INFO: fang (6/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:42:51,682] INFO: fang (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:42:51,696] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 04:42:51,708] WARNING: fang (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 04:42:51,709] INFO: fang (12/2024): Created new record with 17 non-zero financial metrics

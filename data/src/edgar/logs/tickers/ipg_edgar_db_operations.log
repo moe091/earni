@@ -1,0 +1,82 @@
+[2025-03-22 09:24:44,221] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 09:24:44,235] WARNING: ipg (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 09:24:44,235] INFO: ipg (6/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 09:24:44,252] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 09:24:44,267] WARNING: ipg (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 09:24:44,267] INFO: ipg (9/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 09:24:44,283] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 09:24:44,296] WARNING: ipg (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 09:24:44,297] INFO: ipg (12/2010): Created new record with 17 non-zero financial metrics
+[2025-03-22 09:24:44,312] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 09:24:44,325] WARNING: ipg (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 09:24:44,326] INFO: ipg (3/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 09:24:44,340] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 09:24:44,353] WARNING: ipg (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 09:24:44,353] INFO: ipg (6/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 09:24:44,371] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 09:24:44,384] WARNING: ipg (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 09:24:44,385] INFO: ipg (9/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 09:24:44,399] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 09:24:44,413] WARNING: ipg (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 09:24:44,414] INFO: ipg (12/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 09:24:44,430] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 09:24:44,443] WARNING: ipg (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 09:24:44,443] INFO: ipg (3/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 09:24:44,459] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 09:24:44,473] WARNING: ipg (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 09:24:44,473] INFO: ipg (6/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 09:24:44,501] INFO: ipg (9/2012): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:24:44,529] INFO: ipg (12/2012): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:24:44,557] INFO: ipg (3/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:24:44,585] INFO: ipg (6/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:24:44,616] INFO: ipg (9/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:24:44,648] INFO: ipg (12/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:24:44,676] INFO: ipg (3/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:24:44,705] INFO: ipg (6/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:24:44,734] INFO: ipg (9/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:24:44,763] INFO: ipg (12/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:24:44,793] INFO: ipg (3/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:24:44,821] INFO: ipg (6/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:24:44,850] INFO: ipg (9/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:24:44,879] INFO: ipg (12/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:24:44,907] INFO: ipg (3/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:24:44,937] INFO: ipg (6/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:24:44,968] INFO: ipg (9/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:24:44,998] INFO: ipg (12/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:24:45,029] INFO: ipg (3/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:24:45,057] INFO: ipg (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:24:45,086] INFO: ipg (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:24:45,116] INFO: ipg (12/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:24:45,145] INFO: ipg (3/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:24:45,176] INFO: ipg (6/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:24:45,204] INFO: ipg (9/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:24:45,232] INFO: ipg (12/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:24:45,248] WARNING: ipg (3/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 09:24:45,262] INFO: ipg (3/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:24:45,292] INFO: ipg (6/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:24:45,320] INFO: ipg (9/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:24:45,336] WARNING: ipg (12/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 09:24:45,349] INFO: ipg (12/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:24:45,377] INFO: ipg (3/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:24:45,406] INFO: ipg (6/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:24:45,437] INFO: ipg (9/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:24:45,453] WARNING: ipg (12/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 09:24:45,467] INFO: ipg (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:24:45,496] INFO: ipg (3/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:24:45,526] INFO: ipg (6/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:24:45,557] INFO: ipg (9/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:24:45,585] INFO: ipg (12/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:24:45,616] INFO: ipg (3/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:24:45,644] INFO: ipg (6/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:24:45,673] INFO: ipg (9/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:24:45,701] INFO: ipg (12/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:24:45,731] INFO: ipg (3/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:24:45,759] INFO: ipg (6/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:24:45,787] INFO: ipg (9/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:24:45,816] INFO: ipg (12/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:24:45,848] INFO: ipg (3/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:24:45,876] INFO: ipg (6/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:24:45,905] INFO: ipg (9/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:24:45,921] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 09:24:45,934] WARNING: ipg (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 09:24:45,935] INFO: ipg (12/2024): Created new record with 19 non-zero financial metrics

@@ -1,0 +1,62 @@
+[2025-03-22 08:56:24,147] INFO: Trying adjusted date: 10/2013 (original: 9/2013)
+[2025-03-22 08:56:24,161] WARNING: glpi (9/2013): Found zero values for fields: Total Assets, Stockholders Equity, Cash and Cash Equivalents
+[2025-03-22 08:56:24,161] WARNING: glpi (9/2013): No existing record found(9/2013, 2013-09-30) - creating new one
+[2025-03-22 08:56:24,161] INFO: glpi (9/2013): Created new record with 0 non-zero financial metrics
+[2025-03-22 08:56:24,191] INFO: glpi (12/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:56:24,221] INFO: glpi (3/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:56:24,251] INFO: glpi (6/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:56:24,290] INFO: glpi (9/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:56:24,319] INFO: glpi (12/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:56:24,347] INFO: glpi (3/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:56:24,379] INFO: glpi (6/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:56:24,408] INFO: glpi (9/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:56:24,437] INFO: glpi (12/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:56:24,465] INFO: glpi (3/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:56:24,497] INFO: glpi (6/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:56:24,524] INFO: glpi (9/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:56:24,552] INFO: glpi (12/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:56:24,581] INFO: glpi (3/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:56:24,608] INFO: glpi (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:56:24,637] INFO: glpi (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:56:24,665] INFO: glpi (12/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:56:24,680] WARNING: glpi (3/2018): Found zero values for fields: Capital Expenditures
+[2025-03-22 08:56:24,693] INFO: glpi (3/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:56:24,721] INFO: glpi (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:56:24,750] INFO: glpi (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:56:24,778] INFO: glpi (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:56:24,794] WARNING: glpi (3/2019): Found zero values for fields: Capital Expenditures, Net Loans
+[2025-03-22 08:56:24,808] INFO: glpi (3/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:56:24,824] WARNING: glpi (6/2019): Found zero values for fields: Capital Expenditures
+[2025-03-22 08:56:24,836] INFO: glpi (6/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:56:24,852] WARNING: glpi (9/2019): Found zero values for fields: Capital Expenditures
+[2025-03-22 08:56:24,866] INFO: glpi (9/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:56:24,880] WARNING: glpi (12/2019): Found zero values for fields: Capital Expenditures
+[2025-03-22 08:56:24,893] INFO: glpi (12/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:56:24,922] INFO: glpi (3/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:56:24,950] INFO: glpi (6/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:56:24,978] INFO: glpi (9/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:56:24,993] WARNING: glpi (12/2020): Found zero values for fields: Goodwill
+[2025-03-22 08:56:25,007] INFO: glpi (12/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:56:25,035] INFO: glpi (3/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:56:25,063] INFO: glpi (6/2021): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 08:56:25,091] INFO: glpi (9/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 08:56:25,120] INFO: glpi (12/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:56:25,135] WARNING: glpi (3/2022): Found zero values for fields: COGS
+[2025-03-22 08:56:25,148] INFO: glpi (3/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:56:25,163] WARNING: glpi (6/2022): Found zero values for fields: COGS
+[2025-03-22 08:56:25,176] INFO: glpi (6/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:56:25,192] WARNING: glpi (9/2022): Found zero values for fields: COGS
+[2025-03-22 08:56:25,205] INFO: glpi (9/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:56:25,220] WARNING: glpi (12/2022): Found zero values for fields: COGS
+[2025-03-22 08:56:25,233] INFO: glpi (12/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:56:25,261] INFO: glpi (3/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:56:25,293] INFO: glpi (6/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:56:25,321] INFO: glpi (9/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:56:25,336] WARNING: glpi (12/2023): Found zero values for fields: COGS
+[2025-03-22 08:56:25,350] INFO: glpi (12/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:56:25,380] INFO: glpi (3/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:56:25,410] INFO: glpi (6/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:56:25,437] INFO: glpi (9/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:56:25,453] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 08:56:25,466] WARNING: glpi (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 08:56:25,467] INFO: glpi (12/2024): Created new record with 14 non-zero financial metrics

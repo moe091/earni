@@ -1,0 +1,97 @@
+[2025-03-21 22:02:40,449] INFO: Trying adjusted date: 4/2010 (original: 5/2010)
+[2025-03-21 22:02:40,461] WARNING: cost (5/2010): No existing record found(5/2010, 2010-05-09) - creating new one
+[2025-03-21 22:02:40,461] INFO: cost (5/2010): Created new record with 12 non-zero financial metrics
+[2025-03-21 22:02:40,476] INFO: Trying adjusted date: 9/2010 (original: 8/2010)
+[2025-03-21 22:02:40,488] WARNING: cost (8/2010): No existing record found(8/2010, 2010-08-29) - creating new one
+[2025-03-21 22:02:40,489] INFO: cost (8/2010): Created new record with 20 non-zero financial metrics
+[2025-03-21 22:02:40,502] INFO: Trying adjusted date: 12/2010 (original: 11/2010)
+[2025-03-21 22:02:40,515] WARNING: cost (11/2010): No existing record found(11/2010, 2010-11-21) - creating new one
+[2025-03-21 22:02:40,515] INFO: cost (11/2010): Created new record with 17 non-zero financial metrics
+[2025-03-21 22:02:40,528] INFO: Trying adjusted date: 1/2011 (original: 2/2011)
+[2025-03-21 22:02:40,540] WARNING: cost (2/2011): No existing record found(2/2011, 2011-02-13) - creating new one
+[2025-03-21 22:02:40,541] INFO: cost (2/2011): Created new record with 13 non-zero financial metrics
+[2025-03-21 22:02:40,554] INFO: Trying adjusted date: 4/2011 (original: 5/2011)
+[2025-03-21 22:02:40,566] WARNING: cost (5/2011): No existing record found(5/2011, 2011-05-08) - creating new one
+[2025-03-21 22:02:40,566] INFO: cost (5/2011): Created new record with 14 non-zero financial metrics
+[2025-03-21 22:02:40,579] INFO: Trying adjusted date: 9/2011 (original: 8/2011)
+[2025-03-21 22:02:40,592] WARNING: cost (8/2011): No existing record found(8/2011, 2011-08-28) - creating new one
+[2025-03-21 22:02:40,592] INFO: cost (8/2011): Created new record with 20 non-zero financial metrics
+[2025-03-21 22:02:40,605] INFO: Trying adjusted date: 12/2011 (original: 11/2011)
+[2025-03-21 22:02:40,617] WARNING: cost (11/2011): No existing record found(11/2011, 2011-11-20) - creating new one
+[2025-03-21 22:02:40,618] INFO: cost (11/2011): Created new record with 18 non-zero financial metrics
+[2025-03-21 22:02:40,630] INFO: Trying adjusted date: 1/2012 (original: 2/2012)
+[2025-03-21 22:02:40,642] WARNING: cost (2/2012): No existing record found(2/2012, 2012-02-12) - creating new one
+[2025-03-21 22:02:40,643] INFO: cost (2/2012): Created new record with 14 non-zero financial metrics
+[2025-03-21 22:02:40,656] INFO: Trying adjusted date: 4/2012 (original: 5/2012)
+[2025-03-21 22:02:40,668] WARNING: cost (5/2012): No existing record found(5/2012, 2012-05-06) - creating new one
+[2025-03-21 22:02:40,669] INFO: cost (5/2012): Created new record with 14 non-zero financial metrics
+[2025-03-21 22:02:40,682] INFO: Trying adjusted date: 8/2012 (original: 9/2012)
+[2025-03-21 22:02:40,694] INFO: Found existing row with adjusted date: 8/2012
+[2025-03-21 22:02:40,706] INFO: cost (8/2012): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:02:40,732] INFO: cost (11/2012): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:02:40,757] INFO: cost (2/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:02:40,782] INFO: cost (5/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:02:40,795] INFO: Trying adjusted date: 8/2013 (original: 9/2013)
+[2025-03-21 22:02:40,807] INFO: Found existing row with adjusted date: 8/2013
+[2025-03-21 22:02:40,819] INFO: cost (8/2013): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:02:40,832] WARNING: cost (11/2013): Found zero values for fields: Share Repurchases
+[2025-03-21 22:02:40,843] INFO: cost (11/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:02:40,868] INFO: cost (2/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 22:02:40,892] INFO: cost (5/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 22:02:40,917] INFO: cost (8/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:02:40,941] INFO: cost (11/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:02:40,965] INFO: cost (2/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:02:40,989] INFO: cost (5/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:02:41,003] INFO: Trying adjusted date: 9/2015 (original: 8/2015)
+[2025-03-21 22:02:41,015] WARNING: cost (8/2015): No existing record found(8/2015, 2015-08-30) - creating new one
+[2025-03-21 22:02:41,015] INFO: cost (8/2015): Created new record with 16 non-zero financial metrics
+[2025-03-21 22:02:41,040] INFO: cost (11/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:02:41,064] INFO: cost (2/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:02:41,089] INFO: cost (5/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:02:41,113] INFO: cost (8/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:02:41,139] INFO: cost (11/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:02:41,163] INFO: cost (2/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:02:41,191] INFO: cost (5/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:02:41,207] INFO: Trying adjusted date: 8/2017 (original: 9/2017)
+[2025-03-21 22:02:41,218] INFO: Found existing row with adjusted date: 8/2017
+[2025-03-21 22:02:41,230] INFO: cost (8/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:02:41,255] INFO: cost (11/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:02:41,280] INFO: cost (2/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:02:41,304] INFO: cost (5/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:02:41,320] INFO: Trying adjusted date: 8/2018 (original: 9/2018)
+[2025-03-21 22:02:41,331] INFO: Found existing row with adjusted date: 8/2018
+[2025-03-21 22:02:41,343] INFO: cost (8/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:02:41,369] INFO: cost (11/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:02:41,394] INFO: cost (2/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:02:41,421] INFO: cost (5/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:02:41,434] INFO: Trying adjusted date: 8/2019 (original: 9/2019)
+[2025-03-21 22:02:41,446] INFO: Found existing row with adjusted date: 8/2019
+[2025-03-21 22:02:41,458] INFO: cost (8/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:02:41,482] INFO: cost (11/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:02:41,507] INFO: cost (2/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 22:02:41,531] INFO: cost (5/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:02:41,556] INFO: cost (8/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:02:41,580] INFO: cost (11/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:02:41,605] INFO: cost (2/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 22:02:41,629] INFO: cost (5/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 22:02:41,654] INFO: cost (8/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:02:41,679] INFO: cost (11/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:02:41,703] INFO: cost (2/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 22:02:41,728] INFO: cost (5/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 22:02:41,753] INFO: cost (8/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:02:41,777] INFO: cost (11/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:02:41,804] INFO: cost (2/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:02:41,829] INFO: cost (5/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:02:41,845] INFO: Trying adjusted date: 8/2023 (original: 9/2023)
+[2025-03-21 22:02:41,857] INFO: Found existing row with adjusted date: 8/2023
+[2025-03-21 22:02:41,868] INFO: cost (8/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:02:41,892] INFO: cost (11/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:02:41,917] INFO: cost (2/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:02:41,942] INFO: cost (5/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:02:41,955] INFO: Trying adjusted date: 8/2024 (original: 9/2024)
+[2025-03-21 22:02:41,967] INFO: Found existing row with adjusted date: 8/2024
+[2025-03-21 22:02:41,978] INFO: cost (8/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:02:42,004] INFO: cost (11/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:02:42,017] INFO: Trying adjusted date: 3/2025 (original: 2/2025)
+[2025-03-21 22:02:42,029] WARNING: cost (2/2025): No existing record found(2/2025, 2025-02-16) - creating new one
+[2025-03-21 22:02:42,029] INFO: cost (2/2025): Created new record with 12 non-zero financial metrics

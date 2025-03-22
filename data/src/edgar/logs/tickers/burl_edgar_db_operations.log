@@ -1,0 +1,97 @@
+[2025-03-22 10:34:41,670] INFO: Trying adjusted date: 10/2013 (original: 11/2013)
+[2025-03-22 10:34:41,684] WARNING: burl (11/2013): No existing record found(11/2013, 2013-11-02) - creating new one
+[2025-03-22 10:34:41,684] INFO: burl (11/2013): Created new record with 10 non-zero financial metrics
+[2025-03-22 10:34:41,701] INFO: Trying adjusted date: 1/2014 (original: 2/2014)
+[2025-03-22 10:34:41,716] INFO: Found existing row with adjusted date: 1/2014
+[2025-03-22 10:34:41,731] INFO: burl (1/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:34:41,746] INFO: Trying adjusted date: 4/2014 (original: 5/2014)
+[2025-03-22 10:34:41,760] INFO: Found existing row with adjusted date: 4/2014
+[2025-03-22 10:34:41,773] INFO: burl (4/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:34:41,789] INFO: Trying adjusted date: 7/2014 (original: 8/2014)
+[2025-03-22 10:34:41,803] INFO: Found existing row with adjusted date: 7/2014
+[2025-03-22 10:34:41,818] INFO: burl (7/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:34:41,833] INFO: Trying adjusted date: 10/2014 (original: 11/2014)
+[2025-03-22 10:34:41,847] INFO: Found existing row with adjusted date: 10/2014
+[2025-03-22 10:34:41,861] INFO: burl (10/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:34:41,889] INFO: burl (1/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:34:41,904] INFO: Trying adjusted date: 4/2015 (original: 5/2015)
+[2025-03-22 10:34:41,917] INFO: Found existing row with adjusted date: 4/2015
+[2025-03-22 10:34:41,931] INFO: burl (4/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:34:41,947] INFO: Trying adjusted date: 7/2015 (original: 8/2015)
+[2025-03-22 10:34:41,959] INFO: Found existing row with adjusted date: 7/2015
+[2025-03-22 10:34:41,972] INFO: burl (7/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:34:42,002] INFO: burl (10/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:34:42,018] WARNING: burl (1/2016): Found zero values for fields: Operating Cash Flow, Investing Cash Flow
+[2025-03-22 10:34:42,031] INFO: burl (1/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:34:42,060] INFO: burl (4/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:34:42,089] INFO: burl (7/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:34:42,104] INFO: Trying adjusted date: 11/2016 (original: 10/2016)
+[2025-03-22 10:34:42,118] WARNING: burl (10/2016): No existing record found(10/2016, 2016-10-29) - creating new one
+[2025-03-22 10:34:42,119] INFO: burl (10/2016): Created new record with 11 non-zero financial metrics
+[2025-03-22 10:34:42,150] INFO: burl (1/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:34:42,180] INFO: burl (4/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:34:42,208] INFO: burl (7/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:34:42,237] INFO: burl (10/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:34:42,253] INFO: Trying adjusted date: 1/2018 (original: 2/2018)
+[2025-03-22 10:34:42,267] INFO: Found existing row with adjusted date: 1/2018
+[2025-03-22 10:34:42,280] INFO: burl (1/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:34:42,296] INFO: Trying adjusted date: 4/2018 (original: 5/2018)
+[2025-03-22 10:34:42,309] INFO: Found existing row with adjusted date: 4/2018
+[2025-03-22 10:34:42,323] INFO: burl (4/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:34:42,338] INFO: Trying adjusted date: 7/2018 (original: 8/2018)
+[2025-03-22 10:34:42,351] INFO: Found existing row with adjusted date: 7/2018
+[2025-03-22 10:34:42,365] INFO: burl (7/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:34:42,380] INFO: Trying adjusted date: 10/2018 (original: 11/2018)
+[2025-03-22 10:34:42,394] INFO: Found existing row with adjusted date: 10/2018
+[2025-03-22 10:34:42,407] INFO: burl (10/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:34:42,422] INFO: Trying adjusted date: 1/2019 (original: 2/2019)
+[2025-03-22 10:34:42,435] INFO: Found existing row with adjusted date: 1/2019
+[2025-03-22 10:34:42,450] INFO: burl (1/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:34:42,464] INFO: Trying adjusted date: 4/2019 (original: 5/2019)
+[2025-03-22 10:34:42,478] INFO: Found existing row with adjusted date: 4/2019
+[2025-03-22 10:34:42,492] INFO: burl (4/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:34:42,507] INFO: Trying adjusted date: 7/2019 (original: 8/2019)
+[2025-03-22 10:34:42,520] INFO: Found existing row with adjusted date: 7/2019
+[2025-03-22 10:34:42,536] INFO: burl (7/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:34:42,552] INFO: Trying adjusted date: 10/2019 (original: 11/2019)
+[2025-03-22 10:34:42,565] INFO: Found existing row with adjusted date: 10/2019
+[2025-03-22 10:34:42,579] INFO: burl (10/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:34:42,594] INFO: Trying adjusted date: 1/2020 (original: 2/2020)
+[2025-03-22 10:34:42,607] INFO: Found existing row with adjusted date: 1/2020
+[2025-03-22 10:34:42,621] INFO: burl (1/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:34:42,635] INFO: Trying adjusted date: 4/2020 (original: 5/2020)
+[2025-03-22 10:34:42,648] INFO: Found existing row with adjusted date: 4/2020
+[2025-03-22 10:34:42,662] INFO: burl (4/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:34:42,678] INFO: Trying adjusted date: 7/2020 (original: 8/2020)
+[2025-03-22 10:34:42,691] INFO: Found existing row with adjusted date: 7/2020
+[2025-03-22 10:34:42,705] INFO: burl (7/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:34:42,733] INFO: burl (10/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:34:42,764] INFO: burl (1/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:34:42,782] INFO: Trying adjusted date: 4/2021 (original: 5/2021)
+[2025-03-22 10:34:42,796] INFO: Found existing row with adjusted date: 4/2021
+[2025-03-22 10:34:42,809] INFO: burl (4/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:34:42,840] INFO: burl (7/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:34:42,870] INFO: burl (10/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:34:42,902] INFO: burl (1/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:34:42,933] INFO: burl (4/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:34:42,967] INFO: burl (7/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:34:42,997] INFO: burl (10/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:34:43,026] INFO: burl (1/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:34:43,055] INFO: burl (4/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:34:43,085] INFO: burl (7/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:34:43,115] INFO: burl (10/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:34:43,132] INFO: Trying adjusted date: 1/2024 (original: 2/2024)
+[2025-03-22 10:34:43,145] INFO: Found existing row with adjusted date: 1/2024
+[2025-03-22 10:34:43,159] INFO: burl (1/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:34:43,174] INFO: Trying adjusted date: 4/2024 (original: 5/2024)
+[2025-03-22 10:34:43,188] INFO: Found existing row with adjusted date: 4/2024
+[2025-03-22 10:34:43,202] INFO: burl (4/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:34:43,217] INFO: Trying adjusted date: 7/2024 (original: 8/2024)
+[2025-03-22 10:34:43,230] INFO: Found existing row with adjusted date: 7/2024
+[2025-03-22 10:34:43,244] INFO: burl (7/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:34:43,259] INFO: Trying adjusted date: 10/2024 (original: 11/2024)
+[2025-03-22 10:34:43,273] INFO: Found existing row with adjusted date: 10/2024
+[2025-03-22 10:34:43,286] INFO: burl (10/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:34:43,300] INFO: Trying adjusted date: 1/2025 (original: 2/2025)
+[2025-03-22 10:34:43,314] WARNING: burl (2/2025): No existing record found(2/2025, 2025-02-01) - creating new one
+[2025-03-22 10:34:43,314] INFO: burl (2/2025): Created new record with 17 non-zero financial metrics

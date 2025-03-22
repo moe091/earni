@@ -1,0 +1,77 @@
+[2025-03-22 16:08:46,713] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 16:08:46,727] WARNING: sigi (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 16:08:46,728] INFO: sigi (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,746] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 16:08:46,760] WARNING: sigi (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 16:08:46,761] INFO: sigi (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,778] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 16:08:46,793] WARNING: sigi (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 16:08:46,793] INFO: sigi (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,810] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 16:08:46,826] WARNING: sigi (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 16:08:46,826] INFO: sigi (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,844] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 16:08:46,858] WARNING: sigi (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 16:08:46,859] INFO: sigi (6/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,877] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 16:08:46,891] WARNING: sigi (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 16:08:46,892] INFO: sigi (9/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,909] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 16:08:46,925] WARNING: sigi (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 16:08:46,925] INFO: sigi (12/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,942] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 16:08:46,957] WARNING: sigi (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 16:08:46,958] INFO: sigi (3/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,975] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 16:08:46,990] WARNING: sigi (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 16:08:46,991] INFO: sigi (6/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:08:47,022] INFO: sigi (9/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:47,054] INFO: sigi (12/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:47,086] INFO: sigi (3/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:47,118] INFO: sigi (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:45,746] INFO: sigi (9/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:45,776] INFO: sigi (12/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:45,807] INFO: sigi (3/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:45,838] INFO: sigi (6/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:45,868] INFO: sigi (9/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:45,899] INFO: sigi (12/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:45,931] INFO: sigi (3/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:45,961] INFO: sigi (6/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:45,993] INFO: sigi (9/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,023] INFO: sigi (12/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,053] INFO: sigi (3/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,083] INFO: sigi (6/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,114] INFO: sigi (9/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,144] INFO: sigi (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,175] INFO: sigi (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,206] INFO: sigi (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,237] INFO: sigi (9/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,269] INFO: sigi (12/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,299] INFO: sigi (3/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,330] INFO: sigi (6/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,362] INFO: sigi (9/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,394] INFO: sigi (12/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,426] INFO: sigi (3/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,456] INFO: sigi (6/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,486] INFO: sigi (9/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,518] INFO: sigi (12/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,549] INFO: sigi (3/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,580] INFO: sigi (6/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,614] INFO: sigi (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,645] INFO: sigi (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,678] INFO: sigi (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,709] INFO: sigi (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,739] INFO: sigi (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,768] INFO: sigi (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,800] INFO: sigi (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,831] INFO: sigi (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,862] INFO: sigi (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,893] INFO: sigi (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,922] INFO: sigi (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,953] INFO: sigi (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:46,984] INFO: sigi (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:47,015] INFO: sigi (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:47,046] INFO: sigi (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:47,078] INFO: sigi (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:47,110] INFO: sigi (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:08:47,140] INFO: sigi (12/2024): Updated existing record with 0 non-zero financial metrics

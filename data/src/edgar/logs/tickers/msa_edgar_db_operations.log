@@ -1,0 +1,79 @@
+[2025-03-22 16:28:39,127] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 16:28:39,142] WARNING: msa (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 16:28:39,142] INFO: msa (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,160] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 16:28:39,174] WARNING: msa (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 16:28:39,175] INFO: msa (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,192] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 16:28:39,207] WARNING: msa (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 16:28:39,207] INFO: msa (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,225] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 16:28:39,239] WARNING: msa (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 16:28:39,240] INFO: msa (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,257] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 16:28:39,272] WARNING: msa (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 16:28:39,272] INFO: msa (6/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,294] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 16:28:39,309] WARNING: msa (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 16:28:39,309] INFO: msa (9/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,326] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 16:28:39,341] WARNING: msa (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 16:28:39,342] INFO: msa (12/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,365] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 16:28:39,380] WARNING: msa (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 16:28:39,380] INFO: msa (3/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,398] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 16:28:39,413] WARNING: msa (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 16:28:39,414] INFO: msa (6/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,446] INFO: msa (9/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,478] INFO: msa (12/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,510] INFO: msa (3/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,540] INFO: msa (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,572] INFO: msa (9/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,603] INFO: msa (12/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,633] INFO: msa (3/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,664] INFO: msa (6/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,693] INFO: msa (9/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,726] INFO: msa (12/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,757] INFO: msa (3/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,788] INFO: msa (6/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,818] INFO: msa (9/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,849] INFO: msa (12/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,879] INFO: msa (3/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,910] INFO: msa (6/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,941] INFO: msa (9/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:39,972] INFO: msa (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,003] INFO: msa (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,034] INFO: msa (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,065] INFO: msa (9/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,095] INFO: msa (12/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,126] INFO: msa (3/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,158] INFO: msa (6/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,191] INFO: msa (9/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,222] INFO: msa (12/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,254] INFO: msa (3/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,285] INFO: msa (6/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,315] INFO: msa (9/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,346] INFO: msa (12/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,377] INFO: msa (3/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,408] INFO: msa (6/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,440] INFO: msa (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,473] INFO: msa (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,505] INFO: msa (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,537] INFO: msa (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,572] INFO: msa (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,603] INFO: msa (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,633] INFO: msa (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,664] INFO: msa (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,695] INFO: msa (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,725] INFO: msa (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,760] INFO: msa (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,792] INFO: msa (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,823] INFO: msa (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,853] INFO: msa (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,886] INFO: msa (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,916] INFO: msa (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,949] INFO: msa (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:28:40,966] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 16:28:40,980] WARNING: msa (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 16:28:40,980] INFO: msa (12/2024): Created new record with 0 non-zero financial metrics

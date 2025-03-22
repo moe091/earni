@@ -1,0 +1,165 @@
+[2025-03-22 10:09:48,292] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 10:09:48,306] WARNING: morn (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 10:09:48,306] INFO: morn (6/2010): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:09:48,322] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 10:09:48,335] WARNING: morn (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 10:09:48,336] INFO: morn (9/2010): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:09:48,352] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 10:09:48,366] WARNING: morn (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 10:09:48,366] INFO: morn (12/2010): Created new record with 19 non-zero financial metrics
+[2025-03-22 10:09:48,383] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 10:09:48,396] WARNING: morn (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 10:09:48,397] INFO: morn (3/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 10:09:48,412] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 10:09:48,426] WARNING: morn (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 10:09:48,426] INFO: morn (6/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:09:48,441] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 10:09:48,454] WARNING: morn (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 10:09:48,454] INFO: morn (9/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:09:48,469] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 10:09:48,483] WARNING: morn (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 10:09:48,484] INFO: morn (12/2011): Created new record with 21 non-zero financial metrics
+[2025-03-22 10:09:48,499] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 10:09:48,513] WARNING: morn (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 10:09:48,513] INFO: morn (3/2012): Created new record with 20 non-zero financial metrics
+[2025-03-22 10:09:48,528] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 10:09:48,541] WARNING: morn (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 10:09:48,542] INFO: morn (6/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:09:48,558] INFO: Trying adjusted date: 10/2012 (original: 9/2012)
+[2025-03-22 10:09:48,571] WARNING: morn (9/2012): No existing record found(9/2012, 2012-09-30) - creating new one
+[2025-03-22 10:09:48,572] INFO: morn (9/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:09:48,587] INFO: Trying adjusted date: 1/2013 (original: 12/2012)
+[2025-03-22 10:09:48,600] WARNING: morn (12/2012): No existing record found(12/2012, 2012-12-31) - creating new one
+[2025-03-22 10:09:48,601] INFO: morn (12/2012): Created new record with 21 non-zero financial metrics
+[2025-03-22 10:09:48,615] INFO: Trying adjusted date: 4/2013 (original: 3/2013)
+[2025-03-22 10:09:48,630] WARNING: morn (3/2013): No existing record found(3/2013, 2013-03-31) - creating new one
+[2025-03-22 10:09:48,630] INFO: morn (3/2013): Created new record with 20 non-zero financial metrics
+[2025-03-22 10:09:48,646] INFO: Trying adjusted date: 7/2013 (original: 6/2013)
+[2025-03-22 10:09:48,660] WARNING: morn (6/2013): No existing record found(6/2013, 2013-06-30) - creating new one
+[2025-03-22 10:09:48,660] INFO: morn (6/2013): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:09:48,675] INFO: Trying adjusted date: 10/2013 (original: 9/2013)
+[2025-03-22 10:09:48,688] WARNING: morn (9/2013): No existing record found(9/2013, 2013-09-30) - creating new one
+[2025-03-22 10:09:48,689] INFO: morn (9/2013): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:09:48,717] INFO: morn (12/2013): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:09:48,746] INFO: morn (3/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:09:48,776] INFO: morn (6/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:09:48,804] INFO: morn (9/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:09:48,833] INFO: morn (12/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:09:48,863] INFO: morn (3/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:09:48,891] INFO: morn (6/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:09:48,907] INFO: Trying adjusted date: 10/2015 (original: 9/2015)
+[2025-03-22 10:09:48,921] WARNING: morn (9/2015): No existing record found(9/2015, 2015-09-30) - creating new one
+[2025-03-22 10:09:48,921] INFO: morn (9/2015): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:09:48,937] INFO: Trying adjusted date: 1/2016 (original: 12/2015)
+[2025-03-22 10:09:48,950] WARNING: morn (12/2015): No existing record found(12/2015, 2015-12-31) - creating new one
+[2025-03-22 10:09:48,951] INFO: morn (12/2015): Created new record with 19 non-zero financial metrics
+[2025-03-22 10:09:48,968] INFO: Trying adjusted date: 4/2016 (original: 3/2016)
+[2025-03-22 10:09:48,982] WARNING: morn (3/2016): No existing record found(3/2016, 2016-03-31) - creating new one
+[2025-03-22 10:09:48,983] INFO: morn (3/2016): Created new record with 19 non-zero financial metrics
+[2025-03-22 10:09:48,998] INFO: Trying adjusted date: 7/2016 (original: 6/2016)
+[2025-03-22 10:09:49,011] WARNING: morn (6/2016): No existing record found(6/2016, 2016-06-30) - creating new one
+[2025-03-22 10:09:49,011] INFO: morn (6/2016): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:09:49,026] INFO: Trying adjusted date: 10/2016 (original: 9/2016)
+[2025-03-22 10:09:49,040] WARNING: morn (9/2016): No existing record found(9/2016, 2016-09-30) - creating new one
+[2025-03-22 10:09:49,041] INFO: morn (9/2016): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:09:49,055] INFO: Trying adjusted date: 1/2017 (original: 12/2016)
+[2025-03-22 10:09:49,069] WARNING: morn (12/2016): No existing record found(12/2016, 2016-12-31) - creating new one
+[2025-03-22 10:09:49,069] INFO: morn (12/2016): Created new record with 19 non-zero financial metrics
+[2025-03-22 10:09:49,084] INFO: Trying adjusted date: 4/2017 (original: 3/2017)
+[2025-03-22 10:09:49,097] WARNING: morn (3/2017): No existing record found(3/2017, 2017-03-31) - creating new one
+[2025-03-22 10:09:49,098] INFO: morn (3/2017): Created new record with 19 non-zero financial metrics
+[2025-03-22 10:09:49,116] INFO: Trying adjusted date: 7/2017 (original: 6/2017)
+[2025-03-22 10:09:49,131] WARNING: morn (6/2017): No existing record found(6/2017, 2017-06-30) - creating new one
+[2025-03-22 10:09:49,131] INFO: morn (6/2017): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:09:49,146] INFO: Trying adjusted date: 10/2017 (original: 9/2017)
+[2025-03-22 10:09:49,160] WARNING: morn (9/2017): No existing record found(9/2017, 2017-09-30) - creating new one
+[2025-03-22 10:09:49,160] INFO: morn (9/2017): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:09:49,176] INFO: Trying adjusted date: 1/2018 (original: 12/2017)
+[2025-03-22 10:09:49,190] WARNING: morn (12/2017): No existing record found(12/2017, 2017-12-31) - creating new one
+[2025-03-22 10:09:49,190] INFO: morn (12/2017): Created new record with 19 non-zero financial metrics
+[2025-03-22 10:09:49,205] INFO: Trying adjusted date: 4/2018 (original: 3/2018)
+[2025-03-22 10:09:49,219] WARNING: morn (3/2018): No existing record found(3/2018, 2018-03-31) - creating new one
+[2025-03-22 10:09:49,219] INFO: morn (3/2018): Created new record with 21 non-zero financial metrics
+[2025-03-22 10:09:49,234] INFO: Trying adjusted date: 7/2018 (original: 6/2018)
+[2025-03-22 10:09:49,248] WARNING: morn (6/2018): No existing record found(6/2018, 2018-06-30) - creating new one
+[2025-03-22 10:09:49,248] INFO: morn (6/2018): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:09:49,265] INFO: Trying adjusted date: 10/2018 (original: 9/2018)
+[2025-03-22 10:09:49,280] WARNING: morn (9/2018): No existing record found(9/2018, 2018-09-30) - creating new one
+[2025-03-22 10:09:49,281] INFO: morn (9/2018): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:09:49,297] INFO: Trying adjusted date: 1/2019 (original: 12/2018)
+[2025-03-22 10:09:49,310] WARNING: morn (12/2018): No existing record found(12/2018, 2018-12-31) - creating new one
+[2025-03-22 10:09:49,311] INFO: morn (12/2018): Created new record with 20 non-zero financial metrics
+[2025-03-22 10:09:49,326] INFO: Trying adjusted date: 4/2019 (original: 3/2019)
+[2025-03-22 10:09:49,340] WARNING: morn (3/2019): No existing record found(3/2019, 2019-03-31) - creating new one
+[2025-03-22 10:09:49,340] INFO: morn (3/2019): Created new record with 20 non-zero financial metrics
+[2025-03-22 10:09:49,355] INFO: Trying adjusted date: 7/2019 (original: 6/2019)
+[2025-03-22 10:09:49,369] WARNING: morn (6/2019): No existing record found(6/2019, 2019-06-30) - creating new one
+[2025-03-22 10:09:49,369] INFO: morn (6/2019): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:09:49,386] INFO: Trying adjusted date: 10/2019 (original: 9/2019)
+[2025-03-22 10:09:49,400] WARNING: morn (9/2019): No existing record found(9/2019, 2019-09-30) - creating new one
+[2025-03-22 10:09:49,400] INFO: morn (9/2019): Created new record with 16 non-zero financial metrics
+[2025-03-22 10:09:49,415] INFO: Trying adjusted date: 1/2020 (original: 12/2019)
+[2025-03-22 10:09:49,429] WARNING: morn (12/2019): No existing record found(12/2019, 2019-12-31) - creating new one
+[2025-03-22 10:09:49,429] INFO: morn (12/2019): Created new record with 21 non-zero financial metrics
+[2025-03-22 10:09:49,445] INFO: Trying adjusted date: 4/2020 (original: 3/2020)
+[2025-03-22 10:09:49,459] WARNING: morn (3/2020): No existing record found(3/2020, 2020-03-31) - creating new one
+[2025-03-22 10:09:49,459] INFO: morn (3/2020): Created new record with 19 non-zero financial metrics
+[2025-03-22 10:09:49,475] INFO: Trying adjusted date: 7/2020 (original: 6/2020)
+[2025-03-22 10:09:49,488] WARNING: morn (6/2020): No existing record found(6/2020, 2020-06-30) - creating new one
+[2025-03-22 10:09:49,489] INFO: morn (6/2020): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:09:49,505] INFO: Trying adjusted date: 10/2020 (original: 9/2020)
+[2025-03-22 10:09:49,518] WARNING: morn (9/2020): No existing record found(9/2020, 2020-09-30) - creating new one
+[2025-03-22 10:09:49,518] INFO: morn (9/2020): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:09:49,535] INFO: Trying adjusted date: 1/2021 (original: 12/2020)
+[2025-03-22 10:09:49,548] WARNING: morn (12/2020): No existing record found(12/2020, 2020-12-31) - creating new one
+[2025-03-22 10:09:49,549] INFO: morn (12/2020): Created new record with 21 non-zero financial metrics
+[2025-03-22 10:09:49,564] INFO: Trying adjusted date: 4/2021 (original: 3/2021)
+[2025-03-22 10:09:49,577] WARNING: morn (3/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 10:09:49,577] WARNING: morn (3/2021): No existing record found(3/2021, 2021-03-31) - creating new one
+[2025-03-22 10:09:49,578] INFO: morn (3/2021): Created new record with 18 non-zero financial metrics
+[2025-03-22 10:09:49,593] INFO: Trying adjusted date: 7/2021 (original: 6/2021)
+[2025-03-22 10:09:49,606] WARNING: morn (6/2021): No existing record found(6/2021, 2021-06-30) - creating new one
+[2025-03-22 10:09:49,606] INFO: morn (6/2021): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:09:49,622] INFO: Trying adjusted date: 10/2021 (original: 9/2021)
+[2025-03-22 10:09:49,635] WARNING: morn (9/2021): No existing record found(9/2021, 2021-09-30) - creating new one
+[2025-03-22 10:09:49,636] INFO: morn (9/2021): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:09:49,653] INFO: Trying adjusted date: 1/2022 (original: 12/2021)
+[2025-03-22 10:09:49,667] WARNING: morn (12/2021): No existing record found(12/2021, 2021-12-31) - creating new one
+[2025-03-22 10:09:49,667] INFO: morn (12/2021): Created new record with 20 non-zero financial metrics
+[2025-03-22 10:09:49,682] INFO: Trying adjusted date: 4/2022 (original: 3/2022)
+[2025-03-22 10:09:49,696] WARNING: morn (3/2022): No existing record found(3/2022, 2022-03-31) - creating new one
+[2025-03-22 10:09:49,697] INFO: morn (3/2022): Created new record with 19 non-zero financial metrics
+[2025-03-22 10:09:49,712] INFO: Trying adjusted date: 7/2022 (original: 6/2022)
+[2025-03-22 10:09:49,726] WARNING: morn (6/2022): No existing record found(6/2022, 2022-06-30) - creating new one
+[2025-03-22 10:09:49,727] INFO: morn (6/2022): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:09:49,742] INFO: Trying adjusted date: 10/2022 (original: 9/2022)
+[2025-03-22 10:09:49,755] WARNING: morn (9/2022): No existing record found(9/2022, 2022-09-30) - creating new one
+[2025-03-22 10:09:49,756] INFO: morn (9/2022): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:09:49,771] INFO: Trying adjusted date: 1/2023 (original: 12/2022)
+[2025-03-22 10:09:49,786] WARNING: morn (12/2022): No existing record found(12/2022, 2022-12-31) - creating new one
+[2025-03-22 10:09:49,786] INFO: morn (12/2022): Created new record with 20 non-zero financial metrics
+[2025-03-22 10:09:49,801] INFO: Trying adjusted date: 4/2023 (original: 3/2023)
+[2025-03-22 10:09:49,816] WARNING: morn (3/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 10:09:49,816] WARNING: morn (3/2023): No existing record found(3/2023, 2023-03-31) - creating new one
+[2025-03-22 10:09:49,816] INFO: morn (3/2023): Created new record with 18 non-zero financial metrics
+[2025-03-22 10:09:49,834] INFO: Trying adjusted date: 7/2023 (original: 6/2023)
+[2025-03-22 10:09:49,848] WARNING: morn (6/2023): No existing record found(6/2023, 2023-06-30) - creating new one
+[2025-03-22 10:09:49,848] INFO: morn (6/2023): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:09:49,863] INFO: Trying adjusted date: 10/2023 (original: 9/2023)
+[2025-03-22 10:09:49,878] WARNING: morn (9/2023): No existing record found(9/2023, 2023-09-30) - creating new one
+[2025-03-22 10:09:49,878] INFO: morn (9/2023): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:09:49,894] INFO: Trying adjusted date: 1/2024 (original: 12/2023)
+[2025-03-22 10:09:49,907] WARNING: morn (12/2023): No existing record found(12/2023, 2023-12-31) - creating new one
+[2025-03-22 10:09:49,908] INFO: morn (12/2023): Created new record with 20 non-zero financial metrics
+[2025-03-22 10:09:49,924] INFO: Trying adjusted date: 4/2024 (original: 3/2024)
+[2025-03-22 10:09:49,937] WARNING: morn (3/2024): No existing record found(3/2024, 2024-03-31) - creating new one
+[2025-03-22 10:09:49,938] INFO: morn (3/2024): Created new record with 18 non-zero financial metrics
+[2025-03-22 10:09:49,953] INFO: Trying adjusted date: 7/2024 (original: 6/2024)
+[2025-03-22 10:09:49,967] WARNING: morn (6/2024): No existing record found(6/2024, 2024-06-30) - creating new one
+[2025-03-22 10:09:49,967] INFO: morn (6/2024): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:09:49,984] INFO: Trying adjusted date: 10/2024 (original: 9/2024)
+[2025-03-22 10:09:49,997] WARNING: morn (9/2024): No existing record found(9/2024, 2024-09-30) - creating new one
+[2025-03-22 10:09:49,998] INFO: morn (9/2024): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:09:50,013] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 10:09:50,027] WARNING: morn (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 10:09:50,027] INFO: morn (12/2024): Created new record with 20 non-zero financial metrics

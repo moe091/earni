@@ -1,0 +1,94 @@
+[2025-03-22 06:12:39,337] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 06:12:39,349] WARNING: eqt (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 06:12:39,350] INFO: eqt (3/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 06:12:39,364] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 06:12:39,377] WARNING: eqt (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 06:12:39,377] INFO: eqt (6/2010): Created new record with 9 non-zero financial metrics
+[2025-03-22 06:12:39,390] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 06:12:39,403] WARNING: eqt (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 06:12:39,403] INFO: eqt (9/2010): Created new record with 9 non-zero financial metrics
+[2025-03-22 06:12:39,417] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 06:12:39,430] WARNING: eqt (12/2010): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 06:12:39,430] WARNING: eqt (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 06:12:39,431] INFO: eqt (12/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 06:12:39,444] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 06:12:39,457] WARNING: eqt (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 06:12:39,457] INFO: eqt (3/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 06:12:39,472] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 06:12:39,485] WARNING: eqt (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 06:12:39,486] INFO: eqt (6/2011): Created new record with 10 non-zero financial metrics
+[2025-03-22 06:12:39,500] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 06:12:39,513] WARNING: eqt (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 06:12:39,513] INFO: eqt (9/2011): Created new record with 10 non-zero financial metrics
+[2025-03-22 06:12:39,527] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 06:12:39,539] WARNING: eqt (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 06:12:39,540] INFO: eqt (12/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 06:12:39,554] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 06:12:39,567] WARNING: eqt (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 06:12:39,568] INFO: eqt (3/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 06:12:39,583] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 06:12:39,595] WARNING: eqt (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 06:12:39,596] INFO: eqt (6/2012): Created new record with 10 non-zero financial metrics
+[2025-03-22 06:12:39,623] INFO: eqt (9/2012): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:12:39,650] INFO: eqt (12/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 06:12:39,677] INFO: eqt (3/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 06:12:39,704] INFO: eqt (6/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:12:39,731] INFO: eqt (9/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:12:39,758] INFO: eqt (12/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:12:39,786] INFO: eqt (3/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:12:39,802] INFO: Trying adjusted date: 7/2014 (original: 6/2014)
+[2025-03-22 06:12:39,815] WARNING: eqt (6/2014): No existing record found(6/2014, 2014-06-30) - creating new one
+[2025-03-22 06:12:39,816] INFO: eqt (6/2014): Created new record with 10 non-zero financial metrics
+[2025-03-22 06:12:39,843] INFO: eqt (9/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:12:39,870] INFO: eqt (12/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:12:39,898] INFO: eqt (3/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:12:39,925] INFO: eqt (6/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:12:39,951] INFO: eqt (9/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:12:39,965] WARNING: eqt (12/2015): Found zero values for fields: Capital Expenditures
+[2025-03-22 06:12:39,978] INFO: eqt (12/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:12:40,004] INFO: eqt (3/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:12:40,031] INFO: eqt (6/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:12:40,058] INFO: eqt (9/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:12:40,087] INFO: eqt (12/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:12:40,116] INFO: eqt (3/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:12:40,142] INFO: eqt (6/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:12:40,169] INFO: eqt (9/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:12:40,199] INFO: eqt (12/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:12:40,229] INFO: eqt (3/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:12:40,257] INFO: eqt (6/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:12:40,284] INFO: eqt (9/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:12:40,299] WARNING: eqt (12/2018): Found zero values for fields: Goodwill
+[2025-03-22 06:12:40,313] INFO: eqt (12/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:12:40,327] WARNING: eqt (3/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 06:12:40,340] INFO: eqt (3/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:12:40,369] INFO: eqt (6/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:12:40,398] INFO: eqt (9/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:12:40,413] WARNING: eqt (12/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 06:12:40,426] INFO: eqt (12/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:12:40,441] INFO: Trying adjusted date: 4/2020 (original: 3/2020)
+[2025-03-22 06:12:40,454] WARNING: eqt (3/2020): No existing record found(3/2020, 2020-03-31) - creating new one
+[2025-03-22 06:12:40,454] INFO: eqt (3/2020): Created new record with 16 non-zero financial metrics
+[2025-03-22 06:12:40,482] INFO: eqt (6/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 06:12:40,509] INFO: eqt (9/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 06:12:40,525] WARNING: eqt (12/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 06:12:40,538] INFO: eqt (12/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:12:40,565] INFO: eqt (3/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:12:40,593] INFO: eqt (6/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 06:12:40,620] INFO: eqt (9/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 06:12:40,648] INFO: eqt (12/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:12:40,675] INFO: eqt (3/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:12:40,702] INFO: eqt (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:12:40,733] INFO: eqt (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:12:40,762] INFO: eqt (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:12:40,789] INFO: eqt (3/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:12:40,817] INFO: eqt (6/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:12:40,846] INFO: eqt (9/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:12:40,873] INFO: eqt (12/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:12:40,888] WARNING: eqt (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 06:12:40,901] INFO: eqt (3/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:12:40,929] INFO: eqt (6/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 06:12:40,957] INFO: eqt (9/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:12:40,972] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 06:12:40,986] WARNING: eqt (12/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 06:12:40,986] WARNING: eqt (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 06:12:40,987] INFO: eqt (12/2024): Created new record with 17 non-zero financial metrics

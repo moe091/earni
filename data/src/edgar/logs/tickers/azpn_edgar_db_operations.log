@@ -1,0 +1,15 @@
+[2025-03-22 07:21:48,568] WARNING: azpn (3/2022): Found zero values for fields: Revenue, Gross Profit, Net Income, EPS Diluted, COGS, OperatingIncomeLoss, Total Assets, Total Liabilities, Stockholders Equity
+[2025-03-22 07:21:48,582] INFO: azpn (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 07:21:48,611] INFO: azpn (9/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:21:48,627] WARNING: azpn (12/2022): Found zero values for fields: Long Term Debt
+[2025-03-22 07:21:48,641] INFO: azpn (12/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:21:48,656] WARNING: azpn (3/2023): Found zero values for fields: Long Term Debt
+[2025-03-22 07:21:48,670] INFO: azpn (3/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:21:48,686] WARNING: azpn (6/2023): Found zero values for fields: Long Term Debt
+[2025-03-22 07:21:48,699] INFO: azpn (6/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:21:48,727] INFO: azpn (9/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:21:48,759] INFO: azpn (12/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:21:48,788] INFO: azpn (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:21:48,817] INFO: azpn (6/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:21:48,845] INFO: azpn (9/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:21:48,874] INFO: azpn (12/2024): Updated existing record with 15 non-zero financial metrics

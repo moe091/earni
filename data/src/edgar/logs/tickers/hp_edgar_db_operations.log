@@ -1,0 +1,82 @@
+[2025-03-22 16:21:43,597] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 16:21:43,611] WARNING: hp (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 16:21:43,612] INFO: hp (3/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:21:43,629] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 16:21:43,643] WARNING: hp (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 16:21:43,643] INFO: hp (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:21:43,659] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 16:21:43,673] WARNING: hp (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 16:21:43,673] INFO: hp (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:21:43,689] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 16:21:43,703] WARNING: hp (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 16:21:43,703] INFO: hp (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:21:43,720] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 16:21:43,734] WARNING: hp (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 16:21:43,735] INFO: hp (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:21:43,752] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 16:21:43,767] WARNING: hp (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 16:21:43,767] INFO: hp (6/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:21:43,784] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 16:21:43,798] WARNING: hp (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 16:21:43,799] INFO: hp (9/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:21:43,814] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 16:21:43,828] WARNING: hp (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 16:21:43,829] INFO: hp (12/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:21:43,845] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 16:21:43,860] WARNING: hp (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 16:21:43,860] INFO: hp (3/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:21:43,876] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 16:21:43,890] WARNING: hp (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 16:21:43,890] INFO: hp (6/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:21:43,920] INFO: hp (9/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:43,951] INFO: hp (12/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:43,982] INFO: hp (3/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,012] INFO: hp (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,043] INFO: hp (9/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,074] INFO: hp (12/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,104] INFO: hp (3/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,135] INFO: hp (6/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,166] INFO: hp (9/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,196] INFO: hp (12/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,226] INFO: hp (3/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,255] INFO: hp (6/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,285] INFO: hp (9/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,314] INFO: hp (12/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,344] INFO: hp (3/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,373] INFO: hp (6/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,404] INFO: hp (9/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,433] INFO: hp (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,463] INFO: hp (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,492] INFO: hp (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,522] INFO: hp (9/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,552] INFO: hp (12/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,582] INFO: hp (3/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,613] INFO: hp (6/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,644] INFO: hp (9/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,676] INFO: hp (12/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,705] INFO: hp (3/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,734] INFO: hp (6/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,764] INFO: hp (9/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,794] INFO: hp (12/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,823] INFO: hp (3/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,852] INFO: hp (6/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,883] INFO: hp (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,913] INFO: hp (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,944] INFO: hp (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:44,975] INFO: hp (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:45,010] INFO: hp (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:45,040] INFO: hp (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:45,069] INFO: hp (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:45,099] INFO: hp (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:45,130] INFO: hp (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:45,161] INFO: hp (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:45,191] INFO: hp (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:45,220] INFO: hp (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:45,250] INFO: hp (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:45,280] INFO: hp (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:45,309] INFO: hp (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:45,338] INFO: hp (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:45,368] INFO: hp (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:21:45,386] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 16:21:45,400] WARNING: hp (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 16:21:45,400] INFO: hp (12/2024): Created new record with 0 non-zero financial metrics

@@ -49,3 +49,17 @@ def close_conn():
         conn.commit()
         conn.close()
         conn = None
+
+
+def update_report(ticker, data):
+    """
+    This method updates the report for a given company in the database.
+
+    Args:
+        ticker (str): The ticker symbol of the company.
+        data (dict): The data to update the report with.
+    """
+
+    conn = get_conn()
+    with conn.cursor() as cur:
+        pass

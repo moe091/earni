@@ -1,0 +1,79 @@
+[2025-03-22 14:34:33,299] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 14:34:33,313] WARNING: krc (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 14:34:33,313] INFO: krc (6/2010): Created new record with 9 non-zero financial metrics
+[2025-03-22 14:34:33,332] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 14:34:33,347] WARNING: krc (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 14:34:33,347] INFO: krc (9/2010): Created new record with 9 non-zero financial metrics
+[2025-03-22 14:34:33,364] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 14:34:33,379] WARNING: krc (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 14:34:33,379] INFO: krc (12/2010): Created new record with 12 non-zero financial metrics
+[2025-03-22 14:34:33,395] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 14:34:33,410] WARNING: krc (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 14:34:33,411] INFO: krc (3/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 14:34:33,426] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 14:34:33,441] WARNING: krc (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 14:34:33,441] INFO: krc (6/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 14:34:33,457] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 14:34:33,472] WARNING: krc (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 14:34:33,473] INFO: krc (9/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 14:34:33,488] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 14:34:33,502] WARNING: krc (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 14:34:33,503] INFO: krc (12/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 14:34:33,519] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 14:34:33,536] WARNING: krc (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 14:34:33,536] INFO: krc (3/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 14:34:33,552] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 14:34:33,566] WARNING: krc (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 14:34:33,567] INFO: krc (6/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 14:34:33,597] INFO: krc (9/2012): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:34:33,627] INFO: krc (12/2012): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:34:33,659] INFO: krc (3/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:34:33,690] INFO: krc (6/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:34:33,721] INFO: krc (9/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:34:33,751] INFO: krc (12/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:34:33,781] INFO: krc (3/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:34:33,810] INFO: krc (6/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:34:33,840] INFO: krc (9/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:34:33,870] INFO: krc (12/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:34:33,901] INFO: krc (3/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:34:33,931] INFO: krc (6/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:34:33,961] INFO: krc (9/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:34:33,991] INFO: krc (12/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:34:34,022] INFO: krc (3/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 14:34:34,054] INFO: krc (6/2016): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:34:34,084] INFO: krc (9/2016): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:34:34,115] INFO: krc (12/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 14:34:34,146] INFO: krc (3/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 14:34:34,177] INFO: krc (6/2017): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:34:34,208] INFO: krc (9/2017): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:34:34,238] INFO: krc (12/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 14:34:34,270] INFO: krc (3/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 14:34:34,300] INFO: krc (6/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:34:34,330] INFO: krc (9/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:34:34,361] INFO: krc (12/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:34:34,391] INFO: krc (3/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:34:34,422] INFO: krc (6/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:34:34,455] INFO: krc (9/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:34:34,487] INFO: krc (12/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:34:34,517] INFO: krc (3/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:34:34,550] INFO: krc (6/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:34:34,580] INFO: krc (9/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:34:34,610] INFO: krc (12/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:34:34,641] INFO: krc (3/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:34:34,672] INFO: krc (6/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:34:34,703] INFO: krc (9/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:34:34,735] INFO: krc (12/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:34:34,766] INFO: krc (3/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:34:34,796] INFO: krc (6/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:34:34,827] INFO: krc (9/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:34:34,857] INFO: krc (12/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:34:34,887] INFO: krc (3/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:34:34,918] INFO: krc (6/2023): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:34:34,949] INFO: krc (9/2023): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:34:34,979] INFO: krc (12/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:34:35,010] INFO: krc (3/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:34:35,040] INFO: krc (6/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:34:35,071] INFO: krc (9/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:34:35,087] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 14:34:35,102] WARNING: krc (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 14:34:35,103] INFO: krc (12/2024): Created new record with 13 non-zero financial metrics

@@ -1,0 +1,120 @@
+[2025-03-21 21:56:36,398] INFO: Trying adjusted date: 3/2010 (original: 4/2010)
+[2025-03-21 21:56:36,410] WARNING: pfe (4/2010): No existing record found(4/2010, 2010-04-04) - creating new one
+[2025-03-21 21:56:36,410] INFO: pfe (4/2010): Created new record with 16 non-zero financial metrics
+[2025-03-21 21:56:36,424] INFO: Trying adjusted date: 6/2010 (original: 7/2010)
+[2025-03-21 21:56:36,435] WARNING: pfe (7/2010): No existing record found(7/2010, 2010-07-04) - creating new one
+[2025-03-21 21:56:36,436] INFO: pfe (7/2010): Created new record with 12 non-zero financial metrics
+[2025-03-21 21:56:36,448] INFO: Trying adjusted date: 9/2010 (original: 10/2010)
+[2025-03-21 21:56:36,460] WARNING: pfe (10/2010): No existing record found(10/2010, 2010-10-03) - creating new one
+[2025-03-21 21:56:36,461] INFO: pfe (10/2010): Created new record with 13 non-zero financial metrics
+[2025-03-21 21:56:36,473] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-21 21:56:36,484] WARNING: pfe (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-21 21:56:36,484] INFO: pfe (12/2010): Created new record with 18 non-zero financial metrics
+[2025-03-21 21:56:36,496] INFO: Trying adjusted date: 3/2011 (original: 4/2011)
+[2025-03-21 21:56:36,508] WARNING: pfe (4/2011): No existing record found(4/2011, 2011-04-03) - creating new one
+[2025-03-21 21:56:36,508] INFO: pfe (4/2011): Created new record with 18 non-zero financial metrics
+[2025-03-21 21:56:36,520] INFO: Trying adjusted date: 6/2011 (original: 7/2011)
+[2025-03-21 21:56:36,531] WARNING: pfe (7/2011): No existing record found(7/2011, 2011-07-03) - creating new one
+[2025-03-21 21:56:36,532] INFO: pfe (7/2011): Created new record with 13 non-zero financial metrics
+[2025-03-21 21:56:36,544] INFO: Trying adjusted date: 9/2011 (original: 10/2011)
+[2025-03-21 21:56:36,555] WARNING: pfe (10/2011): No existing record found(10/2011, 2011-10-02) - creating new one
+[2025-03-21 21:56:36,555] INFO: pfe (10/2011): Created new record with 13 non-zero financial metrics
+[2025-03-21 21:56:36,567] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-21 21:56:36,579] WARNING: pfe (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-21 21:56:36,579] INFO: pfe (12/2011): Created new record with 18 non-zero financial metrics
+[2025-03-21 21:56:36,592] INFO: Trying adjusted date: 3/2012 (original: 4/2012)
+[2025-03-21 21:56:36,603] WARNING: pfe (4/2012): No existing record found(4/2012, 2012-04-01) - creating new one
+[2025-03-21 21:56:36,603] INFO: pfe (4/2012): Created new record with 18 non-zero financial metrics
+[2025-03-21 21:56:36,615] INFO: Trying adjusted date: 6/2012 (original: 7/2012)
+[2025-03-21 21:56:36,626] WARNING: pfe (7/2012): No existing record found(7/2012, 2012-07-01) - creating new one
+[2025-03-21 21:56:36,627] INFO: pfe (7/2012): Created new record with 13 non-zero financial metrics
+[2025-03-21 21:56:36,651] INFO: pfe (9/2012): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:36,675] INFO: pfe (12/2012): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:56:36,699] INFO: pfe (3/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:56:36,723] INFO: pfe (6/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:36,747] INFO: pfe (9/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:36,770] INFO: pfe (12/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:56:36,793] INFO: pfe (3/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:56:36,816] INFO: pfe (6/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 21:56:36,839] INFO: pfe (9/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:36,862] INFO: pfe (12/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:56:36,886] INFO: pfe (3/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:56:36,910] INFO: pfe (6/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:56:36,933] INFO: pfe (9/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:36,956] INFO: pfe (12/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:56:36,969] INFO: Trying adjusted date: 3/2016 (original: 4/2016)
+[2025-03-21 21:56:36,980] INFO: Found existing row with adjusted date: 3/2016
+[2025-03-21 21:56:36,991] INFO: pfe (3/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:56:37,005] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-21 21:56:37,016] INFO: Found existing row with adjusted date: 6/2016
+[2025-03-21 21:56:37,028] INFO: pfe (6/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:37,040] INFO: Trying adjusted date: 9/2016 (original: 10/2016)
+[2025-03-21 21:56:37,052] INFO: Found existing row with adjusted date: 9/2016
+[2025-03-21 21:56:37,064] INFO: pfe (9/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:37,087] INFO: pfe (12/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:56:37,100] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-21 21:56:37,111] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-21 21:56:37,123] INFO: pfe (3/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:56:37,136] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-21 21:56:37,147] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-21 21:56:37,159] INFO: pfe (6/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:37,173] INFO: Trying adjusted date: 9/2017 (original: 10/2017)
+[2025-03-21 21:56:37,184] INFO: Found existing row with adjusted date: 9/2017
+[2025-03-21 21:56:37,196] INFO: pfe (9/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:37,219] INFO: pfe (12/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:56:37,231] INFO: Trying adjusted date: 3/2018 (original: 4/2018)
+[2025-03-21 21:56:37,242] INFO: Found existing row with adjusted date: 3/2018
+[2025-03-21 21:56:37,254] INFO: pfe (3/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:56:37,266] INFO: Trying adjusted date: 6/2018 (original: 7/2018)
+[2025-03-21 21:56:37,278] INFO: Found existing row with adjusted date: 6/2018
+[2025-03-21 21:56:37,289] INFO: pfe (6/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:37,312] INFO: pfe (9/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:37,335] INFO: pfe (12/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:56:37,359] INFO: pfe (3/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:56:37,382] INFO: pfe (6/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:37,405] INFO: pfe (9/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:37,428] INFO: pfe (12/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:56:37,441] WARNING: pfe (3/2020): Found zero values for fields: Share Repurchases
+[2025-03-21 21:56:37,452] INFO: pfe (3/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:56:37,475] INFO: pfe (6/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:37,499] INFO: pfe (9/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:37,511] WARNING: pfe (12/2020): Found zero values for fields: Share Repurchases
+[2025-03-21 21:56:37,523] INFO: pfe (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:56:37,535] INFO: Trying adjusted date: 3/2021 (original: 4/2021)
+[2025-03-21 21:56:37,547] INFO: Found existing row with adjusted date: 3/2021
+[2025-03-21 21:56:37,558] INFO: pfe (3/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:56:37,570] INFO: Trying adjusted date: 6/2021 (original: 7/2021)
+[2025-03-21 21:56:37,582] INFO: Found existing row with adjusted date: 6/2021
+[2025-03-21 21:56:37,593] INFO: pfe (6/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:37,605] INFO: Trying adjusted date: 9/2021 (original: 10/2021)
+[2025-03-21 21:56:37,617] INFO: Found existing row with adjusted date: 9/2021
+[2025-03-21 21:56:37,628] INFO: pfe (9/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:37,640] WARNING: pfe (12/2021): Found zero values for fields: Share Repurchases
+[2025-03-21 21:56:37,651] INFO: pfe (12/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:56:37,663] INFO: Trying adjusted date: 3/2022 (original: 4/2022)
+[2025-03-21 21:56:37,675] INFO: Found existing row with adjusted date: 3/2022
+[2025-03-21 21:56:37,686] INFO: pfe (3/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:56:37,698] INFO: Trying adjusted date: 6/2022 (original: 7/2022)
+[2025-03-21 21:56:37,710] INFO: Found existing row with adjusted date: 6/2022
+[2025-03-21 21:56:37,721] INFO: pfe (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:37,733] INFO: Trying adjusted date: 9/2022 (original: 10/2022)
+[2025-03-21 21:56:37,744] INFO: Found existing row with adjusted date: 9/2022
+[2025-03-21 21:56:37,755] INFO: pfe (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:37,778] INFO: pfe (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:56:37,790] INFO: Trying adjusted date: 3/2023 (original: 4/2023)
+[2025-03-21 21:56:37,801] INFO: Found existing row with adjusted date: 3/2023
+[2025-03-21 21:56:37,801] WARNING: pfe (3/2023): Found zero values for fields: Share Repurchases
+[2025-03-21 21:56:37,813] INFO: pfe (3/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:56:37,825] INFO: Trying adjusted date: 6/2023 (original: 7/2023)
+[2025-03-21 21:56:37,836] INFO: Found existing row with adjusted date: 6/2023
+[2025-03-21 21:56:37,847] INFO: pfe (6/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:37,859] INFO: Trying adjusted date: 9/2023 (original: 10/2023)
+[2025-03-21 21:56:37,871] INFO: Found existing row with adjusted date: 9/2023
+[2025-03-21 21:56:37,882] INFO: pfe (9/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:37,894] WARNING: pfe (12/2023): Found zero values for fields: Share Repurchases
+[2025-03-21 21:56:37,906] INFO: pfe (12/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:56:37,930] INFO: pfe (3/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:56:37,953] INFO: pfe (6/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:37,978] INFO: pfe (9/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:56:37,990] WARNING: pfe (12/2024): Found zero values for fields: Share Repurchases
+[2025-03-21 21:56:38,001] INFO: pfe (12/2024): Updated existing record with 17 non-zero financial metrics

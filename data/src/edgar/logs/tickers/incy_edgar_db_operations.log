@@ -1,0 +1,114 @@
+[2025-03-22 07:14:59,377] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 07:14:59,390] WARNING: incy (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 07:14:59,391] INFO: incy (3/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 07:14:59,407] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 07:14:59,421] WARNING: incy (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 07:14:59,421] INFO: incy (6/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 07:14:59,438] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 07:14:59,451] WARNING: incy (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 07:14:59,452] INFO: incy (9/2011): Created new record with 10 non-zero financial metrics
+[2025-03-22 07:14:59,467] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 07:14:59,481] WARNING: incy (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 07:14:59,482] INFO: incy (12/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 07:14:59,497] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 07:14:59,510] WARNING: incy (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 07:14:59,511] INFO: incy (3/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 07:14:59,526] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 07:14:59,540] WARNING: incy (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 07:14:59,541] INFO: incy (6/2012): Created new record with 13 non-zero financial metrics
+[2025-03-22 07:14:59,569] INFO: incy (9/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:14:59,585] INFO: Trying adjusted date: 1/2013 (original: 12/2012)
+[2025-03-22 07:14:59,598] WARNING: incy (12/2012): No existing record found(12/2012, 2012-12-31) - creating new one
+[2025-03-22 07:14:59,599] INFO: incy (12/2012): Created new record with 13 non-zero financial metrics
+[2025-03-22 07:14:59,627] INFO: incy (3/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:14:59,655] INFO: incy (6/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 07:14:59,683] INFO: incy (9/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:14:59,698] WARNING: incy (12/2013): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:14:59,710] INFO: incy (12/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 07:14:59,726] WARNING: incy (3/2014): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:14:59,740] INFO: incy (3/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:14:59,755] WARNING: incy (6/2014): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:14:59,768] INFO: incy (6/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:14:59,783] INFO: Trying adjusted date: 10/2014 (original: 9/2014)
+[2025-03-22 07:14:59,796] WARNING: incy (9/2014): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:14:59,796] WARNING: incy (9/2014): No existing record found(9/2014, 2014-09-30) - creating new one
+[2025-03-22 07:14:59,796] INFO: incy (9/2014): Created new record with 13 non-zero financial metrics
+[2025-03-22 07:14:59,811] WARNING: incy (12/2014): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:14:59,824] INFO: incy (12/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 07:14:59,839] WARNING: incy (3/2015): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:14:59,855] INFO: incy (3/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:14:59,870] WARNING: incy (6/2015): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:14:59,884] INFO: incy (6/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 07:14:59,898] WARNING: incy (9/2015): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:14:59,911] INFO: incy (9/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 07:14:59,926] WARNING: incy (12/2015): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:14:59,939] INFO: incy (12/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:14:59,954] WARNING: incy (3/2016): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:14:59,967] INFO: incy (3/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 07:14:59,981] INFO: Trying adjusted date: 7/2016 (original: 6/2016)
+[2025-03-22 07:14:59,994] WARNING: incy (6/2016): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:14:59,994] WARNING: incy (6/2016): No existing record found(6/2016, 2016-06-30) - creating new one
+[2025-03-22 07:14:59,995] INFO: incy (6/2016): Created new record with 14 non-zero financial metrics
+[2025-03-22 07:15:00,010] INFO: Trying adjusted date: 10/2016 (original: 9/2016)
+[2025-03-22 07:15:00,024] WARNING: incy (9/2016): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,024] WARNING: incy (9/2016): No existing record found(9/2016, 2016-09-30) - creating new one
+[2025-03-22 07:15:00,024] INFO: incy (9/2016): Created new record with 14 non-zero financial metrics
+[2025-03-22 07:15:00,041] WARNING: incy (12/2016): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,055] INFO: incy (12/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:15:00,069] WARNING: incy (3/2017): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,082] INFO: incy (3/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:15:00,096] WARNING: incy (6/2017): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,110] INFO: incy (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:15:00,124] WARNING: incy (9/2017): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,137] INFO: incy (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:15:00,152] WARNING: incy (12/2017): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,166] INFO: incy (12/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:15:00,180] WARNING: incy (3/2018): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,192] INFO: incy (3/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 07:15:00,207] WARNING: incy (6/2018): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,220] INFO: incy (6/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:15:00,236] WARNING: incy (9/2018): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,250] INFO: incy (9/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:15:00,277] INFO: incy (12/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:15:00,306] INFO: incy (3/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:15:00,334] INFO: incy (6/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:15:00,361] INFO: incy (9/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:15:00,389] INFO: incy (12/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:15:00,404] INFO: Trying adjusted date: 4/2020 (original: 3/2020)
+[2025-03-22 07:15:00,418] WARNING: incy (3/2020): No existing record found(3/2020, 2020-03-31) - creating new one
+[2025-03-22 07:15:00,418] INFO: incy (3/2020): Created new record with 18 non-zero financial metrics
+[2025-03-22 07:15:00,446] INFO: incy (6/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:15:00,474] INFO: incy (9/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:15:00,491] WARNING: incy (12/2020): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,504] INFO: incy (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:15:00,519] WARNING: incy (3/2021): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,532] INFO: incy (3/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:15:00,548] WARNING: incy (6/2021): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,561] INFO: incy (6/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:15:00,576] WARNING: incy (9/2021): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,590] INFO: incy (9/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:15:00,606] WARNING: incy (12/2021): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,619] INFO: incy (12/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:15:00,634] WARNING: incy (3/2022): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,647] INFO: incy (3/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:15:00,663] WARNING: incy (6/2022): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,677] INFO: incy (6/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:15:00,692] WARNING: incy (9/2022): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,706] INFO: incy (9/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:15:00,738] INFO: incy (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:15:00,753] WARNING: incy (3/2023): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,767] INFO: incy (3/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:15:00,781] WARNING: incy (6/2023): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,795] INFO: incy (6/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:15:00,810] WARNING: incy (9/2023): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,823] INFO: incy (9/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:15:00,853] INFO: incy (12/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:15:00,868] WARNING: incy (3/2024): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,881] INFO: incy (3/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:15:00,895] WARNING: incy (6/2024): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,908] INFO: incy (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:15:00,923] WARNING: incy (9/2024): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 07:15:00,936] INFO: incy (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:15:00,950] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 07:15:00,963] WARNING: incy (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 07:15:00,964] INFO: incy (12/2024): Created new record with 18 non-zero financial metrics

@@ -1,0 +1,115 @@
+[2025-03-22 07:01:10,894] INFO: Trying adjusted date: 9/2010 (original: 10/2010)
+[2025-03-22 07:01:10,907] WARNING: zbra (10/2010): No existing record found(10/2010, 2010-10-02) - creating new one
+[2025-03-22 07:01:10,908] INFO: zbra (10/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 07:01:10,924] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 07:01:10,938] WARNING: zbra (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 07:01:10,938] INFO: zbra (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 07:01:10,954] INFO: Trying adjusted date: 3/2011 (original: 4/2011)
+[2025-03-22 07:01:10,967] WARNING: zbra (4/2011): No existing record found(4/2011, 2011-04-02) - creating new one
+[2025-03-22 07:01:10,967] INFO: zbra (4/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 07:01:10,983] INFO: Trying adjusted date: 6/2011 (original: 7/2011)
+[2025-03-22 07:01:10,996] WARNING: zbra (7/2011): No existing record found(7/2011, 2011-07-02) - creating new one
+[2025-03-22 07:01:10,997] INFO: zbra (7/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 07:01:11,011] INFO: Trying adjusted date: 9/2011 (original: 10/2011)
+[2025-03-22 07:01:11,025] WARNING: zbra (10/2011): No existing record found(10/2011, 2011-10-01) - creating new one
+[2025-03-22 07:01:11,025] INFO: zbra (10/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 07:01:11,041] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 07:01:11,054] WARNING: zbra (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 07:01:11,054] INFO: zbra (12/2011): Created new record with 22 non-zero financial metrics
+[2025-03-22 07:01:11,070] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 07:01:11,083] WARNING: zbra (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 07:01:11,083] INFO: zbra (3/2012): Created new record with 22 non-zero financial metrics
+[2025-03-22 07:01:11,098] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 07:01:11,112] WARNING: zbra (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 07:01:11,112] INFO: zbra (6/2012): Created new record with 17 non-zero financial metrics
+[2025-03-22 07:01:11,140] INFO: zbra (9/2012): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 07:01:11,169] INFO: zbra (12/2012): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 07:01:11,196] INFO: zbra (3/2013): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 07:01:11,223] INFO: zbra (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 07:01:11,251] INFO: zbra (9/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 07:01:11,278] INFO: zbra (12/2013): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 07:01:11,293] WARNING: zbra (3/2014): Found zero values for fields: Share Repurchases
+[2025-03-22 07:01:11,307] INFO: zbra (3/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:01:11,335] INFO: zbra (6/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 07:01:11,363] INFO: zbra (9/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 07:01:11,378] WARNING: zbra (12/2014): Found zero values for fields: Share Repurchases
+[2025-03-22 07:01:11,391] INFO: zbra (12/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:01:11,406] INFO: Trying adjusted date: 3/2015 (original: 4/2015)
+[2025-03-22 07:01:11,419] INFO: Found existing row with adjusted date: 3/2015
+[2025-03-22 07:01:11,432] INFO: zbra (3/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:01:11,447] INFO: Trying adjusted date: 6/2015 (original: 7/2015)
+[2025-03-22 07:01:11,460] INFO: Found existing row with adjusted date: 6/2015
+[2025-03-22 07:01:11,474] INFO: zbra (6/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:01:11,488] INFO: Trying adjusted date: 9/2015 (original: 10/2015)
+[2025-03-22 07:01:11,501] INFO: Found existing row with adjusted date: 9/2015
+[2025-03-22 07:01:11,514] INFO: zbra (9/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:01:11,529] WARNING: zbra (12/2015): Found zero values for fields: Share Repurchases
+[2025-03-22 07:01:11,542] INFO: zbra (12/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:01:11,555] INFO: Trying adjusted date: 3/2016 (original: 4/2016)
+[2025-03-22 07:01:11,568] INFO: Found existing row with adjusted date: 3/2016
+[2025-03-22 07:01:11,568] WARNING: zbra (3/2016): Found zero values for fields: OperatingIncomeLoss
+[2025-03-22 07:01:11,581] INFO: zbra (3/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:01:11,595] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-22 07:01:11,608] INFO: Found existing row with adjusted date: 6/2016
+[2025-03-22 07:01:11,621] INFO: zbra (6/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:01:11,635] INFO: Trying adjusted date: 9/2016 (original: 10/2016)
+[2025-03-22 07:01:11,648] INFO: Found existing row with adjusted date: 9/2016
+[2025-03-22 07:01:11,661] INFO: zbra (9/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:01:11,688] INFO: zbra (12/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:01:11,703] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-22 07:01:11,716] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-22 07:01:11,728] INFO: zbra (3/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:01:11,743] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-22 07:01:11,757] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-22 07:01:11,770] INFO: zbra (6/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:01:11,797] INFO: zbra (9/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 07:01:11,824] INFO: zbra (12/2017): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 07:01:11,852] INFO: zbra (3/2018): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 07:01:11,879] INFO: zbra (6/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:01:11,907] INFO: zbra (9/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:01:11,935] INFO: zbra (12/2018): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 07:01:11,963] INFO: zbra (3/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:01:11,990] INFO: zbra (6/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:01:12,017] INFO: zbra (9/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:01:12,046] INFO: zbra (12/2019): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 07:01:12,074] INFO: zbra (3/2020): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 07:01:12,101] INFO: zbra (6/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:01:12,128] INFO: zbra (9/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:01:12,159] INFO: zbra (12/2020): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 07:01:12,173] INFO: Trying adjusted date: 3/2021 (original: 4/2021)
+[2025-03-22 07:01:12,186] INFO: Found existing row with adjusted date: 3/2021
+[2025-03-22 07:01:12,186] WARNING: zbra (3/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 07:01:12,200] INFO: zbra (3/2021): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 07:01:12,215] INFO: Trying adjusted date: 6/2021 (original: 7/2021)
+[2025-03-22 07:01:12,228] INFO: Found existing row with adjusted date: 6/2021
+[2025-03-22 07:01:12,241] INFO: zbra (6/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:01:12,255] INFO: Trying adjusted date: 9/2021 (original: 10/2021)
+[2025-03-22 07:01:12,267] INFO: Found existing row with adjusted date: 9/2021
+[2025-03-22 07:01:12,280] INFO: zbra (9/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:01:12,307] INFO: zbra (12/2021): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 07:01:12,322] INFO: Trying adjusted date: 3/2022 (original: 4/2022)
+[2025-03-22 07:01:12,335] INFO: Found existing row with adjusted date: 3/2022
+[2025-03-22 07:01:12,348] INFO: zbra (3/2022): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 07:01:12,362] INFO: Trying adjusted date: 6/2022 (original: 7/2022)
+[2025-03-22 07:01:12,376] INFO: Found existing row with adjusted date: 6/2022
+[2025-03-22 07:01:12,389] INFO: zbra (6/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:01:12,403] INFO: Trying adjusted date: 9/2022 (original: 10/2022)
+[2025-03-22 07:01:12,416] INFO: Found existing row with adjusted date: 9/2022
+[2025-03-22 07:01:12,428] INFO: zbra (9/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:01:12,456] INFO: zbra (12/2022): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 07:01:12,471] INFO: Trying adjusted date: 3/2023 (original: 4/2023)
+[2025-03-22 07:01:12,484] INFO: Found existing row with adjusted date: 3/2023
+[2025-03-22 07:01:12,497] INFO: zbra (3/2023): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 07:01:12,512] INFO: Trying adjusted date: 6/2023 (original: 7/2023)
+[2025-03-22 07:01:12,525] INFO: Found existing row with adjusted date: 6/2023
+[2025-03-22 07:01:12,538] INFO: zbra (6/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:01:12,564] INFO: zbra (9/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:01:12,592] INFO: zbra (12/2023): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 07:01:12,607] WARNING: zbra (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 07:01:12,620] INFO: zbra (3/2024): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 07:01:12,635] WARNING: zbra (6/2024): Found zero values for fields: Deposits
+[2025-03-22 07:01:12,647] INFO: zbra (6/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:01:12,675] INFO: zbra (9/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:01:12,690] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 07:01:12,704] WARNING: zbra (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 07:01:12,704] INFO: zbra (12/2024): Created new record with 23 non-zero financial metrics

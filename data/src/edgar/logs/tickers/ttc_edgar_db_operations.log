@@ -1,0 +1,128 @@
+[2025-03-22 10:26:27,374] INFO: Trying adjusted date: 8/2010 (original: 7/2010)
+[2025-03-22 10:26:27,388] WARNING: ttc (7/2010): No existing record found(7/2010, 2010-07-30) - creating new one
+[2025-03-22 10:26:27,388] INFO: ttc (7/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 10:26:27,405] INFO: Trying adjusted date: 11/2010 (original: 10/2010)
+[2025-03-22 10:26:27,419] WARNING: ttc (10/2010): No existing record found(10/2010, 2010-10-31) - creating new one
+[2025-03-22 10:26:27,419] INFO: ttc (10/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 10:26:27,435] INFO: Trying adjusted date: 2/2011 (original: 1/2011)
+[2025-03-22 10:26:27,449] WARNING: ttc (1/2011): No existing record found(1/2011, 2011-01-28) - creating new one
+[2025-03-22 10:26:27,450] INFO: ttc (1/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 10:26:27,466] INFO: Trying adjusted date: 5/2011 (original: 4/2011)
+[2025-03-22 10:26:27,480] WARNING: ttc (4/2011): No existing record found(4/2011, 2011-04-29) - creating new one
+[2025-03-22 10:26:27,481] INFO: ttc (4/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 10:26:27,497] INFO: Trying adjusted date: 8/2011 (original: 7/2011)
+[2025-03-22 10:26:27,511] WARNING: ttc (7/2011): No existing record found(7/2011, 2011-07-29) - creating new one
+[2025-03-22 10:26:27,511] INFO: ttc (7/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 10:26:27,527] INFO: Trying adjusted date: 11/2011 (original: 10/2011)
+[2025-03-22 10:26:27,541] WARNING: ttc (10/2011): No existing record found(10/2011, 2011-10-31) - creating new one
+[2025-03-22 10:26:27,541] INFO: ttc (10/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 10:26:27,557] INFO: Trying adjusted date: 1/2012 (original: 2/2012)
+[2025-03-22 10:26:27,570] WARNING: ttc (2/2012): No existing record found(2/2012, 2012-02-03) - creating new one
+[2025-03-22 10:26:27,571] INFO: ttc (2/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 10:26:27,588] INFO: Trying adjusted date: 4/2012 (original: 5/2012)
+[2025-03-22 10:26:27,603] WARNING: ttc (5/2012): No existing record found(5/2012, 2012-05-04) - creating new one
+[2025-03-22 10:26:27,603] INFO: ttc (5/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:26:27,619] INFO: Trying adjusted date: 7/2012 (original: 8/2012)
+[2025-03-22 10:26:27,632] WARNING: ttc (8/2012): No existing record found(8/2012, 2012-08-03) - creating new one
+[2025-03-22 10:26:27,632] INFO: ttc (8/2012): Created new record with 13 non-zero financial metrics
+[2025-03-22 10:26:27,648] INFO: Trying adjusted date: 11/2012 (original: 10/2012)
+[2025-03-22 10:26:27,662] WARNING: ttc (10/2012): No existing record found(10/2012, 2012-10-31) - creating new one
+[2025-03-22 10:26:27,663] INFO: ttc (10/2012): Created new record with 17 non-zero financial metrics
+[2025-03-22 10:26:27,678] INFO: Trying adjusted date: 1/2013 (original: 2/2013)
+[2025-03-22 10:26:27,691] INFO: Found existing row with adjusted date: 1/2013
+[2025-03-22 10:26:27,705] INFO: ttc (1/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:26:27,721] INFO: Trying adjusted date: 4/2013 (original: 5/2013)
+[2025-03-22 10:26:27,734] INFO: Found existing row with adjusted date: 4/2013
+[2025-03-22 10:26:27,748] INFO: ttc (4/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:26:27,763] INFO: Trying adjusted date: 7/2013 (original: 8/2013)
+[2025-03-22 10:26:27,777] INFO: Found existing row with adjusted date: 7/2013
+[2025-03-22 10:26:27,790] INFO: ttc (7/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 10:26:27,819] INFO: ttc (10/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:26:27,847] INFO: ttc (1/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:26:27,863] INFO: Trying adjusted date: 4/2014 (original: 5/2014)
+[2025-03-22 10:26:27,877] INFO: Found existing row with adjusted date: 4/2014
+[2025-03-22 10:26:27,890] INFO: ttc (4/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:26:27,905] INFO: Trying adjusted date: 7/2014 (original: 8/2014)
+[2025-03-22 10:26:27,918] INFO: Found existing row with adjusted date: 7/2014
+[2025-03-22 10:26:27,931] INFO: ttc (7/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:26:27,960] INFO: ttc (10/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:26:27,987] INFO: ttc (1/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:26:28,003] INFO: Trying adjusted date: 4/2015 (original: 5/2015)
+[2025-03-22 10:26:28,015] INFO: Found existing row with adjusted date: 4/2015
+[2025-03-22 10:26:28,030] INFO: ttc (4/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:26:28,058] INFO: ttc (7/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:26:28,086] INFO: ttc (10/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:26:28,116] INFO: ttc (1/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:26:28,146] INFO: ttc (4/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:26:28,175] INFO: ttc (7/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:26:28,203] INFO: ttc (10/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:26:28,220] INFO: Trying adjusted date: 1/2017 (original: 2/2017)
+[2025-03-22 10:26:28,235] INFO: Found existing row with adjusted date: 1/2017
+[2025-03-22 10:26:28,249] INFO: ttc (1/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:26:28,264] INFO: Trying adjusted date: 4/2017 (original: 5/2017)
+[2025-03-22 10:26:28,278] INFO: Found existing row with adjusted date: 4/2017
+[2025-03-22 10:26:28,290] INFO: ttc (4/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:26:28,305] INFO: Trying adjusted date: 7/2017 (original: 8/2017)
+[2025-03-22 10:26:28,318] INFO: Found existing row with adjusted date: 7/2017
+[2025-03-22 10:26:28,332] INFO: ttc (7/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:26:28,360] INFO: ttc (10/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:26:28,374] INFO: Trying adjusted date: 1/2018 (original: 2/2018)
+[2025-03-22 10:26:28,388] INFO: Found existing row with adjusted date: 1/2018
+[2025-03-22 10:26:28,401] INFO: ttc (1/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:26:28,416] INFO: Trying adjusted date: 4/2018 (original: 5/2018)
+[2025-03-22 10:26:28,429] INFO: Found existing row with adjusted date: 4/2018
+[2025-03-22 10:26:28,442] INFO: ttc (4/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:26:28,458] INFO: Trying adjusted date: 7/2018 (original: 8/2018)
+[2025-03-22 10:26:28,471] INFO: Found existing row with adjusted date: 7/2018
+[2025-03-22 10:26:28,484] INFO: ttc (7/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:26:28,513] INFO: ttc (10/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:26:28,529] INFO: Trying adjusted date: 1/2019 (original: 2/2019)
+[2025-03-22 10:26:28,542] INFO: Found existing row with adjusted date: 1/2019
+[2025-03-22 10:26:28,556] INFO: ttc (1/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:26:28,571] INFO: Trying adjusted date: 4/2019 (original: 5/2019)
+[2025-03-22 10:26:28,585] INFO: Found existing row with adjusted date: 4/2019
+[2025-03-22 10:26:28,599] INFO: ttc (4/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:26:28,614] INFO: Trying adjusted date: 7/2019 (original: 8/2019)
+[2025-03-22 10:26:28,627] INFO: Found existing row with adjusted date: 7/2019
+[2025-03-22 10:26:28,640] INFO: ttc (7/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:26:28,669] INFO: ttc (10/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:26:28,684] WARNING: ttc (1/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 10:26:28,698] INFO: ttc (1/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:26:28,714] INFO: Trying adjusted date: 4/2020 (original: 5/2020)
+[2025-03-22 10:26:28,727] INFO: Found existing row with adjusted date: 4/2020
+[2025-03-22 10:26:28,740] INFO: ttc (4/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:26:28,770] INFO: ttc (7/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:26:28,785] WARNING: ttc (10/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 10:26:28,799] INFO: ttc (10/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:26:28,828] INFO: ttc (1/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:26:28,856] INFO: ttc (4/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:26:28,886] INFO: ttc (7/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:26:28,916] INFO: ttc (10/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 10:26:28,946] INFO: ttc (1/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:26:28,975] INFO: ttc (4/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:26:29,005] INFO: ttc (7/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:26:29,035] INFO: ttc (10/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 10:26:29,049] INFO: Trying adjusted date: 1/2023 (original: 2/2023)
+[2025-03-22 10:26:29,063] INFO: Found existing row with adjusted date: 1/2023
+[2025-03-22 10:26:29,063] WARNING: ttc (1/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 10:26:29,077] INFO: ttc (1/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:26:29,092] INFO: Trying adjusted date: 4/2023 (original: 5/2023)
+[2025-03-22 10:26:29,105] INFO: Found existing row with adjusted date: 4/2023
+[2025-03-22 10:26:29,118] INFO: ttc (4/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:26:29,136] INFO: Trying adjusted date: 7/2023 (original: 8/2023)
+[2025-03-22 10:26:29,150] INFO: Found existing row with adjusted date: 7/2023
+[2025-03-22 10:26:29,164] INFO: ttc (7/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:26:29,192] INFO: ttc (10/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:26:29,207] INFO: Trying adjusted date: 1/2024 (original: 2/2024)
+[2025-03-22 10:26:29,220] INFO: Found existing row with adjusted date: 1/2024
+[2025-03-22 10:26:29,234] INFO: ttc (1/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:26:29,249] INFO: Trying adjusted date: 4/2024 (original: 5/2024)
+[2025-03-22 10:26:29,262] INFO: Found existing row with adjusted date: 4/2024
+[2025-03-22 10:26:29,276] INFO: ttc (4/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:26:29,291] INFO: Trying adjusted date: 7/2024 (original: 8/2024)
+[2025-03-22 10:26:29,305] INFO: Found existing row with adjusted date: 7/2024
+[2025-03-22 10:26:29,318] INFO: ttc (7/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:26:29,346] INFO: ttc (10/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:26:29,361] INFO: Trying adjusted date: 2/2025 (original: 1/2025)
+[2025-03-22 10:26:29,374] WARNING: ttc (1/2025): No existing record found(1/2025, 2025-01-31) - creating new one
+[2025-03-22 10:26:29,375] INFO: ttc (1/2025): Created new record with 18 non-zero financial metrics

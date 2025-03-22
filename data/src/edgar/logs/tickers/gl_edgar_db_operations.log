@@ -1,0 +1,135 @@
+[2025-03-22 09:43:03,765] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 09:43:03,777] WARNING: gl (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 09:43:03,778] INFO: gl (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 09:43:03,794] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 09:43:03,808] WARNING: gl (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 09:43:03,808] INFO: gl (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 09:43:03,824] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 09:43:03,837] WARNING: gl (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 09:43:03,837] INFO: gl (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 09:43:03,851] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 09:43:03,864] WARNING: gl (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 09:43:03,865] INFO: gl (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 09:43:03,880] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 09:43:03,894] WARNING: gl (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 09:43:03,895] INFO: gl (6/2011): Created new record with 9 non-zero financial metrics
+[2025-03-22 09:43:03,911] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 09:43:03,924] WARNING: gl (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 09:43:03,924] INFO: gl (9/2011): Created new record with 9 non-zero financial metrics
+[2025-03-22 09:43:03,939] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 09:43:03,951] WARNING: gl (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 09:43:03,952] INFO: gl (12/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 09:43:03,966] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 09:43:03,980] WARNING: gl (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 09:43:03,980] INFO: gl (3/2012): Created new record with 17 non-zero financial metrics
+[2025-03-22 09:43:03,995] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 09:43:04,008] WARNING: gl (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 09:43:04,008] INFO: gl (6/2012): Created new record with 9 non-zero financial metrics
+[2025-03-22 09:43:04,024] INFO: Trying adjusted date: 10/2012 (original: 9/2012)
+[2025-03-22 09:43:04,036] WARNING: gl (9/2012): No existing record found(9/2012, 2012-09-30) - creating new one
+[2025-03-22 09:43:04,036] INFO: gl (9/2012): Created new record with 9 non-zero financial metrics
+[2025-03-22 09:43:04,052] INFO: Trying adjusted date: 1/2013 (original: 12/2012)
+[2025-03-22 09:43:04,065] WARNING: gl (12/2012): No existing record found(12/2012, 2012-12-31) - creating new one
+[2025-03-22 09:43:04,065] INFO: gl (12/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 09:43:04,081] INFO: Trying adjusted date: 4/2013 (original: 3/2013)
+[2025-03-22 09:43:04,094] WARNING: gl (3/2013): No existing record found(3/2013, 2013-03-31) - creating new one
+[2025-03-22 09:43:04,095] INFO: gl (3/2013): Created new record with 17 non-zero financial metrics
+[2025-03-22 09:43:04,110] INFO: Trying adjusted date: 7/2013 (original: 6/2013)
+[2025-03-22 09:43:04,123] WARNING: gl (6/2013): No existing record found(6/2013, 2013-06-30) - creating new one
+[2025-03-22 09:43:04,123] INFO: gl (6/2013): Created new record with 0 non-zero financial metrics
+[2025-03-22 09:43:04,138] INFO: Trying adjusted date: 10/2013 (original: 9/2013)
+[2025-03-22 09:43:04,151] WARNING: gl (9/2013): No existing record found(9/2013, 2013-09-30) - creating new one
+[2025-03-22 09:43:04,152] INFO: gl (9/2013): Created new record with 9 non-zero financial metrics
+[2025-03-22 09:43:04,167] INFO: Trying adjusted date: 1/2014 (original: 12/2013)
+[2025-03-22 09:43:04,178] WARNING: gl (12/2013): No existing record found(12/2013, 2013-12-31) - creating new one
+[2025-03-22 09:43:04,179] INFO: gl (12/2013): Created new record with 17 non-zero financial metrics
+[2025-03-22 09:43:04,195] INFO: Trying adjusted date: 4/2014 (original: 3/2014)
+[2025-03-22 09:43:04,208] WARNING: gl (3/2014): No existing record found(3/2014, 2014-03-31) - creating new one
+[2025-03-22 09:43:04,208] INFO: gl (3/2014): Created new record with 14 non-zero financial metrics
+[2025-03-22 09:43:04,223] INFO: Trying adjusted date: 7/2014 (original: 6/2014)
+[2025-03-22 09:43:04,235] WARNING: gl (6/2014): No existing record found(6/2014, 2014-06-30) - creating new one
+[2025-03-22 09:43:04,236] INFO: gl (6/2014): Created new record with 9 non-zero financial metrics
+[2025-03-22 09:43:04,252] INFO: Trying adjusted date: 10/2014 (original: 9/2014)
+[2025-03-22 09:43:04,266] WARNING: gl (9/2014): No existing record found(9/2014, 2014-09-30) - creating new one
+[2025-03-22 09:43:04,266] INFO: gl (9/2014): Created new record with 9 non-zero financial metrics
+[2025-03-22 09:43:04,281] INFO: Trying adjusted date: 1/2015 (original: 12/2014)
+[2025-03-22 09:43:04,294] WARNING: gl (12/2014): No existing record found(12/2014, 2014-12-31) - creating new one
+[2025-03-22 09:43:04,294] INFO: gl (12/2014): Created new record with 14 non-zero financial metrics
+[2025-03-22 09:43:04,309] INFO: Trying adjusted date: 4/2015 (original: 3/2015)
+[2025-03-22 09:43:04,322] WARNING: gl (3/2015): No existing record found(3/2015, 2015-03-31) - creating new one
+[2025-03-22 09:43:04,323] INFO: gl (3/2015): Created new record with 14 non-zero financial metrics
+[2025-03-22 09:43:04,337] INFO: Trying adjusted date: 7/2015 (original: 6/2015)
+[2025-03-22 09:43:04,350] WARNING: gl (6/2015): No existing record found(6/2015, 2015-06-30) - creating new one
+[2025-03-22 09:43:04,351] INFO: gl (6/2015): Created new record with 9 non-zero financial metrics
+[2025-03-22 09:43:04,366] INFO: Trying adjusted date: 10/2015 (original: 9/2015)
+[2025-03-22 09:43:04,379] WARNING: gl (9/2015): No existing record found(9/2015, 2015-09-30) - creating new one
+[2025-03-22 09:43:04,381] INFO: gl (9/2015): Created new record with 9 non-zero financial metrics
+[2025-03-22 09:43:04,396] INFO: Trying adjusted date: 1/2016 (original: 12/2015)
+[2025-03-22 09:43:04,409] WARNING: gl (12/2015): No existing record found(12/2015, 2015-12-31) - creating new one
+[2025-03-22 09:43:04,410] INFO: gl (12/2015): Created new record with 15 non-zero financial metrics
+[2025-03-22 09:43:04,425] INFO: Trying adjusted date: 4/2016 (original: 3/2016)
+[2025-03-22 09:43:04,439] WARNING: gl (3/2016): No existing record found(3/2016, 2016-03-31) - creating new one
+[2025-03-22 09:43:04,439] INFO: gl (3/2016): Created new record with 15 non-zero financial metrics
+[2025-03-22 09:43:04,454] INFO: Trying adjusted date: 7/2016 (original: 6/2016)
+[2025-03-22 09:43:04,467] WARNING: gl (6/2016): No existing record found(6/2016, 2016-06-30) - creating new one
+[2025-03-22 09:43:04,467] INFO: gl (6/2016): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:43:04,482] INFO: Trying adjusted date: 10/2016 (original: 9/2016)
+[2025-03-22 09:43:04,496] WARNING: gl (9/2016): No existing record found(9/2016, 2016-09-30) - creating new one
+[2025-03-22 09:43:04,496] INFO: gl (9/2016): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:43:04,511] INFO: Trying adjusted date: 1/2017 (original: 12/2016)
+[2025-03-22 09:43:04,524] WARNING: gl (12/2016): No existing record found(12/2016, 2016-12-31) - creating new one
+[2025-03-22 09:43:04,524] INFO: gl (12/2016): Created new record with 17 non-zero financial metrics
+[2025-03-22 09:43:04,539] INFO: Trying adjusted date: 4/2017 (original: 3/2017)
+[2025-03-22 09:43:04,552] WARNING: gl (3/2017): No existing record found(3/2017, 2017-03-31) - creating new one
+[2025-03-22 09:43:04,553] INFO: gl (3/2017): Created new record with 15 non-zero financial metrics
+[2025-03-22 09:43:04,567] INFO: Trying adjusted date: 7/2017 (original: 6/2017)
+[2025-03-22 09:43:04,581] WARNING: gl (6/2017): No existing record found(6/2017, 2017-06-30) - creating new one
+[2025-03-22 09:43:04,581] INFO: gl (6/2017): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:43:04,596] INFO: Trying adjusted date: 10/2017 (original: 9/2017)
+[2025-03-22 09:43:04,609] WARNING: gl (9/2017): No existing record found(9/2017, 2017-09-30) - creating new one
+[2025-03-22 09:43:04,610] INFO: gl (9/2017): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:43:04,625] INFO: Trying adjusted date: 1/2018 (original: 12/2017)
+[2025-03-22 09:43:04,639] WARNING: gl (12/2017): No existing record found(12/2017, 2017-12-31) - creating new one
+[2025-03-22 09:43:04,639] INFO: gl (12/2017): Created new record with 17 non-zero financial metrics
+[2025-03-22 09:43:04,654] INFO: Trying adjusted date: 4/2018 (original: 3/2018)
+[2025-03-22 09:43:04,667] WARNING: gl (3/2018): No existing record found(3/2018, 2018-03-31) - creating new one
+[2025-03-22 09:43:04,667] INFO: gl (3/2018): Created new record with 15 non-zero financial metrics
+[2025-03-22 09:43:04,682] INFO: Trying adjusted date: 7/2018 (original: 6/2018)
+[2025-03-22 09:43:04,695] WARNING: gl (6/2018): No existing record found(6/2018, 2018-06-30) - creating new one
+[2025-03-22 09:43:04,696] INFO: gl (6/2018): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:43:04,712] INFO: Trying adjusted date: 10/2018 (original: 9/2018)
+[2025-03-22 09:43:04,724] WARNING: gl (9/2018): No existing record found(9/2018, 2018-09-30) - creating new one
+[2025-03-22 09:43:04,725] INFO: gl (9/2018): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:43:04,740] INFO: Trying adjusted date: 1/2019 (original: 12/2018)
+[2025-03-22 09:43:04,753] WARNING: gl (12/2018): No existing record found(12/2018, 2018-12-31) - creating new one
+[2025-03-22 09:43:04,754] INFO: gl (12/2018): Created new record with 17 non-zero financial metrics
+[2025-03-22 09:43:04,769] INFO: Trying adjusted date: 4/2019 (original: 3/2019)
+[2025-03-22 09:43:04,783] WARNING: gl (3/2019): No existing record found(3/2019, 2019-03-31) - creating new one
+[2025-03-22 09:43:04,784] INFO: gl (3/2019): Created new record with 17 non-zero financial metrics
+[2025-03-22 09:43:04,798] INFO: Trying adjusted date: 7/2019 (original: 6/2019)
+[2025-03-22 09:43:04,812] WARNING: gl (6/2019): No existing record found(6/2019, 2019-06-30) - creating new one
+[2025-03-22 09:43:04,812] INFO: gl (6/2019): Created new record with 11 non-zero financial metrics
+[2025-03-22 09:43:04,839] INFO: gl (9/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:43:04,867] INFO: gl (12/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:43:04,897] INFO: gl (3/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:43:04,927] INFO: gl (6/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:43:04,954] INFO: gl (9/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:43:04,982] INFO: gl (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:43:05,010] INFO: gl (3/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:43:05,037] INFO: gl (6/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:43:05,067] INFO: gl (9/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:43:05,095] INFO: gl (12/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:43:05,124] INFO: gl (3/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:43:05,151] INFO: gl (6/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:43:05,179] INFO: gl (9/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:43:05,207] INFO: gl (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:43:05,234] INFO: gl (3/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:43:05,263] INFO: gl (6/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:43:05,291] INFO: gl (9/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:43:05,319] INFO: gl (12/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:43:05,347] INFO: gl (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:43:05,374] INFO: gl (6/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:43:05,402] INFO: gl (9/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:43:05,416] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 09:43:05,430] WARNING: gl (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 09:43:05,430] INFO: gl (12/2024): Created new record with 14 non-zero financial metrics

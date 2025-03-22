@@ -1,0 +1,86 @@
+[2025-03-22 00:37:48,252] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 00:37:48,264] WARNING: oxy (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 00:37:48,265] INFO: oxy (3/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 00:37:48,278] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 00:37:48,289] WARNING: oxy (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 00:37:48,289] INFO: oxy (6/2010): Created new record with 10 non-zero financial metrics
+[2025-03-22 00:37:48,302] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 00:37:48,314] WARNING: oxy (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 00:37:48,315] INFO: oxy (9/2010): Created new record with 10 non-zero financial metrics
+[2025-03-22 00:37:48,328] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 00:37:48,340] WARNING: oxy (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 00:37:48,340] INFO: oxy (12/2010): Created new record with 15 non-zero financial metrics
+[2025-03-22 00:37:48,353] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 00:37:48,365] WARNING: oxy (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 00:37:48,365] INFO: oxy (3/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 00:37:48,381] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 00:37:48,392] WARNING: oxy (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 00:37:48,392] INFO: oxy (6/2011): Created new record with 10 non-zero financial metrics
+[2025-03-22 00:37:48,406] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 00:37:48,418] WARNING: oxy (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 00:37:48,419] INFO: oxy (9/2011): Created new record with 10 non-zero financial metrics
+[2025-03-22 00:37:48,432] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 00:37:48,443] WARNING: oxy (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 00:37:48,444] INFO: oxy (12/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 00:37:48,457] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 00:37:48,469] WARNING: oxy (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 00:37:48,469] INFO: oxy (3/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 00:37:48,482] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 00:37:48,494] WARNING: oxy (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 00:37:48,495] INFO: oxy (6/2012): Created new record with 10 non-zero financial metrics
+[2025-03-22 00:37:48,519] INFO: oxy (9/2012): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 00:37:48,544] INFO: oxy (12/2012): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:37:48,569] INFO: oxy (3/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:37:48,594] INFO: oxy (6/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 00:37:48,619] INFO: oxy (9/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 00:37:48,643] INFO: oxy (12/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:37:48,668] INFO: oxy (3/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:37:48,694] INFO: oxy (6/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 00:37:48,720] INFO: oxy (9/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 00:37:48,747] INFO: oxy (12/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:37:48,772] INFO: oxy (3/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:37:48,797] INFO: oxy (6/2015): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 00:37:48,823] INFO: oxy (9/2015): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 00:37:48,851] INFO: oxy (12/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:37:48,876] INFO: oxy (3/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:37:48,900] INFO: oxy (6/2016): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 00:37:48,926] INFO: oxy (9/2016): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 00:37:48,950] INFO: oxy (12/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:37:48,975] INFO: oxy (3/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:37:49,000] INFO: oxy (6/2017): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 00:37:49,024] INFO: oxy (9/2017): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 00:37:49,049] INFO: oxy (12/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:37:49,074] INFO: oxy (3/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:37:49,099] INFO: oxy (6/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 00:37:49,124] INFO: oxy (9/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 00:37:49,149] INFO: oxy (12/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:37:49,174] INFO: oxy (3/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:37:49,198] INFO: oxy (6/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:37:49,223] INFO: oxy (9/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:37:49,248] INFO: oxy (12/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:37:49,261] WARNING: oxy (3/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 00:37:49,273] INFO: oxy (3/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:37:49,299] INFO: oxy (6/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:37:49,324] INFO: oxy (9/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:37:49,350] INFO: oxy (12/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:37:49,376] INFO: oxy (3/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:37:49,391] INFO: Trying adjusted date: 7/2021 (original: 6/2021)
+[2025-03-22 00:37:49,403] WARNING: oxy (6/2021): No existing record found(6/2021, 2021-06-30) - creating new one
+[2025-03-22 00:37:49,404] INFO: oxy (6/2021): Created new record with 11 non-zero financial metrics
+[2025-03-22 00:37:49,428] INFO: oxy (9/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:37:49,453] INFO: oxy (12/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:37:49,479] INFO: oxy (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:37:49,505] INFO: oxy (6/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:37:49,531] INFO: oxy (9/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:37:49,557] INFO: oxy (12/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:37:49,582] INFO: oxy (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:37:49,607] INFO: oxy (6/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:37:49,634] INFO: oxy (9/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:37:49,660] INFO: oxy (12/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:37:49,674] WARNING: oxy (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 00:37:49,686] INFO: oxy (3/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:37:49,712] INFO: oxy (6/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:37:49,737] INFO: oxy (9/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:37:49,751] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 00:37:49,764] WARNING: oxy (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 00:37:49,764] INFO: oxy (12/2024): Created new record with 17 non-zero financial metrics

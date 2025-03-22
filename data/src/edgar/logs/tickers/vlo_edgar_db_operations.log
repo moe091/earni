@@ -1,0 +1,85 @@
+[2025-03-22 01:58:45,681] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 01:58:45,692] WARNING: vlo (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 01:58:45,693] INFO: vlo (3/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 01:58:45,706] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 01:58:45,718] WARNING: vlo (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 01:58:45,718] INFO: vlo (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 01:58:45,731] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 01:58:45,743] WARNING: vlo (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 01:58:45,743] INFO: vlo (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 01:58:45,756] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 01:58:45,769] WARNING: vlo (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 01:58:45,769] INFO: vlo (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 01:58:45,783] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 01:58:45,795] WARNING: vlo (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 01:58:45,795] INFO: vlo (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 01:58:45,808] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 01:58:45,821] WARNING: vlo (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 01:58:45,821] INFO: vlo (6/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 01:58:45,834] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 01:58:45,846] WARNING: vlo (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 01:58:45,847] INFO: vlo (9/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 01:58:45,860] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 01:58:45,872] WARNING: vlo (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 01:58:45,872] INFO: vlo (12/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 01:58:45,886] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 01:58:45,898] WARNING: vlo (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 01:58:45,899] INFO: vlo (3/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 01:58:45,912] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 01:58:45,925] WARNING: vlo (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 01:58:45,925] INFO: vlo (6/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 01:58:45,951] INFO: vlo (9/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 01:58:45,976] INFO: vlo (12/2012): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 01:58:46,002] INFO: vlo (3/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 01:58:46,028] INFO: vlo (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 01:58:46,041] WARNING: vlo (9/2013): Found zero values for fields: Sales & Marketing Expense
+[2025-03-22 01:58:46,054] INFO: vlo (9/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 01:58:46,082] INFO: vlo (12/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 01:58:46,096] WARNING: vlo (3/2014): Found zero values for fields: Sales & Marketing Expense
+[2025-03-22 01:58:46,108] INFO: vlo (3/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 01:58:46,121] WARNING: vlo (6/2014): Found zero values for fields: Sales & Marketing Expense
+[2025-03-22 01:58:46,133] INFO: vlo (6/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 01:58:46,147] WARNING: vlo (9/2014): Found zero values for fields: Sales & Marketing Expense
+[2025-03-22 01:58:46,159] INFO: vlo (9/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 01:58:46,172] WARNING: vlo (12/2014): Found zero values for fields: Sales & Marketing Expense
+[2025-03-22 01:58:46,185] INFO: vlo (12/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 01:58:46,211] INFO: vlo (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 01:58:46,237] INFO: vlo (6/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 01:58:46,263] INFO: vlo (9/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 01:58:46,288] INFO: vlo (12/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 01:58:46,314] INFO: vlo (3/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 01:58:46,339] INFO: vlo (6/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 01:58:46,365] INFO: vlo (9/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 01:58:46,390] INFO: vlo (12/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 01:58:46,415] INFO: vlo (3/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 01:58:46,441] INFO: vlo (6/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 01:58:46,466] INFO: vlo (9/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 01:58:46,491] INFO: vlo (12/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 01:58:46,518] INFO: vlo (3/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 01:58:46,543] INFO: vlo (6/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 01:58:46,569] INFO: vlo (9/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 01:58:46,593] INFO: vlo (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 01:58:46,619] INFO: vlo (3/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 01:58:46,644] INFO: vlo (6/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 01:58:46,669] INFO: vlo (9/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 01:58:46,694] INFO: vlo (12/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 01:58:46,721] INFO: vlo (3/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 01:58:46,747] INFO: vlo (6/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 01:58:46,773] INFO: vlo (9/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 01:58:46,800] INFO: vlo (12/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 01:58:46,825] INFO: vlo (3/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 01:58:46,851] INFO: vlo (6/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 01:58:46,877] INFO: vlo (9/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 01:58:46,903] INFO: vlo (12/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 01:58:46,929] INFO: vlo (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 01:58:46,955] INFO: vlo (6/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 01:58:46,980] INFO: vlo (9/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 01:58:47,005] INFO: vlo (12/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 01:58:47,031] INFO: vlo (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 01:58:47,055] INFO: vlo (6/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 01:58:47,080] INFO: vlo (9/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 01:58:47,106] INFO: vlo (12/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 01:58:47,133] INFO: vlo (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 01:58:47,159] INFO: vlo (6/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 01:58:47,184] INFO: vlo (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 01:58:47,210] INFO: vlo (12/2024): Updated existing record with 19 non-zero financial metrics

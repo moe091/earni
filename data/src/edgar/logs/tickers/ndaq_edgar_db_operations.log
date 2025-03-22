@@ -1,0 +1,79 @@
+[2025-03-22 09:49:22,298] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 09:49:22,312] WARNING: ndaq (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 09:49:22,313] INFO: ndaq (6/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 09:49:22,329] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 09:49:22,343] WARNING: ndaq (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 09:49:22,343] INFO: ndaq (9/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 09:49:22,359] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 09:49:22,373] WARNING: ndaq (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 09:49:22,373] INFO: ndaq (12/2010): Created new record with 19 non-zero financial metrics
+[2025-03-22 09:49:22,389] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 09:49:22,403] WARNING: ndaq (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 09:49:22,403] INFO: ndaq (3/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 09:49:22,418] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 09:49:22,432] WARNING: ndaq (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 09:49:22,432] INFO: ndaq (6/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 09:49:22,447] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 09:49:22,461] WARNING: ndaq (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 09:49:22,461] INFO: ndaq (9/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 09:49:22,476] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 09:49:22,490] WARNING: ndaq (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 09:49:22,490] INFO: ndaq (12/2011): Created new record with 22 non-zero financial metrics
+[2025-03-22 09:49:22,505] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 09:49:22,519] WARNING: ndaq (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 09:49:22,520] INFO: ndaq (3/2012): Created new record with 21 non-zero financial metrics
+[2025-03-22 09:49:22,537] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 09:49:22,550] WARNING: ndaq (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 09:49:22,551] INFO: ndaq (6/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 09:49:22,579] INFO: ndaq (9/2012): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:49:22,609] INFO: ndaq (12/2012): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 09:49:22,638] INFO: ndaq (3/2013): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 09:49:22,666] INFO: ndaq (6/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:49:22,695] INFO: ndaq (9/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:49:22,724] INFO: ndaq (12/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:49:22,753] INFO: ndaq (3/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:49:22,781] INFO: ndaq (6/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:49:22,810] INFO: ndaq (9/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:49:22,838] INFO: ndaq (12/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:49:22,867] INFO: ndaq (3/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:49:22,896] INFO: ndaq (6/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:49:22,926] INFO: ndaq (9/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:49:22,954] INFO: ndaq (12/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:49:22,985] INFO: ndaq (3/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:49:23,015] INFO: ndaq (6/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:49:23,048] INFO: ndaq (9/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:49:23,080] INFO: ndaq (12/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:49:23,110] INFO: ndaq (3/2017): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 09:49:23,140] INFO: ndaq (6/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:49:23,168] INFO: ndaq (9/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:49:23,198] INFO: ndaq (12/2017): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 09:49:23,227] INFO: ndaq (3/2018): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 09:49:23,256] INFO: ndaq (6/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:49:23,286] INFO: ndaq (9/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:49:23,315] INFO: ndaq (12/2018): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 09:49:23,330] WARNING: ndaq (3/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 09:49:23,343] INFO: ndaq (3/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 09:49:23,372] INFO: ndaq (6/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:49:23,400] INFO: ndaq (9/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:49:23,429] INFO: ndaq (12/2019): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 09:49:23,460] INFO: ndaq (3/2020): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 09:49:23,490] INFO: ndaq (6/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:49:23,518] INFO: ndaq (9/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:49:23,547] INFO: ndaq (12/2020): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 09:49:23,576] INFO: ndaq (3/2021): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 09:49:23,606] INFO: ndaq (6/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:49:23,634] INFO: ndaq (9/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:49:23,663] INFO: ndaq (12/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 09:49:23,691] INFO: ndaq (3/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 09:49:23,719] INFO: ndaq (6/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:49:23,748] INFO: ndaq (9/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:49:23,777] INFO: ndaq (12/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 09:49:23,805] INFO: ndaq (3/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 09:49:23,834] INFO: ndaq (6/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:49:23,863] INFO: ndaq (9/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:49:23,892] INFO: ndaq (12/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 09:49:23,907] WARNING: ndaq (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 09:49:23,920] INFO: ndaq (3/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 09:49:23,949] INFO: ndaq (6/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:49:23,978] INFO: ndaq (9/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:49:24,006] INFO: ndaq (12/2024): Updated existing record with 21 non-zero financial metrics

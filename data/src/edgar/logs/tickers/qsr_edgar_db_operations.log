@@ -1,0 +1,45 @@
+[2025-03-22 06:08:41,274] INFO: qsr (12/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:08:41,303] INFO: qsr (3/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:08:41,330] INFO: qsr (6/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:08:41,357] INFO: qsr (9/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:08:41,383] INFO: qsr (12/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:08:41,410] INFO: qsr (3/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:08:41,437] INFO: qsr (6/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:08:41,465] INFO: qsr (9/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:08:41,492] INFO: qsr (12/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:08:41,519] INFO: qsr (3/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:08:41,547] INFO: qsr (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:08:41,575] INFO: qsr (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:08:41,602] INFO: qsr (12/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:08:41,630] INFO: qsr (3/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:08:41,657] INFO: qsr (6/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:08:41,685] INFO: qsr (9/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:08:41,711] INFO: qsr (12/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:08:41,738] INFO: qsr (3/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:08:41,767] INFO: qsr (6/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:08:41,793] INFO: qsr (9/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:08:41,821] INFO: qsr (12/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:08:41,848] INFO: qsr (3/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:08:41,876] INFO: qsr (6/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:08:41,905] INFO: qsr (9/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:08:41,934] INFO: qsr (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:08:41,961] INFO: qsr (3/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:08:41,989] INFO: qsr (6/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:08:42,017] INFO: qsr (9/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:08:42,044] INFO: qsr (12/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 06:08:42,072] INFO: qsr (3/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:08:42,099] INFO: qsr (6/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:08:42,126] INFO: qsr (9/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:08:42,154] INFO: qsr (12/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 06:08:42,168] WARNING: qsr (3/2023): Found zero values for fields: Share Repurchases, Investing Cash Flow
+[2025-03-22 06:08:42,182] INFO: qsr (3/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:08:42,208] INFO: qsr (6/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:08:42,235] INFO: qsr (9/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:08:42,263] INFO: qsr (12/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 06:08:42,291] INFO: qsr (3/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:08:42,318] INFO: qsr (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:08:42,345] INFO: qsr (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:08:42,361] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 06:08:42,374] WARNING: qsr (12/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 06:08:42,374] WARNING: qsr (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 06:08:42,375] INFO: qsr (12/2024): Created new record with 18 non-zero financial metrics

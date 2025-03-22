@@ -1,0 +1,80 @@
+[2025-03-22 05:12:52,628] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 05:12:52,640] WARNING: rjf (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 05:12:52,640] INFO: rjf (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:12:52,656] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 05:12:52,669] WARNING: rjf (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 05:12:52,669] INFO: rjf (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:12:52,683] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 05:12:52,695] WARNING: rjf (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 05:12:52,696] INFO: rjf (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:12:52,710] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 05:12:52,723] WARNING: rjf (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 05:12:52,723] INFO: rjf (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:12:52,737] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 05:12:52,750] WARNING: rjf (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 05:12:52,751] INFO: rjf (6/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 05:12:52,765] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 05:12:52,778] WARNING: rjf (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 05:12:52,780] INFO: rjf (9/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 05:12:52,794] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 05:12:52,806] WARNING: rjf (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 05:12:52,807] INFO: rjf (12/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 05:12:52,822] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 05:12:52,834] WARNING: rjf (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 05:12:52,835] INFO: rjf (3/2012): Created new record with 10 non-zero financial metrics
+[2025-03-22 05:12:52,849] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 05:12:52,861] WARNING: rjf (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 05:12:52,862] INFO: rjf (6/2012): Created new record with 10 non-zero financial metrics
+[2025-03-22 05:12:52,889] INFO: rjf (9/2012): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:12:52,916] INFO: rjf (12/2012): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:12:52,942] INFO: rjf (3/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 05:12:52,969] INFO: rjf (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 05:12:52,996] INFO: rjf (9/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:12:53,022] INFO: rjf (12/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:12:53,048] INFO: rjf (3/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 05:12:53,075] INFO: rjf (6/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 05:12:53,102] INFO: rjf (9/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:12:53,127] INFO: rjf (12/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:12:53,154] INFO: rjf (3/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:12:53,182] INFO: rjf (6/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:12:53,208] INFO: rjf (9/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:12:53,237] INFO: rjf (12/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:12:53,265] INFO: rjf (3/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:12:53,292] INFO: rjf (6/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:12:53,319] INFO: rjf (9/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:12:53,346] INFO: rjf (12/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:12:53,372] INFO: rjf (3/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:12:53,387] INFO: Trying adjusted date: 7/2017 (original: 8/2017)
+[2025-03-22 05:12:53,400] WARNING: rjf (8/2017): No existing record found(8/2017, 2017-08-08) - creating new one
+[2025-03-22 05:12:53,400] INFO: rjf (8/2017): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:12:53,426] INFO: rjf (9/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:12:53,453] INFO: rjf (12/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:12:53,479] INFO: rjf (3/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:12:53,505] INFO: rjf (6/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:12:53,535] INFO: rjf (9/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:12:53,563] INFO: rjf (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:12:53,589] INFO: rjf (3/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:12:53,616] INFO: rjf (6/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:12:53,643] INFO: rjf (9/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:12:53,671] INFO: rjf (12/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:12:53,698] INFO: rjf (3/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:12:53,725] INFO: rjf (6/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:12:53,753] INFO: rjf (9/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:12:53,780] INFO: rjf (12/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:12:53,808] INFO: rjf (3/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:12:53,834] INFO: rjf (6/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:12:53,862] INFO: rjf (9/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:12:53,890] INFO: rjf (12/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:12:53,917] INFO: rjf (3/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 05:12:53,944] INFO: rjf (6/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:12:53,970] INFO: rjf (9/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:12:53,984] WARNING: rjf (12/2022): Found zero values for fields: Long Term Debt
+[2025-03-22 05:12:53,997] INFO: rjf (12/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:12:54,027] INFO: rjf (3/2023): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 05:12:54,053] INFO: rjf (6/2023): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 05:12:54,080] INFO: rjf (9/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:12:54,109] INFO: rjf (12/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:12:54,137] INFO: rjf (3/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 05:12:54,164] INFO: rjf (6/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 05:12:54,191] INFO: rjf (9/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:12:54,217] INFO: rjf (12/2024): Updated existing record with 13 non-zero financial metrics

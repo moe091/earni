@@ -1,0 +1,90 @@
+[2025-03-22 02:59:25,320] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 02:59:25,331] WARNING: ed (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 02:59:25,332] INFO: ed (3/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 02:59:25,349] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 02:59:25,361] WARNING: ed (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 02:59:25,362] INFO: ed (6/2010): Created new record with 11 non-zero financial metrics
+[2025-03-22 02:59:25,375] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 02:59:25,387] WARNING: ed (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 02:59:25,387] INFO: ed (9/2010): Created new record with 1 non-zero financial metrics
+[2025-03-22 02:59:25,401] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 02:59:25,413] WARNING: ed (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 02:59:25,414] INFO: ed (12/2010): Created new record with 1 non-zero financial metrics
+[2025-03-22 02:59:25,427] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 02:59:25,439] WARNING: ed (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 02:59:25,440] INFO: ed (3/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 02:59:25,454] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 02:59:25,465] WARNING: ed (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 02:59:25,466] INFO: ed (6/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 02:59:25,480] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 02:59:25,492] WARNING: ed (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 02:59:25,493] INFO: ed (9/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 02:59:25,506] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 02:59:25,518] WARNING: ed (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 02:59:25,518] INFO: ed (12/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 02:59:25,533] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 02:59:25,545] WARNING: ed (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 02:59:25,545] INFO: ed (3/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 02:59:25,558] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 02:59:25,571] WARNING: ed (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 02:59:25,571] INFO: ed (6/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 02:59:25,597] INFO: ed (9/2012): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 02:59:25,622] INFO: ed (12/2012): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 02:59:25,649] INFO: ed (3/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 02:59:25,680] INFO: ed (6/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 02:59:25,706] INFO: ed (9/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 02:59:25,732] INFO: ed (12/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 02:59:25,759] INFO: ed (3/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 02:59:25,784] INFO: ed (6/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:59:25,812] INFO: ed (9/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:59:25,836] INFO: ed (12/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 02:59:25,861] INFO: ed (3/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:59:25,886] INFO: ed (6/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:59:25,913] INFO: ed (9/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:59:25,940] INFO: ed (12/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 02:59:25,965] INFO: ed (3/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:59:25,990] INFO: ed (6/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:59:26,016] INFO: ed (9/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:59:26,041] INFO: ed (12/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 02:59:26,066] INFO: ed (3/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 02:59:26,092] INFO: ed (6/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 02:59:26,117] INFO: ed (9/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 02:59:26,142] INFO: ed (12/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 02:59:26,167] INFO: ed (3/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 02:59:26,192] INFO: ed (6/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:59:26,217] INFO: ed (9/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:59:26,244] INFO: ed (12/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 02:59:26,268] INFO: ed (3/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 02:59:26,294] INFO: ed (6/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:59:26,318] INFO: ed (9/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:59:26,344] INFO: ed (12/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 02:59:26,369] INFO: ed (3/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 02:59:26,395] INFO: ed (6/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:59:26,423] INFO: ed (9/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:59:26,448] INFO: ed (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 02:59:26,473] INFO: ed (3/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 02:59:26,499] INFO: ed (6/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:59:26,527] INFO: ed (9/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:59:26,553] INFO: ed (12/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 02:59:26,578] INFO: ed (3/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 02:59:26,604] INFO: ed (6/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:59:26,630] INFO: ed (9/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:59:26,655] INFO: ed (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 02:59:26,668] WARNING: ed (3/2023): Found zero values for fields: Deferred Revenue
+[2025-03-22 02:59:26,680] INFO: ed (3/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 02:59:26,694] WARNING: ed (6/2023): Found zero values for fields: Deferred Revenue
+[2025-03-22 02:59:26,706] INFO: ed (6/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 02:59:26,720] WARNING: ed (9/2023): Found zero values for fields: Deferred Revenue
+[2025-03-22 02:59:26,732] INFO: ed (9/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 02:59:26,746] WARNING: ed (12/2023): Found zero values for fields: Deferred Revenue
+[2025-03-22 02:59:26,759] INFO: ed (12/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 02:59:26,772] WARNING: ed (3/2024): Found zero values for fields: Share Repurchases, Deferred Revenue
+[2025-03-22 02:59:26,784] INFO: ed (3/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:59:26,797] WARNING: ed (6/2024): Found zero values for fields: Deferred Revenue
+[2025-03-22 02:59:26,810] INFO: ed (6/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 02:59:26,823] WARNING: ed (9/2024): Found zero values for fields: Deferred Revenue
+[2025-03-22 02:59:26,835] INFO: ed (9/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 02:59:26,851] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 02:59:26,863] WARNING: ed (12/2024): Found zero values for fields: Share Repurchases, Deferred Revenue
+[2025-03-22 02:59:26,863] WARNING: ed (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 02:59:26,863] INFO: ed (12/2024): Created new record with 14 non-zero financial metrics

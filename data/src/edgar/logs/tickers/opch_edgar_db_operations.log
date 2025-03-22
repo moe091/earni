@@ -1,0 +1,149 @@
+[2025-03-22 14:36:24,842] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 14:36:24,856] WARNING: opch (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 14:36:24,857] INFO: opch (3/2010): Created new record with 17 non-zero financial metrics
+[2025-03-22 14:36:24,878] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 14:36:24,893] WARNING: opch (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 14:36:24,894] INFO: opch (6/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 14:36:24,913] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 14:36:24,928] WARNING: opch (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 14:36:24,929] INFO: opch (9/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 14:36:24,945] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 14:36:24,960] WARNING: opch (3/2011): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 14:36:24,960] WARNING: opch (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 14:36:24,960] INFO: opch (3/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 14:36:24,978] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 14:36:24,993] WARNING: opch (6/2011): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 14:36:24,993] WARNING: opch (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 14:36:24,994] INFO: opch (6/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 14:36:25,011] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 14:36:25,026] WARNING: opch (9/2011): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 14:36:25,027] WARNING: opch (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 14:36:25,027] INFO: opch (9/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 14:36:25,043] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 14:36:25,058] WARNING: opch (12/2011): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 14:36:25,058] WARNING: opch (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 14:36:25,059] INFO: opch (12/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 14:36:25,077] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 14:36:25,091] WARNING: opch (3/2012): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 14:36:25,091] WARNING: opch (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 14:36:25,092] INFO: opch (3/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 14:36:25,109] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 14:36:25,124] WARNING: opch (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 14:36:25,125] INFO: opch (6/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 14:36:25,141] INFO: Trying adjusted date: 10/2012 (original: 9/2012)
+[2025-03-22 14:36:25,156] WARNING: opch (9/2012): No existing record found(9/2012, 2012-09-30) - creating new one
+[2025-03-22 14:36:25,157] INFO: opch (9/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 14:36:25,173] INFO: Trying adjusted date: 1/2013 (original: 12/2012)
+[2025-03-22 14:36:25,188] WARNING: opch (12/2012): No existing record found(12/2012, 2012-12-31) - creating new one
+[2025-03-22 14:36:25,189] INFO: opch (12/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 14:36:25,205] INFO: Trying adjusted date: 4/2013 (original: 3/2013)
+[2025-03-22 14:36:25,220] WARNING: opch (3/2013): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 14:36:25,220] WARNING: opch (3/2013): No existing record found(3/2013, 2013-03-31) - creating new one
+[2025-03-22 14:36:25,220] INFO: opch (3/2013): Created new record with 16 non-zero financial metrics
+[2025-03-22 14:36:25,236] INFO: Trying adjusted date: 7/2013 (original: 6/2013)
+[2025-03-22 14:36:25,251] WARNING: opch (6/2013): No existing record found(6/2013, 2013-06-30) - creating new one
+[2025-03-22 14:36:25,251] INFO: opch (6/2013): Created new record with 14 non-zero financial metrics
+[2025-03-22 14:36:25,268] INFO: Trying adjusted date: 10/2013 (original: 9/2013)
+[2025-03-22 14:36:25,282] WARNING: opch (9/2013): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 14:36:25,282] WARNING: opch (9/2013): No existing record found(9/2013, 2013-09-30) - creating new one
+[2025-03-22 14:36:25,282] INFO: opch (9/2013): Created new record with 13 non-zero financial metrics
+[2025-03-22 14:36:25,299] INFO: Trying adjusted date: 1/2014 (original: 12/2013)
+[2025-03-22 14:36:25,314] WARNING: opch (12/2013): No existing record found(12/2013, 2013-12-31) - creating new one
+[2025-03-22 14:36:25,314] INFO: opch (12/2013): Created new record with 18 non-zero financial metrics
+[2025-03-22 14:36:25,330] INFO: Trying adjusted date: 4/2014 (original: 3/2014)
+[2025-03-22 14:36:25,345] WARNING: opch (3/2014): No existing record found(3/2014, 2014-03-31) - creating new one
+[2025-03-22 14:36:25,346] INFO: opch (3/2014): Created new record with 16 non-zero financial metrics
+[2025-03-22 14:36:25,362] INFO: Trying adjusted date: 7/2014 (original: 6/2014)
+[2025-03-22 14:36:25,377] WARNING: opch (6/2014): No existing record found(6/2014, 2014-06-30) - creating new one
+[2025-03-22 14:36:25,377] INFO: opch (6/2014): Created new record with 13 non-zero financial metrics
+[2025-03-22 14:36:25,394] INFO: Trying adjusted date: 10/2014 (original: 9/2014)
+[2025-03-22 14:36:25,408] WARNING: opch (9/2014): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 14:36:25,408] WARNING: opch (9/2014): No existing record found(9/2014, 2014-09-30) - creating new one
+[2025-03-22 14:36:25,409] INFO: opch (9/2014): Created new record with 14 non-zero financial metrics
+[2025-03-22 14:36:25,425] INFO: Trying adjusted date: 1/2015 (original: 12/2014)
+[2025-03-22 14:36:25,442] WARNING: opch (12/2014): No existing record found(12/2014, 2014-12-31) - creating new one
+[2025-03-22 14:36:25,442] INFO: opch (12/2014): Created new record with 16 non-zero financial metrics
+[2025-03-22 14:36:25,459] INFO: Trying adjusted date: 4/2015 (original: 3/2015)
+[2025-03-22 14:36:25,475] WARNING: opch (3/2015): No existing record found(3/2015, 2015-03-31) - creating new one
+[2025-03-22 14:36:25,475] INFO: opch (3/2015): Created new record with 17 non-zero financial metrics
+[2025-03-22 14:36:25,492] INFO: Trying adjusted date: 7/2015 (original: 6/2015)
+[2025-03-22 14:36:25,506] WARNING: opch (6/2015): No existing record found(6/2015, 2015-06-30) - creating new one
+[2025-03-22 14:36:25,507] INFO: opch (6/2015): Created new record with 13 non-zero financial metrics
+[2025-03-22 14:36:25,523] INFO: Trying adjusted date: 10/2015 (original: 9/2015)
+[2025-03-22 14:36:25,537] WARNING: opch (9/2015): No existing record found(9/2015, 2015-09-30) - creating new one
+[2025-03-22 14:36:25,538] INFO: opch (9/2015): Created new record with 14 non-zero financial metrics
+[2025-03-22 14:36:25,555] INFO: Trying adjusted date: 1/2016 (original: 12/2015)
+[2025-03-22 14:36:25,570] WARNING: opch (12/2015): No existing record found(12/2015, 2015-12-31) - creating new one
+[2025-03-22 14:36:25,570] INFO: opch (12/2015): Created new record with 17 non-zero financial metrics
+[2025-03-22 14:36:25,587] INFO: Trying adjusted date: 4/2016 (original: 3/2016)
+[2025-03-22 14:36:25,601] WARNING: opch (3/2016): No existing record found(3/2016, 2016-03-31) - creating new one
+[2025-03-22 14:36:25,601] INFO: opch (3/2016): Created new record with 18 non-zero financial metrics
+[2025-03-22 14:36:25,618] INFO: Trying adjusted date: 7/2016 (original: 6/2016)
+[2025-03-22 14:36:25,632] WARNING: opch (6/2016): No existing record found(6/2016, 2016-06-30) - creating new one
+[2025-03-22 14:36:25,632] INFO: opch (6/2016): Created new record with 14 non-zero financial metrics
+[2025-03-22 14:36:25,649] INFO: Trying adjusted date: 10/2016 (original: 9/2016)
+[2025-03-22 14:36:25,663] WARNING: opch (9/2016): No existing record found(9/2016, 2016-09-30) - creating new one
+[2025-03-22 14:36:25,664] INFO: opch (9/2016): Created new record with 14 non-zero financial metrics
+[2025-03-22 14:36:25,680] INFO: Trying adjusted date: 1/2017 (original: 12/2016)
+[2025-03-22 14:36:25,694] WARNING: opch (12/2016): No existing record found(12/2016, 2016-12-31) - creating new one
+[2025-03-22 14:36:25,694] INFO: opch (12/2016): Created new record with 15 non-zero financial metrics
+[2025-03-22 14:36:25,710] INFO: Trying adjusted date: 4/2017 (original: 3/2017)
+[2025-03-22 14:36:25,726] WARNING: opch (3/2017): No existing record found(3/2017, 2017-03-31) - creating new one
+[2025-03-22 14:36:25,726] INFO: opch (3/2017): Created new record with 18 non-zero financial metrics
+[2025-03-22 14:36:25,743] INFO: Trying adjusted date: 7/2017 (original: 6/2017)
+[2025-03-22 14:36:25,758] WARNING: opch (6/2017): No existing record found(6/2017, 2017-06-30) - creating new one
+[2025-03-22 14:36:25,758] INFO: opch (6/2017): Created new record with 13 non-zero financial metrics
+[2025-03-22 14:36:25,774] INFO: Trying adjusted date: 10/2017 (original: 9/2017)
+[2025-03-22 14:36:25,790] WARNING: opch (9/2017): No existing record found(9/2017, 2017-09-30) - creating new one
+[2025-03-22 14:36:25,791] INFO: opch (9/2017): Created new record with 13 non-zero financial metrics
+[2025-03-22 14:36:25,807] INFO: Trying adjusted date: 1/2018 (original: 12/2017)
+[2025-03-22 14:36:25,821] WARNING: opch (12/2017): No existing record found(12/2017, 2017-12-31) - creating new one
+[2025-03-22 14:36:25,822] INFO: opch (12/2017): Created new record with 15 non-zero financial metrics
+[2025-03-22 14:36:25,839] INFO: Trying adjusted date: 4/2018 (original: 3/2018)
+[2025-03-22 14:36:25,854] WARNING: opch (3/2018): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 14:36:25,854] WARNING: opch (3/2018): No existing record found(3/2018, 2018-03-31) - creating new one
+[2025-03-22 14:36:25,854] INFO: opch (3/2018): Created new record with 17 non-zero financial metrics
+[2025-03-22 14:36:25,873] INFO: Trying adjusted date: 7/2018 (original: 6/2018)
+[2025-03-22 14:36:25,887] WARNING: opch (6/2018): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 14:36:25,887] WARNING: opch (6/2018): No existing record found(6/2018, 2018-06-30) - creating new one
+[2025-03-22 14:36:25,890] INFO: opch (6/2018): Created new record with 13 non-zero financial metrics
+[2025-03-22 14:36:25,910] INFO: Trying adjusted date: 10/2018 (original: 9/2018)
+[2025-03-22 14:36:25,929] WARNING: opch (9/2018): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 14:36:25,929] WARNING: opch (9/2018): No existing record found(9/2018, 2018-09-30) - creating new one
+[2025-03-22 14:36:25,930] INFO: opch (9/2018): Created new record with 13 non-zero financial metrics
+[2025-03-22 14:36:25,948] INFO: Trying adjusted date: 1/2019 (original: 12/2018)
+[2025-03-22 14:36:25,963] WARNING: opch (12/2018): No existing record found(12/2018, 2018-12-31) - creating new one
+[2025-03-22 14:36:25,964] INFO: opch (12/2018): Created new record with 17 non-zero financial metrics
+[2025-03-22 14:36:25,980] INFO: Trying adjusted date: 4/2019 (original: 3/2019)
+[2025-03-22 14:36:25,995] WARNING: opch (3/2019): No existing record found(3/2019, 2019-03-31) - creating new one
+[2025-03-22 14:36:25,995] INFO: opch (3/2019): Created new record with 18 non-zero financial metrics
+[2025-03-22 14:36:26,012] INFO: Trying adjusted date: 7/2019 (original: 6/2019)
+[2025-03-22 14:36:26,026] WARNING: opch (6/2019): No existing record found(6/2019, 2019-06-30) - creating new one
+[2025-03-22 14:36:26,027] INFO: opch (6/2019): Created new record with 15 non-zero financial metrics
+[2025-03-22 14:36:26,043] INFO: Trying adjusted date: 10/2019 (original: 9/2019)
+[2025-03-22 14:36:26,058] WARNING: opch (9/2019): No existing record found(9/2019, 2019-09-30) - creating new one
+[2025-03-22 14:36:26,058] INFO: opch (9/2019): Created new record with 14 non-zero financial metrics
+[2025-03-22 14:36:26,090] INFO: opch (12/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:36:26,120] INFO: opch (3/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:36:26,150] INFO: opch (6/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:36:26,181] INFO: opch (9/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:36:26,213] INFO: opch (12/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:36:26,244] INFO: opch (3/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:36:26,274] INFO: opch (6/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:36:26,306] INFO: opch (9/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:36:26,336] INFO: opch (12/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:36:26,367] INFO: opch (3/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:36:26,397] INFO: opch (6/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:36:26,429] INFO: opch (9/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:36:26,459] INFO: opch (12/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:36:26,491] INFO: opch (3/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 14:36:26,522] INFO: opch (6/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:36:26,553] INFO: opch (9/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:36:26,570] WARNING: opch (12/2023): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 14:36:26,585] INFO: opch (12/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 14:36:26,615] INFO: opch (3/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 14:36:26,646] INFO: opch (6/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:36:26,677] INFO: opch (9/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:36:26,694] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 14:36:26,709] WARNING: opch (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 14:36:26,710] INFO: opch (12/2024): Created new record with 20 non-zero financial metrics

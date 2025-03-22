@@ -1,0 +1,106 @@
+[2025-03-21 23:04:11,096] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-21 23:04:11,108] WARNING: amt (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-21 23:04:11,108] INFO: amt (3/2010): Created new record with 16 non-zero financial metrics
+[2025-03-21 23:04:11,122] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-21 23:04:11,133] WARNING: amt (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-21 23:04:11,134] INFO: amt (6/2010): Created new record with 12 non-zero financial metrics
+[2025-03-21 23:04:11,147] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-21 23:04:11,159] WARNING: amt (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-21 23:04:11,159] INFO: amt (9/2010): Created new record with 12 non-zero financial metrics
+[2025-03-21 23:04:11,172] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-21 23:04:11,184] WARNING: amt (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-21 23:04:11,184] INFO: amt (12/2010): Created new record with 17 non-zero financial metrics
+[2025-03-21 23:04:11,197] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-21 23:04:11,209] WARNING: amt (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-21 23:04:11,209] INFO: amt (3/2011): Created new record with 16 non-zero financial metrics
+[2025-03-21 23:04:11,222] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-21 23:04:11,233] WARNING: amt (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-21 23:04:11,234] INFO: amt (6/2011): Created new record with 12 non-zero financial metrics
+[2025-03-21 23:04:11,247] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-21 23:04:11,258] WARNING: amt (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-21 23:04:11,259] INFO: amt (9/2011): Created new record with 12 non-zero financial metrics
+[2025-03-21 23:04:11,272] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-21 23:04:11,283] WARNING: amt (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-21 23:04:11,284] INFO: amt (12/2011): Created new record with 17 non-zero financial metrics
+[2025-03-21 23:04:11,297] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-21 23:04:11,309] WARNING: amt (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-21 23:04:11,309] INFO: amt (3/2012): Created new record with 16 non-zero financial metrics
+[2025-03-21 23:04:11,322] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-21 23:04:11,334] WARNING: amt (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-21 23:04:11,334] INFO: amt (6/2012): Created new record with 12 non-zero financial metrics
+[2025-03-21 23:04:11,359] INFO: amt (9/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 23:04:11,373] INFO: Trying adjusted date: 1/2013 (original: 12/2012)
+[2025-03-21 23:04:11,384] WARNING: amt (12/2012): No existing record found(12/2012, 2012-12-31) - creating new one
+[2025-03-21 23:04:11,385] INFO: amt (12/2012): Created new record with 17 non-zero financial metrics
+[2025-03-21 23:04:11,398] INFO: Trying adjusted date: 4/2013 (original: 3/2013)
+[2025-03-21 23:04:11,410] WARNING: amt (3/2013): No existing record found(3/2013, 2013-03-31) - creating new one
+[2025-03-21 23:04:11,411] INFO: amt (3/2013): Created new record with 16 non-zero financial metrics
+[2025-03-21 23:04:11,435] INFO: amt (6/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 23:04:11,448] INFO: Trying adjusted date: 10/2013 (original: 9/2013)
+[2025-03-21 23:04:11,459] WARNING: amt (9/2013): No existing record found(9/2013, 2013-09-30) - creating new one
+[2025-03-21 23:04:11,460] INFO: amt (9/2013): Created new record with 12 non-zero financial metrics
+[2025-03-21 23:04:11,474] INFO: Trying adjusted date: 1/2014 (original: 12/2013)
+[2025-03-21 23:04:11,486] WARNING: amt (12/2013): No existing record found(12/2013, 2013-12-31) - creating new one
+[2025-03-21 23:04:11,486] INFO: amt (12/2013): Created new record with 14 non-zero financial metrics
+[2025-03-21 23:04:11,499] INFO: Trying adjusted date: 4/2014 (original: 3/2014)
+[2025-03-21 23:04:11,510] WARNING: amt (3/2014): Found zero values for fields: Share Repurchases
+[2025-03-21 23:04:11,510] WARNING: amt (3/2014): No existing record found(3/2014, 2014-03-31) - creating new one
+[2025-03-21 23:04:11,511] INFO: amt (3/2014): Created new record with 12 non-zero financial metrics
+[2025-03-21 23:04:11,524] INFO: Trying adjusted date: 7/2014 (original: 6/2014)
+[2025-03-21 23:04:11,536] WARNING: amt (6/2014): No existing record found(6/2014, 2014-06-30) - creating new one
+[2025-03-21 23:04:11,536] INFO: amt (6/2014): Created new record with 12 non-zero financial metrics
+[2025-03-21 23:04:11,563] INFO: amt (9/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 23:04:11,576] INFO: Trying adjusted date: 1/2015 (original: 12/2014)
+[2025-03-21 23:04:11,587] WARNING: amt (12/2014): Found zero values for fields: Share Repurchases
+[2025-03-21 23:04:11,587] WARNING: amt (12/2014): No existing record found(12/2014, 2014-12-31) - creating new one
+[2025-03-21 23:04:11,588] INFO: amt (12/2014): Created new record with 13 non-zero financial metrics
+[2025-03-21 23:04:11,601] INFO: Trying adjusted date: 4/2015 (original: 3/2015)
+[2025-03-21 23:04:11,613] WARNING: amt (3/2015): No existing record found(3/2015, 2015-03-31) - creating new one
+[2025-03-21 23:04:11,613] INFO: amt (3/2015): Created new record with 12 non-zero financial metrics
+[2025-03-21 23:04:11,637] INFO: amt (6/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 23:04:11,663] INFO: amt (9/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 23:04:11,675] WARNING: amt (12/2015): Found zero values for fields: Share Repurchases
+[2025-03-21 23:04:11,687] INFO: amt (12/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 23:04:11,712] INFO: amt (3/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 23:04:11,739] INFO: amt (6/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:04:11,763] INFO: amt (9/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:04:11,787] INFO: amt (12/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 23:04:11,812] INFO: amt (3/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 23:04:11,837] INFO: amt (6/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 23:04:11,862] INFO: amt (9/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 23:04:11,886] INFO: amt (12/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 23:04:11,899] WARNING: amt (3/2018): Found zero values for fields: Share Repurchases
+[2025-03-21 23:04:11,911] INFO: amt (3/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 23:04:11,935] INFO: amt (6/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:04:11,960] INFO: amt (9/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:04:11,986] INFO: amt (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 23:04:12,010] INFO: amt (3/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:04:12,034] INFO: amt (6/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 23:04:12,060] INFO: amt (9/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 23:04:12,084] INFO: amt (12/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 23:04:12,109] INFO: amt (3/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 23:04:12,135] INFO: amt (6/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 23:04:12,160] INFO: amt (9/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 23:04:12,185] INFO: amt (12/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 23:04:12,200] WARNING: amt (3/2021): Found zero values for fields: Share Repurchases
+[2025-03-21 23:04:12,212] INFO: amt (3/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 23:04:12,237] INFO: amt (6/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 23:04:12,262] INFO: amt (9/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 23:04:12,275] WARNING: amt (12/2021): Found zero values for fields: Share Repurchases
+[2025-03-21 23:04:12,287] INFO: amt (12/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 23:04:12,313] INFO: amt (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 23:04:12,338] INFO: amt (6/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 23:04:12,365] INFO: amt (9/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 23:04:12,389] INFO: amt (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 23:04:12,413] INFO: amt (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 23:04:12,437] INFO: amt (6/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 23:04:12,462] INFO: amt (9/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 23:04:12,474] WARNING: amt (12/2023): Found zero values for fields: Share Repurchases
+[2025-03-21 23:04:12,487] INFO: amt (12/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 23:04:12,514] INFO: amt (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 23:04:12,540] INFO: amt (6/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:04:12,564] INFO: amt (9/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:04:12,578] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-21 23:04:12,590] WARNING: amt (12/2024): Found zero values for fields: Share Repurchases
+[2025-03-21 23:04:12,590] WARNING: amt (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-21 23:04:12,590] INFO: amt (12/2024): Created new record with 15 non-zero financial metrics

@@ -1,0 +1,26 @@
+[2025-03-22 07:22:14,393] INFO: Trying adjusted date: 7/2020 (original: 6/2020)
+[2025-03-22 07:22:14,406] WARNING: rkt (6/2020): No existing record found(6/2020, 2020-06-30) - creating new one
+[2025-03-22 07:22:14,406] INFO: rkt (6/2020): Created new record with 7 non-zero financial metrics
+[2025-03-22 07:22:14,436] INFO: rkt (9/2020): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 07:22:14,463] INFO: rkt (12/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 07:22:14,490] INFO: rkt (3/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:22:14,520] INFO: rkt (6/2021): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 07:22:14,557] INFO: rkt (9/2021): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 07:22:14,588] INFO: rkt (12/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 07:22:14,616] INFO: rkt (3/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 07:22:14,643] INFO: rkt (6/2022): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 07:22:14,672] INFO: rkt (9/2022): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 07:22:14,700] INFO: rkt (12/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:22:14,714] WARNING: rkt (3/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 07:22:14,728] INFO: rkt (3/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:22:14,756] INFO: rkt (6/2023): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 07:22:14,784] INFO: rkt (9/2023): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 07:22:14,798] WARNING: rkt (12/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 07:22:14,811] INFO: rkt (12/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 07:22:14,839] INFO: rkt (3/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:22:14,866] INFO: rkt (6/2024): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 07:22:14,894] INFO: rkt (9/2024): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 07:22:14,908] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 07:22:14,921] WARNING: rkt (12/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 07:22:14,921] WARNING: rkt (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 07:22:14,922] INFO: rkt (12/2024): Created new record with 13 non-zero financial metrics

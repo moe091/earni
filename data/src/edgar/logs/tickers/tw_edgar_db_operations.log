@@ -1,0 +1,27 @@
+[2025-03-22 07:23:56,251] INFO: tw (3/2019): Updated existing record with 2 non-zero financial metrics
+[2025-03-22 07:23:56,280] INFO: tw (6/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 07:23:56,307] INFO: tw (9/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 07:23:56,334] INFO: tw (12/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:23:56,361] INFO: tw (3/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:23:56,390] INFO: tw (6/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 07:23:56,416] INFO: tw (9/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 07:23:56,444] INFO: tw (12/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:23:56,472] INFO: tw (3/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:23:56,499] INFO: tw (6/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 07:23:56,525] INFO: tw (9/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 07:23:56,553] INFO: tw (12/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:23:56,580] INFO: tw (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:23:56,608] INFO: tw (6/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 07:23:56,636] INFO: tw (9/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 07:23:56,663] INFO: tw (12/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:23:56,690] INFO: tw (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:23:56,717] INFO: tw (6/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 07:23:56,744] INFO: tw (9/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 07:23:56,772] INFO: tw (12/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:23:56,788] WARNING: tw (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 07:23:56,801] INFO: tw (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:23:56,828] INFO: tw (6/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 07:23:56,855] INFO: tw (9/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 07:23:56,869] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 07:23:56,882] WARNING: tw (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 07:23:56,882] INFO: tw (12/2024): Created new record with 16 non-zero financial metrics

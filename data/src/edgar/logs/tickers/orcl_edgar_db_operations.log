@@ -1,0 +1,83 @@
+[2025-03-21 22:11:07,467] INFO: Trying adjusted date: 3/2010 (original: 2/2010)
+[2025-03-21 22:11:07,478] WARNING: orcl (2/2010): No existing record found(2/2010, 2010-02-28) - creating new one
+[2025-03-21 22:11:07,479] INFO: orcl (2/2010): Created new record with 14 non-zero financial metrics
+[2025-03-21 22:11:07,493] INFO: Trying adjusted date: 6/2010 (original: 5/2010)
+[2025-03-21 22:11:07,505] WARNING: orcl (5/2010): No existing record found(5/2010, 2010-05-31) - creating new one
+[2025-03-21 22:11:07,505] INFO: orcl (5/2010): Created new record with 19 non-zero financial metrics
+[2025-03-21 22:11:07,517] INFO: Trying adjusted date: 12/2010 (original: 11/2010)
+[2025-03-21 22:11:07,529] WARNING: orcl (11/2010): No existing record found(11/2010, 2010-11-30) - creating new one
+[2025-03-21 22:11:07,529] INFO: orcl (11/2010): Created new record with 15 non-zero financial metrics
+[2025-03-21 22:11:07,542] INFO: Trying adjusted date: 3/2011 (original: 2/2011)
+[2025-03-21 22:11:07,553] WARNING: orcl (2/2011): No existing record found(2/2011, 2011-02-28) - creating new one
+[2025-03-21 22:11:07,554] INFO: orcl (2/2011): Created new record with 15 non-zero financial metrics
+[2025-03-21 22:11:07,566] INFO: Trying adjusted date: 6/2011 (original: 5/2011)
+[2025-03-21 22:11:07,578] WARNING: orcl (5/2011): No existing record found(5/2011, 2011-05-31) - creating new one
+[2025-03-21 22:11:07,578] INFO: orcl (5/2011): Created new record with 21 non-zero financial metrics
+[2025-03-21 22:11:07,590] INFO: Trying adjusted date: 9/2011 (original: 8/2011)
+[2025-03-21 22:11:07,601] WARNING: orcl (8/2011): No existing record found(8/2011, 2011-08-31) - creating new one
+[2025-03-21 22:11:07,602] INFO: orcl (8/2011): Created new record with 20 non-zero financial metrics
+[2025-03-21 22:11:07,614] INFO: Trying adjusted date: 12/2011 (original: 11/2011)
+[2025-03-21 22:11:07,625] WARNING: orcl (11/2011): No existing record found(11/2011, 2011-11-30) - creating new one
+[2025-03-21 22:11:07,626] INFO: orcl (11/2011): Created new record with 15 non-zero financial metrics
+[2025-03-21 22:11:07,639] INFO: Trying adjusted date: 3/2012 (original: 2/2012)
+[2025-03-21 22:11:07,650] WARNING: orcl (2/2012): No existing record found(2/2012, 2012-02-29) - creating new one
+[2025-03-21 22:11:07,651] INFO: orcl (2/2012): Created new record with 15 non-zero financial metrics
+[2025-03-21 22:11:07,663] INFO: Trying adjusted date: 6/2012 (original: 5/2012)
+[2025-03-21 22:11:07,675] WARNING: orcl (5/2012): No existing record found(5/2012, 2012-05-31) - creating new one
+[2025-03-21 22:11:07,676] INFO: orcl (5/2012): Created new record with 21 non-zero financial metrics
+[2025-03-21 22:11:07,701] INFO: orcl (8/2012): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:11:07,725] INFO: orcl (11/2012): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:11:07,750] INFO: orcl (2/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:11:07,774] INFO: orcl (5/2013): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:11:07,799] INFO: orcl (8/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:11:07,824] INFO: orcl (11/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:11:07,836] INFO: Trying adjusted date: 2/2014 (original: 1/2014)
+[2025-03-21 22:11:07,848] INFO: Found existing row with adjusted date: 2/2014
+[2025-03-21 22:11:07,860] INFO: orcl (2/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-21 22:11:07,884] INFO: orcl (5/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:11:07,907] INFO: orcl (8/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:11:07,932] INFO: orcl (11/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:11:07,956] INFO: orcl (2/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:11:07,980] INFO: orcl (5/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:11:08,006] INFO: orcl (8/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:11:08,030] INFO: orcl (11/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:11:08,054] INFO: orcl (2/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:11:08,078] INFO: orcl (5/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:11:08,103] INFO: orcl (8/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:11:08,131] INFO: orcl (11/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:11:08,161] INFO: orcl (2/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:11:08,185] INFO: orcl (5/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:11:08,209] INFO: orcl (8/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:11:08,234] INFO: orcl (11/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:11:08,259] INFO: orcl (2/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:11:08,290] INFO: orcl (5/2018): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 22:11:08,314] INFO: orcl (8/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:11:08,339] INFO: orcl (11/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:11:08,364] INFO: orcl (2/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:11:08,388] INFO: orcl (5/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:11:08,412] INFO: orcl (8/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:11:08,436] INFO: orcl (11/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:11:08,460] INFO: orcl (2/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:11:08,485] INFO: orcl (5/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:11:08,509] INFO: orcl (8/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:11:08,536] INFO: orcl (11/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:11:08,560] INFO: orcl (2/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:11:08,586] INFO: orcl (5/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:11:08,612] INFO: orcl (8/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:11:08,638] INFO: orcl (11/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:11:08,662] INFO: orcl (2/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:11:08,676] WARNING: orcl (5/2022): Found zero values for fields: Long Term Debt
+[2025-03-21 22:11:08,688] INFO: orcl (5/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:11:08,712] INFO: orcl (8/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:11:08,737] INFO: orcl (11/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:11:08,761] INFO: orcl (2/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:11:08,786] INFO: orcl (5/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:11:08,811] INFO: orcl (8/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:11:08,836] INFO: orcl (11/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:11:08,860] INFO: orcl (2/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:11:08,885] INFO: orcl (5/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:11:08,909] INFO: orcl (8/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:11:08,933] INFO: orcl (11/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:11:08,947] INFO: Trying adjusted date: 3/2025 (original: 2/2025)
+[2025-03-21 22:11:08,958] WARNING: orcl (2/2025): No existing record found(2/2025, 2025-02-28) - creating new one
+[2025-03-21 22:11:08,959] INFO: orcl (2/2025): Created new record with 15 non-zero financial metrics

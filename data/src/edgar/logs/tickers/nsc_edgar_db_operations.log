@@ -1,0 +1,96 @@
+[2025-03-22 00:51:03,713] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 00:51:03,725] WARNING: nsc (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 00:51:03,728] INFO: nsc (3/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 00:51:03,745] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 00:51:03,757] WARNING: nsc (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 00:51:03,758] INFO: nsc (6/2010): Created new record with 11 non-zero financial metrics
+[2025-03-22 00:51:03,771] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 00:51:03,783] WARNING: nsc (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 00:51:03,783] INFO: nsc (9/2010): Created new record with 11 non-zero financial metrics
+[2025-03-22 00:51:03,796] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 00:51:03,808] WARNING: nsc (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 00:51:03,809] INFO: nsc (12/2010): Created new record with 17 non-zero financial metrics
+[2025-03-22 00:51:03,822] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 00:51:03,834] WARNING: nsc (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 00:51:03,835] INFO: nsc (3/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 00:51:03,849] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 00:51:03,861] WARNING: nsc (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 00:51:03,861] INFO: nsc (6/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 00:51:03,875] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 00:51:03,887] WARNING: nsc (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 00:51:03,888] INFO: nsc (9/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 00:51:03,901] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 00:51:03,913] WARNING: nsc (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 00:51:03,914] INFO: nsc (12/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 00:51:03,927] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 00:51:03,940] WARNING: nsc (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 00:51:03,940] INFO: nsc (3/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 00:51:03,954] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 00:51:03,966] WARNING: nsc (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 00:51:03,966] INFO: nsc (6/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 00:51:03,992] INFO: nsc (9/2012): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:04,019] INFO: nsc (12/2012): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:51:04,044] INFO: nsc (3/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:51:04,069] INFO: nsc (6/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:04,094] INFO: nsc (9/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:04,120] INFO: nsc (12/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:51:04,145] INFO: nsc (3/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:51:04,170] INFO: nsc (6/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:04,195] INFO: nsc (9/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:04,221] INFO: nsc (12/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:51:04,247] INFO: nsc (3/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:51:04,272] INFO: nsc (6/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:04,297] INFO: nsc (9/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:04,323] INFO: nsc (12/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:51:04,348] INFO: nsc (3/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:51:04,373] INFO: nsc (6/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:04,397] INFO: nsc (9/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:04,423] INFO: nsc (12/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:51:04,450] INFO: nsc (3/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:51:04,474] INFO: nsc (6/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:04,500] INFO: nsc (9/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:51:04,524] INFO: nsc (12/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:51:04,549] INFO: nsc (3/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:51:04,575] INFO: nsc (6/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:04,600] INFO: nsc (9/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:04,625] INFO: nsc (12/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:51:04,651] INFO: nsc (3/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:51:04,677] INFO: nsc (6/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:04,702] INFO: nsc (9/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:04,728] INFO: nsc (12/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:51:04,757] INFO: nsc (3/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:51:04,772] WARNING: nsc (6/2020): Found zero values for fields: Deferred Revenue
+[2025-03-22 00:51:04,784] INFO: nsc (6/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:04,798] WARNING: nsc (9/2020): Found zero values for fields: Deferred Revenue
+[2025-03-22 00:51:04,810] INFO: nsc (9/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:04,836] INFO: nsc (12/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:51:04,855] WARNING: nsc (3/2021): Found zero values for fields: Deferred Revenue
+[2025-03-22 00:51:04,868] INFO: nsc (3/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:51:04,881] WARNING: nsc (6/2021): Found zero values for fields: Deferred Revenue
+[2025-03-22 00:51:04,893] INFO: nsc (6/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:04,906] WARNING: nsc (9/2021): Found zero values for fields: Deferred Revenue
+[2025-03-22 00:51:04,918] INFO: nsc (9/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:04,947] INFO: nsc (12/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:51:04,961] WARNING: nsc (3/2022): Found zero values for fields: Deferred Revenue
+[2025-03-22 00:51:04,974] INFO: nsc (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:51:04,987] WARNING: nsc (6/2022): Found zero values for fields: Deferred Revenue
+[2025-03-22 00:51:04,998] INFO: nsc (6/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:05,013] WARNING: nsc (9/2022): Found zero values for fields: Deferred Revenue
+[2025-03-22 00:51:05,026] INFO: nsc (9/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:05,039] WARNING: nsc (12/2022): Found zero values for fields: Deferred Revenue
+[2025-03-22 00:51:05,051] INFO: nsc (12/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:51:05,064] WARNING: nsc (3/2023): Found zero values for fields: Deferred Revenue
+[2025-03-22 00:51:05,076] INFO: nsc (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:51:05,090] WARNING: nsc (6/2023): Found zero values for fields: Deferred Revenue
+[2025-03-22 00:51:05,102] INFO: nsc (6/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:05,115] WARNING: nsc (9/2023): Found zero values for fields: Deferred Revenue
+[2025-03-22 00:51:05,127] INFO: nsc (9/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:05,153] INFO: nsc (12/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:51:05,167] WARNING: nsc (3/2024): Found zero values for fields: Share Repurchases, Deferred Revenue
+[2025-03-22 00:51:05,178] INFO: nsc (3/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:51:05,193] WARNING: nsc (6/2024): Found zero values for fields: Deferred Revenue
+[2025-03-22 00:51:05,205] INFO: nsc (6/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:05,219] WARNING: nsc (9/2024): Found zero values for fields: Deferred Revenue
+[2025-03-22 00:51:05,232] INFO: nsc (9/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:51:05,246] WARNING: nsc (12/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 00:51:05,258] INFO: nsc (12/2024): Updated existing record with 16 non-zero financial metrics

@@ -1,0 +1,91 @@
+[2025-03-22 06:39:46,924] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 06:39:46,937] WARNING: grmn (3/2010): No existing record found(3/2010, 2010-03-27) - creating new one
+[2025-03-22 06:39:46,938] INFO: grmn (3/2010): Created new record with 16 non-zero financial metrics
+[2025-03-22 06:39:46,954] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 06:39:46,968] WARNING: grmn (6/2010): No existing record found(6/2010, 2010-06-26) - creating new one
+[2025-03-22 06:39:46,968] INFO: grmn (6/2010): Created new record with 12 non-zero financial metrics
+[2025-03-22 06:39:46,983] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 06:39:46,997] WARNING: grmn (9/2010): No existing record found(9/2010, 2010-09-25) - creating new one
+[2025-03-22 06:39:46,998] INFO: grmn (9/2010): Created new record with 12 non-zero financial metrics
+[2025-03-22 06:39:47,013] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 06:39:47,026] WARNING: grmn (12/2010): No existing record found(12/2010, 2010-12-25) - creating new one
+[2025-03-22 06:39:47,026] INFO: grmn (12/2010): Created new record with 17 non-zero financial metrics
+[2025-03-22 06:39:47,043] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 06:39:47,056] WARNING: grmn (3/2011): No existing record found(3/2011, 2011-03-26) - creating new one
+[2025-03-22 06:39:47,057] INFO: grmn (3/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 06:39:47,072] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 06:39:47,085] WARNING: grmn (9/2011): No existing record found(9/2011, 2011-09-24) - creating new one
+[2025-03-22 06:39:47,085] INFO: grmn (9/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 06:39:47,102] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 06:39:47,115] WARNING: grmn (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 06:39:47,116] INFO: grmn (12/2011): Created new record with 20 non-zero financial metrics
+[2025-03-22 06:39:47,130] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 06:39:47,142] WARNING: grmn (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 06:39:47,143] INFO: grmn (3/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 06:39:47,158] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 06:39:47,170] WARNING: grmn (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 06:39:47,171] INFO: grmn (6/2012): Created new record with 13 non-zero financial metrics
+[2025-03-22 06:39:47,197] INFO: grmn (9/2012): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:39:47,225] INFO: grmn (12/2012): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 06:39:47,252] INFO: grmn (3/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 06:39:47,284] INFO: grmn (6/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:39:47,312] INFO: grmn (9/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:39:47,338] INFO: grmn (12/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:39:47,365] INFO: grmn (3/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:39:47,393] INFO: grmn (6/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:39:47,420] INFO: grmn (9/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:39:47,448] INFO: grmn (12/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:39:47,475] INFO: grmn (3/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:39:47,503] INFO: grmn (6/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:39:47,531] INFO: grmn (9/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:39:47,559] INFO: grmn (12/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:39:47,586] INFO: grmn (3/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:39:47,614] INFO: grmn (6/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:39:47,642] INFO: grmn (9/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:39:47,669] INFO: grmn (12/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:39:47,684] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-22 06:39:47,697] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-22 06:39:47,711] INFO: grmn (3/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:39:47,725] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-22 06:39:47,738] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-22 06:39:47,750] INFO: grmn (6/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:39:47,778] INFO: grmn (9/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:39:47,805] INFO: grmn (12/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 06:39:47,819] ERROR: Invalid numeric value for Share Repurchases: 
+[2025-03-22 06:39:47,819] ERROR: grmn (3/2018): Invalid data types: Share Repurchases=
+[2025-03-22 06:39:47,833] INFO: grmn (3/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:39:47,860] INFO: grmn (6/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:39:47,887] INFO: grmn (9/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:39:47,902] ERROR: Invalid numeric value for Share Repurchases: 
+[2025-03-22 06:39:47,902] ERROR: grmn (12/2018): Invalid data types: Share Repurchases=
+[2025-03-22 06:39:47,915] INFO: grmn (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:39:47,942] INFO: grmn (3/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:39:47,970] INFO: grmn (6/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:39:47,999] INFO: grmn (9/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:39:48,026] INFO: grmn (12/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:39:48,053] INFO: grmn (3/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:39:48,080] INFO: grmn (6/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:39:48,107] INFO: grmn (9/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:39:48,135] INFO: grmn (12/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:39:48,162] INFO: grmn (3/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:39:48,189] INFO: grmn (6/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:39:48,215] INFO: grmn (9/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:39:48,242] INFO: grmn (12/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:39:48,272] INFO: grmn (3/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:39:48,299] INFO: grmn (6/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:39:48,327] INFO: grmn (9/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:39:48,355] INFO: grmn (12/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:39:48,371] INFO: Trying adjusted date: 3/2023 (original: 4/2023)
+[2025-03-22 06:39:48,384] INFO: Found existing row with adjusted date: 3/2023
+[2025-03-22 06:39:48,398] INFO: grmn (3/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:39:48,412] INFO: Trying adjusted date: 6/2023 (original: 7/2023)
+[2025-03-22 06:39:48,425] INFO: Found existing row with adjusted date: 6/2023
+[2025-03-22 06:39:48,437] INFO: grmn (6/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:39:48,463] INFO: grmn (9/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:39:48,490] INFO: grmn (12/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:39:48,518] INFO: grmn (3/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:39:48,546] INFO: grmn (6/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:39:48,573] INFO: grmn (9/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:39:48,588] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 06:39:48,601] WARNING: grmn (12/2024): No existing record found(12/2024, 2024-12-28) - creating new one
+[2025-03-22 06:39:48,602] INFO: grmn (12/2024): Created new record with 19 non-zero financial metrics

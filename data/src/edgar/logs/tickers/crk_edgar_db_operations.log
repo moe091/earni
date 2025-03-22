@@ -1,0 +1,83 @@
+[2025-03-22 16:37:04,103] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 16:37:04,118] WARNING: crk (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 16:37:04,118] INFO: crk (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,135] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 16:37:04,151] WARNING: crk (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 16:37:04,152] INFO: crk (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,168] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 16:37:04,184] WARNING: crk (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 16:37:04,184] INFO: crk (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,201] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 16:37:04,215] WARNING: crk (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 16:37:04,216] INFO: crk (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,232] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 16:37:04,247] WARNING: crk (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 16:37:04,248] INFO: crk (6/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,264] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 16:37:04,280] WARNING: crk (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 16:37:04,280] INFO: crk (9/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,297] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 16:37:04,313] WARNING: crk (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 16:37:04,313] INFO: crk (12/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,330] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 16:37:04,345] WARNING: crk (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 16:37:04,345] INFO: crk (3/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,362] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 16:37:04,377] WARNING: crk (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 16:37:04,377] INFO: crk (6/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,409] INFO: crk (9/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,441] INFO: crk (12/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,472] INFO: crk (3/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,504] INFO: crk (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,537] INFO: crk (9/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,568] INFO: crk (12/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,601] INFO: crk (3/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,633] INFO: crk (6/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,665] INFO: crk (9/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,697] INFO: crk (12/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,732] INFO: crk (3/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,761] INFO: crk (6/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,796] INFO: crk (9/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,827] INFO: crk (12/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,859] INFO: crk (3/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,890] INFO: crk (6/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,921] INFO: crk (9/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,953] INFO: crk (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:04,985] INFO: crk (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,015] INFO: crk (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,046] INFO: crk (9/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,077] INFO: crk (12/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,109] INFO: crk (3/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,140] INFO: crk (6/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,157] INFO: Trying adjusted date: 10/2018 (original: 9/2018)
+[2025-03-22 16:37:05,171] WARNING: crk (9/2018): No existing record found(9/2018, 2018-09-30) - creating new one
+[2025-03-22 16:37:05,172] INFO: crk (9/2018): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,205] INFO: crk (12/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,240] INFO: crk (3/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,271] INFO: crk (6/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,303] INFO: crk (9/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,335] INFO: crk (12/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,366] INFO: crk (3/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,383] INFO: Trying adjusted date: 7/2020 (original: 6/2020)
+[2025-03-22 16:37:05,397] WARNING: crk (6/2020): No existing record found(6/2020, 2020-06-30) - creating new one
+[2025-03-22 16:37:05,398] INFO: crk (6/2020): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,429] INFO: crk (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,461] INFO: crk (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,493] INFO: crk (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,524] INFO: crk (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,554] INFO: crk (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,585] INFO: crk (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,617] INFO: crk (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,648] INFO: crk (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,680] INFO: crk (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,712] INFO: crk (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,743] INFO: crk (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,774] INFO: crk (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,805] INFO: crk (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,838] INFO: crk (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,870] INFO: crk (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,901] INFO: crk (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,933] INFO: crk (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:37:05,950] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 16:37:05,963] WARNING: crk (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 16:37:05,964] INFO: crk (12/2024): Created new record with 0 non-zero financial metrics

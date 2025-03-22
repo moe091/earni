@@ -1,0 +1,77 @@
+[2025-03-22 16:30:56,295] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 16:30:56,310] WARNING: mtg (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 16:30:56,311] INFO: mtg (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:30:56,330] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 16:30:56,346] WARNING: mtg (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 16:30:56,347] INFO: mtg (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:30:56,364] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 16:30:56,380] WARNING: mtg (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 16:30:56,381] INFO: mtg (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:30:56,398] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 16:30:56,415] WARNING: mtg (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 16:30:56,416] INFO: mtg (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:30:56,434] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 16:30:56,451] WARNING: mtg (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 16:30:56,451] INFO: mtg (6/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:30:56,469] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 16:30:56,484] WARNING: mtg (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 16:30:56,485] INFO: mtg (9/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:30:56,503] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 16:30:56,519] WARNING: mtg (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 16:30:56,520] INFO: mtg (12/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:30:56,538] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 16:30:56,553] WARNING: mtg (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 16:30:56,554] INFO: mtg (3/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:30:56,570] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 16:30:56,585] WARNING: mtg (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 16:30:56,586] INFO: mtg (6/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:30:56,618] INFO: mtg (9/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:56,651] INFO: mtg (12/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:56,683] INFO: mtg (3/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:56,715] INFO: mtg (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:56,746] INFO: mtg (9/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:56,777] INFO: mtg (12/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:56,809] INFO: mtg (3/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:56,840] INFO: mtg (6/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:56,871] INFO: mtg (9/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:56,902] INFO: mtg (12/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:56,936] INFO: mtg (3/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:56,967] INFO: mtg (6/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,000] INFO: mtg (9/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,030] INFO: mtg (12/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,062] INFO: mtg (3/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,094] INFO: mtg (6/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,124] INFO: mtg (9/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,155] INFO: mtg (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,189] INFO: mtg (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,223] INFO: mtg (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,253] INFO: mtg (9/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,285] INFO: mtg (12/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,317] INFO: mtg (3/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,349] INFO: mtg (6/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,382] INFO: mtg (9/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,413] INFO: mtg (12/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,444] INFO: mtg (3/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,476] INFO: mtg (6/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,516] INFO: mtg (9/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,552] INFO: mtg (12/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,585] INFO: mtg (3/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,620] INFO: mtg (6/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,653] INFO: mtg (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,685] INFO: mtg (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,718] INFO: mtg (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,751] INFO: mtg (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,785] INFO: mtg (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,818] INFO: mtg (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,850] INFO: mtg (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,882] INFO: mtg (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,914] INFO: mtg (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,946] INFO: mtg (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:57,978] INFO: mtg (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:58,010] INFO: mtg (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:58,041] INFO: mtg (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:58,074] INFO: mtg (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:58,106] INFO: mtg (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:58,138] INFO: mtg (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:58,171] INFO: mtg (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:30:58,203] INFO: mtg (12/2024): Updated existing record with 0 non-zero financial metrics

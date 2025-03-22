@@ -1,0 +1,63 @@
+[2025-03-22 00:59:16,309] ERROR: Invalid numeric value for Revenue: 
+[2025-03-22 00:59:16,309] ERROR: Invalid numeric value for Current Liabilities: 
+[2025-03-22 00:59:16,309] ERROR: Invalid numeric value for Net Income: 
+[2025-03-22 00:59:16,309] ERROR: Invalid numeric value for Total Liabilities: 
+[2025-03-22 00:59:16,309] ERROR: ice (6/2013): Invalid data types: Revenue=, Current Liabilities=, Net Income=, Total Liabilities=
+[2025-03-22 00:59:16,321] INFO: ice (6/2013): Updated existing record with 3 non-zero financial metrics
+[2025-03-22 00:59:16,336] ERROR: Invalid numeric value for Revenue: 
+[2025-03-22 00:59:16,337] ERROR: Invalid numeric value for Net Income: 
+[2025-03-22 00:59:16,337] ERROR: ice (9/2013): Invalid data types: Revenue=, Net Income=
+[2025-03-22 00:59:16,349] INFO: ice (9/2013): Updated existing record with 5 non-zero financial metrics
+[2025-03-22 00:59:16,366] WARNING: ice (12/2013): Found zero values for fields: Share Repurchases
+[2025-03-22 00:59:16,378] INFO: ice (12/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:59:16,402] INFO: ice (3/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:59:16,427] INFO: ice (6/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:59:16,452] INFO: ice (9/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:59:16,477] INFO: ice (12/2014): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 00:59:16,502] INFO: ice (3/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:59:16,527] INFO: ice (6/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:59:16,552] INFO: ice (9/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:59:16,577] INFO: ice (12/2015): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 00:59:16,591] WARNING: ice (3/2016): Found zero values for fields: Share Repurchases
+[2025-03-22 00:59:16,603] INFO: ice (3/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:59:16,628] INFO: ice (6/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:59:16,652] INFO: ice (9/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:59:16,677] INFO: ice (12/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 00:59:16,703] INFO: ice (3/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:59:16,727] INFO: ice (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:59:16,754] INFO: ice (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:59:16,782] INFO: ice (12/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 00:59:16,809] INFO: ice (3/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:59:16,836] INFO: ice (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:59:16,864] INFO: ice (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:59:16,889] INFO: ice (12/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:59:16,915] INFO: ice (3/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:59:16,939] INFO: ice (6/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:59:16,965] INFO: ice (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:59:16,990] INFO: ice (12/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:59:17,015] INFO: ice (3/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:59:17,040] INFO: ice (6/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:59:17,066] INFO: ice (9/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:59:17,090] INFO: ice (12/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:59:17,103] WARNING: ice (3/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 00:59:17,115] INFO: ice (3/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:59:17,141] INFO: ice (6/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:59:17,166] INFO: ice (9/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:59:17,191] INFO: ice (12/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:59:17,217] INFO: ice (3/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:59:17,242] INFO: ice (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:59:17,267] INFO: ice (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:59:17,292] INFO: ice (12/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:59:17,305] WARNING: ice (3/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 00:59:17,317] INFO: ice (3/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:59:17,342] INFO: ice (6/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:59:17,367] INFO: ice (9/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:59:17,381] WARNING: ice (12/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 00:59:17,393] INFO: ice (12/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:59:17,419] INFO: ice (3/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:59:17,444] INFO: ice (6/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:59:17,471] INFO: ice (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:59:17,484] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 00:59:17,496] WARNING: ice (12/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 00:59:17,496] WARNING: ice (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 00:59:17,497] INFO: ice (12/2024): Created new record with 17 non-zero financial metrics

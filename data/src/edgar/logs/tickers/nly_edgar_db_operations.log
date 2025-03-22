@@ -1,0 +1,87 @@
+[2025-03-22 09:32:43,495] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 09:32:43,509] WARNING: nly (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 09:32:43,509] INFO: nly (3/2010): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:32:43,536] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 09:32:43,550] WARNING: nly (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 09:32:43,551] INFO: nly (6/2010): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:32:43,570] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 09:32:43,583] WARNING: nly (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 09:32:43,583] INFO: nly (9/2010): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:32:43,602] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 09:32:43,616] WARNING: nly (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 09:32:43,616] INFO: nly (12/2010): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:32:43,631] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 09:32:43,645] WARNING: nly (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 09:32:43,645] INFO: nly (3/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:32:43,660] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 09:32:43,674] WARNING: nly (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 09:32:43,675] INFO: nly (6/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:32:43,689] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 09:32:43,703] WARNING: nly (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 09:32:43,703] INFO: nly (9/2011): Created new record with 10 non-zero financial metrics
+[2025-03-22 09:32:43,719] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 09:32:43,732] WARNING: nly (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 09:32:43,733] INFO: nly (12/2011): Created new record with 8 non-zero financial metrics
+[2025-03-22 09:32:43,747] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 09:32:43,761] WARNING: nly (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 09:32:43,761] INFO: nly (3/2012): Created new record with 8 non-zero financial metrics
+[2025-03-22 09:32:43,776] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 09:32:43,790] WARNING: nly (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 09:32:43,791] INFO: nly (6/2012): Created new record with 8 non-zero financial metrics
+[2025-03-22 09:32:43,818] INFO: nly (9/2012): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 09:32:43,848] INFO: nly (12/2012): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:32:43,877] INFO: nly (3/2013): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:32:43,905] INFO: nly (6/2013): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:32:43,933] INFO: nly (9/2013): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:32:43,963] INFO: nly (12/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 09:32:43,992] INFO: nly (3/2014): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:32:44,020] INFO: nly (6/2014): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:32:44,049] INFO: nly (9/2014): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:32:44,077] INFO: nly (12/2014): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:32:44,105] INFO: nly (3/2015): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:32:44,134] INFO: nly (6/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 09:32:44,163] INFO: nly (9/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:32:44,193] INFO: nly (12/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:32:44,222] INFO: nly (3/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:32:44,250] INFO: nly (6/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 09:32:44,280] INFO: nly (9/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 09:32:44,308] INFO: nly (12/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:32:44,336] INFO: nly (3/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 09:32:44,365] INFO: nly (6/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 09:32:44,393] INFO: nly (9/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 09:32:44,408] WARNING: nly (12/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 09:32:44,421] INFO: nly (12/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:32:44,450] INFO: nly (3/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:32:44,478] INFO: nly (6/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 09:32:44,507] INFO: nly (9/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 09:32:44,523] WARNING: nly (12/2018): Found zero values for fields: Share Repurchases
+[2025-03-22 09:32:44,536] INFO: nly (12/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:32:44,566] INFO: nly (3/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:32:44,594] INFO: nly (6/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 09:32:44,622] INFO: nly (9/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 09:32:44,651] INFO: nly (12/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:32:44,680] INFO: nly (3/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:32:44,710] INFO: nly (6/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 09:32:44,739] INFO: nly (9/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 09:32:44,768] INFO: nly (12/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:32:44,785] WARNING: nly (3/2021): Found zero values for fields: Goodwill
+[2025-03-22 09:32:44,798] INFO: nly (3/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:32:44,815] WARNING: nly (6/2021): Found zero values for fields: Goodwill
+[2025-03-22 09:32:44,829] INFO: nly (6/2021): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 09:32:44,845] WARNING: nly (9/2021): Found zero values for fields: Goodwill
+[2025-03-22 09:32:44,859] INFO: nly (9/2021): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 09:32:44,875] WARNING: nly (12/2021): Found zero values for fields: Share Repurchases, Goodwill
+[2025-03-22 09:32:44,888] INFO: nly (12/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:32:44,917] INFO: nly (3/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 09:32:44,945] INFO: nly (6/2022): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 09:32:44,974] INFO: nly (9/2022): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 09:32:44,990] WARNING: nly (12/2022): Found zero values for fields: Share Repurchases
+[2025-03-22 09:32:45,004] INFO: nly (12/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:32:45,033] INFO: nly (3/2023): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 09:32:45,061] INFO: nly (6/2023): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 09:32:45,089] INFO: nly (9/2023): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 09:32:45,119] INFO: nly (12/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:32:45,147] INFO: nly (3/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 09:32:45,175] INFO: nly (6/2024): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 09:32:45,203] INFO: nly (9/2024): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 09:32:45,232] INFO: nly (12/2024): Updated existing record with 10 non-zero financial metrics

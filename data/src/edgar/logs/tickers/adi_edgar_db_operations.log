@@ -1,0 +1,136 @@
+[2025-03-21 23:48:02,009] INFO: Trying adjusted date: 4/2010 (original: 5/2010)
+[2025-03-21 23:48:02,021] WARNING: adi (5/2010): No existing record found(5/2010, 2010-05-01) - creating new one
+[2025-03-21 23:48:02,022] INFO: adi (5/2010): Created new record with 15 non-zero financial metrics
+[2025-03-21 23:48:02,036] INFO: Trying adjusted date: 8/2010 (original: 7/2010)
+[2025-03-21 23:48:02,048] WARNING: adi (7/2010): No existing record found(7/2010, 2010-07-31) - creating new one
+[2025-03-21 23:48:02,049] INFO: adi (7/2010): Created new record with 15 non-zero financial metrics
+[2025-03-21 23:48:02,062] INFO: Trying adjusted date: 11/2010 (original: 10/2010)
+[2025-03-21 23:48:02,074] WARNING: adi (10/2010): No existing record found(10/2010, 2010-10-30) - creating new one
+[2025-03-21 23:48:02,074] INFO: adi (10/2010): Created new record with 20 non-zero financial metrics
+[2025-03-21 23:48:02,088] INFO: Trying adjusted date: 2/2011 (original: 1/2011)
+[2025-03-21 23:48:02,100] WARNING: adi (1/2011): No existing record found(1/2011, 2011-01-29) - creating new one
+[2025-03-21 23:48:02,100] INFO: adi (1/2011): Created new record with 20 non-zero financial metrics
+[2025-03-21 23:48:02,112] INFO: Trying adjusted date: 5/2011 (original: 4/2011)
+[2025-03-21 23:48:02,124] WARNING: adi (4/2011): No existing record found(4/2011, 2011-04-30) - creating new one
+[2025-03-21 23:48:02,124] INFO: adi (4/2011): Created new record with 15 non-zero financial metrics
+[2025-03-21 23:48:02,139] INFO: Trying adjusted date: 8/2011 (original: 7/2011)
+[2025-03-21 23:48:02,151] WARNING: adi (7/2011): No existing record found(7/2011, 2011-07-30) - creating new one
+[2025-03-21 23:48:02,151] INFO: adi (7/2011): Created new record with 15 non-zero financial metrics
+[2025-03-21 23:48:02,164] INFO: Trying adjusted date: 11/2011 (original: 10/2011)
+[2025-03-21 23:48:02,176] WARNING: adi (10/2011): No existing record found(10/2011, 2011-10-29) - creating new one
+[2025-03-21 23:48:02,176] INFO: adi (10/2011): Created new record with 20 non-zero financial metrics
+[2025-03-21 23:48:02,190] INFO: Trying adjusted date: 1/2012 (original: 2/2012)
+[2025-03-21 23:48:02,202] WARNING: adi (2/2012): No existing record found(2/2012, 2012-02-04) - creating new one
+[2025-03-21 23:48:02,202] INFO: adi (2/2012): Created new record with 20 non-zero financial metrics
+[2025-03-21 23:48:02,215] INFO: Trying adjusted date: 4/2012 (original: 5/2012)
+[2025-03-21 23:48:02,227] WARNING: adi (5/2012): No existing record found(5/2012, 2012-05-05) - creating new one
+[2025-03-21 23:48:02,227] INFO: adi (5/2012): Created new record with 15 non-zero financial metrics
+[2025-03-21 23:48:02,240] INFO: Trying adjusted date: 7/2012 (original: 8/2012)
+[2025-03-21 23:48:02,252] WARNING: adi (8/2012): No existing record found(8/2012, 2012-08-04) - creating new one
+[2025-03-21 23:48:02,252] INFO: adi (8/2012): Created new record with 15 non-zero financial metrics
+[2025-03-21 23:48:02,265] INFO: Trying adjusted date: 10/2012 (original: 11/2012)
+[2025-03-21 23:48:02,277] INFO: Found existing row with adjusted date: 10/2012
+[2025-03-21 23:48:02,289] INFO: adi (10/2012): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 23:48:02,301] INFO: Trying adjusted date: 1/2013 (original: 2/2013)
+[2025-03-21 23:48:02,313] INFO: Found existing row with adjusted date: 1/2013
+[2025-03-21 23:48:02,324] INFO: adi (1/2013): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 23:48:02,337] INFO: Trying adjusted date: 4/2013 (original: 5/2013)
+[2025-03-21 23:48:02,349] INFO: Found existing row with adjusted date: 4/2013
+[2025-03-21 23:48:02,360] INFO: adi (4/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:48:02,373] INFO: Trying adjusted date: 7/2013 (original: 8/2013)
+[2025-03-21 23:48:02,385] INFO: Found existing row with adjusted date: 7/2013
+[2025-03-21 23:48:02,397] INFO: adi (7/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:48:02,409] INFO: Trying adjusted date: 10/2013 (original: 11/2013)
+[2025-03-21 23:48:02,421] INFO: Found existing row with adjusted date: 10/2013
+[2025-03-21 23:48:02,433] INFO: adi (10/2013): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 23:48:02,445] INFO: Trying adjusted date: 1/2014 (original: 2/2014)
+[2025-03-21 23:48:02,456] INFO: Found existing row with adjusted date: 1/2014
+[2025-03-21 23:48:02,468] INFO: adi (1/2014): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 23:48:02,481] INFO: Trying adjusted date: 4/2014 (original: 5/2014)
+[2025-03-21 23:48:02,493] INFO: Found existing row with adjusted date: 4/2014
+[2025-03-21 23:48:02,505] INFO: adi (4/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:48:02,521] INFO: Trying adjusted date: 7/2014 (original: 8/2014)
+[2025-03-21 23:48:02,533] INFO: Found existing row with adjusted date: 7/2014
+[2025-03-21 23:48:02,545] INFO: adi (7/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:48:02,560] INFO: Trying adjusted date: 10/2014 (original: 11/2014)
+[2025-03-21 23:48:02,572] INFO: Found existing row with adjusted date: 10/2014
+[2025-03-21 23:48:02,584] INFO: adi (10/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 23:48:02,612] INFO: adi (1/2015): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 23:48:02,626] INFO: Trying adjusted date: 4/2015 (original: 5/2015)
+[2025-03-21 23:48:02,638] INFO: Found existing row with adjusted date: 4/2015
+[2025-03-21 23:48:02,649] INFO: adi (4/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:48:02,662] INFO: Trying adjusted date: 7/2015 (original: 8/2015)
+[2025-03-21 23:48:02,674] INFO: Found existing row with adjusted date: 7/2015
+[2025-03-21 23:48:02,686] INFO: adi (7/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:48:02,710] INFO: adi (10/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 23:48:02,735] INFO: adi (1/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 23:48:02,759] INFO: adi (4/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:48:02,784] INFO: adi (7/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:48:02,809] INFO: adi (10/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 23:48:02,841] INFO: adi (1/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 23:48:02,867] INFO: adi (4/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:48:02,891] INFO: adi (7/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:48:02,918] INFO: adi (10/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 23:48:02,931] INFO: Trying adjusted date: 1/2018 (original: 2/2018)
+[2025-03-21 23:48:02,943] INFO: Found existing row with adjusted date: 1/2018
+[2025-03-21 23:48:02,954] INFO: adi (1/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 23:48:02,967] INFO: Trying adjusted date: 4/2018 (original: 5/2018)
+[2025-03-21 23:48:02,979] INFO: Found existing row with adjusted date: 4/2018
+[2025-03-21 23:48:02,991] INFO: adi (4/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:48:03,004] INFO: Trying adjusted date: 7/2018 (original: 8/2018)
+[2025-03-21 23:48:03,016] INFO: Found existing row with adjusted date: 7/2018
+[2025-03-21 23:48:03,027] INFO: adi (7/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:48:03,040] INFO: Trying adjusted date: 10/2018 (original: 11/2018)
+[2025-03-21 23:48:03,051] INFO: Found existing row with adjusted date: 10/2018
+[2025-03-21 23:48:03,064] INFO: adi (10/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 23:48:03,077] INFO: Trying adjusted date: 1/2019 (original: 2/2019)
+[2025-03-21 23:48:03,089] INFO: Found existing row with adjusted date: 1/2019
+[2025-03-21 23:48:03,100] INFO: adi (1/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 23:48:03,113] INFO: Trying adjusted date: 4/2019 (original: 5/2019)
+[2025-03-21 23:48:03,125] INFO: Found existing row with adjusted date: 4/2019
+[2025-03-21 23:48:03,136] INFO: adi (4/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:48:03,149] INFO: Trying adjusted date: 7/2019 (original: 8/2019)
+[2025-03-21 23:48:03,161] INFO: Found existing row with adjusted date: 7/2019
+[2025-03-21 23:48:03,174] INFO: adi (7/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:48:03,187] INFO: Trying adjusted date: 10/2019 (original: 11/2019)
+[2025-03-21 23:48:03,199] INFO: Found existing row with adjusted date: 10/2019
+[2025-03-21 23:48:03,211] INFO: adi (10/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 23:48:03,224] INFO: Trying adjusted date: 1/2020 (original: 2/2020)
+[2025-03-21 23:48:03,235] INFO: Found existing row with adjusted date: 1/2020
+[2025-03-21 23:48:03,247] INFO: adi (1/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 23:48:03,260] INFO: Trying adjusted date: 4/2020 (original: 5/2020)
+[2025-03-21 23:48:03,272] INFO: Found existing row with adjusted date: 4/2020
+[2025-03-21 23:48:03,284] INFO: adi (4/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:48:03,297] INFO: Trying adjusted date: 7/2020 (original: 8/2020)
+[2025-03-21 23:48:03,308] INFO: Found existing row with adjusted date: 7/2020
+[2025-03-21 23:48:03,319] INFO: adi (7/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:48:03,343] INFO: adi (10/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 23:48:03,370] INFO: adi (1/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 23:48:03,382] INFO: Trying adjusted date: 4/2021 (original: 5/2021)
+[2025-03-21 23:48:03,394] INFO: Found existing row with adjusted date: 4/2021
+[2025-03-21 23:48:03,406] INFO: adi (4/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:48:03,430] INFO: adi (7/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:48:03,455] INFO: adi (10/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 23:48:03,480] INFO: adi (1/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 23:48:03,505] INFO: adi (4/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 23:48:03,530] INFO: adi (7/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 23:48:03,554] INFO: adi (10/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 23:48:03,579] INFO: adi (1/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 23:48:03,604] INFO: adi (4/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 23:48:03,628] INFO: adi (7/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 23:48:03,653] INFO: adi (10/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 23:48:03,666] INFO: Trying adjusted date: 1/2024 (original: 2/2024)
+[2025-03-21 23:48:03,678] INFO: Found existing row with adjusted date: 1/2024
+[2025-03-21 23:48:03,690] INFO: adi (1/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 23:48:03,702] INFO: Trying adjusted date: 4/2024 (original: 5/2024)
+[2025-03-21 23:48:03,714] INFO: Found existing row with adjusted date: 4/2024
+[2025-03-21 23:48:03,726] INFO: adi (4/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:48:03,739] INFO: Trying adjusted date: 7/2024 (original: 8/2024)
+[2025-03-21 23:48:03,750] INFO: Found existing row with adjusted date: 7/2024
+[2025-03-21 23:48:03,762] INFO: adi (7/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 23:48:03,775] INFO: Trying adjusted date: 10/2024 (original: 11/2024)
+[2025-03-21 23:48:03,787] INFO: Found existing row with adjusted date: 10/2024
+[2025-03-21 23:48:03,799] INFO: adi (10/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 23:48:03,812] INFO: Trying adjusted date: 1/2025 (original: 2/2025)
+[2025-03-21 23:48:03,823] WARNING: adi (2/2025): No existing record found(2/2025, 2025-02-01) - creating new one
+[2025-03-21 23:48:03,824] INFO: adi (2/2025): Created new record with 19 non-zero financial metrics

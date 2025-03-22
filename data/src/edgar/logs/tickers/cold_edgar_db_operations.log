@@ -1,0 +1,30 @@
+[2025-03-22 12:21:45,962] INFO: cold (3/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:21:45,993] INFO: cold (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:21:46,022] INFO: cold (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:21:46,052] INFO: cold (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:21:46,082] INFO: cold (3/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:21:46,113] INFO: cold (6/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:21:46,142] INFO: cold (9/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:21:46,173] INFO: cold (12/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:21:46,203] INFO: cold (3/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:21:46,230] INFO: cold (6/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:21:46,259] INFO: cold (9/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:21:46,289] INFO: cold (12/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:21:46,319] INFO: cold (3/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:21:46,349] INFO: cold (6/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:21:46,379] INFO: cold (9/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:21:46,409] INFO: cold (12/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:21:46,441] INFO: cold (3/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:21:46,471] INFO: cold (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:21:46,502] INFO: cold (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:21:46,532] INFO: cold (12/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:21:46,562] INFO: cold (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:21:46,594] INFO: cold (6/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:21:46,625] INFO: cold (9/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:21:46,657] INFO: cold (12/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:21:46,687] INFO: cold (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:21:46,715] INFO: cold (6/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:21:46,748] INFO: cold (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:21:46,765] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 12:21:46,779] WARNING: cold (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 12:21:46,779] INFO: cold (12/2024): Created new record with 18 non-zero financial metrics

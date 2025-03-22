@@ -1,0 +1,67 @@
+[2025-03-22 10:01:34,085] INFO: Trying adjusted date: 10/2014 (original: 9/2014)
+[2025-03-22 10:01:34,097] WARNING: czr (9/2014): No existing record found(9/2014, 2014-09-30) - creating new one
+[2025-03-22 10:01:34,098] INFO: czr (9/2014): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:01:34,116] INFO: Trying adjusted date: 1/2015 (original: 12/2014)
+[2025-03-22 10:01:34,129] WARNING: czr (12/2014): No existing record found(12/2014, 2014-12-31) - creating new one
+[2025-03-22 10:01:34,129] INFO: czr (12/2014): Created new record with 17 non-zero financial metrics
+[2025-03-22 10:01:34,145] INFO: Trying adjusted date: 4/2015 (original: 3/2015)
+[2025-03-22 10:01:34,159] WARNING: czr (3/2015): No existing record found(3/2015, 2015-03-31) - creating new one
+[2025-03-22 10:01:34,160] INFO: czr (3/2015): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:01:34,174] INFO: Trying adjusted date: 7/2015 (original: 6/2015)
+[2025-03-22 10:01:34,187] WARNING: czr (6/2015): No existing record found(6/2015, 2015-06-30) - creating new one
+[2025-03-22 10:01:34,188] INFO: czr (6/2015): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:01:34,203] INFO: Trying adjusted date: 10/2015 (original: 9/2015)
+[2025-03-22 10:01:34,217] WARNING: czr (9/2015): No existing record found(9/2015, 2015-09-30) - creating new one
+[2025-03-22 10:01:34,217] INFO: czr (9/2015): Created new record with 12 non-zero financial metrics
+[2025-03-22 10:01:34,233] INFO: Trying adjusted date: 1/2016 (original: 12/2015)
+[2025-03-22 10:01:34,246] WARNING: czr (12/2015): No existing record found(12/2015, 2015-12-31) - creating new one
+[2025-03-22 10:01:34,247] INFO: czr (12/2015): Created new record with 16 non-zero financial metrics
+[2025-03-22 10:01:34,264] INFO: Trying adjusted date: 4/2016 (original: 3/2016)
+[2025-03-22 10:01:34,278] WARNING: czr (3/2016): No existing record found(3/2016, 2016-03-31) - creating new one
+[2025-03-22 10:01:34,278] INFO: czr (3/2016): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:01:34,294] INFO: Trying adjusted date: 7/2016 (original: 6/2016)
+[2025-03-22 10:01:34,308] WARNING: czr (6/2016): No existing record found(6/2016, 2016-06-30) - creating new one
+[2025-03-22 10:01:34,308] INFO: czr (6/2016): Created new record with 13 non-zero financial metrics
+[2025-03-22 10:01:34,336] INFO: czr (9/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:01:34,366] INFO: czr (12/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:01:34,396] INFO: czr (3/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:01:34,425] INFO: czr (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:01:34,453] INFO: czr (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:01:34,482] INFO: czr (12/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:01:34,510] INFO: czr (3/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:01:34,539] INFO: czr (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:01:34,568] INFO: czr (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:01:34,598] INFO: czr (12/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:01:34,627] INFO: czr (3/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:01:34,655] INFO: czr (6/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:01:34,684] INFO: czr (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:01:34,712] INFO: czr (12/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:01:34,741] INFO: czr (3/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:01:34,769] INFO: czr (6/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:01:34,798] INFO: czr (9/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:01:34,813] WARNING: czr (12/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 10:01:34,827] INFO: czr (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:01:34,856] INFO: czr (3/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:01:34,885] INFO: czr (6/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:01:34,900] INFO: Trying adjusted date: 10/2021 (original: 9/2021)
+[2025-03-22 10:01:34,914] WARNING: czr (9/2021): No existing record found(9/2021, 2021-09-30) - creating new one
+[2025-03-22 10:01:34,914] INFO: czr (9/2021): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:01:34,942] INFO: czr (12/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:01:34,970] INFO: czr (3/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:01:34,998] INFO: czr (6/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:01:35,032] INFO: czr (9/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:01:35,063] INFO: czr (12/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:01:35,092] INFO: czr (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:01:35,122] INFO: czr (6/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:01:35,152] INFO: czr (9/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:01:35,167] INFO: Trying adjusted date: 1/2024 (original: 12/2023)
+[2025-03-22 10:01:33,783] WARNING: czr (12/2023): No existing record found(12/2023, 2023-12-31) - creating new one
+[2025-03-22 10:01:33,783] INFO: czr (12/2023): Created new record with 17 non-zero financial metrics
+[2025-03-22 10:01:33,799] INFO: Trying adjusted date: 4/2024 (original: 3/2024)
+[2025-03-22 10:01:33,812] WARNING: czr (3/2024): No existing record found(3/2024, 2024-03-31) - creating new one
+[2025-03-22 10:01:33,812] INFO: czr (3/2024): Created new record with 19 non-zero financial metrics
+[2025-03-22 10:01:33,842] INFO: czr (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:01:33,871] INFO: czr (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:01:33,886] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 10:01:33,900] WARNING: czr (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 10:01:33,901] INFO: czr (12/2024): Created new record with 19 non-zero financial metrics

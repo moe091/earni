@@ -1,0 +1,81 @@
+[2025-03-22 16:24:15,787] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 16:24:15,802] WARNING: ryn (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 16:24:15,802] INFO: ryn (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:24:15,819] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 16:24:15,834] WARNING: ryn (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 16:24:15,835] INFO: ryn (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:24:15,852] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 16:24:15,867] WARNING: ryn (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 16:24:15,867] INFO: ryn (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:24:15,884] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 16:24:15,899] WARNING: ryn (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 16:24:15,899] INFO: ryn (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:24:15,917] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 16:24:15,932] WARNING: ryn (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 16:24:15,932] INFO: ryn (6/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:24:15,953] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 16:24:15,968] WARNING: ryn (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 16:24:15,969] INFO: ryn (9/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:24:15,986] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 16:24:16,000] WARNING: ryn (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 16:24:16,001] INFO: ryn (12/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,018] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 16:24:16,032] WARNING: ryn (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 16:24:16,032] INFO: ryn (3/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,049] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 16:24:16,063] WARNING: ryn (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 16:24:16,063] INFO: ryn (6/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,095] INFO: ryn (9/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,126] INFO: ryn (12/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,162] INFO: ryn (3/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,194] INFO: ryn (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,228] INFO: ryn (9/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,260] INFO: ryn (12/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,292] INFO: ryn (3/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,324] INFO: ryn (6/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,356] INFO: ryn (9/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,388] INFO: ryn (12/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,420] INFO: ryn (3/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,451] INFO: ryn (6/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,481] INFO: ryn (9/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,512] INFO: ryn (12/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,544] INFO: ryn (3/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,575] INFO: ryn (6/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,606] INFO: ryn (9/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,637] INFO: ryn (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,668] INFO: ryn (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,699] INFO: ryn (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,730] INFO: ryn (9/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,761] INFO: ryn (12/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,791] INFO: ryn (3/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,823] INFO: ryn (6/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,855] INFO: ryn (9/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,888] INFO: ryn (12/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,919] INFO: ryn (3/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,951] INFO: ryn (6/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:16,983] INFO: ryn (9/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:17,015] INFO: ryn (12/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:17,045] INFO: ryn (3/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:17,061] INFO: Trying adjusted date: 7/2020 (original: 6/2020)
+[2025-03-22 16:24:17,076] WARNING: ryn (6/2020): No existing record found(6/2020, 2020-06-30) - creating new one
+[2025-03-22 16:24:17,077] INFO: ryn (6/2020): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:24:17,107] INFO: ryn (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:17,140] INFO: ryn (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:17,171] INFO: ryn (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:17,203] INFO: ryn (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:17,235] INFO: ryn (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:17,267] INFO: ryn (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:17,299] INFO: ryn (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:17,330] INFO: ryn (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:17,363] INFO: ryn (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:17,398] INFO: ryn (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:17,430] INFO: ryn (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:17,463] INFO: ryn (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:17,495] INFO: ryn (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:17,529] INFO: ryn (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:17,563] INFO: ryn (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:17,596] INFO: ryn (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:17,629] INFO: ryn (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:24:17,647] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 16:24:17,663] WARNING: ryn (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 16:24:17,663] INFO: ryn (12/2024): Created new record with 0 non-zero financial metrics

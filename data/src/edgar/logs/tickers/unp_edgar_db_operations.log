@@ -1,0 +1,81 @@
+[2025-03-21 22:39:57,225] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-21 22:39:57,236] WARNING: unp (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-21 22:39:57,237] INFO: unp (3/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 22:39:57,251] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-21 22:39:57,263] WARNING: unp (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-21 22:39:57,264] INFO: unp (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 22:39:57,276] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-21 22:39:57,288] WARNING: unp (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-21 22:39:57,289] INFO: unp (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 22:39:57,302] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-21 22:39:57,313] WARNING: unp (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-21 22:39:57,314] INFO: unp (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 22:39:57,327] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-21 22:39:57,339] WARNING: unp (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-21 22:39:57,339] INFO: unp (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-21 22:39:57,352] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-21 22:39:57,364] WARNING: unp (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-21 22:39:57,365] INFO: unp (6/2011): Created new record with 11 non-zero financial metrics
+[2025-03-21 22:39:57,378] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-21 22:39:57,389] WARNING: unp (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-21 22:39:57,390] INFO: unp (9/2011): Created new record with 11 non-zero financial metrics
+[2025-03-21 22:39:57,403] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-21 22:39:57,414] WARNING: unp (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-21 22:39:57,415] INFO: unp (12/2011): Created new record with 16 non-zero financial metrics
+[2025-03-21 22:39:57,427] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-21 22:39:57,438] WARNING: unp (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-21 22:39:57,439] INFO: unp (3/2012): Created new record with 15 non-zero financial metrics
+[2025-03-21 22:39:57,451] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-21 22:39:57,463] WARNING: unp (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-21 22:39:57,464] INFO: unp (6/2012): Created new record with 11 non-zero financial metrics
+[2025-03-21 22:39:57,488] INFO: unp (9/2012): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:57,512] INFO: unp (12/2012): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:39:57,538] INFO: unp (3/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:39:57,562] INFO: unp (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-21 22:39:57,588] INFO: unp (9/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:57,613] INFO: unp (12/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:39:57,638] INFO: unp (3/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 22:39:57,662] INFO: unp (6/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:57,688] INFO: unp (9/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:57,711] INFO: unp (12/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:39:57,736] INFO: unp (3/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 22:39:57,760] INFO: unp (6/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:57,783] INFO: unp (9/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:57,808] INFO: unp (12/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:39:57,832] INFO: unp (3/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 22:39:57,856] INFO: unp (6/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:57,879] INFO: unp (9/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:57,904] INFO: unp (12/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:39:57,928] INFO: unp (3/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 22:39:57,952] INFO: unp (6/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:57,976] INFO: unp (9/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:58,001] INFO: unp (12/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:39:58,025] INFO: unp (3/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 22:39:58,050] INFO: unp (6/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:58,074] INFO: unp (9/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:58,099] INFO: unp (12/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:39:58,124] INFO: unp (3/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 22:39:58,147] INFO: unp (6/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:58,171] INFO: unp (9/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:58,196] INFO: unp (12/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:39:58,220] INFO: unp (3/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:39:58,245] INFO: unp (6/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:58,270] INFO: unp (9/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:58,294] INFO: unp (12/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:39:58,319] INFO: unp (3/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:39:58,344] INFO: unp (6/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:58,369] INFO: unp (9/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:58,393] INFO: unp (12/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:39:58,419] INFO: unp (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:39:58,444] INFO: unp (6/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:58,470] INFO: unp (9/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:58,496] INFO: unp (12/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:39:58,521] INFO: unp (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:39:58,545] INFO: unp (6/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:58,570] INFO: unp (9/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:58,594] INFO: unp (12/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:39:58,606] WARNING: unp (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-21 22:39:58,619] INFO: unp (3/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:39:58,644] INFO: unp (6/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:58,671] INFO: unp (9/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 22:39:58,696] INFO: unp (12/2024): Updated existing record with 16 non-zero financial metrics

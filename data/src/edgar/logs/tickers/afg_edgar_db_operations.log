@@ -1,0 +1,82 @@
+[2025-03-22 09:19:25,958] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 09:19:25,971] WARNING: afg (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 09:19:25,972] INFO: afg (6/2010): Created new record with 11 non-zero financial metrics
+[2025-03-22 09:19:25,988] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 09:19:26,003] WARNING: afg (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 09:19:26,003] INFO: afg (9/2010): Created new record with 11 non-zero financial metrics
+[2025-03-22 09:19:26,018] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 09:19:26,031] WARNING: afg (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 09:19:26,032] INFO: afg (12/2010): Created new record with 15 non-zero financial metrics
+[2025-03-22 09:19:26,047] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 09:19:26,060] WARNING: afg (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 09:19:26,061] INFO: afg (3/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 09:19:26,076] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 09:19:26,090] WARNING: afg (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 09:19:26,091] INFO: afg (6/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 09:19:26,107] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 09:19:26,120] WARNING: afg (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 09:19:26,121] INFO: afg (9/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 09:19:26,135] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 09:19:26,148] WARNING: afg (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 09:19:26,149] INFO: afg (12/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 09:19:26,165] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 09:19:26,179] WARNING: afg (3/2012): No existing record found(3/2012, 2012-03-21) - creating new one
+[2025-03-22 09:19:26,180] INFO: afg (3/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 09:19:26,195] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 09:19:26,209] WARNING: afg (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 09:19:26,209] INFO: afg (6/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 09:19:26,241] INFO: afg (9/2012): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:26,270] INFO: afg (12/2012): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:19:26,299] INFO: afg (3/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:19:26,329] INFO: afg (6/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:26,358] INFO: afg (9/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:26,386] INFO: afg (12/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:19:26,415] INFO: afg (3/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:19:26,444] INFO: afg (6/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:26,472] INFO: afg (9/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:26,500] INFO: afg (12/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:19:26,529] INFO: afg (3/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:19:26,559] INFO: afg (6/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:26,588] INFO: afg (9/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:26,616] INFO: afg (12/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:19:26,646] INFO: afg (3/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:19:26,677] INFO: afg (6/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:26,706] INFO: afg (9/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:26,734] INFO: afg (12/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:19:26,749] WARNING: afg (3/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 09:19:26,762] INFO: afg (3/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:19:26,791] INFO: afg (6/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:26,819] INFO: afg (9/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:26,835] WARNING: afg (12/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 09:19:26,848] INFO: afg (12/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:19:26,877] INFO: afg (3/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:19:26,905] INFO: afg (6/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:26,933] INFO: afg (9/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:26,962] INFO: afg (12/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:19:26,990] INFO: afg (3/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:19:27,018] INFO: afg (6/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:27,046] INFO: afg (9/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:27,063] WARNING: afg (12/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 09:19:27,076] INFO: afg (12/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:19:27,104] INFO: afg (3/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:19:27,135] INFO: afg (6/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:27,164] INFO: afg (9/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:27,192] INFO: afg (12/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:19:27,221] INFO: afg (3/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:19:27,249] INFO: afg (6/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:27,278] INFO: afg (9/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:27,308] INFO: afg (12/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:19:27,337] INFO: afg (3/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:19:27,365] INFO: afg (6/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:27,393] INFO: afg (9/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:27,423] INFO: afg (12/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:19:27,450] INFO: afg (3/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:19:27,480] INFO: afg (6/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:27,509] INFO: afg (9/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:27,537] INFO: afg (12/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:19:27,552] WARNING: afg (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 09:19:27,566] INFO: afg (3/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:19:27,594] INFO: afg (6/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:27,622] INFO: afg (9/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:19:27,637] WARNING: afg (12/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 09:19:27,651] INFO: afg (12/2024): Updated existing record with 14 non-zero financial metrics

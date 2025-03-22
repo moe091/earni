@@ -1,0 +1,119 @@
+[2025-03-22 01:41:29,301] INFO: Trying adjusted date: 6/2010 (original: 7/2010)
+[2025-03-22 01:41:29,313] WARNING: cdns (7/2010): No existing record found(7/2010, 2010-07-03) - creating new one
+[2025-03-22 01:41:29,313] INFO: cdns (7/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 01:41:29,328] INFO: Trying adjusted date: 9/2010 (original: 10/2010)
+[2025-03-22 01:41:29,341] WARNING: cdns (10/2010): No existing record found(10/2010, 2010-10-02) - creating new one
+[2025-03-22 01:41:29,342] INFO: cdns (10/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 01:41:29,355] INFO: Trying adjusted date: 12/2010 (original: 1/2011)
+[2025-03-22 01:41:29,368] WARNING: cdns (1/2011): No existing record found(1/2011, 2011-01-01) - creating new one
+[2025-03-22 01:41:29,368] INFO: cdns (1/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 01:41:29,382] INFO: Trying adjusted date: 3/2011 (original: 4/2011)
+[2025-03-22 01:41:29,394] WARNING: cdns (4/2011): No existing record found(4/2011, 2011-04-02) - creating new one
+[2025-03-22 01:41:29,395] INFO: cdns (4/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 01:41:29,408] INFO: Trying adjusted date: 6/2011 (original: 7/2011)
+[2025-03-22 01:41:29,421] WARNING: cdns (7/2011): Found zero values for fields: Share Repurchases
+[2025-03-22 01:41:29,421] WARNING: cdns (7/2011): No existing record found(7/2011, 2011-07-02) - creating new one
+[2025-03-22 01:41:29,421] INFO: cdns (7/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 01:41:29,436] INFO: Trying adjusted date: 9/2011 (original: 10/2011)
+[2025-03-22 01:41:29,448] WARNING: cdns (10/2011): No existing record found(10/2011, 2011-10-01) - creating new one
+[2025-03-22 01:41:29,448] INFO: cdns (10/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 01:41:29,462] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 01:41:29,474] WARNING: cdns (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 01:41:29,475] INFO: cdns (12/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 01:41:29,488] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 01:41:29,500] WARNING: cdns (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 01:41:29,501] INFO: cdns (3/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 01:41:29,514] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 01:41:29,527] WARNING: cdns (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 01:41:29,527] INFO: cdns (6/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 01:41:29,552] INFO: cdns (9/2012): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 01:41:29,565] WARNING: cdns (12/2012): Found zero values for fields: Share Repurchases
+[2025-03-22 01:41:29,578] INFO: cdns (12/2012): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 01:41:29,603] INFO: cdns (3/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 01:41:29,628] INFO: cdns (6/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 01:41:29,654] INFO: cdns (9/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 01:41:29,667] WARNING: cdns (12/2013): Found zero values for fields: Share Repurchases
+[2025-03-22 01:41:29,680] INFO: cdns (12/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 01:41:29,706] INFO: cdns (3/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 01:41:29,731] INFO: cdns (6/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 01:41:29,757] INFO: cdns (9/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 01:41:29,771] INFO: Trying adjusted date: 12/2014 (original: 1/2015)
+[2025-03-22 01:41:29,783] INFO: Found existing row with adjusted date: 12/2014
+[2025-03-22 01:41:29,795] INFO: cdns (12/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 01:41:29,809] INFO: Trying adjusted date: 3/2015 (original: 4/2015)
+[2025-03-22 01:41:29,822] INFO: Found existing row with adjusted date: 3/2015
+[2025-03-22 01:41:29,834] INFO: cdns (3/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 01:41:29,847] INFO: Trying adjusted date: 6/2015 (original: 7/2015)
+[2025-03-22 01:41:29,860] INFO: Found existing row with adjusted date: 6/2015
+[2025-03-22 01:41:29,873] INFO: cdns (6/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 01:41:29,886] INFO: Trying adjusted date: 9/2015 (original: 10/2015)
+[2025-03-22 01:41:29,898] INFO: Found existing row with adjusted date: 9/2015
+[2025-03-22 01:41:29,910] INFO: cdns (9/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 01:41:29,923] INFO: Trying adjusted date: 12/2015 (original: 1/2016)
+[2025-03-22 01:41:29,935] INFO: Found existing row with adjusted date: 12/2015
+[2025-03-22 01:41:29,947] INFO: cdns (12/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 01:41:29,961] INFO: Trying adjusted date: 3/2016 (original: 4/2016)
+[2025-03-22 01:41:29,973] INFO: Found existing row with adjusted date: 3/2016
+[2025-03-22 01:41:29,985] INFO: cdns (3/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 01:41:29,999] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-22 01:41:30,012] INFO: Found existing row with adjusted date: 6/2016
+[2025-03-22 01:41:30,024] INFO: cdns (6/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 01:41:30,038] INFO: Trying adjusted date: 9/2016 (original: 10/2016)
+[2025-03-22 01:41:30,049] INFO: Found existing row with adjusted date: 9/2016
+[2025-03-22 01:41:30,061] INFO: cdns (9/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 01:41:30,086] INFO: cdns (12/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 01:41:30,100] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-22 01:41:30,112] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-22 01:41:30,112] WARNING: cdns (3/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 01:41:30,124] INFO: cdns (3/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 01:41:30,137] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-22 01:41:30,150] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-22 01:41:30,162] INFO: cdns (6/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 01:41:30,186] INFO: cdns (9/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 01:41:30,211] INFO: cdns (12/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 01:41:30,236] INFO: cdns (3/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 01:41:30,264] INFO: cdns (6/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 01:41:30,291] INFO: cdns (9/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 01:41:30,318] INFO: cdns (12/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 01:41:30,344] INFO: cdns (3/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 01:41:30,370] INFO: cdns (6/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 01:41:30,396] INFO: cdns (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 01:41:30,422] INFO: cdns (12/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 01:41:30,447] INFO: cdns (3/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 01:41:30,473] INFO: cdns (6/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 01:41:30,499] INFO: cdns (9/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 01:41:30,513] INFO: Trying adjusted date: 12/2020 (original: 1/2021)
+[2025-03-22 01:41:30,525] INFO: Found existing row with adjusted date: 12/2020
+[2025-03-22 01:41:30,537] INFO: cdns (12/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 01:41:30,551] INFO: Trying adjusted date: 3/2021 (original: 4/2021)
+[2025-03-22 01:41:30,564] INFO: Found existing row with adjusted date: 3/2021
+[2025-03-22 01:41:30,576] INFO: cdns (3/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 01:41:30,589] INFO: Trying adjusted date: 6/2021 (original: 7/2021)
+[2025-03-22 01:41:30,601] INFO: Found existing row with adjusted date: 6/2021
+[2025-03-22 01:41:30,613] INFO: cdns (6/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 01:41:30,626] INFO: Trying adjusted date: 9/2021 (original: 10/2021)
+[2025-03-22 01:41:30,638] INFO: Found existing row with adjusted date: 9/2021
+[2025-03-22 01:41:30,650] INFO: cdns (9/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 01:41:30,663] INFO: Trying adjusted date: 12/2021 (original: 1/2022)
+[2025-03-22 01:41:30,676] INFO: Found existing row with adjusted date: 12/2021
+[2025-03-22 01:41:30,688] INFO: cdns (12/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 01:41:30,702] INFO: Trying adjusted date: 3/2022 (original: 4/2022)
+[2025-03-22 01:41:30,714] INFO: Found existing row with adjusted date: 3/2022
+[2025-03-22 01:41:30,726] INFO: cdns (3/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 01:41:30,739] INFO: Trying adjusted date: 6/2022 (original: 7/2022)
+[2025-03-22 01:41:30,750] INFO: Found existing row with adjusted date: 6/2022
+[2025-03-22 01:41:30,762] INFO: cdns (6/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 01:41:30,775] INFO: Trying adjusted date: 9/2022 (original: 10/2022)
+[2025-03-22 01:41:30,788] INFO: Found existing row with adjusted date: 9/2022
+[2025-03-22 01:41:30,799] INFO: cdns (9/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 01:41:30,824] INFO: cdns (12/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 01:41:30,850] INFO: cdns (3/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 01:41:30,875] INFO: cdns (6/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 01:41:30,901] INFO: cdns (9/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 01:41:30,930] INFO: cdns (12/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 01:41:30,956] INFO: cdns (3/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 01:41:30,982] INFO: cdns (6/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 01:41:31,007] INFO: cdns (9/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 01:41:31,021] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 01:41:31,033] WARNING: cdns (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 01:41:31,034] INFO: cdns (12/2024): Created new record with 20 non-zero financial metrics

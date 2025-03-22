@@ -1,0 +1,109 @@
+[2025-03-22 16:25:12,469] INFO: Trying adjusted date: 6/2011 (original: 7/2011)
+[2025-03-22 16:25:12,484] WARNING: expo (7/2011): No existing record found(7/2011, 2011-07-01) - creating new one
+[2025-03-22 16:25:12,484] INFO: expo (7/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:25:12,501] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 16:25:12,516] WARNING: expo (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 16:25:12,516] INFO: expo (9/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:25:12,533] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 16:25:12,548] WARNING: expo (12/2011): No existing record found(12/2011, 2011-12-30) - creating new one
+[2025-03-22 16:25:12,548] INFO: expo (12/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:25:12,565] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 16:25:12,580] WARNING: expo (3/2012): No existing record found(3/2012, 2012-03-30) - creating new one
+[2025-03-22 16:25:12,581] INFO: expo (3/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:25:12,599] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 16:25:12,614] WARNING: expo (6/2012): No existing record found(6/2012, 2012-06-29) - creating new one
+[2025-03-22 16:25:12,614] INFO: expo (6/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:25:12,647] INFO: expo (9/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:12,678] INFO: expo (12/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:12,710] INFO: expo (3/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:12,742] INFO: expo (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:12,776] INFO: expo (9/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:12,792] INFO: Trying adjusted date: 12/2013 (original: 1/2014)
+[2025-03-22 16:25:12,807] INFO: Found existing row with adjusted date: 12/2013
+[2025-03-22 16:25:12,822] INFO: expo (12/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:12,838] INFO: Trying adjusted date: 3/2014 (original: 4/2014)
+[2025-03-22 16:25:12,853] INFO: Found existing row with adjusted date: 3/2014
+[2025-03-22 16:25:12,867] INFO: expo (3/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:12,888] INFO: Trying adjusted date: 6/2014 (original: 7/2014)
+[2025-03-22 16:25:12,903] INFO: Found existing row with adjusted date: 6/2014
+[2025-03-22 16:25:12,918] INFO: expo (6/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:12,936] INFO: Trying adjusted date: 9/2014 (original: 10/2014)
+[2025-03-22 16:25:12,950] INFO: Found existing row with adjusted date: 9/2014
+[2025-03-22 16:25:12,965] INFO: expo (9/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:12,983] INFO: Trying adjusted date: 12/2014 (original: 1/2015)
+[2025-03-22 16:25:12,998] INFO: Found existing row with adjusted date: 12/2014
+[2025-03-22 16:25:13,012] INFO: expo (12/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,030] INFO: Trying adjusted date: 3/2015 (original: 4/2015)
+[2025-03-22 16:25:13,045] INFO: Found existing row with adjusted date: 3/2015
+[2025-03-22 16:25:13,059] INFO: expo (3/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,076] INFO: Trying adjusted date: 6/2015 (original: 7/2015)
+[2025-03-22 16:25:13,089] INFO: Found existing row with adjusted date: 6/2015
+[2025-03-22 16:25:13,102] INFO: expo (6/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,118] INFO: Trying adjusted date: 9/2015 (original: 10/2015)
+[2025-03-22 16:25:13,132] INFO: Found existing row with adjusted date: 9/2015
+[2025-03-22 16:25:13,145] INFO: expo (9/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,162] INFO: Trying adjusted date: 12/2015 (original: 1/2016)
+[2025-03-22 16:25:13,176] INFO: Found existing row with adjusted date: 12/2015
+[2025-03-22 16:25:13,191] INFO: expo (12/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,208] INFO: Trying adjusted date: 3/2016 (original: 4/2016)
+[2025-03-22 16:25:13,222] INFO: Found existing row with adjusted date: 3/2016
+[2025-03-22 16:25:13,237] INFO: expo (3/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,253] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-22 16:25:13,267] INFO: Found existing row with adjusted date: 6/2016
+[2025-03-22 16:25:13,282] INFO: expo (6/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,312] INFO: expo (9/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,342] INFO: expo (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,373] INFO: expo (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,403] INFO: expo (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,433] INFO: expo (9/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,464] INFO: expo (12/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,496] INFO: expo (3/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,527] INFO: expo (6/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,558] INFO: expo (9/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,588] INFO: expo (12/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,619] INFO: expo (3/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,650] INFO: expo (6/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,681] INFO: expo (9/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,698] INFO: Trying adjusted date: 12/2019 (original: 1/2020)
+[2025-03-22 16:25:13,712] INFO: Found existing row with adjusted date: 12/2019
+[2025-03-22 16:25:13,727] INFO: expo (12/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,743] INFO: Trying adjusted date: 3/2020 (original: 4/2020)
+[2025-03-22 16:25:13,758] INFO: Found existing row with adjusted date: 3/2020
+[2025-03-22 16:25:13,772] INFO: expo (3/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,787] INFO: Trying adjusted date: 6/2020 (original: 7/2020)
+[2025-03-22 16:25:13,802] INFO: Found existing row with adjusted date: 6/2020
+[2025-03-22 16:25:13,816] INFO: expo (6/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,832] INFO: Trying adjusted date: 9/2020 (original: 10/2020)
+[2025-03-22 16:25:13,847] INFO: Found existing row with adjusted date: 9/2020
+[2025-03-22 16:25:13,861] INFO: expo (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,878] INFO: Trying adjusted date: 12/2020 (original: 1/2021)
+[2025-03-22 16:25:13,893] INFO: Found existing row with adjusted date: 12/2020
+[2025-03-22 16:25:13,907] INFO: expo (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,923] INFO: Trying adjusted date: 3/2021 (original: 4/2021)
+[2025-03-22 16:25:13,937] INFO: Found existing row with adjusted date: 3/2021
+[2025-03-22 16:25:13,951] INFO: expo (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:13,967] INFO: Trying adjusted date: 6/2021 (original: 7/2021)
+[2025-03-22 16:25:13,981] INFO: Found existing row with adjusted date: 6/2021
+[2025-03-22 16:25:13,995] INFO: expo (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:14,012] INFO: Trying adjusted date: 9/2021 (original: 10/2021)
+[2025-03-22 16:25:14,027] INFO: Found existing row with adjusted date: 9/2021
+[2025-03-22 16:25:14,041] INFO: expo (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:14,072] INFO: expo (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:14,088] INFO: Trying adjusted date: 3/2022 (original: 4/2022)
+[2025-03-22 16:25:14,102] INFO: Found existing row with adjusted date: 3/2022
+[2025-03-22 16:25:14,117] INFO: expo (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:14,133] INFO: Trying adjusted date: 6/2022 (original: 7/2022)
+[2025-03-22 16:25:14,149] INFO: Found existing row with adjusted date: 6/2022
+[2025-03-22 16:25:14,164] INFO: expo (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:14,195] INFO: expo (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:14,226] INFO: expo (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:14,257] INFO: expo (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:14,287] INFO: expo (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:14,318] INFO: expo (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:14,351] INFO: expo (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:14,384] INFO: expo (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:14,415] INFO: expo (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:14,447] INFO: expo (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:25:14,463] INFO: Trying adjusted date: 12/2024 (original: 1/2025)
+[2025-03-22 16:25:14,478] WARNING: expo (1/2025): No existing record found(1/2025, 2025-01-03) - creating new one
+[2025-03-22 16:25:14,478] INFO: expo (1/2025): Created new record with 0 non-zero financial metrics

@@ -1,0 +1,31 @@
+[2025-03-22 04:48:09,477] INFO: Trying adjusted date: 5/2019 (original: 4/2019)
+[2025-03-22 04:48:09,489] WARNING: zm (4/2019): Found zero values for fields: EPS Diluted
+[2025-03-22 04:48:09,489] WARNING: zm (4/2019): No existing record found(4/2019, 2019-04-30) - creating new one
+[2025-03-22 04:48:09,490] INFO: zm (4/2019): Created new record with 18 non-zero financial metrics
+[2025-03-22 04:48:09,517] INFO: zm (7/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:48:09,543] INFO: zm (10/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:48:09,569] INFO: zm (1/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 04:48:09,594] INFO: zm (4/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 04:48:09,621] INFO: zm (7/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:48:09,648] INFO: zm (10/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:48:09,672] INFO: zm (1/2021): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 04:48:09,699] INFO: zm (4/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 04:48:09,727] INFO: zm (7/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:48:09,753] INFO: zm (10/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:48:09,779] INFO: zm (1/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 04:48:09,805] INFO: zm (4/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 04:48:09,831] INFO: zm (7/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:48:09,857] INFO: zm (10/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:48:09,884] INFO: zm (1/2023): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 04:48:09,898] WARNING: zm (4/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 04:48:09,910] INFO: zm (4/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 04:48:09,936] INFO: zm (7/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:48:09,963] INFO: zm (10/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:48:09,977] WARNING: zm (1/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 04:48:09,989] INFO: zm (1/2024): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 04:48:10,015] INFO: zm (4/2024): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 04:48:10,042] INFO: zm (7/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:48:10,068] INFO: zm (10/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:48:10,082] INFO: Trying adjusted date: 2/2025 (original: 1/2025)
+[2025-03-22 04:48:10,094] WARNING: zm (1/2025): No existing record found(1/2025, 2025-01-31) - creating new one
+[2025-03-22 04:48:10,095] INFO: zm (1/2025): Created new record with 23 non-zero financial metrics

@@ -1,0 +1,78 @@
+[2025-03-22 11:25:06,748] INFO: pstg (10/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:25:06,765] WARNING: pstg (1/2016): Found zero values for fields: Share Repurchases
+[2025-03-22 11:25:06,779] INFO: pstg (1/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:25:06,809] INFO: pstg (4/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:25:06,839] INFO: pstg (7/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:25:06,870] INFO: pstg (10/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:25:06,887] WARNING: pstg (1/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 11:25:06,901] INFO: pstg (1/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:25:06,931] INFO: pstg (4/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:25:06,961] INFO: pstg (7/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:25:06,990] INFO: pstg (10/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:25:07,021] INFO: pstg (1/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:25:07,052] INFO: pstg (4/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 11:25:07,083] INFO: pstg (7/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:25:07,113] INFO: pstg (10/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:25:07,144] INFO: pstg (1/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 11:25:07,160] WARNING: pstg (4/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 11:25:07,174] INFO: pstg (4/2019): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 11:25:07,203] INFO: pstg (7/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:25:07,233] INFO: pstg (10/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:25:07,249] INFO: Trying adjusted date: 1/2020 (original: 2/2020)
+[2025-03-22 11:25:07,263] INFO: Found existing row with adjusted date: 1/2020
+[2025-03-22 11:25:07,276] INFO: pstg (1/2020): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 11:25:07,292] INFO: Trying adjusted date: 4/2020 (original: 5/2020)
+[2025-03-22 11:25:07,306] INFO: Found existing row with adjusted date: 4/2020
+[2025-03-22 11:25:07,320] INFO: pstg (4/2020): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 11:25:07,336] INFO: Trying adjusted date: 7/2020 (original: 8/2020)
+[2025-03-22 11:25:07,349] WARNING: pstg (8/2020): No existing record found(8/2020, 2020-08-02) - creating new one
+[2025-03-22 11:25:07,350] INFO: pstg (8/2020): Created new record with 18 non-zero financial metrics
+[2025-03-22 11:25:07,365] INFO: Trying adjusted date: 10/2020 (original: 11/2020)
+[2025-03-22 11:25:07,379] INFO: Found existing row with adjusted date: 10/2020
+[2025-03-22 11:25:07,394] INFO: pstg (10/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:25:07,423] INFO: pstg (1/2021): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 11:25:07,438] INFO: Trying adjusted date: 4/2021 (original: 5/2021)
+[2025-03-22 11:25:07,451] INFO: Found existing row with adjusted date: 4/2021
+[2025-03-22 11:25:07,465] INFO: pstg (4/2021): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 11:25:07,480] INFO: Trying adjusted date: 7/2021 (original: 8/2021)
+[2025-03-22 11:25:07,494] INFO: Found existing row with adjusted date: 7/2021
+[2025-03-22 11:25:07,508] INFO: pstg (7/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:25:07,536] INFO: pstg (10/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:25:07,552] INFO: Trying adjusted date: 1/2022 (original: 2/2022)
+[2025-03-22 11:25:07,566] INFO: Found existing row with adjusted date: 1/2022
+[2025-03-22 11:25:07,580] INFO: pstg (1/2022): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 11:25:07,595] INFO: Trying adjusted date: 4/2022 (original: 5/2022)
+[2025-03-22 11:25:07,608] INFO: Found existing row with adjusted date: 4/2022
+[2025-03-22 11:25:07,621] INFO: pstg (4/2022): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 11:25:07,636] INFO: Trying adjusted date: 7/2022 (original: 8/2022)
+[2025-03-22 11:25:07,650] INFO: Found existing row with adjusted date: 7/2022
+[2025-03-22 11:25:07,664] INFO: pstg (7/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:25:07,679] INFO: Trying adjusted date: 10/2022 (original: 11/2022)
+[2025-03-22 11:25:07,693] INFO: Found existing row with adjusted date: 10/2022
+[2025-03-22 11:25:07,693] WARNING: pstg (10/2022): Found zero values for fields: EPS Diluted
+[2025-03-22 11:25:07,708] INFO: pstg (10/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:25:07,723] INFO: Trying adjusted date: 1/2023 (original: 2/2023)
+[2025-03-22 11:25:07,737] INFO: Found existing row with adjusted date: 1/2023
+[2025-03-22 11:25:07,751] INFO: pstg (1/2023): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 11:25:07,767] INFO: Trying adjusted date: 4/2023 (original: 5/2023)
+[2025-03-22 11:25:07,780] INFO: Found existing row with adjusted date: 4/2023
+[2025-03-22 11:25:07,794] INFO: pstg (4/2023): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 11:25:07,810] INFO: Trying adjusted date: 7/2023 (original: 8/2023)
+[2025-03-22 11:25:07,824] INFO: Found existing row with adjusted date: 7/2023
+[2025-03-22 11:25:07,837] INFO: pstg (7/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:25:07,853] INFO: Trying adjusted date: 10/2023 (original: 11/2023)
+[2025-03-22 11:25:07,867] INFO: Found existing row with adjusted date: 10/2023
+[2025-03-22 11:25:07,881] INFO: pstg (10/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:25:07,896] INFO: Trying adjusted date: 1/2024 (original: 2/2024)
+[2025-03-22 11:25:07,909] INFO: Found existing row with adjusted date: 1/2024
+[2025-03-22 11:25:07,924] INFO: pstg (1/2024): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 11:25:07,940] INFO: Trying adjusted date: 4/2024 (original: 5/2024)
+[2025-03-22 11:25:07,953] INFO: Found existing row with adjusted date: 4/2024
+[2025-03-22 11:25:07,953] WARNING: pstg (4/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 11:25:07,966] INFO: pstg (4/2024): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 11:25:07,984] INFO: Trying adjusted date: 7/2024 (original: 8/2024)
+[2025-03-22 11:25:07,997] INFO: Found existing row with adjusted date: 7/2024
+[2025-03-22 11:25:08,010] INFO: pstg (7/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:25:08,026] INFO: Trying adjusted date: 10/2024 (original: 11/2024)
+[2025-03-22 11:25:08,039] INFO: Found existing row with adjusted date: 10/2024
+[2025-03-22 11:25:08,054] INFO: pstg (10/2024): Updated existing record with 18 non-zero financial metrics

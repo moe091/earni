@@ -1,0 +1,82 @@
+[2025-03-22 03:15:49,182] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 03:15:49,194] WARNING: spg (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 03:15:49,194] INFO: spg (3/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 03:15:49,208] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 03:15:49,221] WARNING: spg (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 03:15:49,221] INFO: spg (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 03:15:49,235] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 03:15:49,247] WARNING: spg (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 03:15:49,248] INFO: spg (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 03:15:49,261] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 03:15:49,274] WARNING: spg (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 03:15:49,275] INFO: spg (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 03:15:49,288] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 03:15:49,300] WARNING: spg (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 03:15:49,300] INFO: spg (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 03:15:49,314] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 03:15:49,326] WARNING: spg (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 03:15:49,327] INFO: spg (6/2011): Created new record with 10 non-zero financial metrics
+[2025-03-22 03:15:49,341] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 03:15:49,353] WARNING: spg (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 03:15:49,354] INFO: spg (9/2011): Created new record with 10 non-zero financial metrics
+[2025-03-22 03:15:49,369] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 03:15:49,379] WARNING: spg (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 03:15:49,380] INFO: spg (12/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 03:15:49,396] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 03:15:49,408] WARNING: spg (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 03:15:49,409] INFO: spg (3/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 03:15:49,424] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 03:15:49,436] WARNING: spg (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 03:15:49,437] INFO: spg (6/2012): Created new record with 10 non-zero financial metrics
+[2025-03-22 03:15:49,463] INFO: spg (9/2012): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:15:49,477] INFO: Trying adjusted date: 1/2013 (original: 12/2012)
+[2025-03-22 03:15:49,489] WARNING: spg (12/2012): No existing record found(12/2012, 2012-12-31) - creating new one
+[2025-03-22 03:15:49,490] INFO: spg (12/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 03:15:49,516] INFO: spg (3/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:15:49,541] INFO: spg (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 03:15:49,568] INFO: spg (9/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:15:49,594] INFO: spg (12/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:15:49,621] INFO: spg (3/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:15:49,646] INFO: spg (6/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:15:49,672] INFO: spg (9/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:15:49,698] INFO: spg (12/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:15:49,725] INFO: spg (3/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:15:49,752] INFO: spg (6/2015): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 03:15:49,778] INFO: spg (9/2015): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 03:15:49,805] INFO: spg (12/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:15:49,831] INFO: spg (3/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:15:49,856] INFO: spg (6/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:15:49,882] INFO: spg (9/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:15:49,908] INFO: spg (12/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:15:49,933] INFO: spg (3/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:15:49,959] INFO: spg (6/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:15:49,985] INFO: spg (9/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:15:50,012] INFO: spg (12/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:15:50,038] INFO: spg (3/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:15:50,064] INFO: spg (6/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:15:50,090] INFO: spg (9/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:15:50,116] INFO: spg (12/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:15:50,143] INFO: spg (3/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:15:50,171] INFO: spg (6/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:15:50,197] INFO: spg (9/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:15:50,223] INFO: spg (12/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:15:50,249] INFO: spg (3/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:15:50,276] INFO: spg (6/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:15:50,302] INFO: spg (9/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:15:50,328] INFO: spg (12/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:15:50,355] INFO: spg (3/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:15:50,381] INFO: spg (6/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:15:50,407] INFO: spg (9/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:15:50,433] INFO: spg (12/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:15:50,459] INFO: spg (3/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:15:50,489] INFO: spg (6/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:15:50,515] INFO: spg (9/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:15:50,541] INFO: spg (12/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:15:50,568] INFO: spg (3/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:15:50,594] INFO: spg (6/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:15:50,620] INFO: spg (9/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:15:50,646] INFO: spg (12/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:15:50,672] INFO: spg (3/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:15:50,698] INFO: spg (6/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:15:50,724] INFO: spg (9/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:15:50,751] INFO: spg (12/2024): Updated existing record with 15 non-zero financial metrics

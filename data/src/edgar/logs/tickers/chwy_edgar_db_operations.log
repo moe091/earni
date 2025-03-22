@@ -1,0 +1,43 @@
+[2025-03-22 07:15:24,619] INFO: Trying adjusted date: 4/2019 (original: 5/2019)
+[2025-03-22 07:15:24,632] INFO: Found existing row with adjusted date: 4/2019
+[2025-03-22 07:15:24,646] INFO: chwy (4/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:15:24,662] INFO: Trying adjusted date: 7/2019 (original: 8/2019)
+[2025-03-22 07:15:24,676] INFO: Found existing row with adjusted date: 7/2019
+[2025-03-22 07:15:24,689] INFO: chwy (7/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:15:24,705] INFO: Trying adjusted date: 10/2019 (original: 11/2019)
+[2025-03-22 07:15:24,718] INFO: Found existing row with adjusted date: 10/2019
+[2025-03-22 07:15:24,731] INFO: chwy (10/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:15:24,746] INFO: Trying adjusted date: 1/2020 (original: 2/2020)
+[2025-03-22 07:15:24,759] INFO: Found existing row with adjusted date: 1/2020
+[2025-03-22 07:15:24,772] INFO: chwy (1/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:15:24,788] INFO: Trying adjusted date: 4/2020 (original: 5/2020)
+[2025-03-22 07:15:24,801] INFO: Found existing row with adjusted date: 4/2020
+[2025-03-22 07:15:24,814] INFO: chwy (4/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:15:24,830] INFO: Trying adjusted date: 7/2020 (original: 8/2020)
+[2025-03-22 07:15:24,843] INFO: Found existing row with adjusted date: 7/2020
+[2025-03-22 07:15:24,857] INFO: chwy (7/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:15:24,873] INFO: Trying adjusted date: 10/2020 (original: 11/2020)
+[2025-03-22 07:15:24,886] INFO: Found existing row with adjusted date: 10/2020
+[2025-03-22 07:15:24,899] INFO: chwy (10/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:15:24,928] INFO: chwy (1/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:15:24,943] INFO: Trying adjusted date: 4/2021 (original: 5/2021)
+[2025-03-22 07:15:24,955] INFO: Found existing row with adjusted date: 4/2021
+[2025-03-22 07:15:24,969] INFO: chwy (4/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:15:24,984] INFO: Trying adjusted date: 7/2021 (original: 8/2021)
+[2025-03-22 07:15:24,998] INFO: Found existing row with adjusted date: 7/2021
+[2025-03-22 07:15:25,011] INFO: chwy (7/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 07:15:25,039] INFO: chwy (10/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 07:15:25,066] INFO: chwy (1/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:15:25,080] INFO: Trying adjusted date: 4/2022 (original: 5/2022)
+[2025-03-22 07:15:25,093] INFO: Found existing row with adjusted date: 4/2022
+[2025-03-22 07:15:25,107] INFO: chwy (4/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:15:25,136] INFO: chwy (7/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 07:15:25,163] INFO: chwy (10/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 07:15:25,190] INFO: chwy (1/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:15:25,218] INFO: chwy (4/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:15:25,246] INFO: chwy (7/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:15:25,273] INFO: chwy (10/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:15:25,301] INFO: chwy (1/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:15:25,329] INFO: chwy (4/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:15:25,356] INFO: chwy (7/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:15:25,386] INFO: chwy (10/2024): Updated existing record with 15 non-zero financial metrics

@@ -1,0 +1,71 @@
+[2025-03-22 12:16:07,983] INFO: Trying adjusted date: 10/2016 (original: 9/2016)
+[2025-03-22 12:16:07,997] WARNING: celh (9/2016): Found zero values for fields: EPS Diluted
+[2025-03-22 12:16:07,997] WARNING: celh (9/2016): No existing record found(9/2016, 2016-09-30) - creating new one
+[2025-03-22 12:16:07,997] INFO: celh (9/2016): Created new record with 14 non-zero financial metrics
+[2025-03-22 12:16:08,015] INFO: Trying adjusted date: 1/2017 (original: 12/2016)
+[2025-03-22 12:16:08,030] WARNING: celh (12/2016): No existing record found(12/2016, 2016-12-31) - creating new one
+[2025-03-22 12:16:08,031] INFO: celh (12/2016): Created new record with 16 non-zero financial metrics
+[2025-03-22 12:16:08,046] INFO: Trying adjusted date: 4/2017 (original: 3/2017)
+[2025-03-22 12:16:08,060] WARNING: celh (3/2017): No existing record found(3/2017, 2017-03-31) - creating new one
+[2025-03-22 12:16:08,061] INFO: celh (3/2017): Created new record with 17 non-zero financial metrics
+[2025-03-22 12:16:08,077] INFO: Trying adjusted date: 7/2017 (original: 6/2017)
+[2025-03-22 12:16:08,092] WARNING: celh (6/2017): No existing record found(6/2017, 2017-06-30) - creating new one
+[2025-03-22 12:16:08,092] INFO: celh (6/2017): Created new record with 15 non-zero financial metrics
+[2025-03-22 12:16:08,108] INFO: Trying adjusted date: 10/2017 (original: 9/2017)
+[2025-03-22 12:16:08,122] WARNING: celh (9/2017): No existing record found(9/2017, 2017-09-30) - creating new one
+[2025-03-22 12:16:08,123] INFO: celh (9/2017): Created new record with 15 non-zero financial metrics
+[2025-03-22 12:16:08,154] INFO: celh (12/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:16:08,184] INFO: celh (3/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:16:08,216] INFO: celh (6/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:16:08,232] INFO: Trying adjusted date: 10/2018 (original: 9/2018)
+[2025-03-22 12:16:08,246] WARNING: celh (9/2018): No existing record found(9/2018, 2018-09-30) - creating new one
+[2025-03-22 12:16:08,247] INFO: celh (9/2018): Created new record with 16 non-zero financial metrics
+[2025-03-22 12:16:08,277] INFO: celh (12/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:16:08,292] ERROR: Invalid numeric value for Capital Expenditures: 
+[2025-03-22 12:16:08,292] ERROR: Invalid numeric value for Investing Cash Flow: 
+[2025-03-22 12:16:08,292] ERROR: celh (3/2019): Invalid data types: Capital Expenditures=, Investing Cash Flow=
+[2025-03-22 12:16:08,307] INFO: celh (3/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:16:08,323] INFO: Trying adjusted date: 7/2019 (original: 6/2019)
+[2025-03-22 12:16:08,336] WARNING: celh (6/2019): No existing record found(6/2019, 2019-06-30) - creating new one
+[2025-03-22 12:16:08,337] INFO: celh (6/2019): Created new record with 14 non-zero financial metrics
+[2025-03-22 12:16:08,353] INFO: Trying adjusted date: 10/2019 (original: 9/2019)
+[2025-03-22 12:16:08,367] WARNING: celh (9/2019): No existing record found(9/2019, 2019-09-30) - creating new one
+[2025-03-22 12:16:08,368] INFO: celh (9/2019): Created new record with 14 non-zero financial metrics
+[2025-03-22 12:16:08,384] INFO: Trying adjusted date: 1/2020 (original: 12/2019)
+[2025-03-22 12:16:08,397] WARNING: celh (12/2019): No existing record found(12/2019, 2019-12-31) - creating new one
+[2025-03-22 12:16:08,398] INFO: celh (12/2019): Created new record with 20 non-zero financial metrics
+[2025-03-22 12:16:08,413] INFO: Trying adjusted date: 4/2020 (original: 3/2020)
+[2025-03-22 12:16:08,427] WARNING: celh (3/2020): No existing record found(3/2020, 2020-03-31) - creating new one
+[2025-03-22 12:16:08,427] INFO: celh (3/2020): Created new record with 20 non-zero financial metrics
+[2025-03-22 12:16:08,444] INFO: Trying adjusted date: 7/2020 (original: 6/2020)
+[2025-03-22 12:16:08,457] WARNING: celh (6/2020): No existing record found(6/2020, 2020-06-30) - creating new one
+[2025-03-22 12:16:08,458] INFO: celh (6/2020): Created new record with 16 non-zero financial metrics
+[2025-03-22 12:16:08,475] INFO: Trying adjusted date: 10/2020 (original: 9/2020)
+[2025-03-22 12:16:08,489] WARNING: celh (9/2020): No existing record found(9/2020, 2020-09-30) - creating new one
+[2025-03-22 12:16:08,489] INFO: celh (9/2020): Created new record with 16 non-zero financial metrics
+[2025-03-22 12:16:08,505] ERROR: Invalid numeric value for Interest Expense: 
+[2025-03-22 12:16:08,505] ERROR: celh (12/2020): Invalid data types: Interest Expense=
+[2025-03-22 12:16:08,519] INFO: celh (12/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:16:08,535] INFO: Trying adjusted date: 4/2021 (original: 3/2021)
+[2025-03-22 12:16:08,549] WARNING: celh (3/2021): No existing record found(3/2021, 2021-03-31) - creating new one
+[2025-03-22 12:16:08,549] INFO: celh (3/2021): Created new record with 21 non-zero financial metrics
+[2025-03-22 12:16:08,565] INFO: Trying adjusted date: 7/2021 (original: 6/2021)
+[2025-03-22 12:16:08,579] WARNING: celh (6/2021): No existing record found(6/2021, 2021-06-30) - creating new one
+[2025-03-22 12:16:08,580] INFO: celh (6/2021): Created new record with 16 non-zero financial metrics
+[2025-03-22 12:16:08,610] INFO: celh (9/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:16:08,643] INFO: celh (12/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:16:08,673] INFO: celh (3/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 12:16:08,703] INFO: celh (6/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:16:08,731] INFO: celh (9/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:16:08,761] INFO: celh (12/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 12:16:08,794] INFO: celh (3/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:16:08,823] INFO: celh (6/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:16:08,853] INFO: celh (9/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:16:08,882] INFO: celh (12/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:16:08,912] INFO: celh (3/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:16:08,941] INFO: celh (6/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:16:08,959] WARNING: celh (9/2024): Found zero values for fields: EPS Diluted
+[2025-03-22 12:16:08,973] INFO: celh (9/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:16:08,989] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 12:16:09,003] WARNING: celh (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 12:16:09,004] INFO: celh (12/2024): Created new record with 20 non-zero financial metrics

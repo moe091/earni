@@ -1,0 +1,82 @@
+[2025-03-22 10:02:55,006] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 10:02:55,019] WARNING: uthr (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 10:02:55,020] INFO: uthr (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 10:02:55,040] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 10:02:55,054] WARNING: uthr (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 10:02:55,054] INFO: uthr (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 10:02:55,071] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 10:02:55,085] WARNING: uthr (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 10:02:55,085] INFO: uthr (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 10:02:55,101] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 10:02:55,115] WARNING: uthr (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 10:02:55,115] INFO: uthr (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 10:02:55,132] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 10:02:55,146] WARNING: uthr (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 10:02:55,146] INFO: uthr (6/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:02:55,162] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 10:02:55,176] WARNING: uthr (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 10:02:55,177] INFO: uthr (9/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:02:55,192] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 10:02:55,206] WARNING: uthr (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 10:02:55,207] INFO: uthr (12/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 10:02:55,222] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 10:02:55,236] WARNING: uthr (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 10:02:55,236] INFO: uthr (3/2012): Created new record with 19 non-zero financial metrics
+[2025-03-22 10:02:55,251] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 10:02:55,263] WARNING: uthr (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 10:02:55,264] INFO: uthr (6/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:02:55,292] INFO: uthr (9/2012): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:02:55,322] INFO: uthr (12/2012): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:02:55,350] INFO: uthr (3/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:02:55,379] INFO: uthr (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 10:02:55,408] INFO: uthr (9/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:02:55,437] INFO: uthr (12/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:02:55,465] INFO: uthr (3/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:02:55,494] INFO: uthr (6/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:02:55,523] INFO: uthr (9/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:02:55,551] INFO: uthr (12/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:02:55,580] INFO: uthr (3/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:02:55,610] INFO: uthr (6/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:02:55,638] INFO: uthr (9/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:02:55,667] INFO: uthr (12/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:02:55,696] INFO: uthr (3/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:02:55,725] INFO: uthr (6/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:02:55,756] INFO: uthr (9/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:02:55,785] INFO: uthr (12/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:02:55,814] INFO: uthr (3/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:02:55,843] INFO: uthr (6/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:02:55,872] INFO: uthr (9/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:02:55,901] INFO: uthr (12/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:02:55,916] WARNING: uthr (3/2018): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 10:02:55,930] INFO: uthr (3/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:02:55,945] WARNING: uthr (6/2018): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 10:02:55,959] INFO: uthr (6/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:02:55,975] WARNING: uthr (9/2018): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 10:02:55,989] INFO: uthr (9/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:02:56,018] INFO: uthr (12/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:02:56,047] INFO: uthr (3/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:02:56,077] INFO: uthr (6/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:02:56,106] INFO: uthr (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:02:56,136] INFO: uthr (12/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:02:56,166] INFO: uthr (3/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:02:56,196] INFO: uthr (6/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:02:56,225] INFO: uthr (9/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:02:56,254] INFO: uthr (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:02:56,283] INFO: uthr (3/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:02:56,311] INFO: uthr (6/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:02:56,340] INFO: uthr (9/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:02:56,369] INFO: uthr (12/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:02:56,397] INFO: uthr (3/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:02:56,428] INFO: uthr (6/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:02:56,457] INFO: uthr (9/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:02:56,487] INFO: uthr (12/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:02:56,515] INFO: uthr (3/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:02:56,546] INFO: uthr (6/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:02:56,575] INFO: uthr (9/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:02:56,607] INFO: uthr (12/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:02:56,636] INFO: uthr (3/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:02:56,665] INFO: uthr (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:02:56,694] INFO: uthr (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:02:56,710] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 10:02:56,724] WARNING: uthr (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 10:02:56,725] INFO: uthr (12/2024): Created new record with 20 non-zero financial metrics

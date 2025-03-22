@@ -1,0 +1,71 @@
+[2025-03-22 12:51:12,051] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 12:51:12,066] WARNING: exas (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 12:51:12,066] INFO: exas (6/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 12:51:12,085] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 12:51:12,100] WARNING: exas (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 12:51:12,100] INFO: exas (9/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 12:51:12,117] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 12:51:12,131] WARNING: exas (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 12:51:12,132] INFO: exas (12/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 12:51:12,148] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 12:51:12,163] WARNING: exas (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 12:51:12,163] INFO: exas (3/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 12:51:12,179] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 12:51:12,193] WARNING: exas (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 12:51:12,194] INFO: exas (6/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 12:51:12,223] INFO: exas (9/2012): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 12:51:12,254] INFO: exas (12/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:51:12,284] INFO: exas (3/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 12:51:12,313] INFO: exas (6/2013): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 12:51:12,343] INFO: exas (9/2013): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 12:51:12,372] INFO: exas (12/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:51:12,403] INFO: exas (3/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 12:51:12,432] INFO: exas (6/2014): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 12:51:12,463] INFO: exas (9/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 12:51:12,493] INFO: exas (12/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:51:12,522] INFO: exas (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:51:12,552] INFO: exas (6/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:51:12,583] INFO: exas (9/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:51:12,614] INFO: exas (12/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:51:12,644] INFO: exas (3/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:51:12,674] INFO: exas (6/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:51:12,704] INFO: exas (9/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:51:12,733] INFO: exas (12/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:51:12,765] INFO: exas (3/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:51:12,798] INFO: exas (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:51:12,829] INFO: exas (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:51:12,845] WARNING: exas (12/2017): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 12:51:12,860] INFO: exas (12/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:51:12,890] INFO: exas (3/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:51:12,920] INFO: exas (6/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:51:12,950] INFO: exas (9/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:51:12,966] WARNING: exas (12/2018): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 12:51:12,980] INFO: exas (12/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:51:13,011] INFO: exas (3/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:51:13,041] INFO: exas (6/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:51:13,070] INFO: exas (9/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:51:13,086] WARNING: exas (12/2019): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 12:51:13,101] INFO: exas (12/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:51:13,132] INFO: exas (3/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:51:13,162] INFO: exas (6/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:51:13,194] INFO: exas (9/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:51:13,224] INFO: exas (12/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:51:13,254] INFO: exas (3/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:51:13,284] INFO: exas (6/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:51:13,313] INFO: exas (9/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:51:13,342] INFO: exas (12/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:51:13,372] INFO: exas (3/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:51:13,402] INFO: exas (6/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:51:13,431] INFO: exas (9/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:51:13,462] INFO: exas (12/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:51:13,494] INFO: exas (3/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:51:13,523] INFO: exas (6/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:51:13,540] WARNING: exas (9/2023): Found zero values for fields: EPS Diluted
+[2025-03-22 12:51:13,553] INFO: exas (9/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:51:13,583] INFO: exas (12/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:51:13,614] INFO: exas (3/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:51:13,644] INFO: exas (6/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:51:13,674] INFO: exas (9/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:51:13,690] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 12:51:13,705] WARNING: exas (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 12:51:13,705] INFO: exas (12/2024): Created new record with 22 non-zero financial metrics

@@ -1,0 +1,77 @@
+[2025-03-22 15:14:47,968] INFO: Trying adjusted date: 7/2015 (original: 6/2015)
+[2025-03-22 15:14:47,981] WARNING: lite (6/2015): No existing record found(6/2015, 2015-06-27) - creating new one
+[2025-03-22 15:14:47,982] INFO: lite (6/2015): Created new record with 18 non-zero financial metrics
+[2025-03-22 15:14:48,015] INFO: lite (9/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:14:48,046] INFO: lite (12/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:14:48,062] INFO: Trying adjusted date: 3/2016 (original: 4/2016)
+[2025-03-22 15:14:48,077] INFO: Found existing row with adjusted date: 3/2016
+[2025-03-22 15:14:48,091] INFO: lite (3/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:14:48,112] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-22 15:14:48,129] INFO: Found existing row with adjusted date: 6/2016
+[2025-03-22 15:14:48,143] INFO: lite (6/2016): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 15:14:48,159] INFO: Trying adjusted date: 9/2016 (original: 10/2016)
+[2025-03-22 15:14:48,174] INFO: Found existing row with adjusted date: 9/2016
+[2025-03-22 15:14:48,189] INFO: lite (9/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:14:48,219] INFO: lite (12/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:14:48,235] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-22 15:14:48,249] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-22 15:14:48,264] INFO: lite (3/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 15:14:48,279] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-22 15:14:48,294] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-22 15:14:48,308] INFO: lite (6/2017): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 15:14:48,338] INFO: lite (9/2017): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 15:14:48,369] INFO: lite (12/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 15:14:48,401] INFO: lite (3/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 15:14:48,435] INFO: lite (6/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:14:48,465] INFO: lite (9/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:14:48,496] INFO: lite (12/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 15:14:48,527] INFO: lite (3/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 15:14:48,557] INFO: lite (6/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:14:48,588] INFO: lite (9/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:14:48,617] INFO: lite (12/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:14:47,249] INFO: lite (3/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:14:47,279] INFO: lite (6/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 15:14:47,309] INFO: lite (9/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:14:47,340] INFO: lite (12/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:14:47,356] INFO: Trying adjusted date: 3/2021 (original: 4/2021)
+[2025-03-22 15:14:47,371] INFO: Found existing row with adjusted date: 3/2021
+[2025-03-22 15:14:47,386] INFO: lite (3/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:14:47,402] INFO: Trying adjusted date: 6/2021 (original: 7/2021)
+[2025-03-22 15:14:47,416] INFO: Found existing row with adjusted date: 6/2021
+[2025-03-22 15:14:47,430] INFO: lite (6/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 15:14:47,447] INFO: Trying adjusted date: 9/2021 (original: 10/2021)
+[2025-03-22 15:14:47,461] INFO: Found existing row with adjusted date: 9/2021
+[2025-03-22 15:14:47,461] WARNING: lite (9/2021): Found zero values for fields: Deferred Revenue
+[2025-03-22 15:14:47,475] INFO: lite (9/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:14:47,492] INFO: Trying adjusted date: 12/2021 (original: 1/2022)
+[2025-03-22 15:14:47,506] INFO: Found existing row with adjusted date: 12/2021
+[2025-03-22 15:14:47,506] WARNING: lite (12/2021): Found zero values for fields: Deferred Revenue
+[2025-03-22 15:14:47,520] INFO: lite (12/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 15:14:47,537] INFO: Trying adjusted date: 3/2022 (original: 4/2022)
+[2025-03-22 15:14:47,550] INFO: Found existing row with adjusted date: 3/2022
+[2025-03-22 15:14:47,550] WARNING: lite (3/2022): Found zero values for fields: Deferred Revenue
+[2025-03-22 15:14:47,563] INFO: lite (3/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 15:14:47,579] INFO: Trying adjusted date: 6/2022 (original: 7/2022)
+[2025-03-22 15:14:47,593] INFO: Found existing row with adjusted date: 6/2022
+[2025-03-22 15:14:47,593] WARNING: lite (6/2022): Found zero values for fields: Deferred Revenue
+[2025-03-22 15:14:47,607] INFO: lite (6/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:14:47,625] INFO: Trying adjusted date: 9/2022 (original: 10/2022)
+[2025-03-22 15:14:47,638] INFO: Found existing row with adjusted date: 9/2022
+[2025-03-22 15:14:47,654] INFO: lite (9/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 15:14:47,685] INFO: lite (12/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 15:14:47,702] INFO: Trying adjusted date: 3/2023 (original: 4/2023)
+[2025-03-22 15:14:47,718] INFO: Found existing row with adjusted date: 3/2023
+[2025-03-22 15:14:47,733] INFO: lite (3/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 15:14:47,750] INFO: Trying adjusted date: 6/2023 (original: 7/2023)
+[2025-03-22 15:14:47,765] INFO: Found existing row with adjusted date: 6/2023
+[2025-03-22 15:14:47,779] INFO: lite (6/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:14:47,796] WARNING: lite (9/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 15:14:47,811] INFO: lite (9/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:14:47,842] INFO: lite (12/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:14:47,873] INFO: lite (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:14:47,889] WARNING: lite (6/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 15:14:47,904] INFO: lite (6/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:14:47,938] INFO: lite (9/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:14:47,955] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 15:14:47,969] WARNING: lite (12/2024): No existing record found(12/2024, 2024-12-28) - creating new one
+[2025-03-22 15:14:47,970] INFO: lite (12/2024): Created new record with 15 non-zero financial metrics

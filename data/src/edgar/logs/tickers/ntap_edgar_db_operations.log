@@ -1,0 +1,78 @@
+[2025-03-22 07:12:33,819] INFO: Trying adjusted date: 11/2010 (original: 10/2010)
+[2025-03-22 07:12:33,832] WARNING: ntap (10/2010): No existing record found(10/2010, 2010-10-29) - creating new one
+[2025-03-22 07:12:33,833] INFO: ntap (10/2010): Created new record with 18 non-zero financial metrics
+[2025-03-22 07:12:33,849] INFO: Trying adjusted date: 2/2011 (original: 1/2011)
+[2025-03-22 07:12:33,862] WARNING: ntap (1/2011): No existing record found(1/2011, 2011-01-28) - creating new one
+[2025-03-22 07:12:33,863] INFO: ntap (1/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 07:12:33,881] INFO: Trying adjusted date: 5/2011 (original: 4/2011)
+[2025-03-22 07:12:33,895] WARNING: ntap (4/2011): Found zero values for fields: Share Repurchases
+[2025-03-22 07:12:33,895] WARNING: ntap (4/2011): No existing record found(4/2011, 2011-04-29) - creating new one
+[2025-03-22 07:12:33,895] INFO: ntap (4/2011): Created new record with 23 non-zero financial metrics
+[2025-03-22 07:12:33,911] INFO: Trying adjusted date: 8/2011 (original: 7/2011)
+[2025-03-22 07:12:33,924] WARNING: ntap (7/2011): No existing record found(7/2011, 2011-07-29) - creating new one
+[2025-03-22 07:12:33,925] INFO: ntap (7/2011): Created new record with 24 non-zero financial metrics
+[2025-03-22 07:12:33,940] INFO: Trying adjusted date: 11/2011 (original: 10/2011)
+[2025-03-22 07:12:33,953] WARNING: ntap (10/2011): No existing record found(10/2011, 2011-10-28) - creating new one
+[2025-03-22 07:12:33,954] INFO: ntap (10/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 07:12:33,970] INFO: Trying adjusted date: 2/2012 (original: 1/2012)
+[2025-03-22 07:12:33,983] WARNING: ntap (1/2012): No existing record found(1/2012, 2012-01-27) - creating new one
+[2025-03-22 07:12:33,984] INFO: ntap (1/2012): Created new record with 19 non-zero financial metrics
+[2025-03-22 07:12:33,998] INFO: Trying adjusted date: 5/2012 (original: 4/2012)
+[2025-03-22 07:12:34,012] WARNING: ntap (4/2012): No existing record found(4/2012, 2012-04-27) - creating new one
+[2025-03-22 07:12:34,012] INFO: ntap (4/2012): Created new record with 24 non-zero financial metrics
+[2025-03-22 07:12:34,027] INFO: Trying adjusted date: 8/2012 (original: 7/2012)
+[2025-03-22 07:12:34,040] WARNING: ntap (7/2012): No existing record found(7/2012, 2012-07-27) - creating new one
+[2025-03-22 07:12:34,041] INFO: ntap (7/2012): Created new record with 21 non-zero financial metrics
+[2025-03-22 07:12:34,068] INFO: ntap (10/2012): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:12:34,096] INFO: ntap (1/2013): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:12:34,124] INFO: ntap (4/2013): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 07:12:34,152] INFO: ntap (7/2013): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 07:12:34,180] INFO: ntap (10/2013): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:12:34,208] INFO: ntap (1/2014): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:12:34,236] INFO: ntap (4/2014): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 07:12:34,263] INFO: ntap (7/2014): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:12:34,291] INFO: ntap (10/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:12:34,319] INFO: ntap (1/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:12:34,347] INFO: ntap (4/2015): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:12:34,374] INFO: ntap (7/2015): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:12:34,403] INFO: ntap (10/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:12:34,430] INFO: ntap (1/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:12:34,458] INFO: ntap (4/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:12:34,486] INFO: ntap (7/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:12:34,516] INFO: ntap (10/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:12:34,543] INFO: ntap (1/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:12:34,571] INFO: ntap (4/2017): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:12:34,599] INFO: ntap (7/2017): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:12:34,626] INFO: ntap (10/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:12:34,654] INFO: ntap (1/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:12:34,681] INFO: ntap (4/2018): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 07:12:34,708] INFO: ntap (7/2018): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 07:12:34,739] INFO: ntap (10/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:12:34,767] INFO: ntap (1/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:12:34,795] INFO: ntap (4/2019): Updated existing record with 26 non-zero financial metrics
+[2025-03-22 07:12:34,824] INFO: ntap (7/2019): Updated existing record with 26 non-zero financial metrics
+[2025-03-22 07:12:34,852] INFO: ntap (10/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:12:34,881] INFO: ntap (1/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:12:34,908] INFO: ntap (4/2020): Updated existing record with 26 non-zero financial metrics
+[2025-03-22 07:12:34,924] WARNING: ntap (7/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 07:12:34,937] INFO: ntap (7/2020): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 07:12:34,967] INFO: ntap (10/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:12:34,995] INFO: ntap (1/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:12:35,026] INFO: ntap (4/2021): Updated existing record with 26 non-zero financial metrics
+[2025-03-22 07:12:35,055] INFO: ntap (7/2021): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 07:12:35,083] INFO: ntap (10/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:12:35,111] INFO: ntap (1/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:12:35,139] INFO: ntap (4/2022): Updated existing record with 26 non-zero financial metrics
+[2025-03-22 07:12:35,168] INFO: ntap (7/2022): Updated existing record with 26 non-zero financial metrics
+[2025-03-22 07:12:35,196] INFO: ntap (10/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:12:35,225] INFO: ntap (1/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:12:35,254] INFO: ntap (4/2023): Updated existing record with 26 non-zero financial metrics
+[2025-03-22 07:12:35,286] INFO: ntap (7/2023): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 07:12:35,314] INFO: ntap (10/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:12:35,342] INFO: ntap (1/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:12:35,370] INFO: ntap (4/2024): Updated existing record with 26 non-zero financial metrics
+[2025-03-22 07:12:35,399] INFO: ntap (7/2024): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 07:12:35,426] INFO: ntap (10/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:12:35,442] INFO: Trying adjusted date: 2/2025 (original: 1/2025)
+[2025-03-22 07:12:35,455] WARNING: ntap (1/2025): No existing record found(1/2025, 2025-01-24) - creating new one
+[2025-03-22 07:12:35,456] INFO: ntap (1/2025): Created new record with 19 non-zero financial metrics

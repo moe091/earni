@@ -1,0 +1,97 @@
+[2025-03-22 05:06:54,439] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 05:06:54,451] WARNING: wtw (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 05:06:54,452] INFO: wtw (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:06:54,466] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 05:06:54,479] WARNING: wtw (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 05:06:54,479] INFO: wtw (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:06:54,497] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 05:06:54,510] WARNING: wtw (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 05:06:54,510] INFO: wtw (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:06:54,525] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 05:06:54,537] WARNING: wtw (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 05:06:54,538] INFO: wtw (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:06:54,552] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 05:06:54,564] WARNING: wtw (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 05:06:54,565] INFO: wtw (9/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 05:06:54,579] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 05:06:54,592] WARNING: wtw (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 05:06:54,592] INFO: wtw (12/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 05:06:54,607] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 05:06:54,620] WARNING: wtw (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 05:06:54,620] INFO: wtw (3/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 05:06:54,647] INFO: wtw (6/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:06:54,673] INFO: wtw (9/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:06:54,699] INFO: wtw (12/2012): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:06:54,714] WARNING: wtw (3/2013): Found zero values for fields: Share Repurchases
+[2025-03-22 05:06:54,727] INFO: wtw (3/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:06:54,754] INFO: wtw (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 05:06:54,780] INFO: wtw (9/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:06:54,795] WARNING: wtw (12/2013): Found zero values for fields: Share Repurchases
+[2025-03-22 05:06:54,808] INFO: wtw (12/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:06:54,837] INFO: wtw (3/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:06:54,865] INFO: wtw (6/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:06:54,892] INFO: wtw (9/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:06:54,917] INFO: wtw (12/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:06:54,946] INFO: wtw (3/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:06:54,973] INFO: wtw (6/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:06:55,001] INFO: wtw (9/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:06:55,027] INFO: wtw (12/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:06:55,041] WARNING: wtw (3/2016): Found zero values for fields: Share Repurchases
+[2025-03-22 05:06:55,054] INFO: wtw (3/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:06:55,080] INFO: wtw (6/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:06:55,107] INFO: wtw (9/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:06:55,134] INFO: wtw (12/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:06:55,160] INFO: wtw (3/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:06:55,187] INFO: wtw (6/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:06:55,214] INFO: wtw (9/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:06:55,241] INFO: wtw (12/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:06:55,256] WARNING: wtw (3/2018): Found zero values for fields: Share Repurchases
+[2025-03-22 05:06:55,269] INFO: wtw (3/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 05:06:55,295] INFO: wtw (6/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:06:55,322] INFO: wtw (9/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:06:55,349] INFO: wtw (12/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 05:06:55,376] INFO: wtw (3/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:06:55,390] INFO: Trying adjusted date: 7/2019 (original: 6/2019)
+[2025-03-22 05:06:55,404] WARNING: wtw (6/2019): No existing record found(6/2019, 2019-06-30) - creating new one
+[2025-03-22 05:06:55,404] INFO: wtw (6/2019): Created new record with 14 non-zero financial metrics
+[2025-03-22 05:06:55,418] INFO: Trying adjusted date: 10/2019 (original: 9/2019)
+[2025-03-22 05:06:55,431] WARNING: wtw (9/2019): No existing record found(9/2019, 2019-09-30) - creating new one
+[2025-03-22 05:06:55,431] INFO: wtw (9/2019): Created new record with 14 non-zero financial metrics
+[2025-03-22 05:06:55,445] INFO: Trying adjusted date: 1/2020 (original: 12/2019)
+[2025-03-22 05:06:55,458] WARNING: wtw (12/2019): No existing record found(12/2019, 2019-12-31) - creating new one
+[2025-03-22 05:06:55,459] INFO: wtw (12/2019): Created new record with 20 non-zero financial metrics
+[2025-03-22 05:06:55,473] INFO: Trying adjusted date: 4/2020 (original: 3/2020)
+[2025-03-22 05:06:55,486] WARNING: wtw (3/2020): No existing record found(3/2020, 2020-03-31) - creating new one
+[2025-03-22 05:06:55,486] INFO: wtw (3/2020): Created new record with 17 non-zero financial metrics
+[2025-03-22 05:06:55,500] INFO: Trying adjusted date: 7/2020 (original: 6/2020)
+[2025-03-22 05:06:55,512] WARNING: wtw (6/2020): No existing record found(6/2020, 2020-06-30) - creating new one
+[2025-03-22 05:06:55,513] INFO: wtw (6/2020): Created new record with 14 non-zero financial metrics
+[2025-03-22 05:06:55,527] INFO: Trying adjusted date: 10/2020 (original: 9/2020)
+[2025-03-22 05:06:55,543] WARNING: wtw (9/2020): No existing record found(9/2020, 2020-09-30) - creating new one
+[2025-03-22 05:06:55,543] INFO: wtw (9/2020): Created new record with 14 non-zero financial metrics
+[2025-03-22 05:06:55,556] INFO: Trying adjusted date: 1/2021 (original: 12/2020)
+[2025-03-22 05:06:55,570] WARNING: wtw (12/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 05:06:55,570] WARNING: wtw (12/2020): No existing record found(12/2020, 2020-12-31) - creating new one
+[2025-03-22 05:06:55,570] INFO: wtw (12/2020): Created new record with 19 non-zero financial metrics
+[2025-03-22 05:06:55,584] INFO: Trying adjusted date: 4/2021 (original: 3/2021)
+[2025-03-22 05:06:55,597] WARNING: wtw (3/2021): No existing record found(3/2021, 2021-03-31) - creating new one
+[2025-03-22 05:06:55,597] INFO: wtw (3/2021): Created new record with 17 non-zero financial metrics
+[2025-03-22 05:06:55,611] INFO: Trying adjusted date: 7/2021 (original: 6/2021)
+[2025-03-22 05:06:55,624] WARNING: wtw (6/2021): No existing record found(6/2021, 2021-06-30) - creating new one
+[2025-03-22 05:06:55,624] INFO: wtw (6/2021): Created new record with 14 non-zero financial metrics
+[2025-03-22 05:06:55,639] INFO: Trying adjusted date: 10/2021 (original: 9/2021)
+[2025-03-22 05:06:55,652] WARNING: wtw (9/2021): No existing record found(9/2021, 2021-09-30) - creating new one
+[2025-03-22 05:06:55,652] INFO: wtw (9/2021): Created new record with 14 non-zero financial metrics
+[2025-03-22 05:06:55,679] INFO: wtw (12/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 05:06:55,707] INFO: wtw (3/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 05:06:55,735] INFO: wtw (6/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:06:55,761] INFO: wtw (9/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:06:55,788] INFO: wtw (12/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 05:06:55,814] INFO: wtw (3/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 05:06:55,842] INFO: wtw (6/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:06:55,870] INFO: wtw (9/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:06:55,897] INFO: wtw (12/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 05:06:55,924] INFO: wtw (3/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 05:06:55,951] INFO: wtw (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:06:55,978] INFO: wtw (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:06:56,005] INFO: wtw (12/2024): Updated existing record with 19 non-zero financial metrics

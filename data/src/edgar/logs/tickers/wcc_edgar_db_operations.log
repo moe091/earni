@@ -1,0 +1,80 @@
+[2025-03-22 13:15:54,493] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 13:15:54,507] WARNING: wcc (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 13:15:54,507] INFO: wcc (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 13:15:54,526] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 13:15:54,540] WARNING: wcc (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 13:15:54,540] INFO: wcc (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 13:15:54,557] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 13:15:54,571] WARNING: wcc (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 13:15:54,572] INFO: wcc (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 13:15:54,588] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 13:15:54,602] WARNING: wcc (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 13:15:54,603] INFO: wcc (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 13:15:54,618] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 13:15:54,633] WARNING: wcc (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 13:15:54,633] INFO: wcc (6/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 13:15:54,649] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 13:15:54,665] WARNING: wcc (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 13:15:54,665] INFO: wcc (9/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 13:15:54,682] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 13:15:54,697] WARNING: wcc (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 13:15:54,697] INFO: wcc (12/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 13:15:54,715] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 13:15:54,728] WARNING: wcc (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 13:15:54,729] INFO: wcc (3/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 13:15:54,746] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 13:15:54,760] WARNING: wcc (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 13:15:54,760] INFO: wcc (6/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 13:15:54,791] INFO: wcc (9/2012): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:15:54,821] INFO: wcc (12/2012): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:15:54,851] INFO: wcc (3/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:15:54,881] INFO: wcc (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 13:15:54,912] INFO: wcc (9/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:15:54,941] INFO: wcc (12/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:15:54,971] INFO: wcc (3/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:15:55,001] INFO: wcc (6/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:15:55,033] INFO: wcc (9/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:15:55,064] INFO: wcc (12/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:15:55,093] INFO: wcc (3/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:15:55,123] INFO: wcc (6/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:15:55,153] INFO: wcc (9/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:15:55,187] INFO: wcc (12/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:15:55,217] INFO: wcc (3/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:15:55,246] INFO: wcc (6/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:15:55,276] INFO: wcc (9/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:15:55,305] INFO: wcc (12/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:15:55,336] INFO: wcc (3/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:15:55,366] INFO: wcc (6/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:15:55,396] INFO: wcc (9/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:15:55,425] INFO: wcc (12/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:15:55,455] INFO: wcc (3/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:15:55,485] INFO: wcc (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:15:55,514] INFO: wcc (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:15:55,543] INFO: wcc (12/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:15:55,574] INFO: wcc (3/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:15:55,606] INFO: wcc (6/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:15:55,636] INFO: wcc (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:15:55,666] INFO: wcc (12/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:15:55,697] INFO: wcc (3/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:15:55,726] INFO: wcc (6/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:15:55,756] INFO: wcc (9/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:15:55,785] INFO: wcc (12/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:15:55,817] INFO: wcc (3/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:15:55,848] INFO: wcc (6/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:15:55,878] INFO: wcc (9/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:15:55,893] WARNING: wcc (12/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 13:15:55,908] INFO: wcc (12/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:15:55,937] INFO: wcc (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:15:55,969] INFO: wcc (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:15:55,999] INFO: wcc (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:15:56,030] INFO: wcc (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:15:56,059] INFO: wcc (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:15:56,089] INFO: wcc (6/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:15:56,118] INFO: wcc (9/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:15:56,148] INFO: wcc (12/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:15:56,179] INFO: wcc (3/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:15:56,208] INFO: wcc (6/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:15:56,237] INFO: wcc (9/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:15:56,254] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 13:15:56,268] WARNING: wcc (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 13:15:56,268] INFO: wcc (12/2024): Created new record with 18 non-zero financial metrics

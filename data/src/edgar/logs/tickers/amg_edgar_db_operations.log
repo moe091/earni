@@ -1,0 +1,79 @@
+[2025-03-22 15:50:31,869] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 15:50:31,884] WARNING: amg (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 15:50:31,885] INFO: amg (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,902] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 15:50:31,917] WARNING: amg (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 15:50:31,917] INFO: amg (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,934] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 15:50:31,949] WARNING: amg (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 15:50:31,949] INFO: amg (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,966] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 15:50:31,980] WARNING: amg (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 15:50:31,981] INFO: amg (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,998] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 15:50:32,013] WARNING: amg (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 15:50:32,013] INFO: amg (6/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:50:32,029] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 15:50:32,044] WARNING: amg (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 15:50:32,044] INFO: amg (9/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:50:32,061] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 15:50:32,076] WARNING: amg (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 15:50:32,077] INFO: amg (12/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:50:32,093] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 15:50:32,108] WARNING: amg (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 15:50:32,108] INFO: amg (3/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:50:32,125] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 15:50:32,140] WARNING: amg (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 15:50:32,140] INFO: amg (6/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:50:32,172] INFO: amg (9/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:32,204] INFO: amg (12/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:32,235] INFO: amg (3/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:30,870] INFO: amg (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:30,901] INFO: amg (9/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:30,932] INFO: amg (12/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:30,962] INFO: amg (3/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:30,996] INFO: amg (6/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,026] INFO: amg (9/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,059] INFO: amg (12/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,090] INFO: amg (3/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,121] INFO: amg (6/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,151] INFO: amg (9/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,180] INFO: amg (12/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,211] INFO: amg (3/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,242] INFO: amg (6/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,275] INFO: amg (9/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,307] INFO: amg (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,338] INFO: amg (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,369] INFO: amg (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,399] INFO: amg (9/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,430] INFO: amg (12/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,462] INFO: amg (3/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,495] INFO: amg (6/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,528] INFO: amg (9/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,560] INFO: amg (12/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,591] INFO: amg (3/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,621] INFO: amg (6/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,651] INFO: amg (9/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,682] INFO: amg (12/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,713] INFO: amg (3/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,743] INFO: amg (6/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,774] INFO: amg (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,805] INFO: amg (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,835] INFO: amg (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,867] INFO: amg (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,898] INFO: amg (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,928] INFO: amg (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,958] INFO: amg (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:31,989] INFO: amg (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:32,019] INFO: amg (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:32,051] INFO: amg (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:32,082] INFO: amg (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:32,112] INFO: amg (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:32,143] INFO: amg (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:32,174] INFO: amg (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:32,206] INFO: amg (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:32,236] INFO: amg (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:32,267] INFO: amg (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:50:32,284] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 15:50:32,298] WARNING: amg (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 15:50:32,299] INFO: amg (12/2024): Created new record with 0 non-zero financial metrics

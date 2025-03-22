@@ -1,0 +1,97 @@
+[2025-03-22 09:54:48,485] INFO: lbtya (6/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:54:48,515] INFO: lbtya (9/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:54:48,550] INFO: lbtya (12/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:54:48,577] INFO: lbtya (3/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:54:48,605] INFO: lbtya (6/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:54:48,636] INFO: lbtya (9/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:54:48,664] INFO: lbtya (12/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:54:48,692] INFO: lbtya (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:54:48,706] INFO: Trying adjusted date: 7/2015 (original: 6/2015)
+[2025-03-22 09:54:48,719] WARNING: lbtya (6/2015): No existing record found(6/2015, 2015-06-30) - creating new one
+[2025-03-22 09:54:48,720] INFO: lbtya (6/2015): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:54:48,748] INFO: lbtya (9/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:54:48,764] INFO: Trying adjusted date: 1/2016 (original: 12/2015)
+[2025-03-22 09:54:48,778] WARNING: lbtya (12/2015): No existing record found(12/2015, 2015-12-31) - creating new one
+[2025-03-22 09:54:48,778] INFO: lbtya (12/2015): Created new record with 16 non-zero financial metrics
+[2025-03-22 09:54:48,805] INFO: lbtya (3/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:54:48,833] INFO: lbtya (6/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:54:48,848] INFO: Trying adjusted date: 10/2016 (original: 9/2016)
+[2025-03-22 09:54:48,861] WARNING: lbtya (9/2016): No existing record found(9/2016, 2016-09-30) - creating new one
+[2025-03-22 09:54:48,861] INFO: lbtya (9/2016): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:54:48,876] INFO: Trying adjusted date: 1/2017 (original: 12/2016)
+[2025-03-22 09:54:48,889] WARNING: lbtya (12/2016): No existing record found(12/2016, 2016-12-31) - creating new one
+[2025-03-22 09:54:48,889] INFO: lbtya (12/2016): Created new record with 16 non-zero financial metrics
+[2025-03-22 09:54:48,917] INFO: lbtya (3/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:54:48,932] INFO: Trying adjusted date: 7/2017 (original: 6/2017)
+[2025-03-22 09:54:48,945] WARNING: lbtya (6/2017): No existing record found(6/2017, 2017-06-30) - creating new one
+[2025-03-22 09:54:48,946] INFO: lbtya (6/2017): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:54:48,974] INFO: lbtya (9/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:54:48,989] INFO: Trying adjusted date: 1/2018 (original: 12/2017)
+[2025-03-22 09:54:49,002] WARNING: lbtya (12/2017): No existing record found(12/2017, 2017-12-31) - creating new one
+[2025-03-22 09:54:49,002] INFO: lbtya (12/2017): Created new record with 16 non-zero financial metrics
+[2025-03-22 09:54:49,018] INFO: Trying adjusted date: 4/2018 (original: 3/2018)
+[2025-03-22 09:54:49,030] WARNING: lbtya (3/2018): No existing record found(3/2018, 2018-03-31) - creating new one
+[2025-03-22 09:54:49,031] INFO: lbtya (3/2018): Created new record with 18 non-zero financial metrics
+[2025-03-22 09:54:49,060] INFO: lbtya (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:54:49,087] INFO: lbtya (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:54:49,103] INFO: Trying adjusted date: 1/2019 (original: 12/2018)
+[2025-03-22 09:54:49,117] WARNING: lbtya (12/2018): No existing record found(12/2018, 2018-12-31) - creating new one
+[2025-03-22 09:54:49,117] INFO: lbtya (12/2018): Created new record with 19 non-zero financial metrics
+[2025-03-22 09:54:49,145] INFO: lbtya (3/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:54:49,173] INFO: lbtya (6/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:54:49,201] INFO: lbtya (9/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:54:49,216] INFO: Trying adjusted date: 1/2020 (original: 12/2019)
+[2025-03-22 09:54:49,229] WARNING: lbtya (12/2019): No existing record found(12/2019, 2019-12-31) - creating new one
+[2025-03-22 09:54:49,230] INFO: lbtya (12/2019): Created new record with 19 non-zero financial metrics
+[2025-03-22 09:54:49,245] INFO: Trying adjusted date: 4/2020 (original: 3/2020)
+[2025-03-22 09:54:49,259] WARNING: lbtya (3/2020): No existing record found(3/2020, 2020-03-31) - creating new one
+[2025-03-22 09:54:49,260] INFO: lbtya (3/2020): Created new record with 20 non-zero financial metrics
+[2025-03-22 09:54:49,275] INFO: Trying adjusted date: 7/2020 (original: 6/2020)
+[2025-03-22 09:54:49,287] WARNING: lbtya (6/2020): No existing record found(6/2020, 2020-06-30) - creating new one
+[2025-03-22 09:54:49,288] INFO: lbtya (6/2020): Created new record with 16 non-zero financial metrics
+[2025-03-22 09:54:49,316] INFO: lbtya (9/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:54:49,331] INFO: Trying adjusted date: 1/2021 (original: 12/2020)
+[2025-03-22 09:54:49,343] WARNING: lbtya (12/2020): No existing record found(12/2020, 2020-12-31) - creating new one
+[2025-03-22 09:54:49,344] INFO: lbtya (12/2020): Created new record with 19 non-zero financial metrics
+[2025-03-22 09:54:49,359] INFO: Trying adjusted date: 4/2021 (original: 3/2021)
+[2025-03-22 09:54:49,372] WARNING: lbtya (3/2021): No existing record found(3/2021, 2021-03-31) - creating new one
+[2025-03-22 09:54:49,373] INFO: lbtya (3/2021): Created new record with 20 non-zero financial metrics
+[2025-03-22 09:54:49,387] INFO: Trying adjusted date: 7/2021 (original: 6/2021)
+[2025-03-22 09:54:49,400] WARNING: lbtya (6/2021): No existing record found(6/2021, 2021-06-30) - creating new one
+[2025-03-22 09:54:49,401] INFO: lbtya (6/2021): Created new record with 16 non-zero financial metrics
+[2025-03-22 09:54:49,430] INFO: lbtya (9/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:54:49,445] INFO: Trying adjusted date: 1/2022 (original: 12/2021)
+[2025-03-22 09:54:49,458] WARNING: lbtya (12/2021): No existing record found(12/2021, 2021-12-31) - creating new one
+[2025-03-22 09:54:49,459] INFO: lbtya (12/2021): Created new record with 20 non-zero financial metrics
+[2025-03-22 09:54:49,474] INFO: Trying adjusted date: 4/2022 (original: 3/2022)
+[2025-03-22 09:54:49,487] WARNING: lbtya (3/2022): No existing record found(3/2022, 2022-03-31) - creating new one
+[2025-03-22 09:54:49,488] INFO: lbtya (3/2022): Created new record with 20 non-zero financial metrics
+[2025-03-22 09:54:49,502] INFO: Trying adjusted date: 7/2022 (original: 6/2022)
+[2025-03-22 09:54:49,516] WARNING: lbtya (6/2022): No existing record found(6/2022, 2022-06-30) - creating new one
+[2025-03-22 09:54:49,516] INFO: lbtya (6/2022): Created new record with 16 non-zero financial metrics
+[2025-03-22 09:54:49,533] INFO: Trying adjusted date: 10/2022 (original: 9/2022)
+[2025-03-22 09:54:49,546] WARNING: lbtya (9/2022): No existing record found(9/2022, 2022-09-30) - creating new one
+[2025-03-22 09:54:49,547] INFO: lbtya (9/2022): Created new record with 16 non-zero financial metrics
+[2025-03-22 09:54:49,562] INFO: Trying adjusted date: 1/2023 (original: 12/2022)
+[2025-03-22 09:54:49,575] WARNING: lbtya (12/2022): No existing record found(12/2022, 2022-12-31) - creating new one
+[2025-03-22 09:54:49,576] INFO: lbtya (12/2022): Created new record with 20 non-zero financial metrics
+[2025-03-22 09:54:49,604] INFO: lbtya (3/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 09:54:49,634] INFO: lbtya (6/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:54:49,649] INFO: Trying adjusted date: 10/2023 (original: 9/2023)
+[2025-03-22 09:54:49,662] WARNING: lbtya (9/2023): No existing record found(9/2023, 2023-09-30) - creating new one
+[2025-03-22 09:54:49,662] INFO: lbtya (9/2023): Created new record with 16 non-zero financial metrics
+[2025-03-22 09:54:49,677] INFO: Trying adjusted date: 1/2024 (original: 12/2023)
+[2025-03-22 09:54:49,690] WARNING: lbtya (12/2023): No existing record found(12/2023, 2023-12-31) - creating new one
+[2025-03-22 09:54:49,691] INFO: lbtya (12/2023): Created new record with 20 non-zero financial metrics
+[2025-03-22 09:54:49,705] INFO: Trying adjusted date: 4/2024 (original: 3/2024)
+[2025-03-22 09:54:49,718] WARNING: lbtya (3/2024): No existing record found(3/2024, 2024-03-31) - creating new one
+[2025-03-22 09:54:49,719] INFO: lbtya (3/2024): Created new record with 20 non-zero financial metrics
+[2025-03-22 09:54:49,738] INFO: Trying adjusted date: 7/2024 (original: 6/2024)
+[2025-03-22 09:54:49,751] WARNING: lbtya (6/2024): No existing record found(6/2024, 2024-06-30) - creating new one
+[2025-03-22 09:54:49,752] INFO: lbtya (6/2024): Created new record with 15 non-zero financial metrics
+[2025-03-22 09:54:49,766] INFO: Trying adjusted date: 10/2024 (original: 9/2024)
+[2025-03-22 09:54:49,779] WARNING: lbtya (9/2024): No existing record found(9/2024, 2024-09-30) - creating new one
+[2025-03-22 09:54:49,780] INFO: lbtya (9/2024): Created new record with 15 non-zero financial metrics
+[2025-03-22 09:54:49,794] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 09:54:49,807] WARNING: lbtya (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 09:54:49,807] INFO: lbtya (12/2024): Created new record with 19 non-zero financial metrics

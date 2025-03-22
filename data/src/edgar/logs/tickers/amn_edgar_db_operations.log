@@ -1,0 +1,99 @@
+[2025-03-22 15:57:15,481] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 15:57:15,496] WARNING: amn (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 15:57:15,497] INFO: amn (6/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:57:15,515] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 15:57:15,529] WARNING: amn (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 15:57:15,530] INFO: amn (9/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:57:15,546] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 15:57:15,561] WARNING: amn (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 15:57:15,562] INFO: amn (12/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:57:15,578] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 15:57:15,592] WARNING: amn (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 15:57:15,593] INFO: amn (3/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:57:15,610] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 15:57:15,625] WARNING: amn (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 15:57:15,626] INFO: amn (6/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:57:15,643] INFO: Trying adjusted date: 10/2012 (original: 9/2012)
+[2025-03-22 15:57:15,659] WARNING: amn (9/2012): No existing record found(9/2012, 2012-09-30) - creating new one
+[2025-03-22 15:57:15,659] INFO: amn (9/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:57:15,676] INFO: Trying adjusted date: 1/2013 (original: 12/2012)
+[2025-03-22 15:57:15,691] WARNING: amn (12/2012): No existing record found(12/2012, 2012-12-31) - creating new one
+[2025-03-22 15:57:15,691] INFO: amn (12/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:57:15,708] INFO: Trying adjusted date: 4/2013 (original: 3/2013)
+[2025-03-22 15:57:15,723] WARNING: amn (3/2013): No existing record found(3/2013, 2013-03-31) - creating new one
+[2025-03-22 15:57:15,723] INFO: amn (3/2013): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:57:15,740] INFO: Trying adjusted date: 7/2013 (original: 6/2013)
+[2025-03-22 15:57:15,755] WARNING: amn (6/2013): No existing record found(6/2013, 2013-06-30) - creating new one
+[2025-03-22 15:57:15,756] INFO: amn (6/2013): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:57:15,773] INFO: Trying adjusted date: 10/2013 (original: 9/2013)
+[2025-03-22 15:57:15,787] WARNING: amn (9/2013): No existing record found(9/2013, 2013-09-30) - creating new one
+[2025-03-22 15:57:15,788] INFO: amn (9/2013): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:57:15,804] INFO: Trying adjusted date: 1/2014 (original: 12/2013)
+[2025-03-22 15:57:15,819] WARNING: amn (12/2013): No existing record found(12/2013, 2013-12-31) - creating new one
+[2025-03-22 15:57:15,819] INFO: amn (12/2013): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:57:15,836] INFO: Trying adjusted date: 4/2014 (original: 3/2014)
+[2025-03-22 15:57:15,851] WARNING: amn (3/2014): No existing record found(3/2014, 2014-03-31) - creating new one
+[2025-03-22 15:57:15,851] INFO: amn (3/2014): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:57:15,868] INFO: Trying adjusted date: 7/2014 (original: 6/2014)
+[2025-03-22 15:57:15,883] WARNING: amn (6/2014): No existing record found(6/2014, 2014-06-30) - creating new one
+[2025-03-22 15:57:15,884] INFO: amn (6/2014): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:57:15,900] INFO: Trying adjusted date: 10/2014 (original: 9/2014)
+[2025-03-22 15:57:15,915] WARNING: amn (9/2014): No existing record found(9/2014, 2014-09-30) - creating new one
+[2025-03-22 15:57:15,916] INFO: amn (9/2014): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:57:15,932] INFO: Trying adjusted date: 1/2015 (original: 12/2014)
+[2025-03-22 15:57:15,947] WARNING: amn (12/2014): No existing record found(12/2014, 2014-12-31) - creating new one
+[2025-03-22 15:57:15,948] INFO: amn (12/2014): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:57:15,965] INFO: Trying adjusted date: 4/2015 (original: 3/2015)
+[2025-03-22 15:57:15,980] WARNING: amn (3/2015): No existing record found(3/2015, 2015-03-31) - creating new one
+[2025-03-22 15:57:15,981] INFO: amn (3/2015): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:57:15,998] INFO: Trying adjusted date: 7/2015 (original: 6/2015)
+[2025-03-22 15:57:16,013] WARNING: amn (6/2015): No existing record found(6/2015, 2015-06-30) - creating new one
+[2025-03-22 15:57:16,014] INFO: amn (6/2015): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,031] INFO: Trying adjusted date: 10/2015 (original: 9/2015)
+[2025-03-22 15:57:16,046] WARNING: amn (9/2015): No existing record found(9/2015, 2015-09-30) - creating new one
+[2025-03-22 15:57:16,047] INFO: amn (9/2015): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,065] INFO: Trying adjusted date: 1/2016 (original: 12/2015)
+[2025-03-22 15:57:16,080] WARNING: amn (12/2015): No existing record found(12/2015, 2015-12-31) - creating new one
+[2025-03-22 15:57:16,080] INFO: amn (12/2015): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,096] INFO: Trying adjusted date: 4/2016 (original: 3/2016)
+[2025-03-22 15:57:16,111] WARNING: amn (3/2016): No existing record found(3/2016, 2016-03-31) - creating new one
+[2025-03-22 15:57:16,111] INFO: amn (3/2016): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,130] INFO: Trying adjusted date: 7/2016 (original: 6/2016)
+[2025-03-22 15:57:16,144] WARNING: amn (6/2016): No existing record found(6/2016, 2016-06-30) - creating new one
+[2025-03-22 15:57:16,145] INFO: amn (6/2016): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,175] INFO: amn (9/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,206] INFO: amn (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,239] INFO: amn (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,269] INFO: amn (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,302] INFO: amn (9/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,333] INFO: amn (12/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,364] INFO: amn (3/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,394] INFO: amn (6/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,424] INFO: amn (9/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,455] INFO: amn (12/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,487] INFO: amn (3/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,518] INFO: amn (6/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,548] INFO: amn (9/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,580] INFO: amn (12/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,611] INFO: amn (3/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,642] INFO: amn (6/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,672] INFO: amn (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,703] INFO: amn (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,734] INFO: amn (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,765] INFO: amn (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,797] INFO: amn (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,828] INFO: amn (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,859] INFO: amn (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,890] INFO: amn (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,921] INFO: amn (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,953] INFO: amn (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:16,986] INFO: amn (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:17,019] INFO: amn (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:17,049] INFO: amn (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:17,081] INFO: amn (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:17,112] INFO: amn (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:17,144] INFO: amn (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:17,174] INFO: amn (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:57:17,191] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 15:57:17,205] WARNING: amn (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 15:57:17,205] INFO: amn (12/2024): Created new record with 0 non-zero financial metrics

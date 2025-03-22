@@ -1,0 +1,48 @@
+[2025-03-22 14:11:19,938] WARNING: hqy (7/2014): Found zero values for fields: Interest Expense
+[2025-03-22 14:11:19,952] INFO: hqy (7/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:11:19,984] INFO: hqy (10/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:11:20,002] WARNING: hqy (1/2015): Found zero values for fields: Interest Expense
+[2025-03-22 14:11:20,017] INFO: hqy (1/2015): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 14:11:20,049] INFO: hqy (4/2015): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:11:20,081] INFO: hqy (7/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:11:20,113] INFO: hqy (10/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:11:20,145] INFO: hqy (1/2016): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 14:11:20,175] INFO: hqy (4/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:11:20,208] INFO: hqy (7/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:11:20,245] INFO: hqy (10/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:11:20,279] INFO: hqy (1/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:11:20,312] INFO: hqy (4/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:11:20,344] INFO: hqy (7/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:11:20,374] INFO: hqy (10/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:11:20,403] INFO: hqy (1/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:11:20,432] INFO: hqy (4/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 14:11:20,464] INFO: hqy (7/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:11:20,495] INFO: hqy (10/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:11:20,525] INFO: hqy (1/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 14:11:20,556] INFO: hqy (4/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:11:20,587] INFO: hqy (7/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:11:20,618] INFO: hqy (10/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:11:20,648] INFO: hqy (1/2020): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 14:11:20,678] INFO: hqy (4/2020): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 14:11:20,696] WARNING: hqy (7/2020): Found zero values for fields: EPS Diluted
+[2025-03-22 14:11:20,710] INFO: hqy (7/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 14:11:20,740] INFO: hqy (10/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:11:20,772] INFO: hqy (1/2021): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 14:11:20,802] INFO: hqy (4/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 14:11:20,832] INFO: hqy (7/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 14:11:20,862] INFO: hqy (10/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:11:20,893] INFO: hqy (1/2022): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 14:11:20,923] INFO: hqy (4/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 14:11:20,953] INFO: hqy (7/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:11:20,984] INFO: hqy (10/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:11:21,015] INFO: hqy (1/2023): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 14:11:21,046] INFO: hqy (4/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 14:11:21,076] INFO: hqy (7/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:11:21,106] INFO: hqy (10/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:11:21,138] INFO: hqy (1/2024): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 14:11:21,169] INFO: hqy (4/2024): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 14:11:21,199] INFO: hqy (7/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 14:11:21,228] INFO: hqy (10/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 14:11:21,244] INFO: Trying adjusted date: 2/2025 (original: 1/2025)
+[2025-03-22 14:11:21,258] WARNING: hqy (1/2025): No existing record found(1/2025, 2025-01-31) - creating new one
+[2025-03-22 14:11:21,258] INFO: hqy (1/2025): Created new record with 24 non-zero financial metrics

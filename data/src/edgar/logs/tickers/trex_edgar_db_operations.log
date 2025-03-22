@@ -1,0 +1,71 @@
+[2025-03-22 15:36:07,884] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 15:36:07,899] WARNING: trex (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 15:36:07,900] INFO: trex (6/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 15:36:07,917] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 15:36:07,931] WARNING: trex (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 15:36:07,932] INFO: trex (9/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 15:36:07,949] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 15:36:07,963] WARNING: trex (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 15:36:07,964] INFO: trex (12/2011): Created new record with 20 non-zero financial metrics
+[2025-03-22 15:36:07,980] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 15:36:07,996] WARNING: trex (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 15:36:07,997] INFO: trex (3/2012): Created new record with 19 non-zero financial metrics
+[2025-03-22 15:36:08,014] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 15:36:08,028] WARNING: trex (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 15:36:08,029] INFO: trex (6/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 15:36:08,046] ERROR: Invalid numeric value for Long Term Debt: 
+[2025-03-22 15:36:08,046] ERROR: trex (9/2012): Invalid data types: Long Term Debt=
+[2025-03-22 15:36:08,061] INFO: trex (9/2012): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:36:08,078] ERROR: Invalid numeric value for Long Term Debt: 
+[2025-03-22 15:36:08,078] ERROR: trex (12/2012): Invalid data types: Long Term Debt=
+[2025-03-22 15:36:08,093] INFO: trex (12/2012): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 15:36:08,124] INFO: trex (3/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:36:06,758] INFO: trex (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:36:06,790] INFO: trex (9/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:36:06,821] INFO: trex (12/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:36:06,852] INFO: trex (3/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:36:06,882] INFO: trex (6/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:36:06,915] INFO: trex (9/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:36:06,947] INFO: trex (12/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:36:06,980] INFO: trex (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:36:07,012] INFO: trex (6/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:36:07,044] INFO: trex (9/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:36:07,076] INFO: trex (12/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:36:07,108] INFO: trex (3/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:36:07,144] INFO: trex (6/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:36:07,175] INFO: trex (9/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:36:07,207] INFO: trex (12/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:36:07,239] INFO: trex (3/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:36:07,269] INFO: trex (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:36:07,298] INFO: trex (9/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 15:36:07,329] INFO: trex (12/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:36:07,360] INFO: trex (3/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:36:07,391] INFO: trex (6/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 15:36:07,423] INFO: trex (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:36:07,454] INFO: trex (12/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:36:07,485] INFO: trex (3/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:36:07,517] INFO: trex (6/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:36:07,548] INFO: trex (9/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:36:07,580] INFO: trex (12/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:36:07,610] INFO: trex (3/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:36:07,641] INFO: trex (6/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:36:07,673] INFO: trex (9/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:36:07,703] INFO: trex (12/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:36:07,736] INFO: trex (3/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:36:07,769] INFO: trex (6/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:36:07,801] INFO: trex (9/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:36:07,832] INFO: trex (12/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:36:07,863] INFO: trex (3/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:36:07,894] INFO: trex (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:36:07,925] INFO: trex (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:36:07,956] INFO: trex (12/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:36:07,987] INFO: trex (3/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:36:08,017] INFO: trex (6/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:36:08,048] INFO: trex (9/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:36:08,078] INFO: trex (12/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:36:08,109] INFO: trex (3/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:36:08,141] INFO: trex (6/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:36:08,172] INFO: trex (9/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:36:08,189] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 15:36:08,203] WARNING: trex (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 15:36:08,204] INFO: trex (12/2024): Created new record with 19 non-zero financial metrics

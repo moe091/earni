@@ -1,0 +1,79 @@
+[2025-03-22 10:18:08,090] INFO: Trying adjusted date: 1/2017 (original: 12/2016)
+[2025-03-22 10:18:08,107] WARNING: dbrg (12/2016): Found zero values for fields: Share Repurchases
+[2025-03-22 10:18:08,107] WARNING: dbrg (12/2016): No existing record found(12/2016, 2016-12-31) - creating new one
+[2025-03-22 10:18:08,107] INFO: dbrg (12/2016): Created new record with 13 non-zero financial metrics
+[2025-03-22 10:18:08,125] INFO: Trying adjusted date: 4/2017 (original: 3/2017)
+[2025-03-22 10:18:08,139] WARNING: dbrg (3/2017): No existing record found(3/2017, 2017-03-31) - creating new one
+[2025-03-22 10:18:08,140] INFO: dbrg (3/2017): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:18:08,156] INFO: Trying adjusted date: 7/2017 (original: 6/2017)
+[2025-03-22 10:18:08,170] WARNING: dbrg (6/2017): No existing record found(6/2017, 2017-06-30) - creating new one
+[2025-03-22 10:18:08,171] INFO: dbrg (6/2017): Created new record with 13 non-zero financial metrics
+[2025-03-22 10:18:08,186] INFO: Trying adjusted date: 10/2017 (original: 9/2017)
+[2025-03-22 10:18:08,200] WARNING: dbrg (9/2017): Found zero values for fields: EPS Diluted
+[2025-03-22 10:18:08,200] WARNING: dbrg (9/2017): No existing record found(9/2017, 2017-09-30) - creating new one
+[2025-03-22 10:18:08,200] INFO: dbrg (9/2017): Created new record with 12 non-zero financial metrics
+[2025-03-22 10:18:08,216] INFO: Trying adjusted date: 1/2018 (original: 12/2017)
+[2025-03-22 10:18:08,230] WARNING: dbrg (12/2017): No existing record found(12/2017, 2017-12-31) - creating new one
+[2025-03-22 10:18:08,230] INFO: dbrg (12/2017): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:18:08,246] INFO: Trying adjusted date: 4/2018 (original: 3/2018)
+[2025-03-22 10:18:08,259] WARNING: dbrg (3/2018): No existing record found(3/2018, 2018-03-31) - creating new one
+[2025-03-22 10:18:08,259] INFO: dbrg (3/2018): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:18:08,277] INFO: Trying adjusted date: 7/2018 (original: 6/2018)
+[2025-03-22 10:18:08,291] WARNING: dbrg (6/2018): No existing record found(6/2018, 2018-06-30) - creating new one
+[2025-03-22 10:18:08,291] INFO: dbrg (6/2018): Created new record with 13 non-zero financial metrics
+[2025-03-22 10:18:08,306] INFO: Trying adjusted date: 10/2018 (original: 9/2018)
+[2025-03-22 10:18:08,321] WARNING: dbrg (9/2018): No existing record found(9/2018, 2018-09-30) - creating new one
+[2025-03-22 10:18:08,322] INFO: dbrg (9/2018): Created new record with 13 non-zero financial metrics
+[2025-03-22 10:18:08,336] INFO: Trying adjusted date: 1/2019 (original: 12/2018)
+[2025-03-22 10:18:08,350] WARNING: dbrg (12/2018): No existing record found(12/2018, 2018-12-31) - creating new one
+[2025-03-22 10:18:08,351] INFO: dbrg (12/2018): Created new record with 17 non-zero financial metrics
+[2025-03-22 10:18:08,366] INFO: Trying adjusted date: 4/2019 (original: 3/2019)
+[2025-03-22 10:18:08,380] WARNING: dbrg (3/2019): No existing record found(3/2019, 2019-03-31) - creating new one
+[2025-03-22 10:18:08,381] INFO: dbrg (3/2019): Created new record with 17 non-zero financial metrics
+[2025-03-22 10:18:08,396] INFO: Trying adjusted date: 7/2019 (original: 6/2019)
+[2025-03-22 10:18:08,410] WARNING: dbrg (6/2019): No existing record found(6/2019, 2019-06-30) - creating new one
+[2025-03-22 10:18:08,410] INFO: dbrg (6/2019): Created new record with 12 non-zero financial metrics
+[2025-03-22 10:18:08,425] INFO: Trying adjusted date: 10/2019 (original: 9/2019)
+[2025-03-22 10:18:08,439] WARNING: dbrg (9/2019): No existing record found(9/2019, 2019-09-30) - creating new one
+[2025-03-22 10:18:08,440] INFO: dbrg (9/2019): Created new record with 12 non-zero financial metrics
+[2025-03-22 10:18:08,454] INFO: Trying adjusted date: 1/2020 (original: 12/2019)
+[2025-03-22 10:18:08,468] WARNING: dbrg (12/2019): No existing record found(12/2019, 2019-12-31) - creating new one
+[2025-03-22 10:18:08,468] INFO: dbrg (12/2019): Created new record with 16 non-zero financial metrics
+[2025-03-22 10:18:08,484] INFO: Trying adjusted date: 4/2020 (original: 3/2020)
+[2025-03-22 10:18:08,498] WARNING: dbrg (3/2020): No existing record found(3/2020, 2020-03-31) - creating new one
+[2025-03-22 10:18:08,498] INFO: dbrg (3/2020): Created new record with 16 non-zero financial metrics
+[2025-03-22 10:18:08,517] INFO: Trying adjusted date: 7/2020 (original: 6/2020)
+[2025-03-22 10:18:08,530] WARNING: dbrg (6/2020): No existing record found(6/2020, 2020-06-30) - creating new one
+[2025-03-22 10:18:08,531] INFO: dbrg (6/2020): Created new record with 12 non-zero financial metrics
+[2025-03-22 10:18:08,546] INFO: Trying adjusted date: 10/2020 (original: 9/2020)
+[2025-03-22 10:18:08,557] WARNING: dbrg (9/2020): No existing record found(9/2020, 2020-09-30) - creating new one
+[2025-03-22 10:18:08,558] INFO: dbrg (9/2020): Created new record with 12 non-zero financial metrics
+[2025-03-22 10:18:08,573] INFO: Trying adjusted date: 1/2021 (original: 12/2020)
+[2025-03-22 10:18:08,587] WARNING: dbrg (12/2020): No existing record found(12/2020, 2020-12-31) - creating new one
+[2025-03-22 10:18:08,588] INFO: dbrg (12/2020): Created new record with 16 non-zero financial metrics
+[2025-03-22 10:18:08,603] INFO: Trying adjusted date: 4/2021 (original: 3/2021)
+[2025-03-22 10:18:08,617] WARNING: dbrg (3/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 10:18:08,617] WARNING: dbrg (3/2021): No existing record found(3/2021, 2021-03-31) - creating new one
+[2025-03-22 10:18:08,617] INFO: dbrg (3/2021): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:18:08,647] INFO: dbrg (6/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:18:08,676] INFO: dbrg (9/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:18:08,692] WARNING: dbrg (12/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 10:18:08,705] INFO: dbrg (12/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:18:08,722] INFO: Trying adjusted date: 4/2022 (original: 3/2022)
+[2025-03-22 10:18:08,736] WARNING: dbrg (3/2022): No existing record found(3/2022, 2022-03-31) - creating new one
+[2025-03-22 10:18:08,736] INFO: dbrg (3/2022): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:18:08,764] INFO: dbrg (6/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:18:08,795] INFO: dbrg (9/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:18:08,825] INFO: dbrg (12/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:18:08,854] INFO: dbrg (3/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:18:08,883] INFO: dbrg (6/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:18:08,913] INFO: dbrg (9/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:18:08,928] WARNING: dbrg (12/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 10:18:08,941] INFO: dbrg (12/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:18:08,969] INFO: dbrg (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:18:08,999] INFO: dbrg (6/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:18:09,027] INFO: dbrg (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:18:09,043] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 10:18:09,056] WARNING: dbrg (12/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 10:18:09,056] WARNING: dbrg (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 10:18:09,056] INFO: dbrg (12/2024): Created new record with 16 non-zero financial metrics

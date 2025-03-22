@@ -1,0 +1,80 @@
+[2025-03-22 10:45:24,364] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 10:45:24,378] WARNING: car (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 10:45:24,378] INFO: car (6/2010): Created new record with 6 non-zero financial metrics
+[2025-03-22 10:45:24,393] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 10:45:24,407] WARNING: car (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 10:45:24,407] INFO: car (9/2010): Created new record with 6 non-zero financial metrics
+[2025-03-22 10:45:24,423] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 10:45:24,437] WARNING: car (12/2010): Found zero values for fields: Share Repurchases
+[2025-03-22 10:45:24,437] WARNING: car (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 10:45:24,437] INFO: car (12/2010): Created new record with 9 non-zero financial metrics
+[2025-03-22 10:45:24,453] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 10:45:24,469] WARNING: car (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 10:45:24,469] INFO: car (3/2011): Created new record with 9 non-zero financial metrics
+[2025-03-22 10:45:24,485] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 10:45:24,498] WARNING: car (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 10:45:24,499] INFO: car (6/2011): Created new record with 8 non-zero financial metrics
+[2025-03-22 10:45:24,514] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 10:45:24,529] WARNING: car (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 10:45:24,529] INFO: car (9/2011): Created new record with 8 non-zero financial metrics
+[2025-03-22 10:45:24,546] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 10:45:24,559] WARNING: car (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 10:45:24,560] INFO: car (12/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 10:45:24,576] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 10:45:24,590] WARNING: car (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 10:45:24,591] INFO: car (3/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 10:45:24,610] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 10:45:24,624] WARNING: car (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 10:45:24,625] INFO: car (6/2012): Created new record with 8 non-zero financial metrics
+[2025-03-22 10:45:24,657] INFO: car (9/2012): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 10:45:24,687] INFO: car (12/2012): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:45:24,719] INFO: car (3/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:45:24,748] INFO: car (6/2013): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 10:45:24,778] INFO: car (9/2013): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 10:45:24,808] INFO: car (12/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:45:24,837] INFO: car (3/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:45:24,867] INFO: car (6/2014): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 10:45:24,896] INFO: car (9/2014): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 10:45:24,926] INFO: car (12/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:45:24,957] INFO: car (3/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:45:24,987] INFO: car (6/2015): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 10:45:25,017] INFO: car (9/2015): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 10:45:25,047] INFO: car (12/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:45:25,076] INFO: car (3/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:45:25,106] INFO: car (6/2016): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 10:45:25,136] INFO: car (9/2016): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 10:45:25,166] INFO: car (12/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:45:25,198] INFO: car (3/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:45:25,227] INFO: car (6/2017): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 10:45:25,256] INFO: car (9/2017): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 10:45:25,286] INFO: car (12/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:45:25,316] INFO: car (3/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:45:25,345] INFO: car (6/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:45:25,375] INFO: car (9/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:45:25,405] INFO: car (12/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:45:25,435] INFO: car (3/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:45:25,464] INFO: car (6/2019): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:45:25,494] INFO: car (9/2019): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:45:25,524] INFO: car (12/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:45:25,552] INFO: car (3/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:45:25,581] INFO: car (6/2020): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 10:45:25,610] INFO: car (9/2020): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 10:45:25,639] INFO: car (12/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:45:25,668] INFO: car (3/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:45:25,699] INFO: car (6/2021): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:45:25,728] INFO: car (9/2021): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:45:25,758] INFO: car (12/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:45:25,787] INFO: car (3/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:45:25,815] INFO: car (6/2022): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:45:25,847] INFO: car (9/2022): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:45:25,877] INFO: car (12/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:45:25,906] INFO: car (3/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:45:25,935] INFO: car (6/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:45:25,964] INFO: car (9/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:45:25,992] INFO: car (12/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:45:26,021] INFO: car (3/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:45:26,049] INFO: car (6/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:45:26,078] INFO: car (9/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:45:26,093] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 10:45:26,107] WARNING: car (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 10:45:26,108] INFO: car (12/2024): Created new record with 14 non-zero financial metrics

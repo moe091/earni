@@ -1,0 +1,81 @@
+[2025-03-22 06:53:57,433] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 06:53:57,446] WARNING: mgm (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 06:53:57,446] INFO: mgm (6/2010): Created new record with 11 non-zero financial metrics
+[2025-03-22 06:53:57,463] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 06:53:57,476] WARNING: mgm (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 06:53:57,477] INFO: mgm (9/2010): Created new record with 11 non-zero financial metrics
+[2025-03-22 06:53:57,492] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 06:53:57,507] WARNING: mgm (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 06:53:57,508] INFO: mgm (12/2010): Created new record with 15 non-zero financial metrics
+[2025-03-22 06:53:57,522] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 06:53:57,535] WARNING: mgm (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 06:53:57,536] INFO: mgm (3/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 06:53:57,551] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 06:53:57,564] WARNING: mgm (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 06:53:57,565] INFO: mgm (9/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 06:53:57,579] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 06:53:57,593] WARNING: mgm (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 06:53:57,594] INFO: mgm (12/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 06:53:57,609] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 06:53:57,623] WARNING: mgm (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 06:53:57,623] INFO: mgm (3/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 06:53:57,638] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 06:53:57,651] WARNING: mgm (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 06:53:57,651] INFO: mgm (6/2012): Created new record with 13 non-zero financial metrics
+[2025-03-22 06:53:57,678] INFO: mgm (9/2012): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:53:57,708] INFO: mgm (12/2012): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:53:57,735] INFO: mgm (3/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:53:57,762] INFO: mgm (6/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:53:57,789] INFO: mgm (9/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:53:57,803] INFO: Trying adjusted date: 1/2014 (original: 12/2013)
+[2025-03-22 06:53:57,817] WARNING: mgm (12/2013): No existing record found(12/2013, 2013-12-31) - creating new one
+[2025-03-22 06:53:57,817] INFO: mgm (12/2013): Created new record with 15 non-zero financial metrics
+[2025-03-22 06:53:57,845] INFO: mgm (3/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:53:57,874] INFO: mgm (6/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:53:57,902] INFO: mgm (9/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:53:57,929] INFO: mgm (12/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:53:57,957] INFO: mgm (3/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:53:57,985] INFO: mgm (6/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:53:58,012] INFO: mgm (9/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:53:58,040] INFO: mgm (12/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:53:58,066] INFO: mgm (3/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:53:58,095] INFO: mgm (6/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:53:58,124] INFO: mgm (9/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:53:58,151] INFO: mgm (12/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:53:58,178] INFO: mgm (3/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:53:58,206] INFO: mgm (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:53:58,234] INFO: mgm (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:53:58,261] INFO: mgm (12/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:53:58,289] INFO: mgm (3/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:53:58,318] INFO: mgm (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:53:58,345] INFO: mgm (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:53:58,373] INFO: mgm (12/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:53:58,388] WARNING: mgm (3/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 06:53:58,401] INFO: mgm (3/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:53:58,428] INFO: mgm (6/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:53:58,456] INFO: mgm (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:53:58,483] INFO: mgm (12/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:53:58,511] INFO: mgm (3/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:53:58,539] INFO: mgm (6/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:53:58,569] INFO: mgm (9/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:53:58,598] INFO: mgm (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:53:58,626] INFO: mgm (3/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:53:58,654] INFO: mgm (6/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:53:58,682] INFO: mgm (9/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:53:58,715] INFO: mgm (12/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:53:58,743] INFO: mgm (3/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:53:58,770] INFO: mgm (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:53:58,798] INFO: mgm (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:53:58,826] INFO: mgm (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:53:58,844] INFO: Trying adjusted date: 4/2023 (original: 3/2023)
+[2025-03-22 06:53:58,859] WARNING: mgm (3/2023): No existing record found(3/2023, 2023-03-31) - creating new one
+[2025-03-22 06:53:58,860] INFO: mgm (3/2023): Created new record with 18 non-zero financial metrics
+[2025-03-22 06:53:58,886] INFO: mgm (6/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:53:58,913] INFO: mgm (9/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:53:58,940] INFO: mgm (12/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:53:58,968] INFO: mgm (3/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:53:58,996] INFO: mgm (6/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 06:53:59,024] INFO: mgm (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 06:53:59,039] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 06:53:59,051] WARNING: mgm (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 06:53:59,052] INFO: mgm (12/2024): Created new record with 18 non-zero financial metrics

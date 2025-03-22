@@ -1,0 +1,105 @@
+[2025-03-22 03:36:30,469] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 03:36:30,481] WARNING: cmi (3/2010): No existing record found(3/2010, 2010-03-28) - creating new one
+[2025-03-22 03:36:30,481] INFO: cmi (3/2010): Created new record with 20 non-zero financial metrics
+[2025-03-22 03:36:30,496] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 03:36:30,509] WARNING: cmi (6/2010): No existing record found(6/2010, 2010-06-27) - creating new one
+[2025-03-22 03:36:30,509] INFO: cmi (6/2010): Created new record with 16 non-zero financial metrics
+[2025-03-22 03:36:30,527] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 03:36:30,540] WARNING: cmi (9/2010): No existing record found(9/2010, 2010-09-26) - creating new one
+[2025-03-22 03:36:30,540] INFO: cmi (9/2010): Created new record with 16 non-zero financial metrics
+[2025-03-22 03:36:30,554] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 03:36:30,567] WARNING: cmi (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 03:36:30,567] INFO: cmi (12/2010): Created new record with 23 non-zero financial metrics
+[2025-03-22 03:36:30,581] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 03:36:30,593] WARNING: cmi (3/2011): No existing record found(3/2011, 2011-03-27) - creating new one
+[2025-03-22 03:36:30,594] INFO: cmi (3/2011): Created new record with 21 non-zero financial metrics
+[2025-03-22 03:36:30,607] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 03:36:30,620] WARNING: cmi (6/2011): No existing record found(6/2011, 2011-06-26) - creating new one
+[2025-03-22 03:36:30,621] INFO: cmi (6/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 03:36:30,634] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 03:36:30,647] WARNING: cmi (9/2011): No existing record found(9/2011, 2011-09-25) - creating new one
+[2025-03-22 03:36:30,648] INFO: cmi (9/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 03:36:30,661] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 03:36:30,673] WARNING: cmi (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 03:36:30,674] INFO: cmi (12/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 03:36:30,688] INFO: Trying adjusted date: 3/2012 (original: 4/2012)
+[2025-03-22 03:36:30,700] WARNING: cmi (4/2012): No existing record found(4/2012, 2012-04-01) - creating new one
+[2025-03-22 03:36:30,701] INFO: cmi (4/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 03:36:30,714] INFO: Trying adjusted date: 6/2012 (original: 7/2012)
+[2025-03-22 03:36:30,727] WARNING: cmi (7/2012): No existing record found(7/2012, 2012-07-01) - creating new one
+[2025-03-22 03:36:30,728] INFO: cmi (7/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 03:36:30,755] INFO: cmi (9/2012): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:36:30,781] INFO: cmi (12/2012): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:36:30,808] INFO: cmi (3/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:36:30,834] INFO: cmi (6/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:36:30,860] INFO: cmi (9/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:36:30,888] INFO: cmi (12/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:36:30,914] INFO: cmi (3/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:36:30,940] INFO: cmi (6/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:36:30,968] INFO: cmi (9/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:36:30,994] INFO: cmi (12/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:36:31,020] INFO: cmi (3/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:36:31,046] INFO: cmi (6/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:36:31,072] INFO: cmi (9/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:36:31,098] INFO: cmi (12/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:36:31,113] INFO: Trying adjusted date: 3/2016 (original: 4/2016)
+[2025-03-22 03:36:31,125] INFO: Found existing row with adjusted date: 3/2016
+[2025-03-22 03:36:31,139] INFO: cmi (3/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:36:31,153] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-22 03:36:31,166] INFO: Found existing row with adjusted date: 6/2016
+[2025-03-22 03:36:31,178] INFO: cmi (6/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:36:31,192] INFO: Trying adjusted date: 9/2016 (original: 10/2016)
+[2025-03-22 03:36:31,204] INFO: Found existing row with adjusted date: 9/2016
+[2025-03-22 03:36:31,217] INFO: cmi (9/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:36:31,245] INFO: cmi (12/2016): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:36:31,259] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-22 03:36:31,271] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-22 03:36:31,284] INFO: cmi (3/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:36:31,300] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-22 03:36:31,313] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-22 03:36:31,326] INFO: cmi (6/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:36:31,339] INFO: Trying adjusted date: 9/2017 (original: 10/2017)
+[2025-03-22 03:36:31,352] INFO: Found existing row with adjusted date: 9/2017
+[2025-03-22 03:36:31,364] INFO: cmi (9/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:36:31,394] INFO: cmi (12/2017): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 03:36:31,408] INFO: Trying adjusted date: 3/2018 (original: 4/2018)
+[2025-03-22 03:36:31,421] INFO: Found existing row with adjusted date: 3/2018
+[2025-03-22 03:36:31,433] INFO: cmi (3/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:36:31,447] INFO: Trying adjusted date: 6/2018 (original: 7/2018)
+[2025-03-22 03:36:31,459] INFO: Found existing row with adjusted date: 6/2018
+[2025-03-22 03:36:31,472] INFO: cmi (6/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:36:31,498] INFO: cmi (9/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:36:31,524] INFO: cmi (12/2018): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 03:36:31,551] INFO: cmi (3/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:36:31,577] INFO: cmi (6/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:36:31,604] INFO: cmi (9/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:36:31,631] INFO: cmi (12/2019): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 03:36:31,657] INFO: cmi (3/2020): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 03:36:31,683] INFO: cmi (6/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:36:31,711] INFO: cmi (9/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:36:31,738] INFO: cmi (12/2020): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 03:36:31,752] INFO: Trying adjusted date: 3/2021 (original: 4/2021)
+[2025-03-22 03:36:31,763] INFO: Found existing row with adjusted date: 3/2021
+[2025-03-22 03:36:31,775] INFO: cmi (3/2021): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 03:36:31,789] INFO: Trying adjusted date: 6/2021 (original: 7/2021)
+[2025-03-22 03:36:31,801] INFO: Found existing row with adjusted date: 6/2021
+[2025-03-22 03:36:31,813] INFO: cmi (6/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:36:31,827] INFO: Trying adjusted date: 9/2021 (original: 10/2021)
+[2025-03-22 03:36:31,839] INFO: Found existing row with adjusted date: 9/2021
+[2025-03-22 03:36:31,852] INFO: cmi (9/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:36:31,877] INFO: cmi (12/2021): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 03:36:31,903] INFO: cmi (3/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:36:31,929] INFO: cmi (6/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:36:31,956] INFO: cmi (9/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:36:31,982] INFO: cmi (12/2022): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 03:36:31,996] WARNING: cmi (3/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 03:36:32,008] INFO: cmi (3/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:36:32,035] INFO: cmi (6/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:36:32,062] INFO: cmi (9/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:36:32,075] WARNING: cmi (12/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 03:36:32,088] INFO: cmi (12/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:36:32,113] INFO: cmi (3/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:36:32,140] INFO: cmi (6/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:36:32,166] INFO: cmi (9/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:36:32,181] WARNING: cmi (12/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 03:36:32,193] INFO: cmi (12/2024): Updated existing record with 21 non-zero financial metrics

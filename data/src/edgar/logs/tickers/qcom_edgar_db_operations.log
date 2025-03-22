@@ -1,0 +1,83 @@
+[2025-03-21 22:41:11,243] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-21 22:41:11,255] WARNING: qcom (3/2010): No existing record found(3/2010, 2010-03-28) - creating new one
+[2025-03-21 22:41:11,257] INFO: qcom (3/2010): Created new record with 14 non-zero financial metrics
+[2025-03-21 22:41:11,270] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-21 22:41:11,282] WARNING: qcom (6/2010): No existing record found(6/2010, 2010-06-27) - creating new one
+[2025-03-21 22:41:11,282] INFO: qcom (6/2010): Created new record with 15 non-zero financial metrics
+[2025-03-21 22:41:11,296] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-21 22:41:11,308] WARNING: qcom (9/2010): No existing record found(9/2010, 2010-09-26) - creating new one
+[2025-03-21 22:41:11,308] INFO: qcom (9/2010): Created new record with 19 non-zero financial metrics
+[2025-03-21 22:41:11,322] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-21 22:41:11,334] WARNING: qcom (12/2010): No existing record found(12/2010, 2010-12-26) - creating new one
+[2025-03-21 22:41:11,335] INFO: qcom (12/2010): Created new record with 18 non-zero financial metrics
+[2025-03-21 22:41:11,349] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-21 22:41:11,361] WARNING: qcom (3/2011): No existing record found(3/2011, 2011-03-27) - creating new one
+[2025-03-21 22:41:11,361] INFO: qcom (3/2011): Created new record with 15 non-zero financial metrics
+[2025-03-21 22:41:11,374] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-21 22:41:11,386] WARNING: qcom (6/2011): No existing record found(6/2011, 2011-06-26) - creating new one
+[2025-03-21 22:41:11,387] INFO: qcom (6/2011): Created new record with 15 non-zero financial metrics
+[2025-03-21 22:41:11,400] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-21 22:41:11,413] WARNING: qcom (9/2011): No existing record found(9/2011, 2011-09-25) - creating new one
+[2025-03-21 22:41:11,413] INFO: qcom (9/2011): Created new record with 19 non-zero financial metrics
+[2025-03-21 22:41:11,426] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-21 22:41:11,439] WARNING: qcom (12/2011): No existing record found(12/2011, 2011-12-25) - creating new one
+[2025-03-21 22:41:11,439] INFO: qcom (12/2011): Created new record with 19 non-zero financial metrics
+[2025-03-21 22:41:11,452] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-21 22:41:11,465] WARNING: qcom (3/2012): No existing record found(3/2012, 2012-03-25) - creating new one
+[2025-03-21 22:41:11,465] INFO: qcom (3/2012): Created new record with 15 non-zero financial metrics
+[2025-03-21 22:41:11,478] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-21 22:41:11,491] WARNING: qcom (6/2012): No existing record found(6/2012, 2012-06-24) - creating new one
+[2025-03-21 22:41:11,491] INFO: qcom (6/2012): Created new record with 15 non-zero financial metrics
+[2025-03-21 22:41:11,516] INFO: qcom (9/2012): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:41:11,542] INFO: qcom (12/2012): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:41:11,568] INFO: qcom (3/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:41:11,593] INFO: qcom (6/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:41:11,619] INFO: qcom (9/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:41:11,643] INFO: qcom (12/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:41:11,668] INFO: qcom (3/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:41:11,681] WARNING: qcom (6/2014): Found zero values for fields: Interest Expense
+[2025-03-21 22:41:11,692] INFO: qcom (6/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 22:41:11,719] INFO: qcom (9/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:41:11,744] INFO: qcom (12/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:41:11,769] INFO: qcom (3/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:41:11,793] INFO: qcom (6/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:41:11,818] INFO: qcom (9/2015): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:41:11,842] INFO: qcom (12/2015): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:41:11,866] INFO: qcom (3/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:41:11,891] INFO: qcom (6/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:41:11,915] INFO: qcom (9/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:41:11,943] INFO: qcom (12/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:41:11,968] INFO: qcom (3/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:41:11,992] INFO: qcom (6/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:41:12,019] INFO: qcom (9/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:41:12,044] INFO: qcom (12/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:41:12,074] INFO: qcom (3/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:41:12,099] INFO: qcom (6/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:41:12,125] INFO: qcom (9/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:41:12,149] INFO: qcom (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:41:12,173] INFO: qcom (3/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:41:12,197] INFO: qcom (6/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:41:12,223] INFO: qcom (9/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:41:12,247] INFO: qcom (12/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:41:12,273] INFO: qcom (3/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:41:12,300] INFO: qcom (6/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 22:41:12,325] INFO: qcom (9/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:41:12,350] INFO: qcom (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:41:12,373] INFO: qcom (3/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:41:12,399] INFO: qcom (6/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:41:12,424] INFO: qcom (9/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:41:12,450] INFO: qcom (12/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:41:12,475] INFO: qcom (3/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:41:12,501] INFO: qcom (6/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:41:12,526] INFO: qcom (9/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:41:12,552] INFO: qcom (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:41:12,577] INFO: qcom (3/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:41:12,600] INFO: qcom (6/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:41:12,626] INFO: qcom (9/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:41:12,652] INFO: qcom (12/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:41:12,676] INFO: qcom (3/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:41:12,701] INFO: qcom (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:41:12,725] INFO: qcom (9/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:41:12,739] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-21 22:41:12,750] WARNING: qcom (12/2024): No existing record found(12/2024, 2024-12-29) - creating new one
+[2025-03-21 22:41:12,750] INFO: qcom (12/2024): Created new record with 18 non-zero financial metrics

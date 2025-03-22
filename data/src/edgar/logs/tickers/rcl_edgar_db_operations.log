@@ -1,0 +1,84 @@
+[2025-03-22 08:17:45,025] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 08:17:45,039] WARNING: rcl (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 08:17:45,039] INFO: rcl (3/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 08:17:45,056] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 08:17:45,070] WARNING: rcl (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 08:17:45,070] INFO: rcl (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 08:17:45,087] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 08:17:45,101] WARNING: rcl (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 08:17:45,101] INFO: rcl (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 08:17:45,116] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 08:17:45,130] WARNING: rcl (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 08:17:45,130] INFO: rcl (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 08:17:45,146] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 08:17:45,160] WARNING: rcl (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 08:17:45,161] INFO: rcl (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 08:17:45,176] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 08:17:45,189] WARNING: rcl (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 08:17:45,189] INFO: rcl (6/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 08:17:45,205] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 08:17:45,218] WARNING: rcl (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 08:17:45,218] INFO: rcl (9/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 08:17:45,233] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 08:17:45,246] WARNING: rcl (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 08:17:45,247] INFO: rcl (12/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 08:17:45,262] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 08:17:45,275] WARNING: rcl (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 08:17:45,275] INFO: rcl (3/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 08:17:45,289] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 08:17:45,302] WARNING: rcl (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 08:17:45,303] INFO: rcl (6/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 08:17:45,332] INFO: rcl (9/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:17:45,361] INFO: rcl (12/2012): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:17:45,389] INFO: rcl (3/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:17:45,416] INFO: rcl (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 08:17:45,445] INFO: rcl (9/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:17:45,473] INFO: rcl (12/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:17:45,500] INFO: rcl (3/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:17:45,528] INFO: rcl (6/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:17:45,556] INFO: rcl (9/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:17:45,584] INFO: rcl (12/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:17:45,612] INFO: rcl (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:17:45,640] INFO: rcl (6/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:17:45,667] INFO: rcl (9/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:17:45,695] INFO: rcl (12/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:17:45,723] INFO: rcl (3/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:17:45,751] INFO: rcl (6/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:17:45,779] INFO: rcl (9/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:17:45,806] INFO: rcl (12/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:17:45,821] WARNING: rcl (3/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 08:17:45,834] INFO: rcl (3/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:17:45,862] INFO: rcl (6/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:17:45,890] INFO: rcl (9/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:17:45,918] INFO: rcl (12/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:17:45,946] INFO: rcl (3/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:17:45,975] INFO: rcl (6/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:17:46,002] INFO: rcl (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:17:46,031] INFO: rcl (12/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:17:46,046] WARNING: rcl (3/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 08:17:46,060] INFO: rcl (3/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:17:46,086] INFO: rcl (6/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:17:46,118] INFO: rcl (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:17:46,147] INFO: rcl (12/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:17:46,175] INFO: rcl (3/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:17:46,202] INFO: rcl (6/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:17:46,231] INFO: rcl (9/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:17:46,246] WARNING: rcl (12/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 08:17:46,259] INFO: rcl (12/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:17:46,287] INFO: rcl (3/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:17:46,316] INFO: rcl (6/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 08:17:46,345] INFO: rcl (9/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 08:17:46,360] WARNING: rcl (12/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 08:17:46,373] INFO: rcl (12/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:17:46,401] INFO: rcl (3/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:17:46,429] INFO: rcl (6/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 08:17:46,457] INFO: rcl (9/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 08:17:46,485] INFO: rcl (12/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:17:46,513] INFO: rcl (3/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:17:46,543] INFO: rcl (6/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 08:17:46,570] INFO: rcl (9/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 08:17:46,598] INFO: rcl (12/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:17:46,626] INFO: rcl (3/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:17:46,654] INFO: rcl (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:17:46,682] INFO: rcl (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:17:46,710] INFO: rcl (12/2024): Updated existing record with 17 non-zero financial metrics

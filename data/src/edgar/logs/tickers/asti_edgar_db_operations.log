@@ -1,0 +1,169 @@
+[2025-03-21 22:49:56,903] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-21 22:49:56,915] WARNING: asti (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-21 22:49:56,915] INFO: asti (6/2011): Created new record with 9 non-zero financial metrics
+[2025-03-21 22:49:56,928] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-21 22:49:56,940] WARNING: asti (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-21 22:49:56,940] INFO: asti (9/2011): Created new record with 10 non-zero financial metrics
+[2025-03-21 22:49:56,953] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-21 22:49:56,965] WARNING: asti (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-21 22:49:56,965] INFO: asti (12/2011): Created new record with 14 non-zero financial metrics
+[2025-03-21 22:49:56,979] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-21 22:49:56,991] WARNING: asti (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-21 22:49:56,992] INFO: asti (3/2012): Created new record with 14 non-zero financial metrics
+[2025-03-21 22:49:57,006] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-21 22:49:57,018] WARNING: asti (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-21 22:49:57,018] INFO: asti (6/2012): Created new record with 10 non-zero financial metrics
+[2025-03-21 22:49:57,032] INFO: Trying adjusted date: 10/2012 (original: 9/2012)
+[2025-03-21 22:49:57,044] WARNING: asti (9/2012): No existing record found(9/2012, 2012-09-30) - creating new one
+[2025-03-21 22:49:57,045] INFO: asti (9/2012): Created new record with 10 non-zero financial metrics
+[2025-03-21 22:49:57,058] INFO: Trying adjusted date: 1/2013 (original: 12/2012)
+[2025-03-21 22:49:57,070] WARNING: asti (12/2012): No existing record found(12/2012, 2012-12-31) - creating new one
+[2025-03-21 22:49:57,070] INFO: asti (12/2012): Created new record with 15 non-zero financial metrics
+[2025-03-21 22:49:57,083] INFO: Trying adjusted date: 4/2013 (original: 3/2013)
+[2025-03-21 22:49:57,096] WARNING: asti (3/2013): No existing record found(3/2013, 2013-03-31) - creating new one
+[2025-03-21 22:49:57,096] INFO: asti (3/2013): Created new record with 15 non-zero financial metrics
+[2025-03-21 22:49:57,109] INFO: Trying adjusted date: 7/2013 (original: 6/2013)
+[2025-03-21 22:49:57,121] WARNING: asti (6/2013): No existing record found(6/2013, 2013-06-30) - creating new one
+[2025-03-21 22:49:57,122] INFO: asti (6/2013): Created new record with 11 non-zero financial metrics
+[2025-03-21 22:49:57,135] INFO: Trying adjusted date: 10/2013 (original: 9/2013)
+[2025-03-21 22:49:57,147] WARNING: asti (9/2013): No existing record found(9/2013, 2013-09-30) - creating new one
+[2025-03-21 22:49:57,148] INFO: asti (9/2013): Created new record with 11 non-zero financial metrics
+[2025-03-21 22:49:57,161] INFO: Trying adjusted date: 1/2014 (original: 12/2013)
+[2025-03-21 22:49:57,174] WARNING: asti (12/2013): No existing record found(12/2013, 2013-12-31) - creating new one
+[2025-03-21 22:49:57,174] INFO: asti (12/2013): Created new record with 14 non-zero financial metrics
+[2025-03-21 22:49:57,187] INFO: Trying adjusted date: 4/2014 (original: 3/2014)
+[2025-03-21 22:49:57,200] WARNING: asti (3/2014): No existing record found(3/2014, 2014-03-31) - creating new one
+[2025-03-21 22:49:57,200] INFO: asti (3/2014): Created new record with 14 non-zero financial metrics
+[2025-03-21 22:49:57,214] INFO: Trying adjusted date: 7/2014 (original: 6/2014)
+[2025-03-21 22:49:57,227] WARNING: asti (6/2014): No existing record found(6/2014, 2014-06-30) - creating new one
+[2025-03-21 22:49:57,227] INFO: asti (6/2014): Created new record with 10 non-zero financial metrics
+[2025-03-21 22:49:57,240] INFO: Trying adjusted date: 10/2014 (original: 9/2014)
+[2025-03-21 22:49:57,252] WARNING: asti (9/2014): No existing record found(9/2014, 2014-09-30) - creating new one
+[2025-03-21 22:49:57,253] INFO: asti (9/2014): Created new record with 10 non-zero financial metrics
+[2025-03-21 22:49:57,267] INFO: Trying adjusted date: 1/2015 (original: 12/2014)
+[2025-03-21 22:49:57,279] WARNING: asti (12/2014): No existing record found(12/2014, 2014-12-31) - creating new one
+[2025-03-21 22:49:57,279] INFO: asti (12/2014): Created new record with 14 non-zero financial metrics
+[2025-03-21 22:49:57,292] INFO: Trying adjusted date: 4/2015 (original: 3/2015)
+[2025-03-21 22:49:57,304] WARNING: asti (3/2015): No existing record found(3/2015, 2015-03-31) - creating new one
+[2025-03-21 22:49:57,304] INFO: asti (3/2015): Created new record with 14 non-zero financial metrics
+[2025-03-21 22:49:57,317] INFO: Trying adjusted date: 7/2015 (original: 6/2015)
+[2025-03-21 22:49:57,329] WARNING: asti (6/2015): No existing record found(6/2015, 2015-06-30) - creating new one
+[2025-03-21 22:49:57,330] INFO: asti (6/2015): Created new record with 10 non-zero financial metrics
+[2025-03-21 22:49:57,342] INFO: Trying adjusted date: 10/2015 (original: 9/2015)
+[2025-03-21 22:49:57,354] WARNING: asti (9/2015): No existing record found(9/2015, 2015-09-30) - creating new one
+[2025-03-21 22:49:57,354] INFO: asti (9/2015): Created new record with 10 non-zero financial metrics
+[2025-03-21 22:49:57,367] INFO: Trying adjusted date: 1/2016 (original: 12/2015)
+[2025-03-21 22:49:57,379] WARNING: asti (12/2015): No existing record found(12/2015, 2015-12-31) - creating new one
+[2025-03-21 22:49:57,379] INFO: asti (12/2015): Created new record with 14 non-zero financial metrics
+[2025-03-21 22:49:57,392] INFO: Trying adjusted date: 4/2016 (original: 3/2016)
+[2025-03-21 22:49:57,404] WARNING: asti (3/2016): Found zero values for fields: Capital Expenditures
+[2025-03-21 22:49:57,404] WARNING: asti (3/2016): No existing record found(3/2016, 2016-03-31) - creating new one
+[2025-03-21 22:49:57,404] INFO: asti (3/2016): Created new record with 13 non-zero financial metrics
+[2025-03-21 22:49:57,417] INFO: Trying adjusted date: 7/2016 (original: 6/2016)
+[2025-03-21 22:49:57,429] WARNING: asti (6/2016): No existing record found(6/2016, 2016-06-30) - creating new one
+[2025-03-21 22:49:57,429] INFO: asti (6/2016): Created new record with 9 non-zero financial metrics
+[2025-03-21 22:49:57,442] INFO: Trying adjusted date: 10/2016 (original: 9/2016)
+[2025-03-21 22:49:57,454] WARNING: asti (9/2016): No existing record found(9/2016, 2016-09-30) - creating new one
+[2025-03-21 22:49:57,454] INFO: asti (9/2016): Created new record with 10 non-zero financial metrics
+[2025-03-21 22:49:57,467] INFO: Trying adjusted date: 1/2017 (original: 12/2016)
+[2025-03-21 22:49:57,479] WARNING: asti (12/2016): No existing record found(12/2016, 2016-12-31) - creating new one
+[2025-03-21 22:49:57,479] INFO: asti (12/2016): Created new record with 16 non-zero financial metrics
+[2025-03-21 22:49:57,492] INFO: Trying adjusted date: 4/2017 (original: 3/2017)
+[2025-03-21 22:49:57,504] WARNING: asti (3/2017): No existing record found(3/2017, 2017-03-31) - creating new one
+[2025-03-21 22:49:57,505] INFO: asti (3/2017): Created new record with 14 non-zero financial metrics
+[2025-03-21 22:49:57,517] INFO: Trying adjusted date: 7/2017 (original: 6/2017)
+[2025-03-21 22:49:57,529] WARNING: asti (6/2017): No existing record found(6/2017, 2017-06-30) - creating new one
+[2025-03-21 22:49:57,529] INFO: asti (6/2017): Created new record with 10 non-zero financial metrics
+[2025-03-21 22:49:57,542] INFO: Trying adjusted date: 10/2017 (original: 9/2017)
+[2025-03-21 22:49:57,553] WARNING: asti (9/2017): No existing record found(9/2017, 2017-09-30) - creating new one
+[2025-03-21 22:49:57,554] INFO: asti (9/2017): Created new record with 11 non-zero financial metrics
+[2025-03-21 22:49:57,566] INFO: Trying adjusted date: 1/2018 (original: 12/2017)
+[2025-03-21 22:49:57,578] WARNING: asti (12/2017): No existing record found(12/2017, 2017-12-31) - creating new one
+[2025-03-21 22:49:57,578] INFO: asti (12/2017): Created new record with 15 non-zero financial metrics
+[2025-03-21 22:49:57,591] INFO: Trying adjusted date: 4/2018 (original: 3/2018)
+[2025-03-21 22:49:57,602] WARNING: asti (3/2018): No existing record found(3/2018, 2018-03-31) - creating new one
+[2025-03-21 22:49:57,603] INFO: asti (3/2018): Created new record with 14 non-zero financial metrics
+[2025-03-21 22:49:57,619] INFO: Trying adjusted date: 7/2018 (original: 6/2018)
+[2025-03-21 22:49:57,631] WARNING: asti (6/2018): No existing record found(6/2018, 2018-06-30) - creating new one
+[2025-03-21 22:49:57,631] INFO: asti (6/2018): Created new record with 11 non-zero financial metrics
+[2025-03-21 22:49:57,646] INFO: Trying adjusted date: 10/2018 (original: 9/2018)
+[2025-03-21 22:49:57,658] WARNING: asti (9/2018): No existing record found(9/2018, 2018-09-30) - creating new one
+[2025-03-21 22:49:57,659] INFO: asti (9/2018): Created new record with 12 non-zero financial metrics
+[2025-03-21 22:49:57,671] INFO: Trying adjusted date: 1/2019 (original: 12/2018)
+[2025-03-21 22:49:57,683] WARNING: asti (12/2018): Found zero values for fields: Capital Expenditures
+[2025-03-21 22:49:57,683] WARNING: asti (12/2018): No existing record found(12/2018, 2018-12-31) - creating new one
+[2025-03-21 22:49:57,684] INFO: asti (12/2018): Created new record with 15 non-zero financial metrics
+[2025-03-21 22:49:57,697] INFO: Trying adjusted date: 4/2019 (original: 3/2019)
+[2025-03-21 22:49:57,709] WARNING: asti (3/2019): No existing record found(3/2019, 2019-03-31) - creating new one
+[2025-03-21 22:49:57,709] INFO: asti (3/2019): Created new record with 16 non-zero financial metrics
+[2025-03-21 22:49:57,723] INFO: Trying adjusted date: 7/2019 (original: 6/2019)
+[2025-03-21 22:49:57,735] WARNING: asti (6/2019): No existing record found(6/2019, 2019-06-30) - creating new one
+[2025-03-21 22:49:57,735] INFO: asti (6/2019): Created new record with 12 non-zero financial metrics
+[2025-03-21 22:49:57,749] INFO: Trying adjusted date: 10/2019 (original: 9/2019)
+[2025-03-21 22:49:57,761] WARNING: asti (9/2019): No existing record found(9/2019, 2019-09-30) - creating new one
+[2025-03-21 22:49:57,761] INFO: asti (9/2019): Created new record with 12 non-zero financial metrics
+[2025-03-21 22:49:57,774] INFO: Trying adjusted date: 1/2020 (original: 12/2019)
+[2025-03-21 22:49:57,786] WARNING: asti (12/2019): Found zero values for fields: Accounts Receivable
+[2025-03-21 22:49:57,786] WARNING: asti (12/2019): No existing record found(12/2019, 2019-12-31) - creating new one
+[2025-03-21 22:49:57,786] INFO: asti (12/2019): Created new record with 14 non-zero financial metrics
+[2025-03-21 22:49:57,799] INFO: Trying adjusted date: 4/2020 (original: 3/2020)
+[2025-03-21 22:49:57,811] WARNING: asti (3/2020): No existing record found(3/2020, 2020-03-31) - creating new one
+[2025-03-21 22:49:57,811] INFO: asti (3/2020): Created new record with 12 non-zero financial metrics
+[2025-03-21 22:49:57,825] INFO: Trying adjusted date: 7/2020 (original: 6/2020)
+[2025-03-21 22:49:57,836] WARNING: asti (6/2020): No existing record found(6/2020, 2020-06-30) - creating new one
+[2025-03-21 22:49:57,836] INFO: asti (6/2020): Created new record with 11 non-zero financial metrics
+[2025-03-21 22:49:57,850] INFO: Trying adjusted date: 10/2020 (original: 9/2020)
+[2025-03-21 22:49:57,862] WARNING: asti (9/2020): No existing record found(9/2020, 2020-09-30) - creating new one
+[2025-03-21 22:49:57,862] INFO: asti (9/2020): Created new record with 12 non-zero financial metrics
+[2025-03-21 22:49:57,878] INFO: Trying adjusted date: 1/2021 (original: 12/2020)
+[2025-03-21 22:49:57,889] WARNING: asti (12/2020): No existing record found(12/2020, 2020-12-31) - creating new one
+[2025-03-21 22:49:57,890] INFO: asti (12/2020): Created new record with 15 non-zero financial metrics
+[2025-03-21 22:49:57,902] INFO: Trying adjusted date: 4/2021 (original: 3/2021)
+[2025-03-21 22:49:57,914] WARNING: asti (3/2021): No existing record found(3/2021, 2021-03-31) - creating new one
+[2025-03-21 22:49:57,915] INFO: asti (3/2021): Created new record with 14 non-zero financial metrics
+[2025-03-21 22:49:57,927] INFO: Trying adjusted date: 7/2021 (original: 6/2021)
+[2025-03-21 22:49:57,939] WARNING: asti (6/2021): Found zero values for fields: EPS Diluted
+[2025-03-21 22:49:57,939] WARNING: asti (6/2021): No existing record found(6/2021, 2021-06-30) - creating new one
+[2025-03-21 22:49:57,940] INFO: asti (6/2021): Created new record with 10 non-zero financial metrics
+[2025-03-21 22:49:57,953] INFO: Trying adjusted date: 10/2021 (original: 9/2021)
+[2025-03-21 22:49:57,966] WARNING: asti (9/2021): Found zero values for fields: EPS Diluted
+[2025-03-21 22:49:57,967] WARNING: asti (9/2021): No existing record found(9/2021, 2021-09-30) - creating new one
+[2025-03-21 22:49:57,967] INFO: asti (9/2021): Created new record with 11 non-zero financial metrics
+[2025-03-21 22:49:57,980] INFO: Trying adjusted date: 1/2022 (original: 12/2021)
+[2025-03-21 22:49:57,992] WARNING: asti (12/2021): No existing record found(12/2021, 2021-12-31) - creating new one
+[2025-03-21 22:49:57,992] INFO: asti (12/2021): Created new record with 18 non-zero financial metrics
+[2025-03-21 22:49:58,008] INFO: Trying adjusted date: 4/2022 (original: 3/2022)
+[2025-03-21 22:49:58,019] WARNING: asti (3/2022): No existing record found(3/2022, 2022-03-31) - creating new one
+[2025-03-21 22:49:58,020] INFO: asti (3/2022): Created new record with 15 non-zero financial metrics
+[2025-03-21 22:49:58,035] INFO: Trying adjusted date: 7/2022 (original: 6/2022)
+[2025-03-21 22:49:58,047] WARNING: asti (6/2022): No existing record found(6/2022, 2022-06-30) - creating new one
+[2025-03-21 22:49:58,048] INFO: asti (6/2022): Created new record with 13 non-zero financial metrics
+[2025-03-21 22:49:58,063] INFO: Trying adjusted date: 10/2022 (original: 9/2022)
+[2025-03-21 22:49:58,075] WARNING: asti (9/2022): No existing record found(9/2022, 2022-09-30) - creating new one
+[2025-03-21 22:49:58,076] INFO: asti (9/2022): Created new record with 12 non-zero financial metrics
+[2025-03-21 22:49:58,088] INFO: Trying adjusted date: 1/2023 (original: 12/2022)
+[2025-03-21 22:49:58,102] WARNING: asti (12/2022): No existing record found(12/2022, 2022-12-31) - creating new one
+[2025-03-21 22:49:58,102] INFO: asti (12/2022): Created new record with 17 non-zero financial metrics
+[2025-03-21 22:49:58,115] INFO: Trying adjusted date: 4/2023 (original: 3/2023)
+[2025-03-21 22:49:58,127] WARNING: asti (3/2023): No existing record found(3/2023, 2023-03-31) - creating new one
+[2025-03-21 22:49:58,127] INFO: asti (3/2023): Created new record with 16 non-zero financial metrics
+[2025-03-21 22:49:58,140] INFO: Trying adjusted date: 7/2023 (original: 6/2023)
+[2025-03-21 22:49:58,151] WARNING: asti (6/2023): No existing record found(6/2023, 2023-06-30) - creating new one
+[2025-03-21 22:49:58,152] INFO: asti (6/2023): Created new record with 13 non-zero financial metrics
+[2025-03-21 22:49:58,165] INFO: Trying adjusted date: 10/2023 (original: 9/2023)
+[2025-03-21 22:49:58,177] WARNING: asti (9/2023): No existing record found(9/2023, 2023-09-30) - creating new one
+[2025-03-21 22:49:58,178] INFO: asti (9/2023): Created new record with 11 non-zero financial metrics
+[2025-03-21 22:49:58,190] INFO: Trying adjusted date: 1/2024 (original: 12/2023)
+[2025-03-21 22:49:58,202] WARNING: asti (12/2023): Found zero values for fields: Accounts Receivable
+[2025-03-21 22:49:58,202] WARNING: asti (12/2023): No existing record found(12/2023, 2023-12-31) - creating new one
+[2025-03-21 22:49:58,203] INFO: asti (12/2023): Created new record with 16 non-zero financial metrics
+[2025-03-21 22:49:58,216] INFO: Trying adjusted date: 4/2024 (original: 3/2024)
+[2025-03-21 22:49:58,228] WARNING: asti (3/2024): Found zero values for fields: Accounts Receivable
+[2025-03-21 22:49:58,228] WARNING: asti (3/2024): No existing record found(3/2024, 2024-03-31) - creating new one
+[2025-03-21 22:49:58,228] INFO: asti (3/2024): Created new record with 15 non-zero financial metrics
+[2025-03-21 22:49:58,241] INFO: Trying adjusted date: 7/2024 (original: 6/2024)
+[2025-03-21 22:49:58,252] WARNING: asti (6/2024): No existing record found(6/2024, 2024-06-30) - creating new one
+[2025-03-21 22:49:58,253] INFO: asti (6/2024): Created new record with 14 non-zero financial metrics
+[2025-03-21 22:49:58,266] INFO: Trying adjusted date: 10/2024 (original: 9/2024)
+[2025-03-21 22:49:58,277] WARNING: asti (9/2024): No existing record found(9/2024, 2024-09-30) - creating new one
+[2025-03-21 22:49:58,278] INFO: asti (9/2024): Created new record with 13 non-zero financial metrics

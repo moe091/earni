@@ -1,0 +1,97 @@
+[2025-03-22 05:25:24,404] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 05:25:24,417] WARNING: tsco (6/2010): No existing record found(6/2010, 2010-06-26) - creating new one
+[2025-03-22 05:25:24,418] INFO: tsco (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:25:24,434] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 05:25:24,447] WARNING: tsco (9/2010): No existing record found(9/2010, 2010-09-25) - creating new one
+[2025-03-22 05:25:24,448] INFO: tsco (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:25:24,462] INFO: Trying adjusted date: 3/2011 (original: 2/2011)
+[2025-03-22 05:25:24,475] WARNING: tsco (2/2011): No existing record found(2/2011, 2011-02-23) - creating new one
+[2025-03-22 05:25:24,475] INFO: tsco (2/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:25:24,490] INFO: Trying adjusted date: 4/2011 (original: 5/2011)
+[2025-03-22 05:25:24,505] WARNING: tsco (5/2011): No existing record found(5/2011, 2011-05-03) - creating new one
+[2025-03-22 05:25:24,505] INFO: tsco (5/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:25:24,520] INFO: Trying adjusted date: 7/2011 (original: 8/2011)
+[2025-03-22 05:25:24,533] WARNING: tsco (8/2011): No existing record found(8/2011, 2011-08-04) - creating new one
+[2025-03-22 05:25:24,534] INFO: tsco (8/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:25:24,548] INFO: Trying adjusted date: 10/2011 (original: 11/2011)
+[2025-03-22 05:25:24,562] WARNING: tsco (11/2011): No existing record found(11/2011, 2011-11-03) - creating new one
+[2025-03-22 05:25:24,562] INFO: tsco (11/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:25:24,577] INFO: Trying adjusted date: 3/2012 (original: 2/2012)
+[2025-03-22 05:25:24,590] WARNING: tsco (2/2012): No existing record found(2/2012, 2012-02-29) - creating new one
+[2025-03-22 05:25:24,591] INFO: tsco (2/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:25:24,605] INFO: Trying adjusted date: 4/2012 (original: 5/2012)
+[2025-03-22 05:25:24,619] WARNING: tsco (5/2012): No existing record found(5/2012, 2012-05-07) - creating new one
+[2025-03-22 05:25:24,619] INFO: tsco (5/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:25:24,634] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 05:25:24,647] WARNING: tsco (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 05:25:24,647] INFO: tsco (6/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 05:25:24,676] INFO: tsco (9/2012): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:25:24,703] INFO: tsco (12/2012): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 05:25:24,730] INFO: tsco (3/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 05:25:24,758] INFO: tsco (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 05:25:24,784] INFO: tsco (9/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:25:24,798] INFO: Trying adjusted date: 3/2014 (original: 2/2014)
+[2025-03-22 05:25:24,810] INFO: Found existing row with adjusted date: 3/2014
+[2025-03-22 05:25:24,822] INFO: tsco (3/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 05:25:24,836] INFO: Trying adjusted date: 4/2014 (original: 5/2014)
+[2025-03-22 05:25:24,849] WARNING: tsco (5/2014): No existing record found(5/2014, 2014-05-05) - creating new one
+[2025-03-22 05:25:24,850] INFO: tsco (5/2014): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:25:24,863] INFO: Trying adjusted date: 7/2014 (original: 8/2014)
+[2025-03-22 05:25:24,876] WARNING: tsco (8/2014): No existing record found(8/2014, 2014-08-04) - creating new one
+[2025-03-22 05:25:24,876] INFO: tsco (8/2014): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:25:24,890] INFO: Trying adjusted date: 10/2014 (original: 11/2014)
+[2025-03-22 05:25:24,904] WARNING: tsco (11/2014): No existing record found(11/2014, 2014-11-03) - creating new one
+[2025-03-22 05:25:24,904] INFO: tsco (11/2014): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:25:24,918] INFO: Trying adjusted date: 3/2015 (original: 2/2015)
+[2025-03-22 05:25:24,931] INFO: Found existing row with adjusted date: 3/2015
+[2025-03-22 05:25:24,944] INFO: tsco (3/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 05:25:24,972] INFO: tsco (3/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 05:25:24,999] INFO: tsco (6/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:25:25,027] INFO: tsco (9/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:25:25,054] INFO: tsco (12/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 05:25:25,082] INFO: tsco (3/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 05:25:25,109] INFO: tsco (6/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:25:25,136] INFO: tsco (9/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:25:25,163] INFO: tsco (12/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 05:25:25,177] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-22 05:25:25,189] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-22 05:25:25,202] INFO: tsco (3/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:25:25,217] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-22 05:25:25,229] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-22 05:25:25,242] INFO: tsco (6/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:25:25,268] INFO: tsco (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:25:25,295] INFO: tsco (12/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 05:25:25,323] INFO: tsco (3/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 05:25:25,350] INFO: tsco (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:25:25,377] INFO: tsco (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:25:25,407] INFO: tsco (12/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 05:25:25,435] INFO: tsco (3/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 05:25:25,460] INFO: tsco (6/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:25:25,488] INFO: tsco (9/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:25:25,516] INFO: tsco (12/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 05:25:25,543] INFO: tsco (3/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 05:25:25,557] WARNING: tsco (6/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 05:25:25,570] INFO: tsco (6/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:25:25,585] WARNING: tsco (9/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 05:25:25,597] INFO: tsco (9/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:25:25,624] INFO: tsco (12/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 05:25:25,655] INFO: tsco (3/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 05:25:25,687] INFO: tsco (6/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:25:25,719] INFO: tsco (9/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:25:25,746] INFO: tsco (12/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 05:25:25,773] INFO: tsco (3/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 05:25:25,801] INFO: tsco (6/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:25:25,827] INFO: tsco (9/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:25:25,856] INFO: tsco (12/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 05:25:25,869] INFO: Trying adjusted date: 3/2023 (original: 4/2023)
+[2025-03-22 05:25:25,882] INFO: Found existing row with adjusted date: 3/2023
+[2025-03-22 05:25:25,895] INFO: tsco (3/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 05:25:25,910] INFO: Trying adjusted date: 6/2023 (original: 7/2023)
+[2025-03-22 05:25:25,924] INFO: Found existing row with adjusted date: 6/2023
+[2025-03-22 05:25:25,938] INFO: tsco (6/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:25:25,963] INFO: tsco (9/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:25:25,989] INFO: tsco (12/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 05:25:26,016] INFO: tsco (3/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 05:25:26,044] INFO: tsco (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:25:26,072] INFO: tsco (9/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:25:26,099] INFO: tsco (12/2024): Updated existing record with 19 non-zero financial metrics

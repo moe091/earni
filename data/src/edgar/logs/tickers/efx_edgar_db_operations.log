@@ -1,0 +1,92 @@
+[2025-03-22 05:05:05,802] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 05:05:05,814] WARNING: efx (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 05:05:05,814] INFO: efx (3/2010): Created new record with 15 non-zero financial metrics
+[2025-03-22 05:05:05,831] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 05:05:05,843] WARNING: efx (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 05:05:05,844] INFO: efx (6/2010): Created new record with 11 non-zero financial metrics
+[2025-03-22 05:05:05,858] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 05:05:05,870] WARNING: efx (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 05:05:05,871] INFO: efx (9/2010): Created new record with 11 non-zero financial metrics
+[2025-03-22 05:05:05,885] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 05:05:05,897] WARNING: efx (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 05:05:05,898] INFO: efx (12/2010): Created new record with 15 non-zero financial metrics
+[2025-03-22 05:05:05,913] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 05:05:05,926] WARNING: efx (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 05:05:05,926] INFO: efx (3/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 05:05:05,941] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 05:05:05,954] WARNING: efx (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 05:05:05,954] INFO: efx (6/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 05:05:05,969] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 05:05:05,982] WARNING: efx (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 05:05:05,982] INFO: efx (9/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 05:05:05,996] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 05:05:06,008] WARNING: efx (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 05:05:06,009] INFO: efx (12/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 05:05:06,023] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 05:05:06,036] WARNING: efx (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 05:05:06,037] INFO: efx (3/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 05:05:06,051] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 05:05:06,065] WARNING: efx (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 05:05:06,065] INFO: efx (6/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 05:05:06,092] INFO: efx (9/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 05:05:06,118] INFO: efx (12/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 05:05:06,144] INFO: efx (3/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 05:05:06,171] INFO: efx (6/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:05:06,200] INFO: efx (9/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:05:06,228] INFO: efx (12/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:05:06,255] INFO: efx (3/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:05:06,283] INFO: efx (6/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:05:06,311] INFO: efx (9/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:05:06,337] INFO: efx (12/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:05:06,364] INFO: efx (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:05:06,391] INFO: efx (6/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:05:06,419] INFO: efx (9/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:05:06,447] INFO: efx (12/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:05:06,460] WARNING: efx (3/2016): Found zero values for fields: Share Repurchases
+[2025-03-22 05:05:06,474] INFO: efx (3/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:05:06,500] INFO: efx (6/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:05:06,526] INFO: efx (9/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:05:06,540] WARNING: efx (12/2016): Found zero values for fields: Share Repurchases
+[2025-03-22 05:05:06,553] INFO: efx (12/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:05:06,579] INFO: efx (3/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:05:06,606] INFO: efx (6/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:05:06,634] INFO: efx (9/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:05:06,661] INFO: efx (12/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:05:06,674] WARNING: efx (3/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 05:05:06,686] INFO: efx (3/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:05:06,700] WARNING: efx (6/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 05:05:06,713] INFO: efx (6/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:05:06,726] WARNING: efx (9/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 05:05:06,739] INFO: efx (9/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:05:06,754] WARNING: efx (12/2018): Found zero values for fields: Share Repurchases, Deferred Revenue
+[2025-03-22 05:05:06,767] INFO: efx (12/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:05:06,793] INFO: efx (3/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:05:06,819] INFO: efx (6/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:05:06,846] INFO: efx (9/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:05:06,860] WARNING: efx (12/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 05:05:06,872] INFO: efx (12/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:05:06,899] INFO: efx (3/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:05:06,925] INFO: efx (6/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:05:06,952] INFO: efx (9/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:05:06,979] INFO: efx (12/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:05:07,005] INFO: efx (3/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:05:07,033] INFO: efx (6/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:05:07,060] INFO: efx (9/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:05:07,088] INFO: efx (12/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 05:05:07,103] WARNING: efx (3/2022): Found zero values for fields: Share Repurchases
+[2025-03-22 05:05:07,117] INFO: efx (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:05:07,144] INFO: efx (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:05:07,170] INFO: efx (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:05:07,189] WARNING: efx (12/2022): Found zero values for fields: Share Repurchases
+[2025-03-22 05:05:07,202] INFO: efx (12/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:05:07,231] INFO: efx (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:05:07,256] INFO: efx (6/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:05:07,284] INFO: efx (9/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:05:07,298] WARNING: efx (12/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 05:05:07,311] INFO: efx (12/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:05:07,338] INFO: efx (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:05:07,367] INFO: efx (6/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:05:07,395] INFO: efx (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:05:07,409] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 05:05:07,422] WARNING: efx (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 05:05:07,422] INFO: efx (12/2024): Created new record with 16 non-zero financial metrics

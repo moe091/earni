@@ -1,0 +1,81 @@
+[2025-03-22 15:53:51,851] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 15:53:51,865] WARNING: mksi (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 15:53:51,866] INFO: mksi (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:53:51,884] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 15:53:51,900] WARNING: mksi (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 15:53:51,903] INFO: mksi (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:53:51,921] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 15:53:51,935] WARNING: mksi (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 15:53:51,936] INFO: mksi (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:53:51,955] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 15:53:51,970] WARNING: mksi (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 15:53:51,970] INFO: mksi (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:53:51,990] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 15:53:52,005] WARNING: mksi (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 15:53:52,005] INFO: mksi (6/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,024] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 15:53:52,039] WARNING: mksi (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 15:53:52,040] INFO: mksi (9/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,056] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 15:53:52,071] WARNING: mksi (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 15:53:52,072] INFO: mksi (12/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,088] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 15:53:52,103] WARNING: mksi (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 15:53:52,104] INFO: mksi (3/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,121] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 15:53:52,137] WARNING: mksi (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 15:53:52,137] INFO: mksi (6/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,169] INFO: mksi (9/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,186] INFO: Trying adjusted date: 1/2013 (original: 12/2012)
+[2025-03-22 15:53:52,202] WARNING: mksi (12/2012): No existing record found(12/2012, 2012-12-31) - creating new one
+[2025-03-22 15:53:52,202] INFO: mksi (12/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,234] INFO: mksi (3/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,265] INFO: mksi (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,297] INFO: mksi (9/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,329] INFO: mksi (12/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,360] INFO: mksi (3/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,393] INFO: mksi (6/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,426] INFO: mksi (9/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,458] INFO: mksi (12/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,490] INFO: mksi (3/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,521] INFO: mksi (6/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,551] INFO: mksi (9/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,581] INFO: mksi (12/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,613] INFO: mksi (3/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,643] INFO: mksi (6/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,677] INFO: mksi (9/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,709] INFO: mksi (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,740] INFO: mksi (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,770] INFO: mksi (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,801] INFO: mksi (9/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,831] INFO: mksi (12/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,862] INFO: mksi (3/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,891] INFO: mksi (6/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,922] INFO: mksi (9/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,953] INFO: mksi (12/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:52,985] INFO: mksi (3/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,016] INFO: mksi (6/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,048] INFO: mksi (9/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,080] INFO: mksi (12/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,111] INFO: mksi (3/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,144] INFO: mksi (6/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,175] INFO: mksi (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,206] INFO: mksi (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,239] INFO: mksi (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,270] INFO: mksi (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,301] INFO: mksi (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,331] INFO: mksi (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,361] INFO: mksi (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,393] INFO: mksi (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,425] INFO: mksi (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,455] INFO: mksi (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,487] INFO: mksi (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,519] INFO: mksi (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,550] INFO: mksi (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,582] INFO: mksi (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,613] INFO: mksi (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,644] INFO: mksi (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,676] INFO: mksi (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:53:53,693] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 15:53:53,708] WARNING: mksi (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 15:53:53,708] INFO: mksi (12/2024): Created new record with 0 non-zero financial metrics

@@ -1,0 +1,92 @@
+[2025-03-21 22:32:26,347] INFO: Trying adjusted date: 5/2010 (original: 4/2010)
+[2025-03-21 22:32:26,358] WARNING: crm (4/2010): No existing record found(4/2010, 2010-04-30) - creating new one
+[2025-03-21 22:32:26,359] INFO: crm (4/2010): Created new record with 21 non-zero financial metrics
+[2025-03-21 22:32:26,374] INFO: Trying adjusted date: 8/2010 (original: 7/2010)
+[2025-03-21 22:32:26,386] WARNING: crm (7/2010): No existing record found(7/2010, 2010-07-31) - creating new one
+[2025-03-21 22:32:26,386] INFO: crm (7/2010): Created new record with 21 non-zero financial metrics
+[2025-03-21 22:32:26,401] INFO: Trying adjusted date: 11/2010 (original: 10/2010)
+[2025-03-21 22:32:26,413] WARNING: crm (10/2010): No existing record found(10/2010, 2010-10-31) - creating new one
+[2025-03-21 22:32:26,413] INFO: crm (10/2010): Created new record with 21 non-zero financial metrics
+[2025-03-21 22:32:26,426] INFO: Trying adjusted date: 2/2011 (original: 1/2011)
+[2025-03-21 22:32:26,438] WARNING: crm (1/2011): No existing record found(1/2011, 2011-01-31) - creating new one
+[2025-03-21 22:32:26,438] INFO: crm (1/2011): Created new record with 21 non-zero financial metrics
+[2025-03-21 22:32:26,450] INFO: Trying adjusted date: 5/2011 (original: 4/2011)
+[2025-03-21 22:32:26,462] WARNING: crm (4/2011): Found zero values for fields: EPS Diluted
+[2025-03-21 22:32:26,462] WARNING: crm (4/2011): No existing record found(4/2011, 2011-04-30) - creating new one
+[2025-03-21 22:32:26,462] INFO: crm (4/2011): Created new record with 21 non-zero financial metrics
+[2025-03-21 22:32:26,476] INFO: Trying adjusted date: 8/2011 (original: 7/2011)
+[2025-03-21 22:32:26,488] WARNING: crm (7/2011): No existing record found(7/2011, 2011-07-31) - creating new one
+[2025-03-21 22:32:26,489] INFO: crm (7/2011): Created new record with 22 non-zero financial metrics
+[2025-03-21 22:32:26,502] INFO: Trying adjusted date: 11/2011 (original: 10/2011)
+[2025-03-21 22:32:26,514] WARNING: crm (10/2011): No existing record found(10/2011, 2011-10-31) - creating new one
+[2025-03-21 22:32:26,515] INFO: crm (10/2011): Created new record with 22 non-zero financial metrics
+[2025-03-21 22:32:26,531] INFO: Trying adjusted date: 2/2012 (original: 1/2012)
+[2025-03-21 22:32:26,542] WARNING: crm (1/2012): No existing record found(1/2012, 2012-01-31) - creating new one
+[2025-03-21 22:32:26,543] INFO: crm (1/2012): Created new record with 21 non-zero financial metrics
+[2025-03-21 22:32:26,555] INFO: Trying adjusted date: 5/2012 (original: 4/2012)
+[2025-03-21 22:32:26,567] WARNING: crm (4/2012): No existing record found(4/2012, 2012-04-30) - creating new one
+[2025-03-21 22:32:26,567] INFO: crm (4/2012): Created new record with 22 non-zero financial metrics
+[2025-03-21 22:32:26,580] INFO: Trying adjusted date: 8/2012 (original: 7/2012)
+[2025-03-21 22:32:26,591] WARNING: crm (7/2012): No existing record found(7/2012, 2012-07-31) - creating new one
+[2025-03-21 22:32:26,592] INFO: crm (7/2012): Created new record with 22 non-zero financial metrics
+[2025-03-21 22:32:26,615] INFO: crm (10/2012): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 22:32:26,639] INFO: crm (1/2013): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 22:32:26,664] INFO: crm (4/2013): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:32:26,689] INFO: crm (7/2013): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:32:26,713] INFO: crm (10/2013): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:32:26,738] INFO: crm (1/2014): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:32:26,762] INFO: crm (4/2014): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:32:26,787] INFO: crm (7/2014): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:32:26,812] INFO: crm (10/2014): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:32:26,836] INFO: crm (1/2015): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:32:26,861] INFO: crm (4/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:32:26,874] WARNING: crm (7/2015): Found zero values for fields: EPS Diluted
+[2025-03-21 22:32:26,886] INFO: crm (7/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:32:26,910] INFO: crm (10/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:32:26,934] INFO: crm (1/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:32:26,947] INFO: Trying adjusted date: 5/2016 (original: 4/2016)
+[2025-03-21 22:32:26,959] WARNING: crm (4/2016): No existing record found(4/2016, 2016-04-30) - creating new one
+[2025-03-21 22:32:26,959] INFO: crm (4/2016): Created new record with 19 non-zero financial metrics
+[2025-03-21 22:32:26,971] INFO: Trying adjusted date: 8/2016 (original: 7/2016)
+[2025-03-21 22:32:26,982] WARNING: crm (7/2016): No existing record found(7/2016, 2016-07-31) - creating new one
+[2025-03-21 22:32:26,983] INFO: crm (7/2016): Created new record with 19 non-zero financial metrics
+[2025-03-21 22:32:26,996] INFO: Trying adjusted date: 11/2016 (original: 10/2016)
+[2025-03-21 22:32:27,007] WARNING: crm (10/2016): No existing record found(10/2016, 2016-10-31) - creating new one
+[2025-03-21 22:32:27,008] INFO: crm (10/2016): Created new record with 19 non-zero financial metrics
+[2025-03-21 22:32:27,020] INFO: Trying adjusted date: 2/2017 (original: 1/2017)
+[2025-03-21 22:32:27,032] WARNING: crm (1/2017): No existing record found(1/2017, 2017-01-31) - creating new one
+[2025-03-21 22:32:27,033] INFO: crm (1/2017): Created new record with 20 non-zero financial metrics
+[2025-03-21 22:32:27,057] INFO: crm (4/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:32:27,081] INFO: crm (7/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:32:27,106] INFO: crm (10/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:32:27,130] INFO: crm (1/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:32:27,156] INFO: crm (4/2018): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 22:32:27,180] INFO: crm (7/2018): Updated existing record with 23 non-zero financial metrics
+[2025-03-21 22:32:27,205] INFO: crm (10/2018): Updated existing record with 23 non-zero financial metrics
+[2025-03-21 22:32:27,230] INFO: crm (1/2019): Updated existing record with 24 non-zero financial metrics
+[2025-03-21 22:32:27,255] INFO: crm (4/2019): Updated existing record with 23 non-zero financial metrics
+[2025-03-21 22:32:27,280] INFO: crm (7/2019): Updated existing record with 23 non-zero financial metrics
+[2025-03-21 22:32:27,306] INFO: crm (10/2019): Updated existing record with 23 non-zero financial metrics
+[2025-03-21 22:32:27,331] INFO: crm (1/2020): Updated existing record with 23 non-zero financial metrics
+[2025-03-21 22:32:27,357] INFO: crm (4/2020): Updated existing record with 23 non-zero financial metrics
+[2025-03-21 22:32:27,383] INFO: crm (7/2020): Updated existing record with 23 non-zero financial metrics
+[2025-03-21 22:32:27,408] INFO: crm (10/2020): Updated existing record with 23 non-zero financial metrics
+[2025-03-21 22:32:27,433] INFO: crm (1/2021): Updated existing record with 23 non-zero financial metrics
+[2025-03-21 22:32:27,457] INFO: crm (4/2021): Updated existing record with 23 non-zero financial metrics
+[2025-03-21 22:32:27,481] INFO: crm (7/2021): Updated existing record with 23 non-zero financial metrics
+[2025-03-21 22:32:27,508] INFO: crm (10/2021): Updated existing record with 23 non-zero financial metrics
+[2025-03-21 22:32:27,532] INFO: crm (1/2022): Updated existing record with 23 non-zero financial metrics
+[2025-03-21 22:32:27,556] INFO: crm (4/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:32:27,580] INFO: crm (7/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:32:27,607] INFO: crm (10/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 22:32:27,631] INFO: crm (1/2023): Updated existing record with 23 non-zero financial metrics
+[2025-03-21 22:32:27,657] INFO: crm (4/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 22:32:27,681] INFO: crm (7/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 22:32:27,706] INFO: crm (10/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 22:32:27,730] INFO: crm (1/2024): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 22:32:27,753] INFO: crm (4/2024): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 22:32:27,778] INFO: crm (7/2024): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 22:32:27,802] INFO: crm (10/2024): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 22:32:27,816] INFO: Trying adjusted date: 2/2025 (original: 1/2025)
+[2025-03-21 22:32:27,828] WARNING: crm (1/2025): No existing record found(1/2025, 2025-01-31) - creating new one
+[2025-03-21 22:32:27,829] INFO: crm (1/2025): Created new record with 23 non-zero financial metrics

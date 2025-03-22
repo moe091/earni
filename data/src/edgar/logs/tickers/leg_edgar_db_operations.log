@@ -1,0 +1,79 @@
+[2025-03-22 16:10:37,435] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 16:10:37,450] WARNING: leg (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 16:10:37,450] INFO: leg (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:10:37,467] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 16:10:37,482] WARNING: leg (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 16:10:37,482] INFO: leg (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:10:37,499] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 16:10:37,514] WARNING: leg (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 16:10:37,515] INFO: leg (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:10:37,531] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 16:10:37,546] WARNING: leg (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 16:10:37,547] INFO: leg (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:10:37,564] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 16:10:37,579] WARNING: leg (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 16:10:37,579] INFO: leg (6/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:10:37,596] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 16:10:37,611] WARNING: leg (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 16:10:37,611] INFO: leg (9/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:10:37,628] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 16:10:37,643] WARNING: leg (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 16:10:37,643] INFO: leg (12/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:10:37,659] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 16:10:37,674] WARNING: leg (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 16:10:37,675] INFO: leg (3/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:10:37,691] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 16:10:37,706] WARNING: leg (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 16:10:37,707] INFO: leg (6/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:10:37,738] INFO: leg (9/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:37,770] INFO: leg (12/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:37,802] INFO: leg (3/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:37,833] INFO: leg (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:37,864] INFO: leg (9/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:37,895] INFO: leg (12/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:37,925] INFO: leg (3/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:37,956] INFO: leg (6/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:37,987] INFO: leg (9/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,017] INFO: leg (12/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,049] INFO: leg (3/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,081] INFO: leg (6/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,113] INFO: leg (9/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,146] INFO: leg (12/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,179] INFO: leg (3/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,212] INFO: leg (6/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,243] INFO: leg (9/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,276] INFO: leg (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,308] INFO: leg (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,339] INFO: leg (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,370] INFO: leg (9/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,402] INFO: leg (12/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,433] INFO: leg (3/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,464] INFO: leg (6/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,496] INFO: leg (9/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,528] INFO: leg (12/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,558] INFO: leg (3/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,588] INFO: leg (6/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,618] INFO: leg (9/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,649] INFO: leg (12/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,682] INFO: leg (3/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,714] INFO: leg (6/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,746] INFO: leg (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,779] INFO: leg (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,811] INFO: leg (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,842] INFO: leg (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,876] INFO: leg (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,909] INFO: leg (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,938] INFO: leg (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:38,969] INFO: leg (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:39,000] INFO: leg (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:39,031] INFO: leg (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:39,062] INFO: leg (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:39,093] INFO: leg (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:39,124] INFO: leg (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:39,155] INFO: leg (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:39,186] INFO: leg (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:39,218] INFO: leg (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:39,249] INFO: leg (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:10:39,266] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 16:10:39,281] WARNING: leg (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 16:10:39,282] INFO: leg (12/2024): Created new record with 0 non-zero financial metrics

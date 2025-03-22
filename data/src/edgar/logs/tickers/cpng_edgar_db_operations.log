@@ -1,0 +1,19 @@
+[2025-03-22 03:19:12,471] INFO: cpng (3/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:19:12,501] INFO: cpng (6/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:19:12,527] INFO: cpng (9/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:19:12,553] INFO: cpng (12/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:19:12,580] INFO: cpng (3/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:19:12,608] INFO: cpng (6/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:19:12,636] INFO: cpng (9/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:19:12,663] INFO: cpng (12/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:19:12,691] INFO: cpng (3/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:19:12,718] INFO: cpng (6/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:19:12,744] INFO: cpng (9/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:19:12,769] INFO: cpng (12/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:19:12,788] WARNING: cpng (3/2024): Found zero values for fields: EPS Diluted
+[2025-03-22 03:19:12,801] INFO: cpng (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:19:12,827] INFO: cpng (6/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:19:12,852] INFO: cpng (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:19:12,868] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 03:19:12,880] WARNING: cpng (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 03:19:12,881] INFO: cpng (12/2024): Created new record with 19 non-zero financial metrics

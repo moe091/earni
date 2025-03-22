@@ -1,0 +1,88 @@
+[2025-03-22 12:40:53,103] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 12:40:53,116] WARNING: xray (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 12:40:53,117] INFO: xray (3/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 12:40:53,135] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 12:40:53,149] WARNING: xray (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 12:40:53,149] INFO: xray (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 12:40:53,165] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 12:40:53,179] WARNING: xray (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 12:40:53,180] INFO: xray (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 12:40:53,196] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 12:40:53,208] WARNING: xray (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 12:40:53,209] INFO: xray (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 12:40:53,224] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 12:40:53,238] WARNING: xray (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 12:40:53,238] INFO: xray (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 12:40:53,254] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 12:40:53,268] WARNING: xray (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 12:40:53,269] INFO: xray (6/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 12:40:53,286] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 12:40:53,299] WARNING: xray (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 12:40:53,300] INFO: xray (9/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 12:40:53,316] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 12:40:53,330] WARNING: xray (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 12:40:53,330] INFO: xray (12/2011): Created new record with 20 non-zero financial metrics
+[2025-03-22 12:40:53,348] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 12:40:53,362] WARNING: xray (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 12:40:53,362] INFO: xray (3/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 12:40:53,377] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 12:40:53,391] WARNING: xray (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 12:40:53,392] INFO: xray (6/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 12:40:53,420] INFO: xray (9/2012): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:40:53,450] INFO: xray (12/2012): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:40:53,466] WARNING: xray (3/2013): Found zero values for fields: Share Repurchases
+[2025-03-22 12:40:53,480] INFO: xray (3/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:40:53,510] INFO: xray (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 12:40:53,540] INFO: xray (9/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:40:53,570] INFO: xray (12/2013): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:40:53,600] INFO: xray (3/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:40:53,629] INFO: xray (6/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:40:53,658] INFO: xray (9/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:40:53,687] INFO: xray (12/2014): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:40:53,717] INFO: xray (3/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:40:53,747] INFO: xray (6/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:40:53,778] INFO: xray (9/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:40:53,807] INFO: xray (12/2015): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:40:53,837] INFO: xray (3/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:40:53,867] INFO: xray (6/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:40:53,897] INFO: xray (9/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:40:53,927] INFO: xray (12/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:40:53,957] INFO: xray (3/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:40:53,986] INFO: xray (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:40:54,017] INFO: xray (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:40:54,048] INFO: xray (12/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:40:54,065] WARNING: xray (3/2018): Found zero values for fields: Share Repurchases
+[2025-03-22 12:40:54,079] INFO: xray (3/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:40:54,109] INFO: xray (6/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:40:54,139] INFO: xray (9/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:40:54,169] INFO: xray (12/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:40:54,198] INFO: xray (3/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:40:54,229] INFO: xray (6/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:40:54,259] INFO: xray (9/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:40:54,289] INFO: xray (12/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:40:54,318] INFO: xray (3/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:40:54,349] INFO: xray (6/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:40:54,379] INFO: xray (9/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:40:54,407] INFO: xray (12/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:40:54,437] INFO: xray (3/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:40:54,471] INFO: xray (6/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:40:54,503] INFO: xray (9/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:40:54,533] INFO: xray (12/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:40:54,550] WARNING: xray (3/2022): Found zero values for fields: Share Repurchases
+[2025-03-22 12:40:54,566] INFO: xray (3/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:40:54,583] INFO: Trying adjusted date: 7/2022 (original: 6/2022)
+[2025-03-22 12:40:54,596] WARNING: xray (6/2022): No existing record found(6/2022, 2022-06-30) - creating new one
+[2025-03-22 12:40:54,597] INFO: xray (6/2022): Created new record with 16 non-zero financial metrics
+[2025-03-22 12:40:54,628] INFO: xray (9/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:40:54,657] INFO: xray (12/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:40:54,687] INFO: xray (3/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:40:54,716] INFO: xray (6/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:40:54,748] INFO: xray (9/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:40:54,777] INFO: xray (12/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:40:54,793] WARNING: xray (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 12:40:54,807] INFO: xray (3/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:40:54,840] INFO: xray (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:40:54,871] INFO: xray (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:40:54,886] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 12:40:54,900] WARNING: xray (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 12:40:54,900] INFO: xray (12/2024): Created new record with 19 non-zero financial metrics

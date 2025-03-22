@@ -1,0 +1,72 @@
+[2025-03-22 06:36:12,842] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 06:36:12,855] WARNING: plug (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 06:36:12,855] INFO: plug (6/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 06:36:12,871] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 06:36:12,885] WARNING: plug (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 06:36:12,885] INFO: plug (9/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 06:36:12,899] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 06:36:12,916] WARNING: plug (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 06:36:12,916] INFO: plug (12/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 06:36:12,930] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 06:36:12,943] WARNING: plug (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 06:36:12,943] INFO: plug (3/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 06:36:12,958] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 06:36:12,971] WARNING: plug (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 06:36:12,971] INFO: plug (6/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 06:36:12,998] INFO: plug (9/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 06:36:13,025] INFO: plug (12/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 06:36:13,053] INFO: plug (3/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 06:36:13,080] INFO: plug (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 06:36:13,107] INFO: plug (9/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:36:13,134] INFO: plug (12/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:36:13,164] INFO: plug (3/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:36:13,191] INFO: plug (6/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:36:13,219] INFO: plug (9/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:36:13,235] WARNING: plug (12/2014): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 06:36:13,248] INFO: plug (12/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:36:13,276] INFO: plug (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:36:13,304] INFO: plug (6/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:36:13,330] INFO: plug (9/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:36:13,344] WARNING: plug (12/2015): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 06:36:13,357] INFO: plug (12/2015): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 06:36:13,385] INFO: plug (3/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:36:13,412] INFO: plug (6/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:36:13,440] INFO: plug (9/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:36:13,455] WARNING: plug (12/2016): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 06:36:13,468] INFO: plug (12/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:36:13,496] INFO: plug (3/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:36:13,523] INFO: plug (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:36:13,552] INFO: plug (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:36:13,580] INFO: plug (12/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:36:13,608] INFO: plug (3/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 06:36:13,637] INFO: plug (6/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:36:13,664] INFO: plug (9/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:36:13,692] INFO: plug (12/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 06:36:13,720] INFO: plug (3/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 06:36:13,747] INFO: plug (6/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:36:13,775] INFO: plug (9/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:36:13,802] INFO: plug (12/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 06:36:13,830] INFO: plug (3/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 06:36:13,858] INFO: plug (6/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:36:13,888] INFO: plug (9/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:36:13,915] INFO: plug (12/2020): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:36:13,942] INFO: plug (3/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 06:36:13,969] INFO: plug (6/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:36:13,997] INFO: plug (9/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:36:14,024] INFO: plug (12/2021): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 06:36:14,053] INFO: plug (3/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:36:14,081] INFO: plug (6/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:36:14,111] INFO: plug (9/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:36:14,143] INFO: plug (12/2022): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 06:36:14,173] INFO: plug (3/2023): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 06:36:14,201] INFO: plug (6/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:36:14,229] INFO: plug (9/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 06:36:14,244] WARNING: plug (12/2023): Found zero values for fields: Goodwill
+[2025-03-22 06:36:14,257] INFO: plug (12/2023): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 06:36:14,285] INFO: plug (3/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 06:36:14,313] INFO: plug (6/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:36:14,339] INFO: plug (9/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:36:14,354] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 06:36:14,367] WARNING: plug (12/2024): Found zero values for fields: Goodwill
+[2025-03-22 06:36:14,368] WARNING: plug (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 06:36:14,368] INFO: plug (12/2024): Created new record with 20 non-zero financial metrics

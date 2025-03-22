@@ -1,0 +1,89 @@
+[2025-03-22 00:39:43,100] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 00:39:43,112] WARNING: bsx (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 00:39:43,112] INFO: bsx (3/2010): Created new record with 16 non-zero financial metrics
+[2025-03-22 00:39:43,125] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 00:39:43,137] WARNING: bsx (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 00:39:43,137] INFO: bsx (6/2010): Created new record with 12 non-zero financial metrics
+[2025-03-22 00:39:43,150] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 00:39:43,162] WARNING: bsx (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 00:39:43,162] INFO: bsx (9/2010): Created new record with 12 non-zero financial metrics
+[2025-03-22 00:39:43,174] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 00:39:43,187] WARNING: bsx (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 00:39:43,187] INFO: bsx (12/2010): Created new record with 17 non-zero financial metrics
+[2025-03-22 00:39:43,201] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 00:39:43,212] WARNING: bsx (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 00:39:43,213] INFO: bsx (3/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 00:39:43,226] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 00:39:43,238] WARNING: bsx (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 00:39:43,239] INFO: bsx (6/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 00:39:43,252] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 00:39:43,264] WARNING: bsx (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 00:39:43,264] INFO: bsx (9/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 00:39:43,278] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 00:39:43,289] WARNING: bsx (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 00:39:43,290] INFO: bsx (12/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 00:39:43,303] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 00:39:43,315] WARNING: bsx (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 00:39:43,316] INFO: bsx (3/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 00:39:43,329] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 00:39:43,340] WARNING: bsx (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 00:39:43,341] INFO: bsx (6/2012): Created new record with 13 non-zero financial metrics
+[2025-03-22 00:39:43,366] INFO: bsx (9/2012): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:39:43,390] INFO: bsx (12/2012): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:39:43,415] INFO: bsx (3/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:39:43,439] INFO: bsx (6/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:39:43,454] WARNING: bsx (9/2013): Found zero values for fields: EPS Diluted
+[2025-03-22 00:39:43,466] INFO: bsx (9/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:39:43,491] INFO: bsx (12/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:39:43,517] INFO: bsx (3/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:39:43,531] WARNING: bsx (6/2014): Found zero values for fields: EPS Diluted
+[2025-03-22 00:39:43,544] INFO: bsx (6/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:39:43,569] INFO: bsx (9/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:39:43,594] INFO: bsx (12/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:39:43,607] WARNING: bsx (3/2015): Found zero values for fields: Share Repurchases, EPS Diluted
+[2025-03-22 00:39:43,619] INFO: bsx (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:39:43,645] INFO: bsx (6/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:39:43,669] INFO: bsx (9/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:39:43,683] WARNING: bsx (12/2015): Found zero values for fields: Share Repurchases
+[2025-03-22 00:39:43,695] INFO: bsx (12/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:39:43,720] INFO: bsx (3/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:39:43,744] INFO: bsx (6/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:39:43,771] INFO: bsx (9/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:39:43,784] WARNING: bsx (12/2016): Found zero values for fields: Share Repurchases
+[2025-03-22 00:39:43,796] INFO: bsx (12/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:39:43,822] INFO: bsx (3/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:39:43,847] INFO: bsx (6/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:39:43,873] INFO: bsx (9/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:39:43,897] INFO: bsx (12/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:39:43,923] INFO: bsx (3/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:39:43,948] INFO: bsx (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:39:43,973] INFO: bsx (9/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:39:44,001] INFO: bsx (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:39:44,026] INFO: bsx (3/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:39:44,050] INFO: bsx (6/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:39:44,078] INFO: bsx (9/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:39:44,109] INFO: bsx (12/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:39:44,134] INFO: bsx (3/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:39:44,161] INFO: bsx (6/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:39:44,191] INFO: bsx (9/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:39:44,217] INFO: bsx (12/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:39:44,242] INFO: bsx (3/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:39:44,267] INFO: bsx (6/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:39:44,292] INFO: bsx (9/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:39:44,305] WARNING: bsx (12/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 00:39:44,317] INFO: bsx (12/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:39:44,342] INFO: bsx (3/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:39:44,367] INFO: bsx (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:39:44,393] INFO: bsx (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:39:44,406] WARNING: bsx (12/2022): Found zero values for fields: Share Repurchases
+[2025-03-22 00:39:44,418] INFO: bsx (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:39:44,443] INFO: bsx (3/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:39:44,469] INFO: bsx (6/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:39:44,494] INFO: bsx (9/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:39:44,520] INFO: bsx (12/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 00:39:44,546] INFO: bsx (3/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:39:44,571] INFO: bsx (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:39:44,596] INFO: bsx (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:39:44,609] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 00:39:44,621] WARNING: bsx (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 00:39:44,622] INFO: bsx (12/2024): Created new record with 19 non-zero financial metrics

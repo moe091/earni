@@ -1,0 +1,59 @@
+[2025-03-22 13:47:42,497] INFO: coty (9/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:47:42,527] INFO: coty (12/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:47:42,558] INFO: coty (3/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:47:42,589] INFO: coty (6/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:47:42,605] WARNING: coty (9/2014): Found zero values for fields: Share Repurchases
+[2025-03-22 13:47:42,620] INFO: coty (9/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:47:42,652] INFO: coty (12/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:47:42,688] INFO: coty (3/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:47:42,721] INFO: coty (6/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:47:42,753] INFO: coty (9/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:47:42,783] INFO: coty (12/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:47:42,815] INFO: coty (3/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:47:42,845] INFO: coty (6/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:47:42,862] WARNING: coty (9/2016): Found zero values for fields: Net Income, EPS Diluted
+[2025-03-22 13:47:42,876] INFO: coty (9/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:47:42,906] INFO: coty (12/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:47:42,937] INFO: coty (3/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:47:42,967] INFO: coty (6/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:47:42,983] WARNING: coty (9/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 13:47:42,997] INFO: coty (9/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:47:43,028] INFO: coty (12/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:47:43,057] INFO: coty (3/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:47:43,074] WARNING: coty (6/2018): Found zero values for fields: Share Repurchases
+[2025-03-22 13:47:43,088] INFO: coty (6/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:47:43,118] INFO: coty (9/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:47:43,148] INFO: coty (12/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:47:43,179] INFO: coty (3/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:47:43,196] WARNING: coty (6/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 13:47:43,210] INFO: coty (6/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:47:43,240] INFO: coty (9/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:47:43,271] INFO: coty (12/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:47:43,300] INFO: coty (3/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:47:43,330] INFO: coty (6/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:47:43,348] WARNING: coty (9/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 13:47:43,361] INFO: coty (9/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:47:43,393] INFO: coty (12/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:47:43,409] INFO: Trying adjusted date: 4/2021 (original: 3/2021)
+[2025-03-22 13:47:43,424] WARNING: coty (3/2021): No existing record found(3/2021, 2021-03-31) - creating new one
+[2025-03-22 13:47:43,425] INFO: coty (3/2021): Created new record with 15 non-zero financial metrics
+[2025-03-22 13:47:43,441] WARNING: coty (6/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 13:47:43,457] INFO: coty (6/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:47:43,488] INFO: coty (9/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:47:43,518] INFO: coty (12/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:47:43,549] INFO: coty (3/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:47:43,580] INFO: coty (6/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:47:43,609] INFO: coty (9/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:47:43,640] INFO: coty (12/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:47:43,670] INFO: coty (3/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:47:43,701] INFO: coty (6/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:47:43,718] WARNING: coty (9/2023): Found zero values for fields: EPS Diluted
+[2025-03-22 13:47:43,732] INFO: coty (9/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:47:43,763] INFO: coty (12/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:47:43,779] WARNING: coty (3/2024): Found zero values for fields: EPS Diluted
+[2025-03-22 13:47:43,793] INFO: coty (3/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:47:43,825] INFO: coty (6/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:47:43,856] INFO: coty (9/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:47:43,872] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 13:47:43,886] WARNING: coty (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 13:47:43,887] INFO: coty (12/2024): Created new record with 14 non-zero financial metrics

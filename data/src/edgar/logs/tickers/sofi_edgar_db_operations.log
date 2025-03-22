@@ -1,0 +1,28 @@
+[2025-03-22 15:46:59,466] INFO: Trying adjusted date: 10/2020 (original: 9/2020)
+[2025-03-22 15:46:59,481] WARNING: sofi (9/2020): No existing record found(9/2020, 2020-09-30) - creating new one
+[2025-03-22 15:46:59,481] INFO: sofi (9/2020): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:46:59,500] INFO: Trying adjusted date: 1/2021 (original: 12/2020)
+[2025-03-22 15:46:59,515] WARNING: sofi (12/2020): No existing record found(12/2020, 2020-12-31) - creating new one
+[2025-03-22 15:46:59,515] INFO: sofi (12/2020): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:46:59,532] INFO: Trying adjusted date: 4/2021 (original: 3/2021)
+[2025-03-22 15:46:59,547] WARNING: sofi (3/2021): No existing record found(3/2021, 2021-03-31) - creating new one
+[2025-03-22 15:46:59,547] INFO: sofi (3/2021): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:46:59,578] INFO: sofi (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:59,609] INFO: sofi (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:59,642] INFO: sofi (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:59,674] INFO: sofi (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:59,706] INFO: sofi (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:59,739] INFO: sofi (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:59,772] INFO: sofi (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:59,805] INFO: sofi (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:59,836] INFO: sofi (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:59,868] INFO: sofi (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:59,885] INFO: Trying adjusted date: 1/2024 (original: 12/2023)
+[2025-03-22 15:46:59,900] WARNING: sofi (12/2023): No existing record found(12/2023, 2023-12-31) - creating new one
+[2025-03-22 15:46:59,900] INFO: sofi (12/2023): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:46:59,931] INFO: sofi (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:59,948] INFO: Trying adjusted date: 7/2024 (original: 6/2024)
+[2025-03-22 15:46:59,963] WARNING: sofi (6/2024): No existing record found(6/2024, 2024-06-30) - creating new one
+[2025-03-22 15:46:59,963] INFO: sofi (6/2024): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:46:59,996] INFO: sofi (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:47:00,029] INFO: sofi (12/2024): Updated existing record with 0 non-zero financial metrics

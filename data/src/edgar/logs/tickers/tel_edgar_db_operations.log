@@ -1,0 +1,80 @@
+[2025-03-22 02:13:44,663] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 02:13:44,675] WARNING: tel (3/2010): No existing record found(3/2010, 2010-03-26) - creating new one
+[2025-03-22 02:13:44,675] INFO: tel (3/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 02:13:44,689] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 02:13:44,701] WARNING: tel (6/2010): No existing record found(6/2010, 2010-06-25) - creating new one
+[2025-03-22 02:13:44,702] INFO: tel (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 02:13:44,717] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 02:13:44,728] WARNING: tel (9/2010): No existing record found(9/2010, 2010-09-24) - creating new one
+[2025-03-22 02:13:44,729] INFO: tel (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 02:13:44,742] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 02:13:44,754] WARNING: tel (12/2010): No existing record found(12/2010, 2010-12-24) - creating new one
+[2025-03-22 02:13:44,755] INFO: tel (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 02:13:44,768] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 02:13:44,780] WARNING: tel (3/2011): No existing record found(3/2011, 2011-03-25) - creating new one
+[2025-03-22 02:13:44,781] INFO: tel (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 02:13:44,794] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 02:13:44,807] WARNING: tel (6/2011): No existing record found(6/2011, 2011-06-24) - creating new one
+[2025-03-22 02:13:44,807] INFO: tel (6/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 02:13:44,821] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 02:13:44,834] WARNING: tel (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 02:13:44,834] INFO: tel (9/2011): Created new record with 22 non-zero financial metrics
+[2025-03-22 02:13:44,849] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 02:13:44,861] WARNING: tel (12/2011): No existing record found(12/2011, 2011-12-30) - creating new one
+[2025-03-22 02:13:44,862] INFO: tel (12/2011): Created new record with 21 non-zero financial metrics
+[2025-03-22 02:13:44,875] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 02:13:44,887] WARNING: tel (3/2012): No existing record found(3/2012, 2012-03-30) - creating new one
+[2025-03-22 02:13:44,887] INFO: tel (3/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 02:13:44,901] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 02:13:44,913] WARNING: tel (6/2012): No existing record found(6/2012, 2012-06-29) - creating new one
+[2025-03-22 02:13:44,914] INFO: tel (6/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 02:13:44,939] INFO: tel (9/2012): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 02:13:44,964] INFO: tel (12/2012): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 02:13:44,989] INFO: tel (3/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 02:13:45,014] INFO: tel (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 02:13:45,040] INFO: tel (9/2013): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 02:13:45,066] INFO: tel (12/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 02:13:45,092] INFO: tel (3/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:13:45,118] INFO: tel (6/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:13:45,144] INFO: tel (9/2014): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 02:13:45,170] INFO: tel (12/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 02:13:45,196] INFO: tel (3/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:13:45,221] INFO: tel (6/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 02:13:45,247] INFO: tel (9/2015): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 02:13:45,273] INFO: tel (12/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 02:13:45,301] INFO: tel (3/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:13:45,327] INFO: tel (6/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:13:45,353] INFO: tel (9/2016): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 02:13:45,379] INFO: tel (12/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 02:13:45,406] INFO: tel (3/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:13:45,431] INFO: tel (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:13:45,457] INFO: tel (9/2017): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 02:13:45,483] INFO: tel (12/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 02:13:45,509] INFO: tel (3/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:13:45,535] INFO: tel (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:13:45,561] INFO: tel (9/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 02:13:45,588] INFO: tel (12/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 02:13:45,615] INFO: tel (3/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:13:45,640] INFO: tel (6/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:13:45,669] INFO: tel (9/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 02:13:45,695] INFO: tel (12/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 02:13:45,721] INFO: tel (3/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 02:13:45,747] INFO: tel (6/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 02:13:45,773] INFO: tel (9/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 02:13:45,799] INFO: tel (12/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 02:13:45,825] INFO: tel (3/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:13:45,851] INFO: tel (6/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:13:45,877] INFO: tel (9/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 02:13:45,902] INFO: tel (12/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 02:13:45,929] INFO: tel (3/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:13:45,955] INFO: tel (6/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:13:45,980] INFO: tel (9/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 02:13:46,005] INFO: tel (12/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 02:13:46,034] INFO: tel (3/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:13:46,060] INFO: tel (6/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:13:46,085] INFO: tel (9/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 02:13:46,111] INFO: tel (12/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 02:13:46,138] INFO: tel (3/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 02:13:46,167] INFO: tel (6/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 02:13:46,192] INFO: tel (9/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 02:13:46,221] INFO: tel (12/2024): Updated existing record with 18 non-zero financial metrics

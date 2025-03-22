@@ -1,0 +1,71 @@
+[2025-03-22 00:14:56,896] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 00:14:56,908] WARNING: chtr (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 00:14:56,909] INFO: chtr (3/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 00:14:56,924] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 00:14:56,937] WARNING: chtr (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 00:14:56,938] INFO: chtr (6/2011): Created new record with 4 non-zero financial metrics
+[2025-03-22 00:14:56,951] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 00:14:56,964] WARNING: chtr (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 00:14:56,964] INFO: chtr (9/2011): Created new record with 10 non-zero financial metrics
+[2025-03-22 00:14:56,978] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 00:14:56,991] WARNING: chtr (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 00:14:56,991] INFO: chtr (12/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 00:14:57,006] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 00:14:57,019] WARNING: chtr (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 00:14:57,019] INFO: chtr (3/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 00:14:57,034] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 00:14:57,046] WARNING: chtr (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 00:14:57,047] INFO: chtr (6/2012): Created new record with 10 non-zero financial metrics
+[2025-03-22 00:14:57,073] INFO: chtr (9/2012): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 00:14:57,099] INFO: chtr (12/2012): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:14:57,125] INFO: chtr (3/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:14:57,152] INFO: chtr (6/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 00:14:57,178] INFO: chtr (9/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 00:14:57,204] INFO: chtr (12/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:14:57,230] INFO: chtr (3/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:14:57,255] INFO: chtr (6/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 00:14:57,280] INFO: chtr (9/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 00:14:57,305] INFO: chtr (12/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:14:57,330] INFO: chtr (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:14:57,356] INFO: chtr (6/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 00:14:57,369] WARNING: chtr (9/2015): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 00:14:57,381] INFO: chtr (9/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 00:14:57,406] INFO: chtr (12/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:14:57,431] INFO: chtr (3/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:14:57,456] INFO: chtr (6/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:14:57,485] INFO: chtr (9/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:14:57,497] INFO: Trying adjusted date: 1/2017 (original: 12/2016)
+[2025-03-22 00:14:57,510] WARNING: chtr (12/2016): No existing record found(12/2016, 2016-12-31) - creating new one
+[2025-03-22 00:14:57,510] INFO: chtr (12/2016): Created new record with 17 non-zero financial metrics
+[2025-03-22 00:14:57,535] INFO: chtr (3/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:14:57,561] INFO: chtr (6/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:14:57,587] INFO: chtr (9/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:14:57,613] INFO: chtr (12/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:14:57,639] INFO: chtr (3/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:14:57,667] INFO: chtr (6/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:14:57,693] INFO: chtr (9/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:14:57,718] INFO: chtr (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:14:57,743] INFO: chtr (3/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:14:57,769] INFO: chtr (6/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:14:57,794] INFO: chtr (9/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:14:57,819] INFO: chtr (12/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:14:57,846] INFO: chtr (3/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:14:57,871] INFO: chtr (6/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:14:57,898] INFO: chtr (9/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:14:57,924] INFO: chtr (12/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:14:57,950] INFO: chtr (3/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:14:57,975] INFO: chtr (6/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:14:58,000] INFO: chtr (9/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:14:58,025] INFO: chtr (12/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:14:58,051] INFO: chtr (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:14:58,076] INFO: chtr (6/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:14:58,101] INFO: chtr (9/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:14:58,126] INFO: chtr (12/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:14:58,151] INFO: chtr (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:14:58,177] INFO: chtr (6/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:14:58,202] INFO: chtr (9/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:14:58,226] INFO: chtr (12/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:14:58,252] INFO: chtr (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:14:58,277] INFO: chtr (6/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:14:58,302] INFO: chtr (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:14:58,329] INFO: chtr (12/2024): Updated existing record with 17 non-zero financial metrics

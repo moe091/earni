@@ -1,0 +1,124 @@
+[2025-03-22 04:21:59,155] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 04:21:59,167] WARNING: cbre (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 04:21:59,167] INFO: cbre (6/2010): Created new record with 11 non-zero financial metrics
+[2025-03-22 04:21:59,183] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 04:21:59,196] WARNING: cbre (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 04:21:59,197] INFO: cbre (9/2010): Created new record with 11 non-zero financial metrics
+[2025-03-22 04:21:59,211] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 04:21:59,223] WARNING: cbre (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 04:21:59,224] INFO: cbre (12/2010): Created new record with 15 non-zero financial metrics
+[2025-03-22 04:21:59,239] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 04:21:59,252] WARNING: cbre (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 04:21:59,252] INFO: cbre (3/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 04:21:59,266] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 04:21:59,279] WARNING: cbre (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 04:21:59,279] INFO: cbre (6/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 04:21:59,293] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 04:21:59,305] WARNING: cbre (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 04:21:59,306] INFO: cbre (9/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 04:21:59,320] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 04:21:59,333] WARNING: cbre (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 04:21:59,334] INFO: cbre (12/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 04:21:59,348] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 04:21:59,361] WARNING: cbre (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 04:21:59,361] INFO: cbre (3/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 04:21:59,375] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 04:21:59,388] WARNING: cbre (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 04:21:59,388] INFO: cbre (6/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 04:21:59,403] INFO: Trying adjusted date: 10/2012 (original: 9/2012)
+[2025-03-22 04:21:59,415] WARNING: cbre (9/2012): No existing record found(9/2012, 2012-09-30) - creating new one
+[2025-03-22 04:21:59,416] INFO: cbre (9/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 04:21:59,430] INFO: Trying adjusted date: 1/2013 (original: 12/2012)
+[2025-03-22 04:21:59,443] WARNING: cbre (12/2012): No existing record found(12/2012, 2012-12-31) - creating new one
+[2025-03-22 04:21:59,444] INFO: cbre (12/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 04:21:59,457] INFO: Trying adjusted date: 4/2013 (original: 3/2013)
+[2025-03-22 04:21:59,471] WARNING: cbre (3/2013): No existing record found(3/2013, 2013-03-31) - creating new one
+[2025-03-22 04:21:59,471] INFO: cbre (3/2013): Created new record with 15 non-zero financial metrics
+[2025-03-22 04:21:59,485] INFO: Trying adjusted date: 7/2013 (original: 6/2013)
+[2025-03-22 04:21:59,497] WARNING: cbre (6/2013): No existing record found(6/2013, 2013-06-30) - creating new one
+[2025-03-22 04:21:59,498] INFO: cbre (6/2013): Created new record with 11 non-zero financial metrics
+[2025-03-22 04:21:59,511] INFO: Trying adjusted date: 10/2013 (original: 9/2013)
+[2025-03-22 04:21:59,524] WARNING: cbre (9/2013): No existing record found(9/2013, 2013-09-30) - creating new one
+[2025-03-22 04:21:59,524] INFO: cbre (9/2013): Created new record with 11 non-zero financial metrics
+[2025-03-22 04:21:59,539] INFO: Trying adjusted date: 1/2014 (original: 12/2013)
+[2025-03-22 04:21:59,551] WARNING: cbre (12/2013): No existing record found(12/2013, 2013-12-31) - creating new one
+[2025-03-22 04:21:59,551] INFO: cbre (12/2013): Created new record with 17 non-zero financial metrics
+[2025-03-22 04:21:59,566] INFO: Trying adjusted date: 4/2014 (original: 3/2014)
+[2025-03-22 04:21:59,578] WARNING: cbre (3/2014): No existing record found(3/2014, 2014-03-31) - creating new one
+[2025-03-22 04:21:59,578] INFO: cbre (3/2014): Created new record with 12 non-zero financial metrics
+[2025-03-22 04:21:59,592] INFO: Trying adjusted date: 7/2014 (original: 6/2014)
+[2025-03-22 04:21:59,605] WARNING: cbre (6/2014): No existing record found(6/2014, 2014-06-30) - creating new one
+[2025-03-22 04:21:59,606] INFO: cbre (6/2014): Created new record with 11 non-zero financial metrics
+[2025-03-22 04:21:59,618] INFO: Trying adjusted date: 10/2014 (original: 9/2014)
+[2025-03-22 04:21:59,632] WARNING: cbre (9/2014): No existing record found(9/2014, 2014-09-30) - creating new one
+[2025-03-22 04:21:59,633] INFO: cbre (9/2014): Created new record with 11 non-zero financial metrics
+[2025-03-22 04:21:59,648] INFO: Trying adjusted date: 1/2015 (original: 12/2014)
+[2025-03-22 04:21:59,660] WARNING: cbre (12/2014): No existing record found(12/2014, 2014-12-31) - creating new one
+[2025-03-22 04:21:59,661] INFO: cbre (12/2014): Created new record with 16 non-zero financial metrics
+[2025-03-22 04:21:59,675] INFO: Trying adjusted date: 4/2015 (original: 3/2015)
+[2025-03-22 04:21:59,688] WARNING: cbre (3/2015): No existing record found(3/2015, 2015-03-31) - creating new one
+[2025-03-22 04:21:59,689] INFO: cbre (3/2015): Created new record with 15 non-zero financial metrics
+[2025-03-22 04:21:59,704] INFO: Trying adjusted date: 7/2015 (original: 6/2015)
+[2025-03-22 04:21:59,717] WARNING: cbre (6/2015): No existing record found(6/2015, 2015-06-30) - creating new one
+[2025-03-22 04:21:59,717] INFO: cbre (6/2015): Created new record with 12 non-zero financial metrics
+[2025-03-22 04:21:59,732] INFO: Trying adjusted date: 10/2015 (original: 9/2015)
+[2025-03-22 04:21:59,744] WARNING: cbre (9/2015): No existing record found(9/2015, 2015-09-30) - creating new one
+[2025-03-22 04:21:59,744] INFO: cbre (9/2015): Created new record with 12 non-zero financial metrics
+[2025-03-22 04:21:59,759] INFO: Trying adjusted date: 1/2016 (original: 12/2015)
+[2025-03-22 04:21:59,771] WARNING: cbre (12/2015): No existing record found(12/2015, 2015-12-31) - creating new one
+[2025-03-22 04:21:59,771] INFO: cbre (12/2015): Created new record with 14 non-zero financial metrics
+[2025-03-22 04:21:59,785] INFO: Trying adjusted date: 4/2016 (original: 3/2016)
+[2025-03-22 04:21:59,798] WARNING: cbre (3/2016): No existing record found(3/2016, 2016-03-31) - creating new one
+[2025-03-22 04:21:59,798] INFO: cbre (3/2016): Created new record with 14 non-zero financial metrics
+[2025-03-22 04:21:59,813] INFO: Trying adjusted date: 7/2016 (original: 6/2016)
+[2025-03-22 04:21:59,825] WARNING: cbre (6/2016): No existing record found(6/2016, 2016-06-30) - creating new one
+[2025-03-22 04:21:59,826] INFO: cbre (6/2016): Created new record with 13 non-zero financial metrics
+[2025-03-22 04:21:59,840] INFO: Trying adjusted date: 10/2016 (original: 9/2016)
+[2025-03-22 04:21:59,852] WARNING: cbre (9/2016): No existing record found(9/2016, 2016-09-30) - creating new one
+[2025-03-22 04:21:59,853] INFO: cbre (9/2016): Created new record with 13 non-zero financial metrics
+[2025-03-22 04:21:59,868] INFO: Trying adjusted date: 1/2017 (original: 12/2016)
+[2025-03-22 04:21:59,881] WARNING: cbre (12/2016): No existing record found(12/2016, 2016-12-31) - creating new one
+[2025-03-22 04:21:59,881] INFO: cbre (12/2016): Created new record with 15 non-zero financial metrics
+[2025-03-22 04:21:59,895] INFO: Trying adjusted date: 4/2017 (original: 3/2017)
+[2025-03-22 04:21:59,907] WARNING: cbre (3/2017): No existing record found(3/2017, 2017-03-31) - creating new one
+[2025-03-22 04:21:59,908] INFO: cbre (3/2017): Created new record with 13 non-zero financial metrics
+[2025-03-22 04:21:59,922] INFO: Trying adjusted date: 7/2017 (original: 6/2017)
+[2025-03-22 04:21:59,934] WARNING: cbre (6/2017): No existing record found(6/2017, 2017-06-30) - creating new one
+[2025-03-22 04:21:59,935] INFO: cbre (6/2017): Created new record with 12 non-zero financial metrics
+[2025-03-22 04:21:59,949] INFO: Trying adjusted date: 10/2017 (original: 9/2017)
+[2025-03-22 04:21:59,962] WARNING: cbre (9/2017): No existing record found(9/2017, 2017-09-30) - creating new one
+[2025-03-22 04:21:59,962] INFO: cbre (9/2017): Created new record with 12 non-zero financial metrics
+[2025-03-22 04:21:59,977] INFO: Trying adjusted date: 1/2018 (original: 12/2017)
+[2025-03-22 04:21:59,990] WARNING: cbre (12/2017): No existing record found(12/2017, 2017-12-31) - creating new one
+[2025-03-22 04:21:59,990] INFO: cbre (12/2017): Created new record with 13 non-zero financial metrics
+[2025-03-22 04:22:00,017] INFO: cbre (3/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:22:00,048] INFO: cbre (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 04:22:00,074] INFO: cbre (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 04:22:00,102] INFO: cbre (12/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 04:22:00,132] INFO: cbre (3/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 04:22:00,159] INFO: cbre (6/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:22:00,186] INFO: cbre (9/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:22:00,213] INFO: cbre (12/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 04:22:00,241] INFO: cbre (3/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 04:22:00,267] INFO: cbre (6/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:22:00,293] INFO: cbre (9/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:22:00,320] INFO: cbre (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 04:22:00,346] INFO: cbre (3/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 04:22:00,374] INFO: cbre (6/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:22:00,401] INFO: cbre (9/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:22:00,428] INFO: cbre (12/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 04:22:00,456] INFO: cbre (3/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 04:22:00,483] INFO: cbre (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:22:00,510] INFO: cbre (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:22:00,536] INFO: cbre (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 04:22:00,563] INFO: cbre (3/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 04:22:00,589] INFO: cbre (6/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:22:00,616] INFO: cbre (9/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:22:00,644] INFO: cbre (12/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:22:00,659] WARNING: cbre (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 04:22:00,672] INFO: cbre (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:22:00,700] INFO: cbre (6/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:22:00,728] INFO: cbre (9/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:22:00,742] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 04:22:00,754] WARNING: cbre (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 04:22:00,755] INFO: cbre (12/2024): Created new record with 17 non-zero financial metrics

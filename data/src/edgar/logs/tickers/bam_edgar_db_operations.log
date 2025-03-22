@@ -1,0 +1,3 @@
+[2025-03-21 23:50:45,022] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-21 23:50:45,033] WARNING: bam (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-21 23:50:45,034] INFO: bam (12/2024): Created new record with 8 non-zero financial metrics

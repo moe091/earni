@@ -1,0 +1,79 @@
+[2025-03-22 10:50:12,737] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 10:50:12,749] WARNING: cfr (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 10:50:12,750] INFO: cfr (6/2010): Created new record with 10 non-zero financial metrics
+[2025-03-22 10:50:12,767] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 10:50:12,781] WARNING: cfr (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 10:50:12,781] INFO: cfr (9/2010): Created new record with 10 non-zero financial metrics
+[2025-03-22 10:50:12,797] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 10:50:12,811] WARNING: cfr (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 10:50:12,811] INFO: cfr (12/2010): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:50:12,826] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 10:50:12,839] WARNING: cfr (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 10:50:12,840] INFO: cfr (3/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:50:12,855] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 10:50:12,868] WARNING: cfr (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 10:50:12,869] INFO: cfr (6/2011): Created new record with 10 non-zero financial metrics
+[2025-03-22 10:50:12,884] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 10:50:12,898] WARNING: cfr (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 10:50:12,899] INFO: cfr (9/2011): Created new record with 10 non-zero financial metrics
+[2025-03-22 10:50:12,913] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 10:50:12,927] WARNING: cfr (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 10:50:12,928] INFO: cfr (12/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:50:12,942] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 10:50:12,956] WARNING: cfr (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 10:50:12,956] INFO: cfr (3/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:50:12,971] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 10:50:12,984] WARNING: cfr (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 10:50:12,984] INFO: cfr (6/2012): Created new record with 10 non-zero financial metrics
+[2025-03-22 10:50:13,013] INFO: cfr (9/2012): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:50:13,042] INFO: cfr (12/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:50:13,071] INFO: cfr (3/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:50:13,100] INFO: cfr (6/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:50:13,131] INFO: cfr (9/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:50:13,161] INFO: cfr (12/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:50:13,177] WARNING: cfr (3/2014): Found zero values for fields: Share Repurchases
+[2025-03-22 10:50:13,191] INFO: cfr (3/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:50:13,220] INFO: cfr (6/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:50:13,249] INFO: cfr (9/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:50:13,277] INFO: cfr (12/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:50:13,306] INFO: cfr (3/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:50:13,334] INFO: cfr (6/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:50:13,362] INFO: cfr (9/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:50:13,391] INFO: cfr (12/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:50:13,421] INFO: cfr (3/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:50:13,450] INFO: cfr (6/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:50:13,480] INFO: cfr (9/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:50:13,510] INFO: cfr (12/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:50:13,540] INFO: cfr (3/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:50:13,568] INFO: cfr (6/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:50:13,597] INFO: cfr (9/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:50:13,626] INFO: cfr (12/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:50:13,642] WARNING: cfr (3/2018): Found zero values for fields: Share Repurchases
+[2025-03-22 10:50:13,656] INFO: cfr (3/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 10:50:13,685] INFO: cfr (6/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:50:13,715] INFO: cfr (9/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:50:13,745] INFO: cfr (12/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:50:13,775] INFO: cfr (3/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 10:50:13,804] INFO: cfr (6/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:50:13,832] INFO: cfr (9/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:50:13,862] INFO: cfr (12/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:50:13,892] INFO: cfr (3/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:50:13,920] INFO: cfr (6/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:50:13,952] INFO: cfr (9/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:50:13,981] INFO: cfr (12/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:50:14,010] INFO: cfr (3/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:50:14,040] INFO: cfr (6/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:50:14,068] INFO: cfr (9/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:50:14,097] INFO: cfr (12/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:50:14,127] INFO: cfr (3/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:50:14,156] INFO: cfr (6/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:50:14,185] INFO: cfr (9/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:50:14,215] INFO: cfr (12/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:50:14,248] INFO: cfr (3/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:50:14,278] INFO: cfr (6/2023): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 10:50:14,311] INFO: cfr (9/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:50:14,340] INFO: cfr (12/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:50:14,367] INFO: cfr (3/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:50:14,398] INFO: cfr (6/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:50:14,427] INFO: cfr (9/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 10:50:14,457] INFO: cfr (12/2024): Updated existing record with 13 non-zero financial metrics

@@ -1,0 +1,38 @@
+[2025-03-22 09:01:25,481] INFO: Trying adjusted date: 1/2020 (original: 12/2019)
+[2025-03-22 09:01:25,494] WARNING: vtrs (12/2019): Found zero values for fields: Current Liabilities, Total Assets, Total Liabilities, Stockholders Equity
+[2025-03-22 09:01:25,494] WARNING: vtrs (12/2019): No existing record found(12/2019, 2019-12-31) - creating new one
+[2025-03-22 09:01:25,495] INFO: vtrs (12/2019): Created new record with 0 non-zero financial metrics
+[2025-03-22 09:01:25,510] INFO: Trying adjusted date: 4/2020 (original: 3/2020)
+[2025-03-22 09:01:25,523] WARNING: vtrs (3/2020): Found zero values for fields: Revenue, Current Liabilities, Net Income, Total Assets, Total Liabilities, Stockholders Equity, Operating Cash Flow, Financing Cash Flow, Investing Cash Flow
+[2025-03-22 09:01:25,523] WARNING: vtrs (3/2020): No existing record found(3/2020, 2020-03-29) - creating new one
+[2025-03-22 09:01:25,523] INFO: vtrs (3/2020): Created new record with 0 non-zero financial metrics
+[2025-03-22 09:01:25,539] INFO: Trying adjusted date: 7/2020 (original: 6/2020)
+[2025-03-22 09:01:25,553] WARNING: vtrs (6/2020): Found zero values for fields: Revenue
+[2025-03-22 09:01:25,553] WARNING: vtrs (6/2020): No existing record found(6/2020, 2020-06-28) - creating new one
+[2025-03-22 09:01:25,554] INFO: vtrs (6/2020): Created new record with 7 non-zero financial metrics
+[2025-03-22 09:01:25,570] INFO: Trying adjusted date: 10/2020 (original: 9/2020)
+[2025-03-22 09:01:25,583] WARNING: vtrs (9/2020): Found zero values for fields: Revenue
+[2025-03-22 09:01:25,583] WARNING: vtrs (9/2020): No existing record found(9/2020, 2020-09-27) - creating new one
+[2025-03-22 09:01:25,584] INFO: vtrs (9/2020): Created new record with 7 non-zero financial metrics
+[2025-03-22 09:01:25,599] INFO: Trying adjusted date: 1/2021 (original: 12/2020)
+[2025-03-22 09:01:25,613] WARNING: vtrs (12/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 09:01:25,613] WARNING: vtrs (12/2020): No existing record found(12/2020, 2020-12-31) - creating new one
+[2025-03-22 09:01:25,613] INFO: vtrs (12/2020): Created new record with 19 non-zero financial metrics
+[2025-03-22 09:01:25,641] INFO: vtrs (3/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:01:25,670] INFO: vtrs (6/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:01:25,700] INFO: vtrs (9/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:01:25,737] INFO: vtrs (12/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:01:25,766] INFO: vtrs (3/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:01:25,794] INFO: vtrs (6/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:01:25,822] INFO: vtrs (9/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:01:25,851] INFO: vtrs (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:01:25,879] INFO: vtrs (3/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:01:25,908] INFO: vtrs (6/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:01:25,936] INFO: vtrs (9/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:01:25,964] INFO: vtrs (12/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:01:25,992] INFO: vtrs (3/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:01:26,021] INFO: vtrs (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:01:26,050] INFO: vtrs (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:01:26,065] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 09:01:26,078] WARNING: vtrs (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 09:01:26,079] INFO: vtrs (12/2024): Created new record with 19 non-zero financial metrics

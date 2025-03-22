@@ -1,0 +1,90 @@
+[2025-03-22 09:28:47,087] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 09:28:47,100] WARNING: ggg (3/2010): No existing record found(3/2010, 2010-03-26) - creating new one
+[2025-03-22 09:28:47,101] INFO: ggg (3/2010): Created new record with 19 non-zero financial metrics
+[2025-03-22 09:28:47,127] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 09:28:47,141] WARNING: ggg (6/2010): No existing record found(6/2010, 2010-06-25) - creating new one
+[2025-03-22 09:28:47,142] INFO: ggg (6/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 09:28:47,158] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 09:28:47,172] WARNING: ggg (9/2010): No existing record found(9/2010, 2010-09-24) - creating new one
+[2025-03-22 09:28:47,173] INFO: ggg (9/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 09:28:47,190] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 09:28:47,204] WARNING: ggg (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 09:28:47,205] INFO: ggg (12/2010): Created new record with 19 non-zero financial metrics
+[2025-03-22 09:28:47,221] INFO: Trying adjusted date: 3/2011 (original: 4/2011)
+[2025-03-22 09:28:47,235] ERROR: Invalid numeric value for Share Repurchases: 
+[2025-03-22 09:28:47,235] ERROR: ggg (4/2011): Invalid data types: Share Repurchases=
+[2025-03-22 09:28:47,235] WARNING: ggg (4/2011): No existing record found(4/2011, 2011-04-01) - creating new one
+[2025-03-22 09:28:47,235] INFO: ggg (4/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 09:28:47,250] INFO: Trying adjusted date: 6/2011 (original: 7/2011)
+[2025-03-22 09:28:47,265] WARNING: ggg (7/2011): No existing record found(7/2011, 2011-07-01) - creating new one
+[2025-03-22 09:28:47,266] INFO: ggg (7/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 09:28:47,281] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 09:28:47,294] WARNING: ggg (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 09:28:47,295] INFO: ggg (9/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 09:28:47,311] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 09:28:47,324] WARNING: ggg (12/2011): No existing record found(12/2011, 2011-12-30) - creating new one
+[2025-03-22 09:28:47,325] INFO: ggg (12/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 09:28:47,340] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 09:28:47,353] WARNING: ggg (3/2012): No existing record found(3/2012, 2012-03-30) - creating new one
+[2025-03-22 09:28:47,353] INFO: ggg (3/2012): Created new record with 19 non-zero financial metrics
+[2025-03-22 09:28:47,369] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 09:28:47,383] WARNING: ggg (6/2012): No existing record found(6/2012, 2012-06-29) - creating new one
+[2025-03-22 09:28:47,383] INFO: ggg (6/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 09:28:47,412] INFO: ggg (9/2012): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:28:47,443] INFO: ggg (12/2012): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:28:47,458] WARNING: ggg (3/2013): Found zero values for fields: Share Repurchases
+[2025-03-22 09:28:47,471] INFO: ggg (3/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:28:47,500] INFO: ggg (6/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:28:47,528] INFO: ggg (9/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:28:47,556] INFO: ggg (12/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:28:47,584] INFO: ggg (3/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:28:47,614] INFO: ggg (6/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:28:47,646] INFO: ggg (9/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:28:47,675] INFO: ggg (12/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:28:47,704] INFO: ggg (3/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:28:47,733] INFO: ggg (6/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:28:47,763] INFO: ggg (9/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:28:47,792] INFO: ggg (12/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:28:47,820] INFO: ggg (3/2016): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 09:28:47,849] INFO: ggg (6/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:28:47,879] INFO: ggg (9/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:28:47,907] INFO: ggg (12/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 09:28:47,934] INFO: ggg (3/2017): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 09:28:47,965] INFO: ggg (6/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:28:47,994] INFO: ggg (9/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:28:48,022] INFO: ggg (12/2017): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 09:28:48,051] INFO: ggg (3/2018): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 09:28:48,082] INFO: ggg (6/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:28:48,113] INFO: ggg (9/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:28:48,142] INFO: ggg (12/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 09:28:48,170] INFO: ggg (3/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 09:28:48,199] INFO: ggg (6/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:28:48,227] INFO: ggg (9/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:28:48,256] INFO: ggg (12/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 09:28:48,284] INFO: ggg (3/2020): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 09:28:48,314] INFO: ggg (6/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:28:48,342] INFO: ggg (9/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:28:48,370] INFO: ggg (12/2020): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 09:28:48,385] WARNING: ggg (3/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 09:28:48,398] INFO: ggg (3/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 09:28:48,428] INFO: ggg (6/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:28:48,456] INFO: ggg (9/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:28:48,471] WARNING: ggg (12/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 09:28:48,486] INFO: ggg (12/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 09:28:48,502] INFO: Trying adjusted date: 3/2022 (original: 4/2022)
+[2025-03-22 09:28:48,515] INFO: Found existing row with adjusted date: 3/2022
+[2025-03-22 09:28:48,528] INFO: ggg (3/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 09:28:48,543] INFO: Trying adjusted date: 6/2022 (original: 7/2022)
+[2025-03-22 09:28:48,555] INFO: Found existing row with adjusted date: 6/2022
+[2025-03-22 09:28:48,568] INFO: ggg (6/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:28:48,596] INFO: ggg (9/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:28:48,624] INFO: ggg (12/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 09:28:48,652] INFO: ggg (3/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 09:28:48,682] INFO: ggg (6/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:28:48,710] INFO: ggg (9/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:28:48,740] INFO: ggg (12/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 09:28:48,756] WARNING: ggg (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 09:28:48,769] INFO: ggg (3/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 09:28:48,798] INFO: ggg (6/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:28:48,826] INFO: ggg (9/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:28:48,854] INFO: ggg (12/2024): Updated existing record with 21 non-zero financial metrics

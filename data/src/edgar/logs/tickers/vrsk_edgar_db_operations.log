@@ -1,0 +1,72 @@
+[2025-03-22 03:41:00,229] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 03:41:00,241] WARNING: vrsk (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 03:41:00,242] INFO: vrsk (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 03:41:00,257] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 03:41:00,270] WARNING: vrsk (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 03:41:00,271] INFO: vrsk (6/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 03:41:00,285] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 03:41:00,297] WARNING: vrsk (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 03:41:00,298] INFO: vrsk (9/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 03:41:00,311] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 03:41:00,324] WARNING: vrsk (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 03:41:00,324] INFO: vrsk (12/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 03:41:00,338] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 03:41:00,351] WARNING: vrsk (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 03:41:00,351] INFO: vrsk (3/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 03:41:00,365] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 03:41:00,377] WARNING: vrsk (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 03:41:00,378] INFO: vrsk (6/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 03:41:00,404] INFO: vrsk (9/2012): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:41:00,430] INFO: vrsk (12/2012): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:41:00,457] INFO: vrsk (3/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:41:00,484] INFO: vrsk (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 03:41:00,511] INFO: vrsk (9/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:41:00,537] INFO: vrsk (12/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:41:00,564] INFO: vrsk (3/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:41:00,591] INFO: vrsk (6/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:41:00,617] INFO: vrsk (9/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:41:00,644] INFO: vrsk (12/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:41:00,658] WARNING: vrsk (3/2015): Found zero values for fields: Share Repurchases
+[2025-03-22 03:41:00,670] INFO: vrsk (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:41:00,696] INFO: vrsk (6/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:41:00,724] INFO: vrsk (9/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:41:00,751] INFO: vrsk (12/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:41:00,778] INFO: vrsk (3/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:41:00,805] INFO: vrsk (6/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:41:00,831] INFO: vrsk (9/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:41:00,858] INFO: vrsk (12/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:41:00,884] INFO: vrsk (3/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:41:00,911] INFO: vrsk (6/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:41:00,937] INFO: vrsk (9/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:41:00,963] INFO: vrsk (12/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:41:00,990] INFO: vrsk (3/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:41:01,017] INFO: vrsk (6/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:41:01,043] INFO: vrsk (9/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:41:01,070] INFO: vrsk (12/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:41:01,097] INFO: vrsk (3/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:41:01,124] INFO: vrsk (6/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:41:01,150] INFO: vrsk (9/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:41:01,177] INFO: vrsk (12/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:41:01,203] INFO: vrsk (3/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:41:01,229] INFO: vrsk (6/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:41:01,256] INFO: vrsk (9/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:41:01,282] INFO: vrsk (12/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:41:01,311] INFO: vrsk (3/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:41:01,337] INFO: vrsk (6/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:41:01,364] INFO: vrsk (9/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:41:01,391] INFO: vrsk (12/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:41:01,417] INFO: vrsk (3/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:41:01,444] INFO: vrsk (6/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:41:01,470] INFO: vrsk (9/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:41:01,496] INFO: vrsk (12/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:41:01,524] INFO: vrsk (3/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:41:01,538] WARNING: vrsk (6/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 03:41:01,550] INFO: vrsk (6/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:41:01,577] INFO: vrsk (9/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:41:01,603] INFO: vrsk (12/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:41:01,629] INFO: vrsk (3/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:41:01,656] INFO: vrsk (6/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:41:01,684] INFO: vrsk (9/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:41:01,700] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 03:41:01,714] WARNING: vrsk (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 03:41:01,715] INFO: vrsk (12/2024): Created new record with 20 non-zero financial metrics

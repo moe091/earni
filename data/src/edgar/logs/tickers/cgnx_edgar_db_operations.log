@@ -1,0 +1,121 @@
+[2025-03-22 12:28:21,000] INFO: Trying adjusted date: 6/2010 (original: 7/2010)
+[2025-03-22 12:28:21,014] WARNING: cgnx (7/2010): No existing record found(7/2010, 2010-07-04) - creating new one
+[2025-03-22 12:28:21,015] INFO: cgnx (7/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 12:28:21,030] INFO: Trying adjusted date: 9/2010 (original: 10/2010)
+[2025-03-22 12:28:21,046] WARNING: cgnx (10/2010): No existing record found(10/2010, 2010-10-03) - creating new one
+[2025-03-22 12:28:21,046] INFO: cgnx (10/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 12:28:21,063] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 12:28:21,077] WARNING: cgnx (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 12:28:21,078] INFO: cgnx (12/2010): Created new record with 18 non-zero financial metrics
+[2025-03-22 12:28:21,094] INFO: Trying adjusted date: 3/2011 (original: 4/2011)
+[2025-03-22 12:28:21,109] WARNING: cgnx (4/2011): No existing record found(4/2011, 2011-04-03) - creating new one
+[2025-03-22 12:28:21,109] INFO: cgnx (4/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 12:28:21,125] INFO: Trying adjusted date: 6/2011 (original: 7/2011)
+[2025-03-22 12:28:21,140] WARNING: cgnx (7/2011): No existing record found(7/2011, 2011-07-03) - creating new one
+[2025-03-22 12:28:21,140] INFO: cgnx (7/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 12:28:21,157] INFO: Trying adjusted date: 9/2011 (original: 10/2011)
+[2025-03-22 12:28:21,171] WARNING: cgnx (10/2011): No existing record found(10/2011, 2011-10-02) - creating new one
+[2025-03-22 12:28:21,171] INFO: cgnx (10/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 12:28:21,188] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 12:28:21,203] WARNING: cgnx (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 12:28:21,203] INFO: cgnx (12/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 12:28:21,219] INFO: Trying adjusted date: 3/2012 (original: 4/2012)
+[2025-03-22 12:28:21,233] WARNING: cgnx (4/2012): No existing record found(4/2012, 2012-04-01) - creating new one
+[2025-03-22 12:28:21,233] INFO: cgnx (4/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 12:28:21,249] INFO: Trying adjusted date: 6/2012 (original: 7/2012)
+[2025-03-22 12:28:21,263] WARNING: cgnx (7/2012): No existing record found(7/2012, 2012-07-01) - creating new one
+[2025-03-22 12:28:21,264] INFO: cgnx (7/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 12:28:21,292] INFO: cgnx (9/2012): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:28:21,322] INFO: cgnx (12/2012): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:28:21,352] INFO: cgnx (3/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:28:21,381] INFO: cgnx (6/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:28:21,411] INFO: cgnx (9/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:28:21,439] INFO: cgnx (12/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:28:21,471] INFO: cgnx (3/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:28:21,500] INFO: cgnx (6/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:28:21,529] INFO: cgnx (9/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:28:21,558] INFO: cgnx (12/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:28:21,574] INFO: Trying adjusted date: 3/2015 (original: 4/2015)
+[2025-03-22 12:28:21,589] INFO: Found existing row with adjusted date: 3/2015
+[2025-03-22 12:28:21,589] WARNING: cgnx (3/2015): Found zero values for fields: Share Repurchases
+[2025-03-22 12:28:21,603] INFO: cgnx (3/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:28:21,619] INFO: Trying adjusted date: 6/2015 (original: 7/2015)
+[2025-03-22 12:28:21,632] INFO: Found existing row with adjusted date: 6/2015
+[2025-03-22 12:28:21,646] INFO: cgnx (6/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:28:21,662] INFO: Trying adjusted date: 9/2015 (original: 10/2015)
+[2025-03-22 12:28:21,675] INFO: Found existing row with adjusted date: 9/2015
+[2025-03-22 12:28:21,689] INFO: cgnx (9/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:28:21,717] INFO: cgnx (12/2015): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:28:21,733] INFO: Trying adjusted date: 3/2016 (original: 4/2016)
+[2025-03-22 12:28:21,747] INFO: Found existing row with adjusted date: 3/2016
+[2025-03-22 12:28:21,761] INFO: cgnx (3/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:28:21,777] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-22 12:28:21,790] INFO: Found existing row with adjusted date: 6/2016
+[2025-03-22 12:28:21,804] INFO: cgnx (6/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:28:21,819] INFO: Trying adjusted date: 9/2016 (original: 10/2016)
+[2025-03-22 12:28:21,832] INFO: Found existing row with adjusted date: 9/2016
+[2025-03-22 12:28:21,846] INFO: cgnx (9/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:28:21,877] INFO: cgnx (12/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:28:21,892] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-22 12:28:21,906] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-22 12:28:21,919] INFO: cgnx (3/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:28:21,935] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-22 12:28:21,949] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-22 12:28:21,963] INFO: cgnx (6/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:28:21,979] INFO: Trying adjusted date: 9/2017 (original: 10/2017)
+[2025-03-22 12:28:21,992] INFO: Found existing row with adjusted date: 9/2017
+[2025-03-22 12:28:22,006] INFO: cgnx (9/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:28:22,035] INFO: cgnx (12/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:28:22,051] INFO: Trying adjusted date: 3/2018 (original: 4/2018)
+[2025-03-22 12:28:22,067] INFO: Found existing row with adjusted date: 3/2018
+[2025-03-22 12:28:22,081] INFO: cgnx (3/2018): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 12:28:22,097] INFO: Trying adjusted date: 6/2018 (original: 7/2018)
+[2025-03-22 12:28:22,111] INFO: Found existing row with adjusted date: 6/2018
+[2025-03-22 12:28:22,124] INFO: cgnx (6/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:28:22,156] INFO: cgnx (9/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:28:22,186] INFO: cgnx (12/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:28:22,202] WARNING: cgnx (3/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 12:28:22,216] INFO: cgnx (3/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:28:22,245] INFO: cgnx (6/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:28:22,273] INFO: cgnx (9/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:28:22,304] INFO: cgnx (12/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:28:22,334] INFO: cgnx (3/2020): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 12:28:22,366] INFO: cgnx (6/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:28:22,396] INFO: cgnx (9/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:28:22,426] INFO: cgnx (12/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:28:22,442] INFO: Trying adjusted date: 3/2021 (original: 4/2021)
+[2025-03-22 12:28:22,456] INFO: Found existing row with adjusted date: 3/2021
+[2025-03-22 12:28:22,470] INFO: cgnx (3/2021): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 12:28:22,486] INFO: Trying adjusted date: 6/2021 (original: 7/2021)
+[2025-03-22 12:28:22,500] INFO: Found existing row with adjusted date: 6/2021
+[2025-03-22 12:28:22,514] INFO: cgnx (6/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:28:22,530] INFO: Trying adjusted date: 9/2021 (original: 10/2021)
+[2025-03-22 12:28:22,543] INFO: Found existing row with adjusted date: 9/2021
+[2025-03-22 12:28:22,557] INFO: cgnx (9/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:28:22,587] INFO: cgnx (12/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:28:22,603] INFO: Trying adjusted date: 3/2022 (original: 4/2022)
+[2025-03-22 12:28:22,618] INFO: Found existing row with adjusted date: 3/2022
+[2025-03-22 12:28:22,631] INFO: cgnx (3/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 12:28:22,647] INFO: Trying adjusted date: 6/2022 (original: 7/2022)
+[2025-03-22 12:28:22,660] INFO: Found existing row with adjusted date: 6/2022
+[2025-03-22 12:28:22,673] INFO: cgnx (6/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:28:22,689] INFO: Trying adjusted date: 9/2022 (original: 10/2022)
+[2025-03-22 12:28:22,703] INFO: Found existing row with adjusted date: 9/2022
+[2025-03-22 12:28:22,718] INFO: cgnx (9/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:28:22,746] INFO: cgnx (12/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:28:22,762] INFO: Trying adjusted date: 3/2023 (original: 4/2023)
+[2025-03-22 12:28:22,776] INFO: Found existing row with adjusted date: 3/2023
+[2025-03-22 12:28:22,790] INFO: cgnx (3/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 12:28:22,806] INFO: Trying adjusted date: 6/2023 (original: 7/2023)
+[2025-03-22 12:28:22,820] INFO: Found existing row with adjusted date: 6/2023
+[2025-03-22 12:28:22,834] INFO: cgnx (6/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:28:22,850] INFO: Trying adjusted date: 9/2023 (original: 10/2023)
+[2025-03-22 12:28:22,863] INFO: Found existing row with adjusted date: 9/2023
+[2025-03-22 12:28:22,877] INFO: cgnx (9/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:28:22,906] INFO: cgnx (12/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 12:28:22,935] INFO: cgnx (3/2024): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 12:28:22,965] INFO: cgnx (6/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:28:22,994] INFO: cgnx (9/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:28:23,009] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 12:28:23,023] WARNING: cgnx (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 12:28:23,024] INFO: cgnx (12/2024): Created new record with 21 non-zero financial metrics

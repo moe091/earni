@@ -1,0 +1,73 @@
+[2025-03-22 05:46:35,372] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 05:46:35,390] WARNING: moh (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 05:46:35,390] INFO: moh (6/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 05:46:35,407] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 05:46:35,420] WARNING: moh (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 05:46:35,421] INFO: moh (9/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 05:46:35,435] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 05:46:35,448] WARNING: moh (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 05:46:35,448] INFO: moh (3/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 05:46:35,464] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 05:46:35,476] WARNING: moh (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 05:46:35,477] INFO: moh (6/2012): Created new record with 13 non-zero financial metrics
+[2025-03-22 05:46:35,505] INFO: moh (9/2012): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:46:35,533] INFO: moh (12/2012): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:46:35,560] INFO: moh (3/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:46:35,587] INFO: moh (6/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:46:35,613] INFO: moh (9/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:46:35,628] INFO: Trying adjusted date: 1/2014 (original: 12/2013)
+[2025-03-22 05:46:35,640] WARNING: moh (12/2013): No existing record found(12/2013, 2013-12-31) - creating new one
+[2025-03-22 05:46:35,641] INFO: moh (12/2013): Created new record with 17 non-zero financial metrics
+[2025-03-22 05:46:35,655] INFO: Trying adjusted date: 4/2014 (original: 3/2014)
+[2025-03-22 05:46:35,667] WARNING: moh (3/2014): Found zero values for fields: Share Repurchases
+[2025-03-22 05:46:35,667] WARNING: moh (3/2014): No existing record found(3/2014, 2014-03-31) - creating new one
+[2025-03-22 05:46:35,667] INFO: moh (3/2014): Created new record with 16 non-zero financial metrics
+[2025-03-22 05:46:35,696] INFO: moh (6/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:46:35,723] INFO: moh (9/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:46:35,738] WARNING: moh (12/2014): Found zero values for fields: Share Repurchases
+[2025-03-22 05:46:35,750] INFO: moh (12/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:46:35,777] INFO: moh (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:46:35,804] INFO: moh (6/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:46:35,833] INFO: moh (9/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:46:35,848] WARNING: moh (12/2015): Found zero values for fields: Share Repurchases
+[2025-03-22 05:46:35,862] INFO: moh (12/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:46:35,888] INFO: moh (3/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:46:35,915] INFO: moh (6/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:46:35,941] INFO: moh (9/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:46:35,968] INFO: moh (12/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 05:46:35,995] INFO: moh (3/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 05:46:36,021] INFO: moh (6/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:46:36,048] INFO: moh (9/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:46:36,075] INFO: moh (12/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:46:36,101] INFO: moh (3/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:46:36,134] INFO: moh (6/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:46:36,161] INFO: moh (9/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:46:36,188] INFO: moh (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:46:36,217] INFO: moh (3/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:46:36,245] INFO: moh (6/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:46:36,272] INFO: moh (9/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:46:36,299] INFO: moh (12/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 05:46:36,328] INFO: moh (3/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:46:36,355] INFO: moh (6/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:46:36,382] INFO: moh (9/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:46:36,410] INFO: moh (12/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:46:36,436] INFO: moh (3/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:46:36,463] INFO: moh (6/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:46:36,490] INFO: moh (9/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:46:36,517] INFO: moh (12/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 05:46:36,533] WARNING: moh (3/2022): Found zero values for fields: Share Repurchases
+[2025-03-22 05:46:36,546] INFO: moh (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:46:36,573] INFO: moh (6/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:46:36,601] INFO: moh (9/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:46:36,629] INFO: moh (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 05:46:36,656] INFO: moh (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:46:36,682] INFO: moh (6/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:46:36,709] INFO: moh (9/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:46:36,723] WARNING: moh (12/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 05:46:36,735] INFO: moh (12/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 05:46:36,762] INFO: moh (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 05:46:36,789] INFO: moh (6/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:46:36,816] INFO: moh (9/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:46:36,830] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 05:46:36,843] WARNING: moh (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 05:46:36,844] INFO: moh (12/2024): Created new record with 17 non-zero financial metrics

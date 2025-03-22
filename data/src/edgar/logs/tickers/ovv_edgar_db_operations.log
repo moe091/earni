@@ -1,0 +1,46 @@
+[2025-03-22 08:05:42,762] WARNING: ovv (12/2019): Found zero values for fields: Deferred Revenue
+[2025-03-22 08:05:42,775] INFO: ovv (12/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:05:42,790] WARNING: ovv (3/2020): Found zero values for fields: Share Repurchases, Deferred Revenue
+[2025-03-22 08:05:42,804] INFO: ovv (3/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:05:42,819] WARNING: ovv (6/2020): Found zero values for fields: Share Repurchases, Deferred Revenue
+[2025-03-22 08:05:42,833] INFO: ovv (6/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:05:42,847] WARNING: ovv (9/2020): Found zero values for fields: Share Repurchases, Deferred Revenue
+[2025-03-22 08:05:42,861] INFO: ovv (9/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:05:42,876] WARNING: ovv (12/2020): Found zero values for fields: Share Repurchases, Deferred Revenue
+[2025-03-22 08:05:42,889] INFO: ovv (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:05:42,904] WARNING: ovv (3/2021): Found zero values for fields: Deferred Revenue
+[2025-03-22 08:05:42,917] INFO: ovv (3/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:05:42,932] WARNING: ovv (6/2021): Found zero values for fields: Deferred Revenue
+[2025-03-22 08:05:42,945] INFO: ovv (6/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:05:42,961] WARNING: ovv (9/2021): Found zero values for fields: OperatingIncomeLoss, Deferred Revenue
+[2025-03-22 08:05:42,974] INFO: ovv (9/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:05:42,989] INFO: Trying adjusted date: 1/2022 (original: 12/2021)
+[2025-03-22 08:05:43,002] WARNING: ovv (12/2021): Found zero values for fields: Deferred Revenue
+[2025-03-22 08:05:43,002] WARNING: ovv (12/2021): No existing record found(12/2021, 2021-12-31) - creating new one
+[2025-03-22 08:05:43,003] INFO: ovv (12/2021): Created new record with 19 non-zero financial metrics
+[2025-03-22 08:05:43,017] WARNING: ovv (3/2022): Found zero values for fields: Deferred Revenue
+[2025-03-22 08:05:43,030] INFO: ovv (3/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:05:43,047] WARNING: ovv (6/2022): Found zero values for fields: Deferred Revenue
+[2025-03-22 08:05:43,060] INFO: ovv (6/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:05:43,077] WARNING: ovv (9/2022): Found zero values for fields: Deferred Revenue
+[2025-03-22 08:05:43,091] INFO: ovv (9/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:05:43,106] WARNING: ovv (12/2022): Found zero values for fields: Deferred Revenue
+[2025-03-22 08:05:43,119] INFO: ovv (12/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:05:43,134] WARNING: ovv (3/2023): Found zero values for fields: Deferred Revenue
+[2025-03-22 08:05:43,148] INFO: ovv (3/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:05:43,162] WARNING: ovv (6/2023): Found zero values for fields: Deferred Revenue
+[2025-03-22 08:05:43,177] INFO: ovv (6/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:05:43,191] WARNING: ovv (9/2023): Found zero values for fields: Deferred Revenue
+[2025-03-22 08:05:43,205] INFO: ovv (9/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:05:43,220] WARNING: ovv (12/2023): Found zero values for fields: Deferred Revenue
+[2025-03-22 08:05:43,233] INFO: ovv (12/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:05:43,249] WARNING: ovv (3/2024): Found zero values for fields: Deferred Revenue
+[2025-03-22 08:05:43,262] INFO: ovv (3/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:05:43,277] WARNING: ovv (6/2024): Found zero values for fields: Deferred Revenue
+[2025-03-22 08:05:43,291] INFO: ovv (6/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:05:43,306] WARNING: ovv (9/2024): Found zero values for fields: Deferred Revenue
+[2025-03-22 08:05:43,320] INFO: ovv (9/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:05:43,335] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 08:05:43,348] WARNING: ovv (12/2024): Found zero values for fields: Deferred Revenue
+[2025-03-22 08:05:43,348] WARNING: ovv (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 08:05:43,349] INFO: ovv (12/2024): Created new record with 19 non-zero financial metrics

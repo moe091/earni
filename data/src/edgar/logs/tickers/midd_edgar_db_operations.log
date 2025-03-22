@@ -1,0 +1,121 @@
+[2025-03-22 11:54:36,810] INFO: Trying adjusted date: 6/2010 (original: 7/2010)
+[2025-03-22 11:54:36,823] WARNING: midd (7/2010): No existing record found(7/2010, 2010-07-03) - creating new one
+[2025-03-22 11:54:36,824] INFO: midd (7/2010): Created new record with 15 non-zero financial metrics
+[2025-03-22 11:54:36,840] INFO: Trying adjusted date: 9/2010 (original: 10/2010)
+[2025-03-22 11:54:36,853] WARNING: midd (10/2010): No existing record found(10/2010, 2010-10-02) - creating new one
+[2025-03-22 11:54:36,854] INFO: midd (10/2010): Created new record with 15 non-zero financial metrics
+[2025-03-22 11:54:36,870] INFO: Trying adjusted date: 12/2010 (original: 1/2011)
+[2025-03-22 11:54:36,883] WARNING: midd (1/2011): No existing record found(1/2011, 2011-01-01) - creating new one
+[2025-03-22 11:54:36,884] INFO: midd (1/2011): Created new record with 20 non-zero financial metrics
+[2025-03-22 11:54:36,900] INFO: Trying adjusted date: 3/2011 (original: 4/2011)
+[2025-03-22 11:54:36,915] WARNING: midd (4/2011): No existing record found(4/2011, 2011-04-02) - creating new one
+[2025-03-22 11:54:36,915] INFO: midd (4/2011): Created new record with 20 non-zero financial metrics
+[2025-03-22 11:54:36,931] INFO: Trying adjusted date: 6/2011 (original: 7/2011)
+[2025-03-22 11:54:36,945] WARNING: midd (7/2011): No existing record found(7/2011, 2011-07-02) - creating new one
+[2025-03-22 11:54:36,946] INFO: midd (7/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 11:54:36,961] INFO: Trying adjusted date: 9/2011 (original: 10/2011)
+[2025-03-22 11:54:36,975] WARNING: midd (10/2011): No existing record found(10/2011, 2011-10-01) - creating new one
+[2025-03-22 11:54:36,976] INFO: midd (10/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 11:54:36,991] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 11:54:37,005] WARNING: midd (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 11:54:37,005] INFO: midd (12/2011): Created new record with 22 non-zero financial metrics
+[2025-03-22 11:54:37,020] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 11:54:37,034] WARNING: midd (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 11:54:37,034] INFO: midd (3/2012): Created new record with 20 non-zero financial metrics
+[2025-03-22 11:54:37,052] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 11:54:37,067] WARNING: midd (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 11:54:37,067] INFO: midd (6/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 11:54:37,098] INFO: midd (9/2012): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:54:37,128] INFO: midd (12/2012): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 11:54:37,158] INFO: midd (3/2013): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:54:37,187] INFO: midd (6/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:54:37,217] INFO: midd (9/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:54:37,250] INFO: midd (12/2013): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 11:54:37,282] INFO: midd (3/2014): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:54:37,315] INFO: midd (6/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:54:37,345] INFO: midd (9/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:54:37,361] INFO: Trying adjusted date: 12/2014 (original: 1/2015)
+[2025-03-22 11:54:37,374] INFO: Found existing row with adjusted date: 12/2014
+[2025-03-22 11:54:37,388] INFO: midd (12/2014): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 11:54:37,404] INFO: Trying adjusted date: 3/2015 (original: 4/2015)
+[2025-03-22 11:54:37,418] INFO: Found existing row with adjusted date: 3/2015
+[2025-03-22 11:54:37,432] INFO: midd (3/2015): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:54:37,448] INFO: Trying adjusted date: 6/2015 (original: 7/2015)
+[2025-03-22 11:54:37,461] INFO: Found existing row with adjusted date: 6/2015
+[2025-03-22 11:54:37,475] INFO: midd (6/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:54:37,491] INFO: Trying adjusted date: 9/2015 (original: 10/2015)
+[2025-03-22 11:54:37,505] INFO: Found existing row with adjusted date: 9/2015
+[2025-03-22 11:54:37,518] INFO: midd (9/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:54:37,534] INFO: Trying adjusted date: 12/2015 (original: 1/2016)
+[2025-03-22 11:54:37,547] INFO: Found existing row with adjusted date: 12/2015
+[2025-03-22 11:54:37,561] INFO: midd (12/2015): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 11:54:37,576] INFO: Trying adjusted date: 3/2016 (original: 4/2016)
+[2025-03-22 11:54:37,590] INFO: Found existing row with adjusted date: 3/2016
+[2025-03-22 11:54:37,604] INFO: midd (3/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:54:37,619] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-22 11:54:37,632] INFO: Found existing row with adjusted date: 6/2016
+[2025-03-22 11:54:37,647] INFO: midd (6/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:54:37,662] INFO: Trying adjusted date: 9/2016 (original: 10/2016)
+[2025-03-22 11:54:37,675] INFO: Found existing row with adjusted date: 9/2016
+[2025-03-22 11:54:37,689] INFO: midd (9/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:54:37,717] INFO: midd (12/2016): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 11:54:37,733] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-22 11:54:37,747] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-22 11:54:37,761] INFO: midd (3/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:54:37,776] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-22 11:54:37,789] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-22 11:54:37,802] INFO: midd (6/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:54:37,831] INFO: midd (9/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:54:37,859] INFO: midd (12/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:54:37,876] WARNING: midd (3/2018): Found zero values for fields: Share Repurchases
+[2025-03-22 11:54:37,889] INFO: midd (3/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:54:37,918] INFO: midd (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:54:37,946] INFO: midd (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:54:37,962] WARNING: midd (12/2018): Found zero values for fields: Share Repurchases
+[2025-03-22 11:54:37,976] INFO: midd (12/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:54:38,005] INFO: midd (3/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:54:38,036] INFO: midd (6/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:54:38,066] INFO: midd (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:54:38,095] INFO: midd (12/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 11:54:38,125] INFO: midd (3/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:54:38,154] INFO: midd (6/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:54:38,185] INFO: midd (9/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:54:38,201] INFO: Trying adjusted date: 12/2020 (original: 1/2021)
+[2025-03-22 11:54:38,214] INFO: Found existing row with adjusted date: 12/2020
+[2025-03-22 11:54:38,228] INFO: midd (12/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:54:38,246] INFO: Trying adjusted date: 3/2021 (original: 4/2021)
+[2025-03-22 11:54:38,260] INFO: Found existing row with adjusted date: 3/2021
+[2025-03-22 11:54:38,273] INFO: midd (3/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:54:38,290] INFO: Trying adjusted date: 6/2021 (original: 7/2021)
+[2025-03-22 11:54:38,304] INFO: Found existing row with adjusted date: 6/2021
+[2025-03-22 11:54:38,318] INFO: midd (6/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:54:38,334] INFO: Trying adjusted date: 9/2021 (original: 10/2021)
+[2025-03-22 11:54:38,347] INFO: Found existing row with adjusted date: 9/2021
+[2025-03-22 11:54:38,360] INFO: midd (9/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:54:38,376] INFO: Trying adjusted date: 12/2021 (original: 1/2022)
+[2025-03-22 11:54:38,389] INFO: Found existing row with adjusted date: 12/2021
+[2025-03-22 11:54:38,403] INFO: midd (12/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:54:38,419] INFO: Trying adjusted date: 3/2022 (original: 4/2022)
+[2025-03-22 11:54:38,432] INFO: Found existing row with adjusted date: 3/2022
+[2025-03-22 11:54:38,446] INFO: midd (3/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:54:38,462] INFO: Trying adjusted date: 6/2022 (original: 7/2022)
+[2025-03-22 11:54:38,475] INFO: Found existing row with adjusted date: 6/2022
+[2025-03-22 11:54:38,489] INFO: midd (6/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:54:38,505] INFO: Trying adjusted date: 9/2022 (original: 10/2022)
+[2025-03-22 11:54:38,518] INFO: Found existing row with adjusted date: 9/2022
+[2025-03-22 11:54:38,532] INFO: midd (9/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:54:38,560] INFO: midd (12/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:54:38,576] INFO: Trying adjusted date: 3/2023 (original: 4/2023)
+[2025-03-22 11:54:38,589] INFO: Found existing row with adjusted date: 3/2023
+[2025-03-22 11:54:38,603] INFO: midd (3/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:54:38,619] INFO: Trying adjusted date: 6/2023 (original: 7/2023)
+[2025-03-22 11:54:38,632] INFO: Found existing row with adjusted date: 6/2023
+[2025-03-22 11:54:38,646] INFO: midd (6/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:54:38,676] INFO: midd (9/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:54:38,705] INFO: midd (12/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 11:54:38,734] INFO: midd (3/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:54:38,764] INFO: midd (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:54:38,793] INFO: midd (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:54:38,808] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 11:54:38,822] WARNING: midd (12/2024): No existing record found(12/2024, 2024-12-28) - creating new one
+[2025-03-22 11:54:38,822] INFO: midd (12/2024): Created new record with 20 non-zero financial metrics

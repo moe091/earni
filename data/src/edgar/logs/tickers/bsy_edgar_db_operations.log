@@ -1,0 +1,21 @@
+[2025-03-22 10:11:09,624] INFO: bsy (9/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:11:09,656] INFO: bsy (12/2020): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 10:11:09,686] INFO: bsy (3/2021): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 10:11:09,717] INFO: bsy (6/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:11:09,746] INFO: bsy (9/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:11:09,775] INFO: bsy (12/2021): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 10:11:09,804] INFO: bsy (3/2022): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 10:11:09,834] INFO: bsy (6/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:11:09,862] INFO: bsy (9/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:11:09,891] INFO: bsy (12/2022): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 10:11:09,920] INFO: bsy (3/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 10:11:09,948] INFO: bsy (6/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:11:09,979] INFO: bsy (9/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:11:09,995] WARNING: bsy (12/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 10:11:10,008] INFO: bsy (12/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:11:10,038] INFO: bsy (3/2024): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 10:11:10,066] INFO: bsy (6/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:11:10,096] INFO: bsy (9/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:11:10,112] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 10:11:10,125] WARNING: bsy (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 10:11:10,126] INFO: bsy (12/2024): Created new record with 23 non-zero financial metrics

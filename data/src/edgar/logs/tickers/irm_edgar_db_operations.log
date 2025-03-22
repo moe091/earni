@@ -1,0 +1,100 @@
+[2025-03-22 07:08:32,609] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 07:08:32,621] WARNING: irm (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 07:08:32,621] INFO: irm (3/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 07:08:32,637] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 07:08:32,650] WARNING: irm (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 07:08:32,651] INFO: irm (6/2010): Created new record with 10 non-zero financial metrics
+[2025-03-22 07:08:32,666] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 07:08:32,678] WARNING: irm (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 07:08:32,679] INFO: irm (9/2010): Created new record with 11 non-zero financial metrics
+[2025-03-22 07:08:32,694] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 07:08:32,708] WARNING: irm (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 07:08:32,708] INFO: irm (12/2010): Created new record with 15 non-zero financial metrics
+[2025-03-22 07:08:32,722] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 07:08:32,734] WARNING: irm (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 07:08:32,735] INFO: irm (3/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 07:08:32,750] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 07:08:32,762] WARNING: irm (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 07:08:32,763] INFO: irm (6/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 07:08:32,777] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 07:08:32,790] WARNING: irm (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 07:08:32,790] INFO: irm (9/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 07:08:32,805] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 07:08:32,818] WARNING: irm (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 07:08:32,818] INFO: irm (12/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 07:08:32,832] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 07:08:32,846] WARNING: irm (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 07:08:32,846] INFO: irm (3/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 07:08:32,860] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 07:08:32,873] WARNING: irm (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 07:08:32,874] INFO: irm (6/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 07:08:32,888] INFO: Trying adjusted date: 10/2012 (original: 9/2012)
+[2025-03-22 07:08:32,901] WARNING: irm (9/2012): No existing record found(9/2012, 2012-09-30) - creating new one
+[2025-03-22 07:08:32,902] INFO: irm (9/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 07:08:32,916] INFO: Trying adjusted date: 1/2013 (original: 12/2012)
+[2025-03-22 07:08:32,929] WARNING: irm (12/2012): No existing record found(12/2012, 2012-12-31) - creating new one
+[2025-03-22 07:08:32,929] INFO: irm (12/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 07:08:32,944] INFO: Trying adjusted date: 4/2013 (original: 3/2013)
+[2025-03-22 07:08:32,958] WARNING: irm (3/2013): No existing record found(3/2013, 2013-03-31) - creating new one
+[2025-03-22 07:08:32,958] INFO: irm (3/2013): Created new record with 14 non-zero financial metrics
+[2025-03-22 07:08:32,972] INFO: Trying adjusted date: 7/2013 (original: 6/2013)
+[2025-03-22 07:08:32,985] WARNING: irm (6/2013): No existing record found(6/2013, 2013-06-30) - creating new one
+[2025-03-22 07:08:32,985] INFO: irm (6/2013): Created new record with 11 non-zero financial metrics
+[2025-03-22 07:08:33,000] INFO: Trying adjusted date: 10/2013 (original: 9/2013)
+[2025-03-22 07:08:33,013] WARNING: irm (9/2013): No existing record found(9/2013, 2013-09-30) - creating new one
+[2025-03-22 07:08:33,014] INFO: irm (9/2013): Created new record with 11 non-zero financial metrics
+[2025-03-22 07:08:33,027] INFO: Trying adjusted date: 1/2014 (original: 12/2013)
+[2025-03-22 07:08:33,041] WARNING: irm (12/2013): No existing record found(12/2013, 2013-12-31) - creating new one
+[2025-03-22 07:08:33,041] INFO: irm (12/2013): Created new record with 15 non-zero financial metrics
+[2025-03-22 07:08:33,055] INFO: Trying adjusted date: 4/2014 (original: 3/2014)
+[2025-03-22 07:08:33,069] WARNING: irm (3/2014): No existing record found(3/2014, 2014-03-31) - creating new one
+[2025-03-22 07:08:33,069] INFO: irm (3/2014): Created new record with 14 non-zero financial metrics
+[2025-03-22 07:08:33,097] INFO: irm (6/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 07:08:33,113] WARNING: irm (9/2014): Found zero values for fields: EPS Diluted
+[2025-03-22 07:08:33,126] INFO: irm (9/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 07:08:33,152] INFO: irm (12/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:08:33,181] INFO: irm (3/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 07:08:33,210] INFO: irm (6/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 07:08:33,238] INFO: irm (9/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 07:08:33,266] INFO: irm (12/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:08:33,292] INFO: irm (3/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:08:33,319] INFO: irm (6/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 07:08:33,347] INFO: irm (9/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 07:08:33,362] INFO: Trying adjusted date: 1/2017 (original: 12/2016)
+[2025-03-22 07:08:33,374] WARNING: irm (12/2016): No existing record found(12/2016, 2016-12-31) - creating new one
+[2025-03-22 07:08:33,375] INFO: irm (12/2016): Created new record with 14 non-zero financial metrics
+[2025-03-22 07:08:33,403] INFO: irm (3/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:08:33,431] INFO: irm (6/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 07:08:33,459] INFO: irm (9/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 07:08:33,486] INFO: irm (12/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:08:33,513] INFO: irm (3/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:08:33,543] INFO: irm (6/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:08:33,570] INFO: irm (9/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:08:33,602] INFO: irm (12/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:08:33,630] INFO: irm (3/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:08:33,661] INFO: irm (6/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:08:33,688] INFO: irm (9/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:08:33,717] INFO: irm (12/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:08:33,746] INFO: irm (3/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:08:33,773] INFO: irm (6/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 07:08:33,803] INFO: irm (9/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:08:33,832] INFO: irm (12/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:08:33,859] INFO: irm (3/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:08:33,885] INFO: irm (6/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 07:08:33,914] INFO: irm (9/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 07:08:33,942] INFO: irm (12/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:08:33,969] INFO: irm (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:08:33,997] INFO: irm (6/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:08:34,026] INFO: irm (9/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:08:34,052] INFO: irm (12/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:08:34,079] INFO: irm (3/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:08:34,094] WARNING: irm (6/2023): Found zero values for fields: EPS Diluted
+[2025-03-22 07:08:34,107] INFO: irm (6/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 07:08:34,134] INFO: irm (9/2023): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 07:08:34,164] INFO: irm (12/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:08:34,192] INFO: irm (3/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:08:34,219] INFO: irm (6/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 07:08:34,246] INFO: irm (9/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 07:08:34,261] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 07:08:34,274] WARNING: irm (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 07:08:34,275] INFO: irm (12/2024): Created new record with 15 non-zero financial metrics

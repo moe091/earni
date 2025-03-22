@@ -1,0 +1,138 @@
+[2025-03-22 13:04:19,387] INFO: Trying adjusted date: 7/2014 (original: 6/2014)
+[2025-03-22 13:04:19,401] WARNING: nep (6/2014): No existing record found(6/2014, 2014-06-30) - creating new one
+[2025-03-22 13:04:19,401] INFO: nep (6/2014): Created new record with 10 non-zero financial metrics
+[2025-03-22 13:04:19,418] INFO: Trying adjusted date: 10/2014 (original: 9/2014)
+[2025-03-22 13:04:19,432] WARNING: nep (9/2014): No existing record found(9/2014, 2014-09-30) - creating new one
+[2025-03-22 13:04:19,432] INFO: nep (9/2014): Created new record with 10 non-zero financial metrics
+[2025-03-22 13:04:19,449] INFO: Trying adjusted date: 1/2015 (original: 12/2014)
+[2025-03-22 13:04:19,463] WARNING: nep (12/2014): No existing record found(12/2014, 2014-12-31) - creating new one
+[2025-03-22 13:04:19,463] INFO: nep (12/2014): Created new record with 11 non-zero financial metrics
+[2025-03-22 13:04:19,480] INFO: Trying adjusted date: 4/2015 (original: 3/2015)
+[2025-03-22 13:04:19,495] WARNING: nep (3/2015): No existing record found(3/2015, 2015-03-31) - creating new one
+[2025-03-22 13:04:19,495] INFO: nep (3/2015): Created new record with 10 non-zero financial metrics
+[2025-03-22 13:04:19,511] INFO: Trying adjusted date: 7/2015 (original: 6/2015)
+[2025-03-22 13:04:19,526] WARNING: nep (6/2015): No existing record found(6/2015, 2015-06-30) - creating new one
+[2025-03-22 13:04:19,527] INFO: nep (6/2015): Created new record with 9 non-zero financial metrics
+[2025-03-22 13:04:19,544] INFO: Trying adjusted date: 10/2015 (original: 9/2015)
+[2025-03-22 13:04:19,558] WARNING: nep (9/2015): No existing record found(9/2015, 2015-09-30) - creating new one
+[2025-03-22 13:04:19,559] INFO: nep (9/2015): Created new record with 9 non-zero financial metrics
+[2025-03-22 13:04:19,575] INFO: Trying adjusted date: 1/2016 (original: 12/2015)
+[2025-03-22 13:04:19,589] WARNING: nep (12/2015): No existing record found(12/2015, 2015-12-31) - creating new one
+[2025-03-22 13:04:19,590] INFO: nep (12/2015): Created new record with 13 non-zero financial metrics
+[2025-03-22 13:04:19,606] INFO: Trying adjusted date: 4/2016 (original: 3/2016)
+[2025-03-22 13:04:19,620] WARNING: nep (3/2016): No existing record found(3/2016, 2016-03-31) - creating new one
+[2025-03-22 13:04:19,621] INFO: nep (3/2016): Created new record with 11 non-zero financial metrics
+[2025-03-22 13:04:19,636] INFO: Trying adjusted date: 7/2016 (original: 6/2016)
+[2025-03-22 13:04:19,650] WARNING: nep (6/2016): No existing record found(6/2016, 2016-06-30) - creating new one
+[2025-03-22 13:04:19,651] INFO: nep (6/2016): Created new record with 10 non-zero financial metrics
+[2025-03-22 13:04:19,667] INFO: Trying adjusted date: 10/2016 (original: 9/2016)
+[2025-03-22 13:04:19,680] WARNING: nep (9/2016): No existing record found(9/2016, 2016-09-30) - creating new one
+[2025-03-22 13:04:19,681] INFO: nep (9/2016): Created new record with 10 non-zero financial metrics
+[2025-03-22 13:04:19,696] INFO: Trying adjusted date: 1/2017 (original: 12/2016)
+[2025-03-22 13:04:19,710] WARNING: nep (12/2016): No existing record found(12/2016, 2016-12-31) - creating new one
+[2025-03-22 13:04:19,710] INFO: nep (12/2016): Created new record with 12 non-zero financial metrics
+[2025-03-22 13:04:19,726] INFO: Trying adjusted date: 4/2017 (original: 3/2017)
+[2025-03-22 13:04:19,739] WARNING: nep (3/2017): No existing record found(3/2017, 2017-03-31) - creating new one
+[2025-03-22 13:04:19,739] INFO: nep (3/2017): Created new record with 11 non-zero financial metrics
+[2025-03-22 13:04:19,757] INFO: Trying adjusted date: 7/2017 (original: 6/2017)
+[2025-03-22 13:04:19,771] WARNING: nep (6/2017): No existing record found(6/2017, 2017-06-30) - creating new one
+[2025-03-22 13:04:19,772] INFO: nep (6/2017): Created new record with 10 non-zero financial metrics
+[2025-03-22 13:04:19,787] INFO: Trying adjusted date: 10/2017 (original: 9/2017)
+[2025-03-22 13:04:19,802] WARNING: nep (9/2017): No existing record found(9/2017, 2017-09-30) - creating new one
+[2025-03-22 13:04:19,802] INFO: nep (9/2017): Created new record with 10 non-zero financial metrics
+[2025-03-22 13:04:19,817] INFO: Trying adjusted date: 1/2018 (original: 12/2017)
+[2025-03-22 13:04:19,832] WARNING: nep (12/2017): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 13:04:19,832] WARNING: nep (12/2017): No existing record found(12/2017, 2017-12-31) - creating new one
+[2025-03-22 13:04:19,833] INFO: nep (12/2017): Created new record with 12 non-zero financial metrics
+[2025-03-22 13:04:19,849] INFO: Trying adjusted date: 4/2018 (original: 3/2018)
+[2025-03-22 13:04:19,863] WARNING: nep (3/2018): No existing record found(3/2018, 2018-03-31) - creating new one
+[2025-03-22 13:04:19,864] INFO: nep (3/2018): Created new record with 12 non-zero financial metrics
+[2025-03-22 13:04:19,880] INFO: Trying adjusted date: 7/2018 (original: 6/2018)
+[2025-03-22 13:04:19,894] WARNING: nep (6/2018): No existing record found(6/2018, 2018-06-30) - creating new one
+[2025-03-22 13:04:19,894] INFO: nep (6/2018): Created new record with 11 non-zero financial metrics
+[2025-03-22 13:04:19,910] INFO: Trying adjusted date: 10/2018 (original: 9/2018)
+[2025-03-22 13:04:19,924] WARNING: nep (9/2018): No existing record found(9/2018, 2018-09-30) - creating new one
+[2025-03-22 13:04:19,924] INFO: nep (9/2018): Created new record with 10 non-zero financial metrics
+[2025-03-22 13:04:19,940] INFO: Trying adjusted date: 1/2019 (original: 12/2018)
+[2025-03-22 13:04:19,955] WARNING: nep (12/2018): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 13:04:19,955] WARNING: nep (12/2018): No existing record found(12/2018, 2018-12-31) - creating new one
+[2025-03-22 13:04:19,955] INFO: nep (12/2018): Created new record with 13 non-zero financial metrics
+[2025-03-22 13:04:19,971] INFO: Trying adjusted date: 4/2019 (original: 3/2019)
+[2025-03-22 13:04:19,984] WARNING: nep (3/2019): No existing record found(3/2019, 2019-03-31) - creating new one
+[2025-03-22 13:04:19,985] INFO: nep (3/2019): Created new record with 14 non-zero financial metrics
+[2025-03-22 13:04:20,003] INFO: Trying adjusted date: 7/2019 (original: 6/2019)
+[2025-03-22 13:04:20,017] WARNING: nep (6/2019): No existing record found(6/2019, 2019-06-30) - creating new one
+[2025-03-22 13:04:20,017] INFO: nep (6/2019): Created new record with 10 non-zero financial metrics
+[2025-03-22 13:04:20,033] INFO: Trying adjusted date: 10/2019 (original: 9/2019)
+[2025-03-22 13:04:20,048] WARNING: nep (9/2019): No existing record found(9/2019, 2019-09-30) - creating new one
+[2025-03-22 13:04:20,048] INFO: nep (9/2019): Created new record with 10 non-zero financial metrics
+[2025-03-22 13:04:20,064] INFO: Trying adjusted date: 1/2020 (original: 12/2019)
+[2025-03-22 13:04:20,078] WARNING: nep (12/2019): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 13:04:20,078] WARNING: nep (12/2019): No existing record found(12/2019, 2019-12-31) - creating new one
+[2025-03-22 13:04:20,079] INFO: nep (12/2019): Created new record with 16 non-zero financial metrics
+[2025-03-22 13:04:20,094] INFO: Trying adjusted date: 4/2020 (original: 3/2020)
+[2025-03-22 13:04:20,108] WARNING: nep (3/2020): No existing record found(3/2020, 2020-03-31) - creating new one
+[2025-03-22 13:04:20,108] INFO: nep (3/2020): Created new record with 14 non-zero financial metrics
+[2025-03-22 13:04:20,124] INFO: Trying adjusted date: 7/2020 (original: 6/2020)
+[2025-03-22 13:04:20,138] WARNING: nep (6/2020): No existing record found(6/2020, 2020-06-30) - creating new one
+[2025-03-22 13:04:20,138] INFO: nep (6/2020): Created new record with 11 non-zero financial metrics
+[2025-03-22 13:04:20,154] INFO: Trying adjusted date: 10/2020 (original: 9/2020)
+[2025-03-22 13:04:20,167] WARNING: nep (9/2020): No existing record found(9/2020, 2020-09-30) - creating new one
+[2025-03-22 13:04:20,168] INFO: nep (9/2020): Created new record with 11 non-zero financial metrics
+[2025-03-22 13:04:20,185] INFO: Trying adjusted date: 1/2021 (original: 12/2020)
+[2025-03-22 13:04:20,198] WARNING: nep (12/2020): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 13:04:20,198] WARNING: nep (12/2020): No existing record found(12/2020, 2020-12-31) - creating new one
+[2025-03-22 13:04:20,199] INFO: nep (12/2020): Created new record with 17 non-zero financial metrics
+[2025-03-22 13:04:20,216] INFO: Trying adjusted date: 4/2021 (original: 3/2021)
+[2025-03-22 13:04:20,230] WARNING: nep (3/2021): No existing record found(3/2021, 2021-03-31) - creating new one
+[2025-03-22 13:04:20,233] INFO: nep (3/2021): Created new record with 15 non-zero financial metrics
+[2025-03-22 13:04:20,249] INFO: Trying adjusted date: 7/2021 (original: 6/2021)
+[2025-03-22 13:04:20,264] WARNING: nep (6/2021): No existing record found(6/2021, 2021-06-30) - creating new one
+[2025-03-22 13:04:20,264] INFO: nep (6/2021): Created new record with 11 non-zero financial metrics
+[2025-03-22 13:04:20,280] INFO: Trying adjusted date: 10/2021 (original: 9/2021)
+[2025-03-22 13:04:20,294] WARNING: nep (9/2021): No existing record found(9/2021, 2021-09-30) - creating new one
+[2025-03-22 13:04:20,295] INFO: nep (9/2021): Created new record with 11 non-zero financial metrics
+[2025-03-22 13:04:20,312] INFO: Trying adjusted date: 1/2022 (original: 12/2021)
+[2025-03-22 13:04:20,326] WARNING: nep (12/2021): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 13:04:20,326] WARNING: nep (12/2021): No existing record found(12/2021, 2021-12-31) - creating new one
+[2025-03-22 13:04:20,327] INFO: nep (12/2021): Created new record with 16 non-zero financial metrics
+[2025-03-22 13:04:20,342] INFO: Trying adjusted date: 4/2022 (original: 3/2022)
+[2025-03-22 13:04:20,356] WARNING: nep (3/2022): No existing record found(3/2022, 2022-03-31) - creating new one
+[2025-03-22 13:04:20,357] INFO: nep (3/2022): Created new record with 15 non-zero financial metrics
+[2025-03-22 13:04:20,372] INFO: Trying adjusted date: 7/2022 (original: 6/2022)
+[2025-03-22 13:04:20,386] WARNING: nep (6/2022): No existing record found(6/2022, 2022-06-30) - creating new one
+[2025-03-22 13:04:20,387] INFO: nep (6/2022): Created new record with 11 non-zero financial metrics
+[2025-03-22 13:04:20,403] INFO: Trying adjusted date: 10/2022 (original: 9/2022)
+[2025-03-22 13:04:20,416] WARNING: nep (9/2022): No existing record found(9/2022, 2022-09-30) - creating new one
+[2025-03-22 13:04:20,417] INFO: nep (9/2022): Created new record with 11 non-zero financial metrics
+[2025-03-22 13:04:20,435] INFO: Trying adjusted date: 1/2023 (original: 12/2022)
+[2025-03-22 13:04:20,451] WARNING: nep (12/2022): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 13:04:20,452] WARNING: nep (12/2022): No existing record found(12/2022, 2022-12-31) - creating new one
+[2025-03-22 13:04:20,452] INFO: nep (12/2022): Created new record with 16 non-zero financial metrics
+[2025-03-22 13:04:20,468] INFO: Trying adjusted date: 4/2023 (original: 3/2023)
+[2025-03-22 13:04:20,482] WARNING: nep (3/2023): No existing record found(3/2023, 2023-03-31) - creating new one
+[2025-03-22 13:04:20,482] INFO: nep (3/2023): Created new record with 15 non-zero financial metrics
+[2025-03-22 13:04:20,499] INFO: Trying adjusted date: 7/2023 (original: 6/2023)
+[2025-03-22 13:04:20,513] WARNING: nep (6/2023): No existing record found(6/2023, 2023-06-30) - creating new one
+[2025-03-22 13:04:20,514] INFO: nep (6/2023): Created new record with 11 non-zero financial metrics
+[2025-03-22 13:04:20,532] INFO: Trying adjusted date: 10/2023 (original: 9/2023)
+[2025-03-22 13:04:20,547] WARNING: nep (9/2023): No existing record found(9/2023, 2023-09-30) - creating new one
+[2025-03-22 13:04:20,547] INFO: nep (9/2023): Created new record with 11 non-zero financial metrics
+[2025-03-22 13:04:20,563] INFO: Trying adjusted date: 1/2024 (original: 12/2023)
+[2025-03-22 13:04:20,577] WARNING: nep (12/2023): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 13:04:20,577] WARNING: nep (12/2023): No existing record found(12/2023, 2023-12-31) - creating new one
+[2025-03-22 13:04:20,578] INFO: nep (12/2023): Created new record with 15 non-zero financial metrics
+[2025-03-22 13:04:20,594] INFO: Trying adjusted date: 4/2024 (original: 3/2024)
+[2025-03-22 13:04:20,608] WARNING: nep (3/2024): Found zero values for fields: EPS Diluted
+[2025-03-22 13:04:20,608] WARNING: nep (3/2024): No existing record found(3/2024, 2024-03-31) - creating new one
+[2025-03-22 13:04:20,609] INFO: nep (3/2024): Created new record with 14 non-zero financial metrics
+[2025-03-22 13:04:20,624] INFO: Trying adjusted date: 7/2024 (original: 6/2024)
+[2025-03-22 13:04:20,638] WARNING: nep (6/2024): No existing record found(6/2024, 2024-06-30) - creating new one
+[2025-03-22 13:04:20,639] INFO: nep (6/2024): Created new record with 10 non-zero financial metrics
+[2025-03-22 13:04:20,655] INFO: Trying adjusted date: 10/2024 (original: 9/2024)
+[2025-03-22 13:04:20,668] WARNING: nep (9/2024): No existing record found(9/2024, 2024-09-30) - creating new one
+[2025-03-22 13:04:20,669] INFO: nep (9/2024): Created new record with 10 non-zero financial metrics
+[2025-03-22 13:04:20,686] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 13:04:20,700] WARNING: nep (12/2024): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 13:04:20,700] WARNING: nep (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 13:04:20,701] INFO: nep (12/2024): Created new record with 15 non-zero financial metrics

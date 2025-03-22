@@ -1,0 +1,82 @@
+[2025-03-22 14:01:52,525] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 14:01:52,539] WARNING: gntx (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 14:01:52,539] INFO: gntx (6/2010): Created new record with 12 non-zero financial metrics
+[2025-03-22 14:01:52,560] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 14:01:52,579] WARNING: gntx (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 14:01:52,580] INFO: gntx (9/2010): Created new record with 12 non-zero financial metrics
+[2025-03-22 14:01:52,596] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 14:01:52,612] WARNING: gntx (12/2010): Found zero values for fields: Share Repurchases
+[2025-03-22 14:01:52,613] WARNING: gntx (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 14:01:52,613] INFO: gntx (12/2010): Created new record with 15 non-zero financial metrics
+[2025-03-22 14:01:52,630] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 14:01:52,645] WARNING: gntx (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 14:01:52,646] INFO: gntx (3/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 14:01:52,663] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 14:01:52,677] WARNING: gntx (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 14:01:52,678] INFO: gntx (6/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 14:01:52,694] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 14:01:52,708] WARNING: gntx (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 14:01:52,708] INFO: gntx (9/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 14:01:51,329] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 14:01:51,343] WARNING: gntx (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 14:01:51,344] INFO: gntx (12/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 14:01:51,363] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 14:01:51,377] WARNING: gntx (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 14:01:51,377] INFO: gntx (3/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 14:01:51,394] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 14:01:51,408] WARNING: gntx (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 14:01:51,409] INFO: gntx (6/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 14:01:51,439] INFO: gntx (9/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 14:01:51,472] INFO: gntx (12/2012): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:01:51,488] WARNING: gntx (3/2013): Found zero values for fields: Share Repurchases
+[2025-03-22 14:01:51,503] INFO: gntx (3/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:01:51,533] INFO: gntx (6/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 14:01:51,563] INFO: gntx (9/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:01:51,579] WARNING: gntx (12/2013): Found zero values for fields: Share Repurchases
+[2025-03-22 14:01:51,593] INFO: gntx (12/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:01:51,623] INFO: gntx (3/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:01:51,652] INFO: gntx (6/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:01:51,681] INFO: gntx (9/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:01:51,712] INFO: gntx (12/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:01:51,742] INFO: gntx (3/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:01:51,773] INFO: gntx (6/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:01:51,804] INFO: gntx (9/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:01:51,834] INFO: gntx (12/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:01:51,863] INFO: gntx (3/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:01:51,895] INFO: gntx (6/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:01:51,925] INFO: gntx (9/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:01:51,956] INFO: gntx (12/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:01:51,986] INFO: gntx (3/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:01:52,017] INFO: gntx (6/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:01:52,034] WARNING: gntx (9/2017): Found zero values for fields: Long Term Debt
+[2025-03-22 14:01:52,048] INFO: gntx (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:01:52,064] WARNING: gntx (12/2017): Found zero values for fields: Long Term Debt
+[2025-03-22 14:01:52,077] INFO: gntx (12/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:01:52,109] INFO: gntx (3/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:01:52,140] INFO: gntx (6/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:01:52,171] INFO: gntx (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:01:52,201] INFO: gntx (12/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:01:52,231] INFO: gntx (3/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:01:52,260] INFO: gntx (6/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:01:52,292] INFO: gntx (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:01:52,324] INFO: gntx (12/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:01:52,354] INFO: gntx (3/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:01:52,384] INFO: gntx (6/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:01:52,415] INFO: gntx (9/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:01:52,444] INFO: gntx (12/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:01:52,475] INFO: gntx (3/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:01:52,506] INFO: gntx (6/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:01:52,536] INFO: gntx (9/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:01:52,566] INFO: gntx (12/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:01:52,597] INFO: gntx (3/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:01:52,628] INFO: gntx (6/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:01:52,660] INFO: gntx (9/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:01:52,690] INFO: gntx (12/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:01:52,721] INFO: gntx (3/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:01:52,751] INFO: gntx (6/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:01:52,783] INFO: gntx (9/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:01:52,813] INFO: gntx (12/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:01:52,844] INFO: gntx (3/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:01:52,874] INFO: gntx (6/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:01:52,906] INFO: gntx (9/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:01:52,936] INFO: gntx (12/2024): Updated existing record with 19 non-zero financial metrics

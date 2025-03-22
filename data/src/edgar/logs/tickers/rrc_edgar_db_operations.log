@@ -1,0 +1,72 @@
+[2025-03-22 11:43:36,631] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 11:43:36,645] WARNING: rrc (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 11:43:36,645] INFO: rrc (3/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 11:43:36,662] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 11:43:36,676] WARNING: rrc (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 11:43:36,676] INFO: rrc (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 11:43:36,692] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 11:43:36,706] WARNING: rrc (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 11:43:36,706] INFO: rrc (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 11:43:36,722] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 11:43:36,735] WARNING: rrc (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 11:43:36,736] INFO: rrc (6/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 11:43:35,358] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 11:43:35,371] WARNING: rrc (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 11:43:35,372] INFO: rrc (3/2012): Created new record with 17 non-zero financial metrics
+[2025-03-22 11:43:35,401] INFO: rrc (9/2012): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:43:35,431] INFO: rrc (12/2012): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:43:35,460] INFO: rrc (3/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:43:35,489] INFO: rrc (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 11:43:35,519] INFO: rrc (9/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:43:35,547] INFO: rrc (12/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:43:35,576] INFO: rrc (3/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:43:35,606] INFO: rrc (6/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:43:35,634] INFO: rrc (9/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:43:35,664] INFO: rrc (12/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:43:35,694] INFO: rrc (3/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:43:35,724] INFO: rrc (6/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:43:35,753] INFO: rrc (9/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:43:35,784] INFO: rrc (12/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:43:35,813] INFO: rrc (3/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:43:35,842] INFO: rrc (6/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:43:35,873] INFO: rrc (9/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:43:35,902] INFO: rrc (12/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:43:35,932] INFO: rrc (3/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:43:35,962] INFO: rrc (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:43:35,991] INFO: rrc (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:43:36,021] INFO: rrc (12/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:43:36,050] INFO: rrc (3/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:43:36,081] INFO: rrc (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:43:36,109] INFO: rrc (9/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:43:36,125] WARNING: rrc (12/2018): Found zero values for fields: Goodwill
+[2025-03-22 11:43:36,138] INFO: rrc (12/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:43:36,168] INFO: rrc (3/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:43:36,184] INFO: Trying adjusted date: 7/2019 (original: 6/2019)
+[2025-03-22 11:43:36,199] WARNING: rrc (6/2019): No existing record found(6/2019, 2019-06-30) - creating new one
+[2025-03-22 11:43:36,200] INFO: rrc (6/2019): Created new record with 14 non-zero financial metrics
+[2025-03-22 11:43:36,230] INFO: rrc (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:43:36,245] INFO: Trying adjusted date: 1/2020 (original: 12/2019)
+[2025-03-22 11:43:36,259] WARNING: rrc (12/2019): No existing record found(12/2019, 2019-12-31) - creating new one
+[2025-03-22 11:43:36,259] INFO: rrc (12/2019): Created new record with 16 non-zero financial metrics
+[2025-03-22 11:43:36,288] INFO: rrc (3/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:43:36,318] INFO: rrc (6/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:43:36,348] INFO: rrc (9/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:43:36,377] INFO: rrc (12/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:43:36,407] INFO: rrc (3/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:43:36,436] INFO: rrc (6/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:43:36,466] INFO: rrc (9/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:43:36,496] INFO: rrc (12/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:43:36,527] INFO: rrc (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:43:36,557] INFO: rrc (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:43:36,586] INFO: rrc (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:43:36,616] INFO: rrc (12/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:43:36,645] INFO: rrc (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:43:36,675] INFO: rrc (6/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:43:36,705] INFO: rrc (9/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:43:36,736] INFO: rrc (12/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:43:36,767] INFO: rrc (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:43:36,797] INFO: rrc (6/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:43:36,828] INFO: rrc (9/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:43:36,844] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 11:43:36,858] WARNING: rrc (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 11:43:36,859] INFO: rrc (12/2024): Created new record with 16 non-zero financial metrics

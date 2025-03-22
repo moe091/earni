@@ -1,0 +1,70 @@
+[2025-03-22 03:56:05,899] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 03:56:05,911] WARNING: csgp (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 03:56:05,912] INFO: csgp (6/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 03:56:05,929] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 03:56:05,943] WARNING: csgp (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 03:56:05,943] INFO: csgp (9/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 03:56:05,959] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 03:56:05,971] WARNING: csgp (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 03:56:05,972] INFO: csgp (12/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 03:56:05,987] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 03:56:06,000] WARNING: csgp (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 03:56:06,000] INFO: csgp (3/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 03:56:06,015] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 03:56:06,028] WARNING: csgp (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 03:56:06,028] INFO: csgp (6/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 03:56:06,055] INFO: csgp (9/2012): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:56:06,083] INFO: csgp (12/2012): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:56:06,110] INFO: csgp (3/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:56:06,137] INFO: csgp (6/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:56:06,163] INFO: csgp (9/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:56:06,189] INFO: csgp (12/2013): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:56:06,216] INFO: csgp (3/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:56:06,242] INFO: csgp (6/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:56:06,268] INFO: csgp (9/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:56:06,295] INFO: csgp (12/2014): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:56:06,321] INFO: csgp (3/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:56:06,348] INFO: csgp (6/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:56:06,375] INFO: csgp (9/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:56:06,401] INFO: csgp (12/2015): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:56:06,428] INFO: csgp (3/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:56:06,454] INFO: csgp (6/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:56:06,484] INFO: csgp (9/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:56:06,510] INFO: csgp (12/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:56:06,536] INFO: csgp (3/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:56:06,562] INFO: csgp (6/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:56:06,589] INFO: csgp (9/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:56:06,617] INFO: csgp (12/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:56:06,644] INFO: csgp (3/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:56:06,671] INFO: csgp (6/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:56:06,698] INFO: csgp (9/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:56:06,726] INFO: csgp (12/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:56:06,753] INFO: csgp (3/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:56:06,767] WARNING: csgp (6/2019): Found zero values for fields: Long Term Debt
+[2025-03-22 03:56:06,779] INFO: csgp (6/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:56:06,805] INFO: csgp (9/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:56:06,820] WARNING: csgp (12/2019): Found zero values for fields: Long Term Debt
+[2025-03-22 03:56:06,833] INFO: csgp (12/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:56:06,861] INFO: csgp (3/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:56:06,887] INFO: csgp (6/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:56:06,915] INFO: csgp (9/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:56:06,941] INFO: csgp (12/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:56:06,971] INFO: csgp (3/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:56:06,998] INFO: csgp (6/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:56:07,026] INFO: csgp (9/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:56:07,052] INFO: csgp (12/2021): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 03:56:07,066] WARNING: csgp (3/2022): Found zero values for fields: Capital Expenditures
+[2025-03-22 03:56:07,079] INFO: csgp (3/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:56:07,106] INFO: csgp (6/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:56:07,133] INFO: csgp (9/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:56:07,159] INFO: csgp (12/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 03:56:07,186] INFO: csgp (3/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:56:07,212] INFO: csgp (6/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:56:07,240] INFO: csgp (9/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:56:07,266] INFO: csgp (12/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 03:56:07,293] INFO: csgp (3/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:56:07,319] INFO: csgp (6/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:56:07,346] INFO: csgp (9/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:56:07,360] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 03:56:07,373] WARNING: csgp (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 03:56:07,373] INFO: csgp (12/2024): Created new record with 22 non-zero financial metrics

@@ -1,0 +1,113 @@
+[2025-03-22 08:03:25,659] INFO: Trying adjusted date: 6/2010 (original: 7/2010)
+[2025-03-22 08:03:25,672] WARNING: ptc (7/2010): No existing record found(7/2010, 2010-07-03) - creating new one
+[2025-03-22 08:03:25,672] INFO: ptc (7/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 08:03:25,688] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 08:03:25,701] WARNING: ptc (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 08:03:25,702] INFO: ptc (9/2010): Created new record with 20 non-zero financial metrics
+[2025-03-22 08:03:25,718] INFO: Trying adjusted date: 12/2010 (original: 1/2011)
+[2025-03-22 08:03:25,731] WARNING: ptc (1/2011): No existing record found(1/2011, 2011-01-01) - creating new one
+[2025-03-22 08:03:25,732] INFO: ptc (1/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 08:03:25,747] INFO: Trying adjusted date: 3/2011 (original: 4/2011)
+[2025-03-22 08:03:25,760] WARNING: ptc (4/2011): No existing record found(4/2011, 2011-04-02) - creating new one
+[2025-03-22 08:03:25,760] INFO: ptc (4/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 08:03:25,775] INFO: Trying adjusted date: 6/2011 (original: 7/2011)
+[2025-03-22 08:03:25,788] WARNING: ptc (7/2011): No existing record found(7/2011, 2011-07-02) - creating new one
+[2025-03-22 08:03:25,789] INFO: ptc (7/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 08:03:25,804] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 08:03:25,817] WARNING: ptc (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 08:03:25,817] INFO: ptc (9/2011): Created new record with 22 non-zero financial metrics
+[2025-03-22 08:03:25,832] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 08:03:25,845] WARNING: ptc (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 08:03:25,846] INFO: ptc (12/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 08:03:25,861] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 08:03:25,873] WARNING: ptc (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 08:03:25,874] INFO: ptc (3/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 08:03:25,889] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 08:03:25,902] WARNING: ptc (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 08:03:25,902] INFO: ptc (6/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 08:03:25,918] INFO: Trying adjusted date: 10/2012 (original: 9/2012)
+[2025-03-22 08:03:25,931] WARNING: ptc (9/2012): No existing record found(9/2012, 2012-09-30) - creating new one
+[2025-03-22 08:03:25,932] INFO: ptc (9/2012): Created new record with 24 non-zero financial metrics
+[2025-03-22 08:03:25,946] INFO: Trying adjusted date: 1/2013 (original: 12/2012)
+[2025-03-22 08:03:25,959] WARNING: ptc (12/2012): No existing record found(12/2012, 2012-12-29) - creating new one
+[2025-03-22 08:03:25,960] INFO: ptc (12/2012): Created new record with 21 non-zero financial metrics
+[2025-03-22 08:03:25,974] INFO: Trying adjusted date: 4/2013 (original: 3/2013)
+[2025-03-22 08:03:25,988] WARNING: ptc (3/2013): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 08:03:25,988] WARNING: ptc (3/2013): No existing record found(3/2013, 2013-03-30) - creating new one
+[2025-03-22 08:03:25,988] INFO: ptc (3/2013): Created new record with 16 non-zero financial metrics
+[2025-03-22 08:03:26,003] INFO: Trying adjusted date: 7/2013 (original: 6/2013)
+[2025-03-22 08:03:26,016] WARNING: ptc (6/2013): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 08:03:26,016] WARNING: ptc (6/2013): No existing record found(6/2013, 2013-06-29) - creating new one
+[2025-03-22 08:03:26,017] INFO: ptc (6/2013): Created new record with 16 non-zero financial metrics
+[2025-03-22 08:03:26,032] INFO: Trying adjusted date: 10/2013 (original: 9/2013)
+[2025-03-22 08:03:26,046] WARNING: ptc (9/2013): No existing record found(9/2013, 2013-09-30) - creating new one
+[2025-03-22 08:03:26,046] INFO: ptc (9/2013): Created new record with 24 non-zero financial metrics
+[2025-03-22 08:03:26,061] WARNING: ptc (12/2013): Found zero values for fields: Share Repurchases, Loan Loss Reserves
+[2025-03-22 08:03:26,074] INFO: ptc (12/2013): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 08:03:26,101] INFO: ptc (3/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:03:26,129] INFO: ptc (6/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:03:26,157] INFO: ptc (9/2014): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 08:03:26,175] INFO: Trying adjusted date: 12/2014 (original: 1/2015)
+[2025-03-22 08:03:26,189] INFO: Found existing row with adjusted date: 12/2014
+[2025-03-22 08:03:26,201] INFO: ptc (12/2014): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 08:03:26,217] INFO: Trying adjusted date: 3/2015 (original: 4/2015)
+[2025-03-22 08:03:26,230] INFO: Found existing row with adjusted date: 3/2015
+[2025-03-22 08:03:26,243] INFO: ptc (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:03:26,257] INFO: Trying adjusted date: 6/2015 (original: 7/2015)
+[2025-03-22 08:03:26,270] INFO: Found existing row with adjusted date: 6/2015
+[2025-03-22 08:03:26,284] INFO: ptc (6/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:03:26,311] INFO: ptc (9/2015): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 08:03:26,326] INFO: Trying adjusted date: 12/2015 (original: 1/2016)
+[2025-03-22 08:03:26,339] INFO: Found existing row with adjusted date: 12/2015
+[2025-03-22 08:03:26,352] INFO: ptc (12/2015): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 08:03:26,366] INFO: Trying adjusted date: 3/2016 (original: 4/2016)
+[2025-03-22 08:03:26,379] INFO: Found existing row with adjusted date: 3/2016
+[2025-03-22 08:03:26,392] INFO: ptc (3/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:03:26,408] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-22 08:03:26,421] INFO: Found existing row with adjusted date: 6/2016
+[2025-03-22 08:03:26,434] INFO: ptc (6/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:03:26,449] WARNING: ptc (9/2016): Found zero values for fields: Share Repurchases
+[2025-03-22 08:03:26,462] INFO: ptc (9/2016): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 08:03:26,490] INFO: ptc (12/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 08:03:26,504] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-22 08:03:26,517] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-22 08:03:26,530] INFO: ptc (3/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:03:26,544] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-22 08:03:26,557] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-22 08:03:26,570] INFO: ptc (6/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:03:26,597] INFO: ptc (9/2017): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 08:03:26,624] INFO: ptc (12/2017): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 08:03:26,651] INFO: ptc (3/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:03:26,679] INFO: ptc (6/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:03:26,707] INFO: ptc (9/2018): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 08:03:26,738] INFO: ptc (12/2018): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 08:03:26,766] INFO: ptc (3/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:03:26,794] INFO: ptc (6/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:03:26,823] INFO: ptc (9/2019): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 08:03:26,851] INFO: ptc (12/2019): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 08:03:26,878] INFO: ptc (3/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:03:26,906] INFO: ptc (6/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:03:26,922] WARNING: ptc (9/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 08:03:26,935] INFO: ptc (9/2020): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 08:03:26,964] INFO: ptc (12/2020): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 08:03:26,992] INFO: ptc (3/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 08:03:27,021] INFO: ptc (6/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 08:03:27,050] INFO: ptc (9/2021): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 08:03:27,079] INFO: ptc (12/2021): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 08:03:27,107] INFO: ptc (3/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 08:03:27,135] INFO: ptc (6/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 08:03:27,164] INFO: ptc (9/2022): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 08:03:27,178] WARNING: ptc (12/2022): Found zero values for fields: Share Repurchases
+[2025-03-22 08:03:27,192] INFO: ptc (12/2022): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 08:03:27,220] INFO: ptc (3/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 08:03:27,249] INFO: ptc (6/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:03:27,264] WARNING: ptc (9/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 08:03:27,277] INFO: ptc (9/2023): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 08:03:27,305] INFO: ptc (12/2023): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 08:03:27,336] INFO: ptc (3/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:03:27,364] INFO: ptc (6/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:03:27,379] WARNING: ptc (9/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 08:03:27,393] INFO: ptc (9/2024): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 08:03:27,408] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 08:03:27,422] WARNING: ptc (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 08:03:27,422] INFO: ptc (12/2024): Created new record with 24 non-zero financial metrics

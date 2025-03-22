@@ -1,0 +1,107 @@
+[2025-03-22 15:44:29,085] INFO: Trying adjusted date: 8/2010 (original: 7/2010)
+[2025-03-22 15:44:29,099] WARNING: tol (7/2010): No existing record found(7/2010, 2010-07-31) - creating new one
+[2025-03-22 15:44:29,100] INFO: tol (7/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:44:29,119] INFO: Trying adjusted date: 11/2010 (original: 10/2010)
+[2025-03-22 15:44:29,134] WARNING: tol (10/2010): No existing record found(10/2010, 2010-10-31) - creating new one
+[2025-03-22 15:44:29,135] INFO: tol (10/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:44:29,152] INFO: Trying adjusted date: 2/2011 (original: 1/2011)
+[2025-03-22 15:44:29,166] WARNING: tol (1/2011): No existing record found(1/2011, 2011-01-31) - creating new one
+[2025-03-22 15:44:29,167] INFO: tol (1/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:44:29,184] INFO: Trying adjusted date: 5/2011 (original: 4/2011)
+[2025-03-22 15:44:29,199] WARNING: tol (4/2011): No existing record found(4/2011, 2011-04-30) - creating new one
+[2025-03-22 15:44:29,200] INFO: tol (4/2011): Created new record with 7 non-zero financial metrics
+[2025-03-22 15:44:29,217] INFO: Trying adjusted date: 8/2011 (original: 7/2011)
+[2025-03-22 15:44:29,232] WARNING: tol (7/2011): No existing record found(7/2011, 2011-07-31) - creating new one
+[2025-03-22 15:44:29,232] INFO: tol (7/2011): Created new record with 7 non-zero financial metrics
+[2025-03-22 15:44:29,249] INFO: Trying adjusted date: 11/2011 (original: 10/2011)
+[2025-03-22 15:44:29,264] WARNING: tol (10/2011): No existing record found(10/2011, 2011-10-31) - creating new one
+[2025-03-22 15:44:29,265] INFO: tol (10/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 15:44:29,282] INFO: Trying adjusted date: 2/2012 (original: 1/2012)
+[2025-03-22 15:44:29,297] WARNING: tol (1/2012): No existing record found(1/2012, 2012-01-31) - creating new one
+[2025-03-22 15:44:29,297] INFO: tol (1/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 15:44:29,315] INFO: Trying adjusted date: 5/2012 (original: 4/2012)
+[2025-03-22 15:44:29,330] WARNING: tol (4/2012): No existing record found(4/2012, 2012-04-30) - creating new one
+[2025-03-22 15:44:29,330] INFO: tol (4/2012): Created new record with 7 non-zero financial metrics
+[2025-03-22 15:44:29,347] INFO: Trying adjusted date: 8/2012 (original: 7/2012)
+[2025-03-22 15:44:29,361] WARNING: tol (7/2012): No existing record found(7/2012, 2012-07-31) - creating new one
+[2025-03-22 15:44:29,362] INFO: tol (7/2012): Created new record with 7 non-zero financial metrics
+[2025-03-22 15:44:29,395] INFO: tol (10/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:44:29,427] INFO: tol (1/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:44:29,460] INFO: tol (4/2013): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 15:44:29,491] INFO: tol (7/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:44:29,523] INFO: tol (10/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:44:29,552] INFO: tol (1/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:44:29,568] WARNING: tol (4/2014): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:29,583] INFO: tol (4/2014): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 15:44:29,599] WARNING: tol (7/2014): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:29,614] INFO: tol (7/2014): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 15:44:29,631] WARNING: tol (10/2014): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:29,646] INFO: tol (10/2014): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:44:29,663] WARNING: tol (1/2015): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:29,677] INFO: tol (1/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 15:44:29,695] WARNING: tol (4/2015): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:29,710] INFO: tol (4/2015): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 15:44:29,728] WARNING: tol (7/2015): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:29,742] INFO: tol (7/2015): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 15:44:29,760] WARNING: tol (10/2015): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:29,776] INFO: tol (10/2015): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:44:29,793] WARNING: tol (1/2016): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:29,808] INFO: tol (1/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 15:44:29,825] WARNING: tol (4/2016): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:29,840] INFO: tol (4/2016): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 15:44:29,856] WARNING: tol (7/2016): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:29,870] INFO: tol (7/2016): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 15:44:29,887] WARNING: tol (10/2016): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:29,901] INFO: tol (10/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:44:29,918] WARNING: tol (1/2017): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:29,932] INFO: tol (1/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:44:29,949] WARNING: tol (4/2017): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:29,963] INFO: tol (4/2017): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 15:44:29,983] WARNING: tol (7/2017): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:29,999] INFO: tol (7/2017): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 15:44:30,016] WARNING: tol (10/2017): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:30,030] INFO: tol (10/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:44:30,046] WARNING: tol (1/2018): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:30,061] INFO: tol (1/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:44:30,078] WARNING: tol (4/2018): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:30,092] INFO: tol (4/2018): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 15:44:30,109] WARNING: tol (7/2018): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:30,123] INFO: tol (7/2018): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 15:44:30,139] WARNING: tol (10/2018): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:30,153] INFO: tol (10/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:44:30,170] WARNING: tol (1/2019): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:30,184] INFO: tol (1/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:44:30,203] WARNING: tol (4/2019): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:30,216] INFO: tol (4/2019): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:44:30,233] WARNING: tol (7/2019): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:30,247] INFO: tol (7/2019): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:44:30,267] WARNING: tol (10/2019): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:30,281] INFO: tol (10/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 15:44:30,298] WARNING: tol (1/2020): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:30,312] INFO: tol (1/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:44:30,328] WARNING: tol (4/2020): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:30,343] INFO: tol (4/2020): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:44:30,360] WARNING: tol (7/2020): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:30,374] INFO: tol (7/2020): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:44:30,405] INFO: tol (10/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:44:30,437] INFO: tol (1/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 15:44:30,468] INFO: tol (4/2021): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:44:30,499] INFO: tol (7/2021): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:44:30,517] WARNING: tol (10/2021): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:30,531] INFO: tol (10/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:44:30,562] INFO: tol (1/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:44:30,594] INFO: tol (4/2022): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:44:30,625] INFO: tol (7/2022): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:44:30,642] WARNING: tol (10/2022): Found zero values for fields: Interest Expense
+[2025-03-22 15:44:30,656] INFO: tol (10/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:44:30,687] INFO: tol (1/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:44:30,719] INFO: tol (4/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:44:30,750] INFO: tol (7/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:44:30,780] INFO: tol (10/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:44:30,811] INFO: tol (1/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:44:30,845] INFO: tol (4/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:44:30,877] INFO: tol (7/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:44:30,907] INFO: tol (10/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:44:30,924] INFO: Trying adjusted date: 2/2025 (original: 1/2025)
+[2025-03-22 15:44:30,938] WARNING: tol (1/2025): No existing record found(1/2025, 2025-01-31) - creating new one
+[2025-03-22 15:44:30,938] INFO: tol (1/2025): Created new record with 14 non-zero financial metrics

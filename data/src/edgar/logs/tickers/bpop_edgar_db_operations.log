@@ -1,0 +1,77 @@
+[2025-03-22 13:42:52,818] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 13:42:52,832] WARNING: bpop (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 13:42:52,832] INFO: bpop (6/2010): Created new record with 10 non-zero financial metrics
+[2025-03-22 13:42:52,848] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 13:42:52,862] WARNING: bpop (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 13:42:52,863] INFO: bpop (9/2010): Created new record with 10 non-zero financial metrics
+[2025-03-22 13:42:52,879] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 13:42:52,894] WARNING: bpop (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 13:42:52,894] INFO: bpop (12/2010): Created new record with 15 non-zero financial metrics
+[2025-03-22 13:42:52,912] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 13:42:52,927] WARNING: bpop (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 13:42:52,927] INFO: bpop (3/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 13:42:52,943] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 13:42:52,957] WARNING: bpop (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 13:42:52,958] INFO: bpop (6/2011): Created new record with 9 non-zero financial metrics
+[2025-03-22 13:42:52,974] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 13:42:52,988] WARNING: bpop (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 13:42:52,989] INFO: bpop (9/2011): Created new record with 9 non-zero financial metrics
+[2025-03-22 13:42:53,005] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 13:42:53,019] WARNING: bpop (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 13:42:53,020] INFO: bpop (12/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 13:42:53,036] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 13:42:53,051] WARNING: bpop (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 13:42:53,051] INFO: bpop (3/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 13:42:53,067] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 13:42:53,081] WARNING: bpop (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 13:42:53,081] INFO: bpop (6/2012): Created new record with 9 non-zero financial metrics
+[2025-03-22 13:42:53,111] INFO: bpop (9/2012): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 13:42:53,142] INFO: bpop (12/2012): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:42:53,174] INFO: bpop (3/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:42:53,205] INFO: bpop (6/2013): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 13:42:53,235] INFO: bpop (9/2013): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 13:42:53,266] INFO: bpop (12/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:42:53,298] INFO: bpop (3/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:42:53,331] INFO: bpop (6/2014): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 13:42:53,362] INFO: bpop (9/2014): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 13:42:53,396] INFO: bpop (12/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 13:42:53,426] INFO: bpop (3/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 13:42:53,457] INFO: bpop (6/2015): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 13:42:53,487] INFO: bpop (9/2015): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 13:42:53,518] INFO: bpop (12/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 13:42:53,549] INFO: bpop (3/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 13:42:53,581] INFO: bpop (6/2016): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 13:42:53,615] INFO: bpop (9/2016): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 13:42:53,645] INFO: bpop (12/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:42:53,676] INFO: bpop (3/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:42:53,706] INFO: bpop (6/2017): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 13:42:53,736] INFO: bpop (9/2017): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 13:42:53,765] INFO: bpop (12/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:42:53,795] INFO: bpop (3/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:42:53,827] INFO: bpop (6/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 13:42:53,857] INFO: bpop (9/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 13:42:53,888] INFO: bpop (12/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:42:53,919] INFO: bpop (3/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:42:53,948] INFO: bpop (6/2019): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 13:42:53,979] INFO: bpop (9/2019): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 13:42:54,008] INFO: bpop (12/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:42:54,039] INFO: bpop (3/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:42:54,070] INFO: bpop (6/2020): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 13:42:54,100] INFO: bpop (9/2020): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 13:42:54,131] INFO: bpop (12/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:42:54,163] INFO: bpop (3/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:42:54,195] INFO: bpop (6/2021): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 13:42:54,228] INFO: bpop (9/2021): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 13:42:54,260] INFO: bpop (12/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:42:54,291] INFO: bpop (3/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:42:54,321] INFO: bpop (6/2022): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 13:42:54,351] INFO: bpop (9/2022): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 13:42:54,381] INFO: bpop (12/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:42:54,411] INFO: bpop (3/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:42:54,441] INFO: bpop (6/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 13:42:54,471] INFO: bpop (9/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 13:42:54,500] INFO: bpop (12/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:42:54,531] INFO: bpop (3/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:42:54,562] INFO: bpop (6/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 13:42:54,595] INFO: bpop (9/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 13:42:54,625] INFO: bpop (12/2024): Updated existing record with 14 non-zero financial metrics

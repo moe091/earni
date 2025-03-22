@@ -1,0 +1,68 @@
+[2025-03-22 03:53:55,858] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 03:53:55,870] WARNING: kkr (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 03:53:55,871] INFO: kkr (6/2011): Created new record with 5 non-zero financial metrics
+[2025-03-22 03:53:55,887] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 03:53:55,899] WARNING: kkr (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 03:53:55,900] INFO: kkr (9/2011): Created new record with 5 non-zero financial metrics
+[2025-03-22 03:53:55,913] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 03:53:55,926] WARNING: kkr (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 03:53:55,926] INFO: kkr (12/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 03:53:55,940] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 03:53:55,952] WARNING: kkr (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 03:53:55,953] INFO: kkr (3/2012): Created new record with 7 non-zero financial metrics
+[2025-03-22 03:53:55,966] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 03:53:55,979] WARNING: kkr (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 03:53:55,979] INFO: kkr (6/2012): Created new record with 6 non-zero financial metrics
+[2025-03-22 03:53:56,005] INFO: kkr (9/2012): Updated existing record with 6 non-zero financial metrics
+[2025-03-22 03:53:56,032] INFO: kkr (12/2012): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 03:53:56,059] INFO: kkr (3/2013): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:53:56,088] INFO: kkr (6/2013): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 03:53:56,114] INFO: kkr (9/2013): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 03:53:56,141] INFO: kkr (12/2013): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 03:53:56,168] INFO: kkr (3/2014): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:53:56,198] INFO: kkr (6/2014): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 03:53:56,225] INFO: kkr (9/2014): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 03:53:56,251] INFO: kkr (12/2014): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 03:53:56,278] INFO: kkr (3/2015): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:53:56,304] INFO: kkr (6/2015): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 03:53:56,331] INFO: kkr (9/2015): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 03:53:56,357] INFO: kkr (12/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:53:56,384] INFO: kkr (3/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:53:56,410] INFO: kkr (6/2016): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 03:53:56,437] INFO: kkr (9/2016): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 03:53:56,462] INFO: kkr (12/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:53:56,491] INFO: kkr (3/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:53:56,518] INFO: kkr (6/2017): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 03:53:56,544] INFO: kkr (9/2017): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 03:53:56,571] INFO: kkr (12/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:53:56,598] INFO: kkr (3/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:53:56,624] INFO: kkr (6/2018): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 03:53:56,650] INFO: kkr (9/2018): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:53:56,676] INFO: kkr (12/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:53:56,704] INFO: kkr (3/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:53:56,730] INFO: kkr (6/2019): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:53:56,756] INFO: kkr (9/2019): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:53:56,784] INFO: kkr (12/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:53:56,811] INFO: kkr (3/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:53:56,839] INFO: kkr (6/2020): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:53:56,868] INFO: kkr (9/2020): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:53:56,895] INFO: kkr (12/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:53:56,924] INFO: kkr (3/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:53:56,952] INFO: kkr (6/2021): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 03:53:56,978] INFO: kkr (9/2021): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 03:53:57,008] INFO: kkr (12/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:53:57,034] INFO: kkr (3/2022): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 03:53:57,048] WARNING: kkr (6/2022): Found zero values for fields: Deferred Revenue
+[2025-03-22 03:53:57,061] INFO: kkr (6/2022): Updated existing record with 4 non-zero financial metrics
+[2025-03-22 03:53:57,088] INFO: kkr (9/2022): Updated existing record with 3 non-zero financial metrics
+[2025-03-22 03:53:57,116] INFO: kkr (12/2022): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 03:53:57,129] WARNING: kkr (3/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 03:53:57,142] INFO: kkr (3/2023): Updated existing record with 6 non-zero financial metrics
+[2025-03-22 03:53:57,169] INFO: kkr (6/2023): Updated existing record with 3 non-zero financial metrics
+[2025-03-22 03:53:57,195] INFO: kkr (9/2023): Updated existing record with 6 non-zero financial metrics
+[2025-03-22 03:53:57,222] INFO: kkr (12/2023): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:53:57,249] INFO: kkr (3/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 03:53:57,276] INFO: kkr (6/2024): Updated existing record with 5 non-zero financial metrics
+[2025-03-22 03:53:57,302] INFO: kkr (9/2024): Updated existing record with 5 non-zero financial metrics
+[2025-03-22 03:53:57,316] WARNING: kkr (12/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 03:53:57,328] INFO: kkr (12/2024): Updated existing record with 8 non-zero financial metrics

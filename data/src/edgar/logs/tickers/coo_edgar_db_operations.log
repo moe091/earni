@@ -1,0 +1,86 @@
+[2025-03-22 07:27:33,778] INFO: Trying adjusted date: 8/2010 (original: 7/2010)
+[2025-03-22 07:27:33,791] WARNING: coo (7/2010): No existing record found(7/2010, 2010-07-31) - creating new one
+[2025-03-22 07:27:33,791] INFO: coo (7/2010): Created new record with 16 non-zero financial metrics
+[2025-03-22 07:27:33,807] INFO: Trying adjusted date: 11/2010 (original: 10/2010)
+[2025-03-22 07:27:33,820] WARNING: coo (10/2010): No existing record found(10/2010, 2010-10-31) - creating new one
+[2025-03-22 07:27:33,821] INFO: coo (10/2010): Created new record with 20 non-zero financial metrics
+[2025-03-22 07:27:33,839] INFO: Trying adjusted date: 2/2011 (original: 1/2011)
+[2025-03-22 07:27:33,853] WARNING: coo (1/2011): No existing record found(1/2011, 2011-01-31) - creating new one
+[2025-03-22 07:27:33,854] INFO: coo (1/2011): Created new record with 20 non-zero financial metrics
+[2025-03-22 07:27:33,868] INFO: Trying adjusted date: 5/2011 (original: 4/2011)
+[2025-03-22 07:27:33,882] WARNING: coo (4/2011): No existing record found(4/2011, 2011-04-30) - creating new one
+[2025-03-22 07:27:33,882] INFO: coo (4/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 07:27:33,897] INFO: Trying adjusted date: 8/2011 (original: 7/2011)
+[2025-03-22 07:27:33,911] WARNING: coo (7/2011): No existing record found(7/2011, 2011-07-31) - creating new one
+[2025-03-22 07:27:33,911] INFO: coo (7/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 07:27:33,926] INFO: Trying adjusted date: 11/2011 (original: 10/2011)
+[2025-03-22 07:27:33,940] WARNING: coo (10/2011): No existing record found(10/2011, 2011-10-31) - creating new one
+[2025-03-22 07:27:33,941] INFO: coo (10/2011): Created new record with 20 non-zero financial metrics
+[2025-03-22 07:27:33,955] INFO: Trying adjusted date: 2/2012 (original: 1/2012)
+[2025-03-22 07:27:33,969] WARNING: coo (1/2012): No existing record found(1/2012, 2012-01-31) - creating new one
+[2025-03-22 07:27:33,969] INFO: coo (1/2012): Created new record with 21 non-zero financial metrics
+[2025-03-22 07:27:33,985] INFO: Trying adjusted date: 5/2012 (original: 4/2012)
+[2025-03-22 07:27:33,999] WARNING: coo (4/2012): No existing record found(4/2012, 2012-04-30) - creating new one
+[2025-03-22 07:27:33,999] INFO: coo (4/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 07:27:34,014] INFO: Trying adjusted date: 8/2012 (original: 7/2012)
+[2025-03-22 07:27:34,027] WARNING: coo (7/2012): No existing record found(7/2012, 2012-07-31) - creating new one
+[2025-03-22 07:27:34,028] INFO: coo (7/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 07:27:34,061] INFO: coo (10/2012): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:27:34,091] INFO: coo (1/2013): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:27:34,120] INFO: coo (4/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:27:34,148] INFO: coo (7/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:27:34,175] INFO: coo (10/2013): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:27:34,203] INFO: coo (1/2014): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:27:34,232] INFO: coo (4/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:27:34,261] INFO: coo (7/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:27:34,290] INFO: coo (10/2014): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:27:34,317] INFO: coo (1/2015): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:27:34,347] INFO: coo (4/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:27:34,375] INFO: coo (7/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:27:34,402] INFO: coo (10/2015): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:27:34,419] WARNING: coo (1/2016): Found zero values for fields: Share Repurchases
+[2025-03-22 07:27:34,436] INFO: coo (1/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:27:34,463] INFO: coo (4/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:27:34,491] INFO: coo (7/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:27:34,505] WARNING: coo (10/2016): Found zero values for fields: Share Repurchases
+[2025-03-22 07:27:34,519] INFO: coo (10/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:27:34,548] INFO: coo (1/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:27:34,575] INFO: coo (4/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:27:34,602] INFO: coo (7/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:27:34,630] INFO: coo (10/2017): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:27:34,658] INFO: coo (1/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:27:34,685] INFO: coo (4/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:27:34,714] INFO: coo (7/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:27:34,730] WARNING: coo (10/2018): Found zero values for fields: Share Repurchases
+[2025-03-22 07:27:34,743] INFO: coo (10/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:27:34,771] INFO: coo (1/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:27:34,799] INFO: coo (4/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:27:34,827] INFO: coo (7/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:27:34,855] INFO: coo (10/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:27:34,869] WARNING: coo (1/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 07:27:34,882] INFO: coo (1/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:27:34,911] INFO: coo (4/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:27:34,940] INFO: coo (7/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:27:34,968] INFO: coo (10/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:27:34,997] INFO: coo (1/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:27:35,025] INFO: coo (4/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:27:35,052] INFO: coo (7/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:27:35,081] INFO: coo (10/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:27:35,109] INFO: coo (1/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:27:35,136] INFO: coo (4/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:27:35,166] INFO: coo (7/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:27:35,195] INFO: coo (10/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:27:35,210] WARNING: coo (1/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 07:27:35,222] INFO: coo (1/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:27:35,249] INFO: coo (4/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:27:35,278] INFO: coo (7/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:27:35,293] WARNING: coo (10/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 07:27:35,306] INFO: coo (10/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:27:35,333] INFO: coo (1/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:27:35,361] INFO: coo (4/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:27:35,391] INFO: coo (7/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:27:35,405] WARNING: coo (10/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 07:27:35,418] INFO: coo (10/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:27:35,433] INFO: Trying adjusted date: 2/2025 (original: 1/2025)
+[2025-03-22 07:27:35,446] WARNING: coo (1/2025): No existing record found(1/2025, 2025-01-31) - creating new one
+[2025-03-22 07:27:35,447] INFO: coo (1/2025): Created new record with 19 non-zero financial metrics

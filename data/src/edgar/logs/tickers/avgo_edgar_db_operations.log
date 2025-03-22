@@ -1,0 +1,74 @@
+[2025-03-21 22:06:36,915] INFO: Trying adjusted date: 4/2018 (original: 5/2018)
+[2025-03-21 22:06:36,927] INFO: Found existing row with adjusted date: 4/2018
+[2025-03-21 22:06:36,939] INFO: avgo (4/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:06:36,953] INFO: Trying adjusted date: 7/2018 (original: 8/2018)
+[2025-03-21 22:06:36,965] INFO: Found existing row with adjusted date: 7/2018
+[2025-03-21 22:06:36,978] INFO: avgo (7/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:06:36,990] INFO: Trying adjusted date: 10/2018 (original: 11/2018)
+[2025-03-21 22:06:37,003] INFO: Found existing row with adjusted date: 10/2018
+[2025-03-21 22:06:37,015] INFO: avgo (10/2018): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 22:06:37,028] INFO: Trying adjusted date: 1/2019 (original: 2/2019)
+[2025-03-21 22:06:37,041] INFO: Found existing row with adjusted date: 1/2019
+[2025-03-21 22:06:37,041] WARNING: avgo (1/2019): Found zero values for fields: Capitalized Contract Costs
+[2025-03-21 22:06:37,053] INFO: avgo (1/2019): Updated existing record with 23 non-zero financial metrics
+[2025-03-21 22:06:37,065] INFO: Trying adjusted date: 4/2019 (original: 5/2019)
+[2025-03-21 22:06:37,078] INFO: Found existing row with adjusted date: 4/2019
+[2025-03-21 22:06:37,078] WARNING: avgo (4/2019): Found zero values for fields: Capitalized Contract Costs
+[2025-03-21 22:06:37,090] INFO: avgo (4/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:06:37,102] INFO: Trying adjusted date: 7/2019 (original: 8/2019)
+[2025-03-21 22:06:37,114] INFO: Found existing row with adjusted date: 7/2019
+[2025-03-21 22:06:37,114] WARNING: avgo (7/2019): Found zero values for fields: Capitalized Contract Costs
+[2025-03-21 22:06:37,126] INFO: avgo (7/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:06:37,140] INFO: Trying adjusted date: 10/2019 (original: 11/2019)
+[2025-03-21 22:06:37,151] INFO: Found existing row with adjusted date: 10/2019
+[2025-03-21 22:06:37,151] WARNING: avgo (10/2019): Found zero values for fields: Capitalized Contract Costs
+[2025-03-21 22:06:37,163] INFO: avgo (10/2019): Updated existing record with 23 non-zero financial metrics
+[2025-03-21 22:06:37,176] INFO: Trying adjusted date: 1/2020 (original: 2/2020)
+[2025-03-21 22:06:37,188] INFO: Found existing row with adjusted date: 1/2020
+[2025-03-21 22:06:37,188] WARNING: avgo (1/2020): Found zero values for fields: Share Repurchases
+[2025-03-21 22:06:37,200] INFO: avgo (1/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:06:37,212] INFO: Trying adjusted date: 4/2020 (original: 5/2020)
+[2025-03-21 22:06:37,223] INFO: Found existing row with adjusted date: 4/2020
+[2025-03-21 22:06:37,235] INFO: avgo (4/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:06:37,248] INFO: Trying adjusted date: 7/2020 (original: 8/2020)
+[2025-03-21 22:06:37,260] INFO: Found existing row with adjusted date: 7/2020
+[2025-03-21 22:06:37,272] INFO: avgo (7/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:06:37,286] INFO: Trying adjusted date: 10/2020 (original: 11/2020)
+[2025-03-21 22:06:37,297] INFO: Found existing row with adjusted date: 10/2020
+[2025-03-21 22:06:37,298] WARNING: avgo (10/2020): Found zero values for fields: Share Repurchases
+[2025-03-21 22:06:37,310] INFO: avgo (10/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 22:06:37,334] INFO: avgo (1/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:06:37,349] INFO: Trying adjusted date: 4/2021 (original: 5/2021)
+[2025-03-21 22:06:37,360] INFO: Found existing row with adjusted date: 4/2021
+[2025-03-21 22:06:37,372] INFO: avgo (4/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:06:37,386] INFO: Trying adjusted date: 7/2021 (original: 8/2021)
+[2025-03-21 22:06:37,399] INFO: Found existing row with adjusted date: 7/2021
+[2025-03-21 22:06:37,410] INFO: avgo (7/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:06:37,423] WARNING: avgo (10/2021): Found zero values for fields: Share Repurchases
+[2025-03-21 22:06:37,435] INFO: avgo (10/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:06:37,459] INFO: avgo (1/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 22:06:37,472] INFO: Trying adjusted date: 4/2022 (original: 5/2022)
+[2025-03-21 22:06:37,483] INFO: Found existing row with adjusted date: 4/2022
+[2025-03-21 22:06:37,495] INFO: avgo (4/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:06:37,520] INFO: avgo (7/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:06:37,545] INFO: avgo (10/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:06:37,570] INFO: avgo (1/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:06:37,595] INFO: avgo (4/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:06:37,620] INFO: avgo (7/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:06:37,645] INFO: avgo (10/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:06:37,657] INFO: Trying adjusted date: 1/2024 (original: 2/2024)
+[2025-03-21 22:06:37,670] INFO: Found existing row with adjusted date: 1/2024
+[2025-03-21 22:06:37,682] INFO: avgo (1/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:06:37,695] INFO: Trying adjusted date: 4/2024 (original: 5/2024)
+[2025-03-21 22:06:37,706] INFO: Found existing row with adjusted date: 4/2024
+[2025-03-21 22:06:37,718] INFO: avgo (4/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:06:37,731] INFO: Trying adjusted date: 7/2024 (original: 8/2024)
+[2025-03-21 22:06:37,742] INFO: Found existing row with adjusted date: 7/2024
+[2025-03-21 22:06:37,753] INFO: avgo (7/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:06:37,766] INFO: Trying adjusted date: 10/2024 (original: 11/2024)
+[2025-03-21 22:06:37,778] INFO: Found existing row with adjusted date: 10/2024
+[2025-03-21 22:06:37,789] INFO: avgo (10/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 22:06:37,802] INFO: Trying adjusted date: 1/2025 (original: 2/2025)
+[2025-03-21 22:06:37,814] WARNING: avgo (2/2025): Found zero values for fields: Share Repurchases
+[2025-03-21 22:06:37,814] WARNING: avgo (2/2025): No existing record found(2/2025, 2025-02-02) - creating new one
+[2025-03-21 22:06:37,814] INFO: avgo (2/2025): Created new record with 20 non-zero financial metrics

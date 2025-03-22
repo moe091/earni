@@ -1,0 +1,19 @@
+[2025-03-22 08:10:44,430] INFO: apa (3/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:10:44,460] INFO: apa (6/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 08:10:44,487] INFO: apa (9/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 08:10:44,515] INFO: apa (12/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:10:44,544] INFO: apa (3/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:10:44,573] INFO: apa (6/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 08:10:44,600] INFO: apa (9/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 08:10:44,614] WARNING: apa (12/2022): Found zero values for fields: Goodwill
+[2025-03-22 08:10:44,628] INFO: apa (12/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:10:44,655] INFO: apa (3/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:10:44,684] INFO: apa (6/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:10:44,712] INFO: apa (9/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:10:44,740] INFO: apa (12/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:10:44,792] INFO: apa (3/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:10:44,820] INFO: apa (6/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:10:44,847] INFO: apa (9/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:10:44,863] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 08:10:44,876] WARNING: apa (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 08:10:44,877] INFO: apa (12/2024): Created new record with 14 non-zero financial metrics

@@ -1,0 +1,72 @@
+[2025-03-22 06:15:54,937] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 06:15:54,949] WARNING: podd (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 06:15:54,949] INFO: podd (6/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 06:15:54,964] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 06:15:54,976] WARNING: podd (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 06:15:54,977] INFO: podd (9/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 06:15:54,992] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 06:15:55,004] WARNING: podd (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 06:15:55,005] INFO: podd (12/2011): Created new record with 21 non-zero financial metrics
+[2025-03-22 06:15:55,020] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 06:15:55,032] WARNING: podd (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 06:15:55,033] INFO: podd (3/2012): Created new record with 21 non-zero financial metrics
+[2025-03-22 06:15:55,047] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 06:15:55,060] WARNING: podd (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 06:15:55,060] INFO: podd (6/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 06:15:55,087] INFO: podd (9/2012): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:15:55,124] INFO: podd (12/2012): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:15:55,155] INFO: podd (3/2013): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:15:55,169] WARNING: podd (6/2013): Found zero values for fields: Interest Expense
+[2025-03-22 06:15:55,182] INFO: podd (6/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:15:55,214] INFO: podd (9/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:15:55,241] INFO: podd (12/2013): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 06:15:55,270] INFO: podd (3/2014): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:15:55,297] INFO: podd (6/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:15:55,324] INFO: podd (9/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:15:55,351] INFO: podd (12/2014): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 06:15:55,379] INFO: podd (3/2015): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:15:55,406] INFO: podd (6/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:15:55,434] INFO: podd (9/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:15:55,463] INFO: podd (12/2015): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:15:55,490] INFO: podd (3/2016): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:15:55,517] INFO: podd (6/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:15:55,545] INFO: podd (9/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:15:55,573] INFO: podd (12/2016): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 06:15:55,603] INFO: podd (3/2017): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:15:55,632] INFO: podd (6/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:15:55,660] INFO: podd (9/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:15:55,688] INFO: podd (12/2017): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 06:15:55,703] WARNING: podd (3/2018): Found zero values for fields: OperatingIncomeLoss
+[2025-03-22 06:15:55,716] INFO: podd (3/2018): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:15:55,745] INFO: podd (6/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:15:55,772] INFO: podd (9/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:15:55,800] INFO: podd (12/2018): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 06:15:55,827] INFO: podd (3/2019): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 06:15:55,854] INFO: podd (6/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:15:55,882] INFO: podd (9/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:15:55,909] INFO: podd (12/2019): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 06:15:55,936] INFO: podd (3/2020): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:15:55,951] INFO: Trying adjusted date: 7/2020 (original: 6/2020)
+[2025-03-22 06:15:55,965] WARNING: podd (6/2020): No existing record found(6/2020, 2020-06-30) - creating new one
+[2025-03-22 06:15:55,965] INFO: podd (6/2020): Created new record with 18 non-zero financial metrics
+[2025-03-22 06:15:55,992] INFO: podd (9/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:15:56,020] INFO: podd (12/2020): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 06:15:56,035] WARNING: podd (3/2021): Found zero values for fields: Net Income, EPS Diluted
+[2025-03-22 06:15:56,048] INFO: podd (3/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 06:15:56,075] INFO: podd (6/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:15:56,105] INFO: podd (9/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:15:54,736] INFO: podd (12/2021): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:15:54,763] INFO: podd (3/2022): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 06:15:54,790] INFO: podd (6/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:15:54,820] INFO: podd (9/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:15:54,847] INFO: podd (12/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:15:54,874] INFO: podd (3/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:15:54,900] INFO: podd (6/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:15:54,927] INFO: podd (9/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:15:54,955] INFO: podd (12/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 06:15:54,985] INFO: podd (3/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 06:15:55,013] INFO: podd (6/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:15:55,039] INFO: podd (9/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:15:55,056] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 06:15:55,069] WARNING: podd (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 06:15:55,070] INFO: podd (12/2024): Created new record with 19 non-zero financial metrics

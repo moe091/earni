@@ -1,0 +1,76 @@
+[2025-03-22 07:57:51,110] INFO: Trying adjusted date: 8/2010 (original: 9/2010)
+[2025-03-22 07:57:51,123] WARNING: kmx (9/2010): No existing record found(9/2010, 2010-09-10) - creating new one
+[2025-03-22 07:57:51,124] INFO: kmx (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 07:57:51,140] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 07:57:51,154] WARNING: kmx (12/2010): No existing record found(12/2010, 2010-12-27) - creating new one
+[2025-03-22 07:57:51,154] INFO: kmx (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 07:57:51,169] INFO: Trying adjusted date: 3/2011 (original: 2/2011)
+[2025-03-22 07:57:51,183] ERROR: Invalid numeric value for Loans Held for Sale: 
+[2025-03-22 07:57:51,183] ERROR: kmx (2/2011): Invalid data types: Loans Held for Sale=
+[2025-03-22 07:57:51,183] WARNING: kmx (2/2011): No existing record found(2/2011, 2011-02-28) - creating new one
+[2025-03-22 07:57:51,184] INFO: kmx (2/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 07:57:51,199] INFO: Trying adjusted date: 6/2011 (original: 5/2011)
+[2025-03-22 07:57:51,213] WARNING: kmx (5/2011): No existing record found(5/2011, 2011-05-31) - creating new one
+[2025-03-22 07:57:51,213] INFO: kmx (5/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 07:57:51,228] INFO: Trying adjusted date: 9/2011 (original: 8/2011)
+[2025-03-22 07:57:51,242] WARNING: kmx (8/2011): No existing record found(8/2011, 2011-08-31) - creating new one
+[2025-03-22 07:57:51,242] INFO: kmx (8/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 07:57:51,257] INFO: Trying adjusted date: 12/2011 (original: 11/2011)
+[2025-03-22 07:57:51,271] WARNING: kmx (11/2011): No existing record found(11/2011, 2011-11-30) - creating new one
+[2025-03-22 07:57:51,271] INFO: kmx (11/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 07:57:51,287] INFO: Trying adjusted date: 3/2012 (original: 2/2012)
+[2025-03-22 07:57:51,301] WARNING: kmx (2/2012): No existing record found(2/2012, 2012-02-29) - creating new one
+[2025-03-22 07:57:51,302] INFO: kmx (2/2012): Created new record with 17 non-zero financial metrics
+[2025-03-22 07:57:51,316] INFO: Trying adjusted date: 6/2012 (original: 5/2012)
+[2025-03-22 07:57:51,330] WARNING: kmx (5/2012): No existing record found(5/2012, 2012-05-31) - creating new one
+[2025-03-22 07:57:51,330] INFO: kmx (5/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 07:57:51,359] INFO: kmx (8/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:57:51,388] INFO: kmx (11/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:57:51,416] INFO: kmx (2/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:57:51,444] INFO: kmx (5/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:57:51,472] INFO: kmx (8/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:57:51,501] INFO: kmx (11/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:57:51,528] INFO: kmx (2/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 07:57:51,556] INFO: kmx (5/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:57:51,583] INFO: kmx (8/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:57:51,611] INFO: kmx (11/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:57:51,639] INFO: kmx (2/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:57:51,666] INFO: kmx (5/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:57:51,699] INFO: kmx (8/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:57:51,727] INFO: kmx (11/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:57:51,758] INFO: kmx (2/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:57:51,786] INFO: kmx (5/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:57:51,817] INFO: kmx (8/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:57:51,845] INFO: kmx (11/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:57:51,873] INFO: kmx (2/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:57:51,902] INFO: kmx (5/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:57:51,932] INFO: kmx (8/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:57:51,961] INFO: kmx (11/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:57:51,988] INFO: kmx (2/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:57:52,016] INFO: kmx (5/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:57:52,043] INFO: kmx (8/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:57:52,071] INFO: kmx (11/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:57:52,099] INFO: kmx (2/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:57:52,126] INFO: kmx (5/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:57:52,154] INFO: kmx (8/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:57:52,183] INFO: kmx (11/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:57:52,211] INFO: kmx (2/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:57:52,240] INFO: kmx (5/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:57:52,267] INFO: kmx (8/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 07:57:52,296] INFO: kmx (11/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 07:57:52,325] INFO: kmx (2/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:57:52,354] INFO: kmx (5/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 07:57:52,382] INFO: kmx (8/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:57:52,410] INFO: kmx (11/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:57:52,438] INFO: kmx (2/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:57:52,467] INFO: kmx (5/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:57:52,496] INFO: kmx (8/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:57:52,524] INFO: kmx (11/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:57:52,552] INFO: kmx (2/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:57:52,580] INFO: kmx (5/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:57:52,608] INFO: kmx (8/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:57:52,637] INFO: kmx (11/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:57:52,665] INFO: kmx (2/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:57:52,693] INFO: kmx (5/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:57:52,723] INFO: kmx (8/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 07:57:52,752] INFO: kmx (11/2024): Updated existing record with 14 non-zero financial metrics

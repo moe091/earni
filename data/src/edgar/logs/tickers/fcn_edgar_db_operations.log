@@ -1,0 +1,85 @@
+[2025-03-22 15:37:33,166] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 15:37:33,180] WARNING: fcn (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 15:37:33,181] INFO: fcn (6/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 15:37:33,200] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 15:37:33,216] WARNING: fcn (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 15:37:33,216] INFO: fcn (9/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 15:37:33,234] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 15:37:33,250] WARNING: fcn (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 15:37:33,250] INFO: fcn (12/2010): Created new record with 18 non-zero financial metrics
+[2025-03-22 15:37:33,269] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 15:37:33,285] WARNING: fcn (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 15:37:33,285] INFO: fcn (3/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 15:37:33,302] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 15:37:33,317] WARNING: fcn (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 15:37:33,317] INFO: fcn (6/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 15:37:33,334] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 15:37:33,349] WARNING: fcn (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 15:37:33,350] INFO: fcn (9/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 15:37:33,368] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 15:37:33,382] WARNING: fcn (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 15:37:33,383] INFO: fcn (12/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 15:37:33,401] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 15:37:33,416] WARNING: fcn (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 15:37:33,416] INFO: fcn (3/2012): Created new record with 17 non-zero financial metrics
+[2025-03-22 15:37:33,434] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 15:37:33,449] WARNING: fcn (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 15:37:33,449] INFO: fcn (6/2012): Created new record with 13 non-zero financial metrics
+[2025-03-22 15:37:33,482] INFO: fcn (9/2012): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:37:33,514] INFO: fcn (12/2012): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:37:33,546] INFO: fcn (3/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:37:33,576] INFO: fcn (6/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:37:33,607] INFO: fcn (9/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:37:33,638] INFO: fcn (12/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:37:33,671] INFO: fcn (3/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:37:33,703] INFO: fcn (6/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:37:33,736] INFO: fcn (9/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:37:33,769] INFO: fcn (12/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:37:33,804] INFO: fcn (3/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 15:37:33,838] INFO: fcn (6/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:37:33,869] INFO: fcn (9/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:37:33,900] INFO: fcn (12/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:37:33,932] INFO: fcn (3/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:37:33,963] INFO: fcn (6/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:37:33,993] INFO: fcn (9/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:37:34,025] INFO: fcn (12/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 15:37:34,055] INFO: fcn (3/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 15:37:34,086] INFO: fcn (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:37:34,119] INFO: fcn (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:37:34,150] INFO: fcn (12/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:37:34,182] INFO: fcn (3/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:37:34,213] INFO: fcn (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:37:34,244] INFO: fcn (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:37:34,276] INFO: fcn (12/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:37:34,307] INFO: fcn (3/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:37:34,339] INFO: fcn (6/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:37:34,369] INFO: fcn (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:37:34,401] INFO: fcn (12/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:37:34,432] INFO: fcn (3/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:37:34,462] INFO: fcn (6/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:37:34,492] INFO: fcn (9/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 15:37:34,524] INFO: fcn (12/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:37:34,555] INFO: fcn (3/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 15:37:34,571] WARNING: fcn (6/2021): Found zero values for fields: Deferred Revenue
+[2025-03-22 15:37:34,586] INFO: fcn (6/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:37:34,602] WARNING: fcn (9/2021): Found zero values for fields: Deferred Revenue
+[2025-03-22 15:37:34,617] INFO: fcn (9/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:37:34,648] INFO: fcn (12/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:37:34,664] WARNING: fcn (3/2022): Found zero values for fields: Deferred Revenue
+[2025-03-22 15:37:34,679] INFO: fcn (3/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:37:34,709] INFO: fcn (6/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:37:34,740] INFO: fcn (9/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 15:37:34,772] INFO: fcn (12/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:37:34,804] INFO: fcn (3/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:37:34,835] INFO: fcn (6/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:37:34,865] INFO: fcn (9/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:37:34,880] WARNING: fcn (12/2023): Found zero values for fields: Long Term Debt
+[2025-03-22 15:37:34,894] INFO: fcn (12/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:37:34,910] WARNING: fcn (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 15:37:34,923] INFO: fcn (3/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:37:34,955] INFO: fcn (6/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:37:34,988] INFO: fcn (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:37:35,005] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 15:37:35,020] WARNING: fcn (12/2024): Found zero values for fields: Long Term Debt
+[2025-03-22 15:37:35,020] WARNING: fcn (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 15:37:35,020] INFO: fcn (12/2024): Created new record with 18 non-zero financial metrics

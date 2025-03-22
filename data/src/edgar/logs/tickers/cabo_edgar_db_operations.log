@@ -1,0 +1,50 @@
+[2025-03-22 13:32:56,451] INFO: cabo (6/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:32:56,468] ERROR: Invalid numeric value for Cash and Cash Equivalents: 
+[2025-03-22 13:32:56,468] ERROR: cabo (9/2015): Invalid data types: Cash and Cash Equivalents=
+[2025-03-22 13:32:56,481] INFO: cabo (9/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:32:56,497] ERROR: Invalid numeric value for Cash and Cash Equivalents: 
+[2025-03-22 13:32:56,497] ERROR: cabo (12/2015): Invalid data types: Cash and Cash Equivalents=
+[2025-03-22 13:32:56,512] INFO: cabo (12/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:32:56,541] INFO: cabo (3/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 13:32:56,572] INFO: cabo (6/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:32:56,601] INFO: cabo (9/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:32:56,632] INFO: cabo (12/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:32:56,661] INFO: cabo (3/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:32:56,692] INFO: cabo (6/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:32:56,724] INFO: cabo (9/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:32:56,753] INFO: cabo (12/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:32:56,784] INFO: cabo (3/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:32:56,814] INFO: cabo (6/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:32:56,844] INFO: cabo (9/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:32:56,874] INFO: cabo (12/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:32:56,905] INFO: cabo (3/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:32:56,936] INFO: cabo (6/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:32:56,966] INFO: cabo (9/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:32:56,997] INFO: cabo (12/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:32:57,012] WARNING: cabo (3/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 13:32:57,027] INFO: cabo (3/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:32:57,057] INFO: cabo (6/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:32:57,087] INFO: cabo (9/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:32:57,102] WARNING: cabo (12/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 13:32:57,117] INFO: cabo (12/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:32:57,146] INFO: cabo (3/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:32:57,176] INFO: cabo (6/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:32:57,207] INFO: cabo (9/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:32:57,223] WARNING: cabo (12/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 13:32:57,237] INFO: cabo (12/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:32:57,268] INFO: cabo (3/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:32:57,298] INFO: cabo (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:32:57,327] INFO: cabo (9/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 13:32:57,357] INFO: cabo (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:32:57,388] INFO: cabo (3/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:32:57,419] INFO: cabo (6/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:32:57,449] INFO: cabo (9/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:32:57,479] INFO: cabo (12/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:32:57,495] WARNING: cabo (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 13:32:57,509] INFO: cabo (3/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:32:57,540] INFO: cabo (6/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:32:57,571] INFO: cabo (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:32:57,588] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 13:32:57,602] WARNING: cabo (12/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 13:32:57,602] WARNING: cabo (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 13:32:57,602] INFO: cabo (12/2024): Created new record with 16 non-zero financial metrics

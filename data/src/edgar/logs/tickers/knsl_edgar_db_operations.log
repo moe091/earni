@@ -1,0 +1,39 @@
+[2025-03-22 15:06:15,628] INFO: Trying adjusted date: 7/2016 (original: 6/2016)
+[2025-03-22 15:06:15,643] WARNING: knsl (6/2016): No existing record found(6/2016, 2016-06-30) - creating new one
+[2025-03-22 15:06:15,643] INFO: knsl (6/2016): Created new record with 6 non-zero financial metrics
+[2025-03-22 15:06:15,675] INFO: knsl (9/2016): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 15:06:15,707] INFO: knsl (12/2016): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 15:06:15,739] INFO: knsl (3/2017): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 15:06:15,770] INFO: knsl (6/2017): Updated existing record with 6 non-zero financial metrics
+[2025-03-22 15:06:15,801] INFO: knsl (9/2017): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 15:06:15,831] INFO: knsl (12/2017): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 15:06:15,861] INFO: knsl (3/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:06:15,891] INFO: knsl (6/2018): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 15:06:15,921] INFO: knsl (9/2018): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 15:06:15,952] INFO: knsl (12/2018): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 15:06:15,984] INFO: knsl (3/2019): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:06:16,014] INFO: knsl (6/2019): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 15:06:16,045] INFO: knsl (9/2019): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 15:06:16,076] INFO: knsl (12/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:06:16,107] INFO: knsl (3/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:06:16,138] INFO: knsl (6/2020): Updated existing record with 6 non-zero financial metrics
+[2025-03-22 15:06:16,169] INFO: knsl (9/2020): Updated existing record with 6 non-zero financial metrics
+[2025-03-22 15:06:16,199] INFO: knsl (12/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:06:16,231] INFO: knsl (3/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:06:16,261] INFO: knsl (6/2021): Updated existing record with 6 non-zero financial metrics
+[2025-03-22 15:06:16,292] INFO: knsl (9/2021): Updated existing record with 6 non-zero financial metrics
+[2025-03-22 15:06:16,325] INFO: knsl (12/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:06:16,356] INFO: knsl (3/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:06:16,388] INFO: knsl (6/2022): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 15:06:16,420] INFO: knsl (9/2022): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:06:16,451] INFO: knsl (12/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:06:16,482] INFO: knsl (3/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:06:16,512] INFO: knsl (6/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:06:16,543] INFO: knsl (9/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:06:16,574] INFO: knsl (12/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:06:16,606] INFO: knsl (3/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:06:16,637] INFO: knsl (6/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:06:16,668] INFO: knsl (9/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:06:16,684] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 15:06:16,700] WARNING: knsl (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 15:06:16,701] INFO: knsl (12/2024): Created new record with 13 non-zero financial metrics

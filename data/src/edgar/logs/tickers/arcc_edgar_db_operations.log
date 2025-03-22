@@ -1,0 +1,13 @@
+[2025-03-22 11:04:28,364] INFO: arcc (9/2022): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 11:04:28,379] WARNING: arcc (12/2022): Found zero values for fields: Share Repurchases
+[2025-03-22 11:04:28,393] INFO: arcc (12/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 11:04:28,423] INFO: arcc (3/2023): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 11:04:28,452] INFO: arcc (6/2023): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 11:04:28,483] INFO: arcc (9/2023): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 11:04:28,512] INFO: arcc (12/2023): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 11:04:28,541] INFO: arcc (3/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 11:04:28,572] INFO: arcc (6/2024): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 11:04:28,602] INFO: arcc (9/2024): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 11:04:28,618] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 11:04:28,633] WARNING: arcc (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 11:04:28,634] INFO: arcc (12/2024): Created new record with 10 non-zero financial metrics

@@ -1,0 +1,135 @@
+[2025-03-21 23:49:09,538] INFO: Trying adjusted date: 2/2010 (original: 1/2010)
+[2025-03-21 23:49:09,549] WARNING: tjx (1/2010): No existing record found(1/2010, 2010-01-30) - creating new one
+[2025-03-21 23:49:09,550] INFO: tjx (1/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 23:49:09,565] INFO: Trying adjusted date: 4/2010 (original: 5/2010)
+[2025-03-21 23:49:09,577] WARNING: tjx (5/2010): No existing record found(5/2010, 2010-05-01) - creating new one
+[2025-03-21 23:49:09,577] INFO: tjx (5/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 23:49:09,591] INFO: Trying adjusted date: 8/2010 (original: 7/2010)
+[2025-03-21 23:49:09,603] WARNING: tjx (7/2010): No existing record found(7/2010, 2010-07-31) - creating new one
+[2025-03-21 23:49:09,604] INFO: tjx (7/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 23:49:09,617] INFO: Trying adjusted date: 11/2010 (original: 10/2010)
+[2025-03-21 23:49:09,629] WARNING: tjx (10/2010): No existing record found(10/2010, 2010-10-30) - creating new one
+[2025-03-21 23:49:09,629] INFO: tjx (10/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 23:49:09,642] INFO: Trying adjusted date: 2/2011 (original: 1/2011)
+[2025-03-21 23:49:09,655] WARNING: tjx (1/2011): No existing record found(1/2011, 2011-01-29) - creating new one
+[2025-03-21 23:49:09,655] INFO: tjx (1/2011): Created new record with 0 non-zero financial metrics
+[2025-03-21 23:49:09,668] INFO: Trying adjusted date: 5/2011 (original: 4/2011)
+[2025-03-21 23:49:09,680] WARNING: tjx (4/2011): No existing record found(4/2011, 2011-04-30) - creating new one
+[2025-03-21 23:49:09,681] INFO: tjx (4/2011): Created new record with 13 non-zero financial metrics
+[2025-03-21 23:49:09,694] INFO: Trying adjusted date: 8/2011 (original: 7/2011)
+[2025-03-21 23:49:09,706] WARNING: tjx (7/2011): No existing record found(7/2011, 2011-07-30) - creating new one
+[2025-03-21 23:49:09,707] INFO: tjx (7/2011): Created new record with 8 non-zero financial metrics
+[2025-03-21 23:49:09,722] INFO: Trying adjusted date: 11/2011 (original: 10/2011)
+[2025-03-21 23:49:09,734] WARNING: tjx (10/2011): No existing record found(10/2011, 2011-10-29) - creating new one
+[2025-03-21 23:49:09,735] INFO: tjx (10/2011): Created new record with 8 non-zero financial metrics
+[2025-03-21 23:49:09,749] INFO: Trying adjusted date: 2/2012 (original: 1/2012)
+[2025-03-21 23:49:09,761] WARNING: tjx (1/2012): No existing record found(1/2012, 2012-01-28) - creating new one
+[2025-03-21 23:49:09,761] INFO: tjx (1/2012): Created new record with 16 non-zero financial metrics
+[2025-03-21 23:49:09,774] INFO: Trying adjusted date: 5/2012 (original: 4/2012)
+[2025-03-21 23:49:09,787] WARNING: tjx (4/2012): No existing record found(4/2012, 2012-04-28) - creating new one
+[2025-03-21 23:49:09,788] INFO: tjx (4/2012): Created new record with 13 non-zero financial metrics
+[2025-03-21 23:49:09,800] INFO: Trying adjusted date: 8/2012 (original: 7/2012)
+[2025-03-21 23:49:09,812] WARNING: tjx (7/2012): No existing record found(7/2012, 2012-07-28) - creating new one
+[2025-03-21 23:49:09,813] INFO: tjx (7/2012): Created new record with 8 non-zero financial metrics
+[2025-03-21 23:49:09,839] INFO: tjx (10/2012): Updated existing record with 8 non-zero financial metrics
+[2025-03-21 23:49:09,852] INFO: Trying adjusted date: 1/2013 (original: 2/2013)
+[2025-03-21 23:49:09,864] INFO: Found existing row with adjusted date: 1/2013
+[2025-03-21 23:49:09,876] INFO: tjx (1/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:49:09,888] INFO: Trying adjusted date: 4/2013 (original: 5/2013)
+[2025-03-21 23:49:09,900] INFO: Found existing row with adjusted date: 4/2013
+[2025-03-21 23:49:09,911] INFO: tjx (4/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 23:49:09,925] INFO: Trying adjusted date: 7/2013 (original: 8/2013)
+[2025-03-21 23:49:09,936] INFO: Found existing row with adjusted date: 7/2013
+[2025-03-21 23:49:09,948] INFO: tjx (7/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-21 23:49:09,961] INFO: Trying adjusted date: 10/2013 (original: 11/2013)
+[2025-03-21 23:49:09,973] INFO: Found existing row with adjusted date: 10/2013
+[2025-03-21 23:49:09,984] INFO: tjx (10/2013): Updated existing record with 8 non-zero financial metrics
+[2025-03-21 23:49:09,997] INFO: Trying adjusted date: 1/2014 (original: 2/2014)
+[2025-03-21 23:49:10,007] INFO: Found existing row with adjusted date: 1/2014
+[2025-03-21 23:49:10,019] INFO: tjx (1/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:49:10,031] INFO: Trying adjusted date: 4/2014 (original: 5/2014)
+[2025-03-21 23:49:10,043] INFO: Found existing row with adjusted date: 4/2014
+[2025-03-21 23:49:10,054] INFO: tjx (4/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 23:49:10,067] INFO: Trying adjusted date: 7/2014 (original: 8/2014)
+[2025-03-21 23:49:10,079] INFO: Found existing row with adjusted date: 7/2014
+[2025-03-21 23:49:10,091] INFO: tjx (7/2014): Updated existing record with 8 non-zero financial metrics
+[2025-03-21 23:49:10,104] INFO: Trying adjusted date: 10/2014 (original: 11/2014)
+[2025-03-21 23:49:10,115] INFO: Found existing row with adjusted date: 10/2014
+[2025-03-21 23:49:10,127] INFO: tjx (10/2014): Updated existing record with 9 non-zero financial metrics
+[2025-03-21 23:49:10,154] INFO: tjx (1/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 23:49:10,167] INFO: Trying adjusted date: 4/2015 (original: 5/2015)
+[2025-03-21 23:49:10,179] INFO: Found existing row with adjusted date: 4/2015
+[2025-03-21 23:49:10,191] INFO: tjx (4/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 23:49:10,203] INFO: Trying adjusted date: 7/2015 (original: 8/2015)
+[2025-03-21 23:49:10,215] INFO: Found existing row with adjusted date: 7/2015
+[2025-03-21 23:49:10,227] INFO: tjx (7/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 23:49:10,250] INFO: tjx (10/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 23:49:10,275] INFO: tjx (1/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 23:49:10,301] INFO: tjx (4/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 23:49:10,326] INFO: tjx (7/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 23:49:10,351] INFO: tjx (10/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 23:49:10,376] INFO: tjx (1/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 23:49:10,403] INFO: tjx (4/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 23:49:10,428] INFO: tjx (7/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:49:10,454] INFO: tjx (10/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:49:10,468] INFO: Trying adjusted date: 1/2018 (original: 2/2018)
+[2025-03-21 23:49:10,480] INFO: Found existing row with adjusted date: 1/2018
+[2025-03-21 23:49:10,492] INFO: tjx (1/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 23:49:10,505] INFO: Trying adjusted date: 4/2018 (original: 5/2018)
+[2025-03-21 23:49:10,517] INFO: Found existing row with adjusted date: 4/2018
+[2025-03-21 23:49:10,529] INFO: tjx (4/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 23:49:10,541] INFO: Trying adjusted date: 7/2018 (original: 8/2018)
+[2025-03-21 23:49:10,553] INFO: Found existing row with adjusted date: 7/2018
+[2025-03-21 23:49:10,565] INFO: tjx (7/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 23:49:10,577] INFO: Trying adjusted date: 10/2018 (original: 11/2018)
+[2025-03-21 23:49:10,589] INFO: Found existing row with adjusted date: 10/2018
+[2025-03-21 23:49:10,601] INFO: tjx (10/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 23:49:10,614] INFO: Trying adjusted date: 1/2019 (original: 2/2019)
+[2025-03-21 23:49:10,626] INFO: Found existing row with adjusted date: 1/2019
+[2025-03-21 23:49:10,638] INFO: tjx (1/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 23:49:10,651] INFO: Trying adjusted date: 4/2019 (original: 5/2019)
+[2025-03-21 23:49:10,663] INFO: Found existing row with adjusted date: 4/2019
+[2025-03-21 23:49:10,675] INFO: tjx (4/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 23:49:10,689] INFO: Trying adjusted date: 7/2019 (original: 8/2019)
+[2025-03-21 23:49:10,701] INFO: Found existing row with adjusted date: 7/2019
+[2025-03-21 23:49:10,713] INFO: tjx (7/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:49:10,726] INFO: Trying adjusted date: 10/2019 (original: 11/2019)
+[2025-03-21 23:49:10,738] INFO: Found existing row with adjusted date: 10/2019
+[2025-03-21 23:49:10,751] INFO: tjx (10/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:49:10,763] INFO: Trying adjusted date: 1/2020 (original: 2/2020)
+[2025-03-21 23:49:10,775] INFO: Found existing row with adjusted date: 1/2020
+[2025-03-21 23:49:10,787] INFO: tjx (1/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 23:49:10,799] INFO: Trying adjusted date: 4/2020 (original: 5/2020)
+[2025-03-21 23:49:10,811] INFO: Found existing row with adjusted date: 4/2020
+[2025-03-21 23:49:10,823] INFO: tjx (4/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 23:49:10,836] INFO: Trying adjusted date: 7/2020 (original: 8/2020)
+[2025-03-21 23:49:10,848] INFO: Found existing row with adjusted date: 7/2020
+[2025-03-21 23:49:10,859] INFO: tjx (7/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:49:10,884] INFO: tjx (10/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:49:10,909] INFO: tjx (1/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 23:49:10,922] INFO: Trying adjusted date: 4/2021 (original: 5/2021)
+[2025-03-21 23:49:10,934] INFO: Found existing row with adjusted date: 4/2021
+[2025-03-21 23:49:10,934] WARNING: tjx (4/2021): Found zero values for fields: Share Repurchases
+[2025-03-21 23:49:10,946] INFO: tjx (4/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 23:49:10,971] INFO: tjx (7/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:49:10,995] INFO: tjx (10/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:49:11,020] INFO: tjx (1/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 23:49:11,045] INFO: tjx (4/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 23:49:11,070] INFO: tjx (7/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:49:11,096] INFO: tjx (10/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:49:11,120] INFO: tjx (1/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 23:49:11,147] INFO: tjx (4/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 23:49:11,172] INFO: tjx (7/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:49:11,197] INFO: tjx (10/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:49:11,211] INFO: Trying adjusted date: 1/2024 (original: 2/2024)
+[2025-03-21 23:49:11,223] INFO: Found existing row with adjusted date: 1/2024
+[2025-03-21 23:49:11,235] INFO: tjx (1/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 23:49:11,248] INFO: Trying adjusted date: 4/2024 (original: 5/2024)
+[2025-03-21 23:49:11,260] INFO: Found existing row with adjusted date: 4/2024
+[2025-03-21 23:49:11,271] INFO: tjx (4/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 23:49:11,285] INFO: Trying adjusted date: 7/2024 (original: 8/2024)
+[2025-03-21 23:49:11,297] INFO: Found existing row with adjusted date: 7/2024
+[2025-03-21 23:49:11,308] INFO: tjx (7/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 23:49:11,321] INFO: Trying adjusted date: 10/2024 (original: 11/2024)
+[2025-03-21 23:49:11,333] INFO: Found existing row with adjusted date: 10/2024
+[2025-03-21 23:49:11,345] INFO: tjx (10/2024): Updated existing record with 11 non-zero financial metrics

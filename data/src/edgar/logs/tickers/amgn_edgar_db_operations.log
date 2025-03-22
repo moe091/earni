@@ -1,0 +1,81 @@
+[2025-03-21 22:47:17,032] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-21 22:47:17,043] WARNING: amgn (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-21 22:47:17,044] INFO: amgn (3/2010): Created new record with 17 non-zero financial metrics
+[2025-03-21 22:47:17,058] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-21 22:47:17,070] WARNING: amgn (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-21 22:47:17,071] INFO: amgn (6/2010): Created new record with 13 non-zero financial metrics
+[2025-03-21 22:47:17,085] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-21 22:47:17,097] WARNING: amgn (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-21 22:47:17,098] INFO: amgn (9/2010): Created new record with 13 non-zero financial metrics
+[2025-03-21 22:47:17,112] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-21 22:47:17,124] WARNING: amgn (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-21 22:47:17,125] INFO: amgn (12/2010): Created new record with 18 non-zero financial metrics
+[2025-03-21 22:47:17,137] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-21 22:47:17,149] WARNING: amgn (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-21 22:47:17,150] INFO: amgn (3/2011): Created new record with 18 non-zero financial metrics
+[2025-03-21 22:47:17,164] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-21 22:47:17,177] WARNING: amgn (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-21 22:47:17,177] INFO: amgn (6/2011): Created new record with 13 non-zero financial metrics
+[2025-03-21 22:47:17,190] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-21 22:47:17,202] WARNING: amgn (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-21 22:47:17,202] INFO: amgn (9/2011): Created new record with 13 non-zero financial metrics
+[2025-03-21 22:47:17,215] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-21 22:47:17,226] WARNING: amgn (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-21 22:47:17,226] INFO: amgn (12/2011): Created new record with 18 non-zero financial metrics
+[2025-03-21 22:47:17,239] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-21 22:47:17,251] WARNING: amgn (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-21 22:47:17,252] INFO: amgn (3/2012): Created new record with 18 non-zero financial metrics
+[2025-03-21 22:47:17,276] INFO: amgn (6/2012): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 22:47:17,300] INFO: amgn (9/2012): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 22:47:17,325] INFO: amgn (12/2012): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:47:17,350] INFO: amgn (3/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:47:17,374] INFO: amgn (6/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:17,398] INFO: amgn (9/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:17,423] INFO: amgn (12/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:47:17,436] WARNING: amgn (3/2014): Found zero values for fields: Share Repurchases
+[2025-03-21 22:47:17,447] INFO: amgn (3/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:47:17,472] INFO: amgn (6/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:17,496] INFO: amgn (9/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:17,524] INFO: amgn (12/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:47:17,549] INFO: amgn (3/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:47:17,574] INFO: amgn (6/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:17,599] INFO: amgn (9/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:17,624] INFO: amgn (12/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:47:17,648] INFO: amgn (3/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:47:17,674] INFO: amgn (6/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:17,698] INFO: amgn (9/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:17,722] INFO: amgn (12/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:47:17,747] INFO: amgn (3/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:47:17,772] INFO: amgn (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:17,797] INFO: amgn (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:17,822] INFO: amgn (12/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:47:17,847] INFO: amgn (3/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:47:17,873] INFO: amgn (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:17,899] INFO: amgn (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:17,924] INFO: amgn (12/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:47:17,949] INFO: amgn (3/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:47:17,973] INFO: amgn (6/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:17,999] INFO: amgn (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:18,024] INFO: amgn (12/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:47:18,049] INFO: amgn (3/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:47:18,075] INFO: amgn (6/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:18,100] INFO: amgn (9/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:18,125] INFO: amgn (12/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:47:18,150] INFO: amgn (3/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:47:18,176] INFO: amgn (6/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:18,201] INFO: amgn (9/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:18,227] INFO: amgn (12/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:47:18,255] INFO: amgn (3/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:47:18,281] INFO: amgn (6/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:18,305] INFO: amgn (9/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:18,331] INFO: amgn (12/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:47:18,344] WARNING: amgn (3/2023): Found zero values for fields: Share Repurchases
+[2025-03-21 22:47:18,357] INFO: amgn (3/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:47:18,383] INFO: amgn (6/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:18,407] INFO: amgn (9/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:18,421] WARNING: amgn (12/2023): Found zero values for fields: Share Repurchases
+[2025-03-21 22:47:18,433] INFO: amgn (12/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:47:18,458] INFO: amgn (3/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 22:47:18,484] INFO: amgn (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:18,509] INFO: amgn (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 22:47:18,534] INFO: amgn (12/2024): Updated existing record with 19 non-zero financial metrics

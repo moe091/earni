@@ -1,0 +1,75 @@
+[2025-03-22 14:25:19,455] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 14:25:19,470] WARNING: agnc (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 14:25:19,470] INFO: agnc (3/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 14:25:19,487] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 14:25:19,502] WARNING: agnc (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 14:25:19,503] INFO: agnc (6/2011): Created new record with 8 non-zero financial metrics
+[2025-03-22 14:25:19,519] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 14:25:19,533] WARNING: agnc (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 14:25:19,534] INFO: agnc (9/2011): Created new record with 8 non-zero financial metrics
+[2025-03-22 14:25:19,550] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 14:25:19,563] WARNING: agnc (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 14:25:19,564] INFO: agnc (12/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 14:25:19,581] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 14:25:19,594] WARNING: agnc (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 14:25:19,595] INFO: agnc (3/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 14:25:19,612] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 14:25:19,626] WARNING: agnc (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 14:25:19,627] INFO: agnc (6/2012): Created new record with 8 non-zero financial metrics
+[2025-03-22 14:25:19,659] INFO: agnc (9/2012): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 14:25:19,689] INFO: agnc (12/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 14:25:19,720] INFO: agnc (3/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 14:25:19,750] INFO: agnc (6/2013): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 14:25:19,781] INFO: agnc (9/2013): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 14:25:19,812] INFO: agnc (12/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 14:25:19,842] INFO: agnc (3/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 14:25:19,873] INFO: agnc (6/2014): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 14:25:19,904] INFO: agnc (9/2014): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 14:25:19,934] INFO: agnc (12/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 14:25:19,950] WARNING: agnc (3/2015): Found zero values for fields: Share Repurchases
+[2025-03-22 14:25:19,964] INFO: agnc (3/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 14:25:19,996] INFO: agnc (6/2015): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 14:25:20,028] INFO: agnc (9/2015): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:25:20,060] INFO: agnc (12/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 14:25:20,091] INFO: agnc (3/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 14:25:20,121] INFO: agnc (6/2016): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 14:25:20,151] INFO: agnc (9/2016): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:25:20,183] INFO: agnc (12/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:25:20,199] WARNING: agnc (3/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 14:25:20,213] INFO: agnc (3/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 14:25:20,244] INFO: agnc (6/2017): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 14:25:20,275] INFO: agnc (9/2017): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 14:25:20,292] WARNING: agnc (12/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 14:25:20,307] INFO: agnc (12/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 14:25:20,337] INFO: agnc (3/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 14:25:20,367] INFO: agnc (6/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:25:20,399] INFO: agnc (9/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:25:20,415] WARNING: agnc (12/2018): Found zero values for fields: Share Repurchases
+[2025-03-22 14:25:20,430] INFO: agnc (12/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:25:20,459] INFO: agnc (3/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 14:25:20,490] INFO: agnc (6/2019): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:25:20,520] INFO: agnc (9/2019): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:25:20,550] INFO: agnc (12/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:25:20,583] INFO: agnc (3/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 14:25:20,614] INFO: agnc (6/2020): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:25:20,646] INFO: agnc (9/2020): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:25:20,677] INFO: agnc (12/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:25:20,708] INFO: agnc (3/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 14:25:20,739] INFO: agnc (6/2021): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 14:25:20,769] INFO: agnc (9/2021): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 14:25:20,799] INFO: agnc (12/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:25:20,815] WARNING: agnc (3/2022): Found zero values for fields: Share Repurchases
+[2025-03-22 14:25:20,829] INFO: agnc (3/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 14:25:20,863] INFO: agnc (6/2022): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 14:25:20,894] INFO: agnc (9/2022): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 14:25:20,924] INFO: agnc (12/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:25:20,954] INFO: agnc (3/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 14:25:20,985] INFO: agnc (6/2023): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 14:25:21,015] INFO: agnc (9/2023): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 14:25:21,032] WARNING: agnc (12/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 14:25:21,046] INFO: agnc (12/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 14:25:21,079] INFO: agnc (3/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 14:25:21,108] INFO: agnc (6/2024): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 14:25:21,138] INFO: agnc (9/2024): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 14:25:21,154] WARNING: agnc (12/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 14:25:21,168] INFO: agnc (12/2024): Updated existing record with 11 non-zero financial metrics

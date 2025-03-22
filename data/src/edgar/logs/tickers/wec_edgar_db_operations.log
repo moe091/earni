@@ -1,0 +1,80 @@
+[2025-03-22 03:20:37,932] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 03:20:37,943] WARNING: wec (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 03:20:37,944] INFO: wec (3/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 03:20:37,959] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 03:20:37,972] WARNING: wec (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 03:20:37,972] INFO: wec (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 03:20:37,985] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 03:20:37,998] WARNING: wec (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 03:20:37,998] INFO: wec (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 03:20:38,012] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 03:20:38,025] WARNING: wec (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 03:20:38,025] INFO: wec (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 03:20:38,039] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 03:20:38,051] WARNING: wec (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 03:20:38,052] INFO: wec (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 03:20:38,065] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 03:20:38,077] WARNING: wec (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 03:20:38,077] INFO: wec (6/2011): Created new record with 9 non-zero financial metrics
+[2025-03-22 03:20:38,091] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 03:20:38,103] WARNING: wec (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 03:20:38,104] INFO: wec (9/2011): Created new record with 9 non-zero financial metrics
+[2025-03-22 03:20:38,119] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 03:20:38,132] WARNING: wec (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 03:20:38,133] INFO: wec (12/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 03:20:38,146] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 03:20:38,158] WARNING: wec (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 03:20:38,158] INFO: wec (3/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 03:20:38,172] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 03:20:38,184] WARNING: wec (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 03:20:38,185] INFO: wec (6/2012): Created new record with 9 non-zero financial metrics
+[2025-03-22 03:20:38,211] INFO: wec (9/2012): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 03:20:38,237] INFO: wec (12/2012): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:20:38,263] INFO: wec (3/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 03:20:38,288] INFO: wec (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 03:20:38,314] INFO: wec (9/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:20:38,341] INFO: wec (12/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:20:38,366] INFO: wec (3/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:20:38,393] INFO: wec (6/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:20:38,418] INFO: wec (9/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:20:38,446] INFO: wec (12/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:20:38,472] INFO: wec (3/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:20:38,498] INFO: wec (6/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 03:20:38,524] INFO: wec (9/2015): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 03:20:38,550] INFO: wec (12/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:20:38,576] INFO: wec (3/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:20:38,602] INFO: wec (6/2016): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:20:38,627] INFO: wec (9/2016): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:20:38,654] INFO: wec (12/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:20:38,680] INFO: wec (3/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:20:38,706] INFO: wec (6/2017): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:20:38,733] INFO: wec (9/2017): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:20:38,760] INFO: wec (12/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:20:38,786] INFO: wec (3/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:20:38,812] INFO: wec (6/2018): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:20:38,840] INFO: wec (9/2018): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:20:38,866] INFO: wec (12/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:20:38,891] INFO: wec (3/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:20:38,917] INFO: wec (6/2019): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:20:38,945] INFO: wec (9/2019): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 03:20:38,970] INFO: wec (12/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:20:38,996] INFO: wec (3/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:20:39,024] INFO: wec (6/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:20:39,051] INFO: wec (9/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:20:39,076] INFO: wec (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:20:39,103] INFO: wec (3/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:20:39,129] INFO: wec (6/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:20:39,158] INFO: wec (9/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:20:39,185] INFO: wec (12/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:20:39,211] INFO: wec (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:20:39,237] INFO: wec (6/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:20:39,264] INFO: wec (9/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:20:39,292] INFO: wec (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:20:39,318] INFO: wec (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:20:39,345] INFO: wec (6/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:20:39,371] INFO: wec (9/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:20:39,398] INFO: wec (12/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:20:39,424] INFO: wec (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:20:39,451] INFO: wec (6/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:20:39,477] INFO: wec (9/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 03:20:39,505] INFO: wec (12/2024): Updated existing record with 16 non-zero financial metrics

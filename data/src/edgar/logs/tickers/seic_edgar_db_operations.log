@@ -1,0 +1,77 @@
+[2025-03-22 12:10:29,827] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 12:10:29,842] WARNING: seic (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 12:10:29,842] INFO: seic (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 12:10:29,859] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 12:10:29,876] WARNING: seic (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 12:10:29,876] INFO: seic (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 12:10:29,893] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 12:10:29,908] WARNING: seic (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 12:10:29,909] INFO: seic (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 12:10:29,924] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 12:10:29,939] WARNING: seic (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 12:10:29,939] INFO: seic (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 12:10:29,955] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 12:10:29,969] WARNING: seic (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 12:10:29,970] INFO: seic (6/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 12:10:29,985] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 12:10:29,999] WARNING: seic (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 12:10:30,000] INFO: seic (9/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 12:10:30,016] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 12:10:30,031] WARNING: seic (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 12:10:30,031] INFO: seic (12/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 12:10:30,048] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 12:10:30,062] WARNING: seic (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 12:10:30,062] INFO: seic (3/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 12:10:30,077] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 12:10:30,092] WARNING: seic (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 12:10:30,092] INFO: seic (6/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 12:10:30,122] INFO: seic (9/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:10:30,154] INFO: seic (12/2012): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:10:30,185] INFO: seic (3/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 12:10:30,216] INFO: seic (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 12:10:30,246] INFO: seic (9/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 12:10:30,277] INFO: seic (12/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:10:30,307] INFO: seic (3/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:10:30,336] INFO: seic (6/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 12:10:30,366] INFO: seic (9/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 12:10:30,396] INFO: seic (12/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:10:30,426] INFO: seic (3/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:10:30,455] INFO: seic (6/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 12:10:30,484] INFO: seic (9/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 12:10:30,515] INFO: seic (12/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:10:30,544] INFO: seic (3/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:10:30,574] INFO: seic (6/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 12:10:30,604] INFO: seic (9/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 12:10:30,633] INFO: seic (12/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:10:30,663] INFO: seic (3/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:10:30,693] INFO: seic (6/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 12:10:30,722] INFO: seic (9/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 12:10:30,752] INFO: seic (12/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:10:30,782] INFO: seic (3/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:10:30,811] INFO: seic (6/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:10:30,842] INFO: seic (9/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:10:30,872] INFO: seic (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:10:30,901] INFO: seic (3/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:10:30,933] INFO: seic (6/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:10:30,964] INFO: seic (9/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 12:10:30,993] INFO: seic (12/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:10:31,023] INFO: seic (3/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:10:31,052] INFO: seic (6/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:10:31,082] INFO: seic (9/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:10:31,111] INFO: seic (12/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:10:31,140] INFO: seic (3/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 12:10:31,171] INFO: seic (6/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:10:31,200] INFO: seic (9/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:10:31,231] INFO: seic (12/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:10:31,261] INFO: seic (3/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:10:31,290] INFO: seic (6/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:10:31,320] INFO: seic (9/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:10:31,349] INFO: seic (12/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:10:31,378] INFO: seic (3/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:10:31,408] INFO: seic (6/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:10:31,439] INFO: seic (9/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:10:31,469] INFO: seic (12/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:10:31,499] INFO: seic (3/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 12:10:31,528] INFO: seic (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:10:31,557] INFO: seic (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:10:31,587] INFO: seic (12/2024): Updated existing record with 20 non-zero financial metrics

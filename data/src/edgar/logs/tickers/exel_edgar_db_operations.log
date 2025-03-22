@@ -1,0 +1,113 @@
+[2025-03-22 15:24:17,490] INFO: Trying adjusted date: 6/2011 (original: 7/2011)
+[2025-03-22 15:24:17,504] WARNING: exel (7/2011): No existing record found(7/2011, 2011-07-01) - creating new one
+[2025-03-22 15:24:17,504] INFO: exel (7/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:24:17,522] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 15:24:17,537] WARNING: exel (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 15:24:17,537] INFO: exel (9/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 15:24:17,554] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 15:24:17,569] WARNING: exel (12/2011): No existing record found(12/2011, 2011-12-30) - creating new one
+[2025-03-22 15:24:17,570] INFO: exel (12/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 15:24:17,587] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 15:24:17,601] WARNING: exel (3/2012): No existing record found(3/2012, 2012-03-30) - creating new one
+[2025-03-22 15:24:17,602] INFO: exel (3/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 15:24:17,618] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 15:24:17,633] WARNING: exel (6/2012): No existing record found(6/2012, 2012-06-29) - creating new one
+[2025-03-22 15:24:17,634] INFO: exel (6/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 15:24:17,649] INFO: Trying adjusted date: 10/2012 (original: 9/2012)
+[2025-03-22 15:24:17,663] WARNING: exel (9/2012): No existing record found(9/2012, 2012-09-30) - creating new one
+[2025-03-22 15:24:17,664] INFO: exel (9/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 15:24:17,681] WARNING: exel (12/2012): Found zero values for fields: Inventory
+[2025-03-22 15:24:17,696] INFO: exel (12/2012): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 15:24:17,727] INFO: exel (3/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:24:17,758] INFO: exel (6/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:24:17,789] INFO: exel (9/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:24:17,820] INFO: exel (12/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:24:17,853] INFO: exel (3/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 15:24:17,885] INFO: exel (6/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:24:17,916] INFO: exel (9/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:24:17,947] INFO: exel (12/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 15:24:17,964] INFO: Trying adjusted date: 3/2015 (original: 4/2015)
+[2025-03-22 15:24:17,978] INFO: Found existing row with adjusted date: 3/2015
+[2025-03-22 15:24:17,992] INFO: exel (3/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:24:18,008] INFO: Trying adjusted date: 6/2015 (original: 7/2015)
+[2025-03-22 15:24:18,022] INFO: Found existing row with adjusted date: 6/2015
+[2025-03-22 15:24:18,037] INFO: exel (6/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:24:18,053] INFO: Trying adjusted date: 9/2015 (original: 10/2015)
+[2025-03-22 15:24:18,067] INFO: Found existing row with adjusted date: 9/2015
+[2025-03-22 15:24:18,081] INFO: exel (9/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:24:18,096] INFO: Trying adjusted date: 12/2015 (original: 1/2016)
+[2025-03-22 15:24:18,109] INFO: Found existing row with adjusted date: 12/2015
+[2025-03-22 15:24:18,124] INFO: exel (12/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:24:18,140] INFO: Trying adjusted date: 3/2016 (original: 4/2016)
+[2025-03-22 15:24:18,155] INFO: Found existing row with adjusted date: 3/2016
+[2025-03-22 15:24:18,168] INFO: exel (3/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:24:18,185] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-22 15:24:18,198] INFO: Found existing row with adjusted date: 6/2016
+[2025-03-22 15:24:18,212] INFO: exel (6/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:24:18,244] INFO: exel (9/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:24:18,261] INFO: Trying adjusted date: 1/2017 (original: 12/2016)
+[2025-03-22 15:24:18,275] WARNING: exel (12/2016): No existing record found(12/2016, 2016-12-30) - creating new one
+[2025-03-22 15:24:18,275] INFO: exel (12/2016): Created new record with 17 non-zero financial metrics
+[2025-03-22 15:24:18,306] INFO: exel (3/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:24:18,323] WARNING: exel (6/2017): Found zero values for fields: Long Term Debt
+[2025-03-22 15:24:18,337] INFO: exel (6/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:24:18,354] WARNING: exel (9/2017): Found zero values for fields: Long Term Debt, Interest Expense
+[2025-03-22 15:24:18,368] INFO: exel (9/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:24:18,385] WARNING: exel (12/2017): Found zero values for fields: Long Term Debt
+[2025-03-22 15:24:18,399] INFO: exel (12/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 15:24:18,415] WARNING: exel (3/2018): Found zero values for fields: Interest Expense
+[2025-03-22 15:24:18,430] INFO: exel (3/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:24:18,447] WARNING: exel (6/2018): Found zero values for fields: Interest Expense
+[2025-03-22 15:24:18,461] INFO: exel (6/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:24:18,491] INFO: exel (9/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:24:18,507] WARNING: exel (12/2018): Found zero values for fields: Interest Expense
+[2025-03-22 15:24:18,521] INFO: exel (12/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:24:18,552] INFO: exel (3/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:24:17,191] INFO: exel (6/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:24:17,222] INFO: exel (9/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:24:17,239] INFO: Trying adjusted date: 12/2019 (original: 1/2020)
+[2025-03-22 15:24:17,254] INFO: Found existing row with adjusted date: 12/2019
+[2025-03-22 15:24:17,254] WARNING: exel (12/2019): Found zero values for fields: Interest Expense
+[2025-03-22 15:24:17,268] INFO: exel (12/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 15:24:17,285] INFO: Trying adjusted date: 3/2020 (original: 4/2020)
+[2025-03-22 15:24:17,299] INFO: Found existing row with adjusted date: 3/2020
+[2025-03-22 15:24:17,314] INFO: exel (3/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:24:17,330] INFO: Trying adjusted date: 6/2020 (original: 7/2020)
+[2025-03-22 15:24:17,344] INFO: Found existing row with adjusted date: 6/2020
+[2025-03-22 15:24:17,358] INFO: exel (6/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:24:17,374] INFO: Trying adjusted date: 9/2020 (original: 10/2020)
+[2025-03-22 15:24:17,388] INFO: Found existing row with adjusted date: 9/2020
+[2025-03-22 15:24:17,402] INFO: exel (9/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:24:17,418] INFO: Trying adjusted date: 12/2020 (original: 1/2021)
+[2025-03-22 15:24:17,432] INFO: Found existing row with adjusted date: 12/2020
+[2025-03-22 15:24:17,446] INFO: exel (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:24:17,462] INFO: Trying adjusted date: 3/2021 (original: 4/2021)
+[2025-03-22 15:24:17,476] INFO: Found existing row with adjusted date: 3/2021
+[2025-03-22 15:24:17,476] WARNING: exel (3/2021): Found zero values for fields: EPS Diluted
+[2025-03-22 15:24:17,490] INFO: exel (3/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 15:24:17,507] INFO: Trying adjusted date: 6/2021 (original: 7/2021)
+[2025-03-22 15:24:17,521] INFO: Found existing row with adjusted date: 6/2021
+[2025-03-22 15:24:17,536] INFO: exel (6/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:24:17,552] INFO: Trying adjusted date: 9/2021 (original: 10/2021)
+[2025-03-22 15:24:17,566] INFO: Found existing row with adjusted date: 9/2021
+[2025-03-22 15:24:17,580] INFO: exel (9/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:24:17,610] INFO: exel (12/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:24:17,627] INFO: Trying adjusted date: 3/2022 (original: 4/2022)
+[2025-03-22 15:24:17,641] INFO: Found existing row with adjusted date: 3/2022
+[2025-03-22 15:24:17,656] INFO: exel (3/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:24:17,672] INFO: Trying adjusted date: 6/2022 (original: 7/2022)
+[2025-03-22 15:24:17,686] INFO: Found existing row with adjusted date: 6/2022
+[2025-03-22 15:24:17,700] INFO: exel (6/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:24:17,730] INFO: exel (9/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:24:17,763] INFO: exel (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:24:17,793] INFO: exel (3/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:24:17,824] INFO: exel (6/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:24:17,841] WARNING: exel (9/2023): Found zero values for fields: EPS Diluted
+[2025-03-22 15:24:17,856] INFO: exel (9/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:24:17,886] INFO: exel (12/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:24:17,917] INFO: exel (3/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 15:24:17,948] INFO: exel (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:24:17,979] INFO: exel (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:24:17,997] INFO: Trying adjusted date: 12/2024 (original: 1/2025)
+[2025-03-22 15:24:18,011] WARNING: exel (1/2025): No existing record found(1/2025, 2025-01-03) - creating new one
+[2025-03-22 15:24:18,012] INFO: exel (1/2025): Created new record with 19 non-zero financial metrics

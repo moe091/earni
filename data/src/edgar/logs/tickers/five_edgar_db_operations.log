@@ -1,0 +1,109 @@
+[2025-03-22 12:13:20,909] INFO: Trying adjusted date: 8/2012 (original: 7/2012)
+[2025-03-22 12:13:20,923] WARNING: five (7/2012): No existing record found(7/2012, 2012-07-28) - creating new one
+[2025-03-22 12:13:20,923] INFO: five (7/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 12:13:20,955] INFO: five (10/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:20,971] INFO: Trying adjusted date: 1/2013 (original: 2/2013)
+[2025-03-22 12:13:20,985] INFO: Found existing row with adjusted date: 1/2013
+[2025-03-22 12:13:20,999] INFO: five (1/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:13:21,016] INFO: Trying adjusted date: 4/2013 (original: 5/2013)
+[2025-03-22 12:13:21,030] INFO: Found existing row with adjusted date: 4/2013
+[2025-03-22 12:13:21,045] INFO: five (4/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:13:21,061] INFO: Trying adjusted date: 7/2013 (original: 8/2013)
+[2025-03-22 12:13:21,076] INFO: Found existing row with adjusted date: 7/2013
+[2025-03-22 12:13:21,091] INFO: five (7/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:21,107] INFO: Trying adjusted date: 10/2013 (original: 11/2013)
+[2025-03-22 12:13:21,121] INFO: Found existing row with adjusted date: 10/2013
+[2025-03-22 12:13:21,135] INFO: five (10/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:21,151] INFO: Trying adjusted date: 1/2014 (original: 2/2014)
+[2025-03-22 12:13:21,165] INFO: Found existing row with adjusted date: 1/2014
+[2025-03-22 12:13:21,179] INFO: five (1/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:13:21,195] INFO: Trying adjusted date: 4/2014 (original: 5/2014)
+[2025-03-22 12:13:21,209] INFO: Found existing row with adjusted date: 4/2014
+[2025-03-22 12:13:21,223] INFO: five (4/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:13:21,239] INFO: Trying adjusted date: 7/2014 (original: 8/2014)
+[2025-03-22 12:13:21,253] INFO: Found existing row with adjusted date: 7/2014
+[2025-03-22 12:13:21,267] INFO: five (7/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:21,283] INFO: Trying adjusted date: 10/2014 (original: 11/2014)
+[2025-03-22 12:13:21,297] INFO: Found existing row with adjusted date: 10/2014
+[2025-03-22 12:13:21,312] INFO: five (10/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:21,341] INFO: five (1/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:13:21,359] INFO: Trying adjusted date: 4/2015 (original: 5/2015)
+[2025-03-22 12:13:21,373] INFO: Found existing row with adjusted date: 4/2015
+[2025-03-22 12:13:21,387] INFO: five (4/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 12:13:21,402] INFO: Trying adjusted date: 7/2015 (original: 8/2015)
+[2025-03-22 12:13:21,415] INFO: Found existing row with adjusted date: 7/2015
+[2025-03-22 12:13:21,429] INFO: five (7/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:21,457] INFO: five (10/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:21,487] INFO: five (1/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:13:21,516] INFO: five (4/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:13:21,546] INFO: five (7/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:21,575] INFO: five (10/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:21,604] INFO: five (1/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:13:21,633] INFO: five (4/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:13:21,663] INFO: five (7/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:21,692] INFO: five (10/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:21,707] INFO: Trying adjusted date: 1/2018 (original: 2/2018)
+[2025-03-22 12:13:21,721] INFO: Found existing row with adjusted date: 1/2018
+[2025-03-22 12:13:21,735] INFO: five (1/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:13:21,751] INFO: Trying adjusted date: 4/2018 (original: 5/2018)
+[2025-03-22 12:13:21,764] INFO: Found existing row with adjusted date: 4/2018
+[2025-03-22 12:13:21,778] INFO: five (4/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:13:21,794] INFO: Trying adjusted date: 7/2018 (original: 8/2018)
+[2025-03-22 12:13:21,808] INFO: Found existing row with adjusted date: 7/2018
+[2025-03-22 12:13:21,821] INFO: five (7/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:21,837] INFO: Trying adjusted date: 10/2018 (original: 11/2018)
+[2025-03-22 12:13:21,851] INFO: Found existing row with adjusted date: 10/2018
+[2025-03-22 12:13:21,865] INFO: five (10/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:21,880] INFO: Trying adjusted date: 1/2019 (original: 2/2019)
+[2025-03-22 12:13:21,894] INFO: Found existing row with adjusted date: 1/2019
+[2025-03-22 12:13:21,908] INFO: five (1/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:13:21,923] INFO: Trying adjusted date: 4/2019 (original: 5/2019)
+[2025-03-22 12:13:21,936] INFO: Found existing row with adjusted date: 4/2019
+[2025-03-22 12:13:21,950] INFO: five (4/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:13:21,965] INFO: Trying adjusted date: 7/2019 (original: 8/2019)
+[2025-03-22 12:13:21,979] INFO: Found existing row with adjusted date: 7/2019
+[2025-03-22 12:13:21,993] INFO: five (7/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:22,008] INFO: Trying adjusted date: 10/2019 (original: 11/2019)
+[2025-03-22 12:13:22,021] INFO: Found existing row with adjusted date: 10/2019
+[2025-03-22 12:13:22,035] INFO: five (10/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:22,050] INFO: Trying adjusted date: 1/2020 (original: 2/2020)
+[2025-03-22 12:13:22,064] INFO: Found existing row with adjusted date: 1/2020
+[2025-03-22 12:13:22,077] INFO: five (1/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:13:22,093] INFO: Trying adjusted date: 4/2020 (original: 5/2020)
+[2025-03-22 12:13:22,107] INFO: Found existing row with adjusted date: 4/2020
+[2025-03-22 12:13:22,121] INFO: five (4/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:13:22,137] INFO: Trying adjusted date: 7/2020 (original: 8/2020)
+[2025-03-22 12:13:22,150] INFO: Found existing row with adjusted date: 7/2020
+[2025-03-22 12:13:22,164] INFO: five (7/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:22,194] INFO: five (10/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:22,224] INFO: five (1/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:13:22,240] INFO: Trying adjusted date: 4/2021 (original: 5/2021)
+[2025-03-22 12:13:22,255] INFO: Found existing row with adjusted date: 4/2021
+[2025-03-22 12:13:22,255] WARNING: five (4/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 12:13:22,269] INFO: five (4/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:13:22,298] INFO: five (7/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:22,327] INFO: five (10/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:22,357] INFO: five (1/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:13:22,389] INFO: five (4/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 12:13:22,420] INFO: five (7/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:22,450] INFO: five (10/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:22,479] INFO: five (1/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:13:22,495] WARNING: five (4/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 12:13:22,509] INFO: five (4/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:13:22,538] INFO: five (7/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:22,571] INFO: five (10/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 12:13:22,589] INFO: Trying adjusted date: 1/2024 (original: 2/2024)
+[2025-03-22 12:13:22,603] INFO: Found existing row with adjusted date: 1/2024
+[2025-03-22 12:13:22,616] INFO: five (1/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 12:13:22,632] INFO: Trying adjusted date: 4/2024 (original: 5/2024)
+[2025-03-22 12:13:22,646] INFO: Found existing row with adjusted date: 4/2024
+[2025-03-22 12:13:22,659] INFO: five (4/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 12:13:22,674] INFO: Trying adjusted date: 7/2024 (original: 8/2024)
+[2025-03-22 12:13:22,687] INFO: Found existing row with adjusted date: 7/2024
+[2025-03-22 12:13:22,702] INFO: five (7/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 12:13:22,717] INFO: Trying adjusted date: 10/2024 (original: 11/2024)
+[2025-03-22 12:13:22,730] INFO: Found existing row with adjusted date: 10/2024
+[2025-03-22 12:13:22,744] INFO: five (10/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 12:13:22,759] INFO: Trying adjusted date: 1/2025 (original: 2/2025)
+[2025-03-22 12:13:22,772] WARNING: five (2/2025): No existing record found(2/2025, 2025-02-01) - creating new one
+[2025-03-22 12:13:22,773] INFO: five (2/2025): Created new record with 15 non-zero financial metrics

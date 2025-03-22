@@ -1,0 +1,83 @@
+[2025-03-22 08:32:33,405] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 08:32:33,417] WARNING: pkg (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 08:32:33,418] INFO: pkg (6/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 08:32:33,434] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 08:32:33,447] WARNING: pkg (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 08:32:33,448] INFO: pkg (9/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 08:32:33,464] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 08:32:33,476] WARNING: pkg (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 08:32:33,477] INFO: pkg (12/2010): Created new record with 18 non-zero financial metrics
+[2025-03-22 08:32:33,492] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 08:32:33,505] WARNING: pkg (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 08:32:33,506] INFO: pkg (3/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 08:32:33,522] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 08:32:33,534] WARNING: pkg (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 08:32:33,535] INFO: pkg (6/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 08:32:33,550] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 08:32:33,564] WARNING: pkg (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 08:32:33,564] INFO: pkg (9/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 08:32:33,579] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 08:32:33,592] WARNING: pkg (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 08:32:33,593] INFO: pkg (12/2011): Created new record with 21 non-zero financial metrics
+[2025-03-22 08:32:33,607] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 08:32:33,620] WARNING: pkg (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 08:32:33,621] INFO: pkg (3/2012): Created new record with 19 non-zero financial metrics
+[2025-03-22 08:32:33,637] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 08:32:33,650] WARNING: pkg (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 08:32:33,651] INFO: pkg (6/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 08:32:33,678] INFO: pkg (9/2012): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:32:33,705] INFO: pkg (12/2012): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 08:32:33,734] INFO: pkg (3/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:32:33,763] INFO: pkg (6/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:32:33,792] INFO: pkg (9/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:32:33,820] INFO: pkg (12/2013): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 08:32:33,835] WARNING: pkg (3/2014): Found zero values for fields: Share Repurchases
+[2025-03-22 08:32:33,849] INFO: pkg (3/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:32:33,876] INFO: pkg (6/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:32:33,904] INFO: pkg (9/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:32:33,920] WARNING: pkg (12/2014): Found zero values for fields: Share Repurchases
+[2025-03-22 08:32:33,933] INFO: pkg (12/2014): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 08:32:33,961] INFO: pkg (3/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:32:33,988] INFO: pkg (6/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:32:34,017] INFO: pkg (9/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:32:34,044] INFO: pkg (12/2015): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 08:32:34,073] INFO: pkg (3/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:32:34,101] INFO: pkg (6/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:32:34,130] INFO: pkg (9/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:32:34,144] INFO: Trying adjusted date: 3/2017 (original: 2/2017)
+[2025-03-22 08:32:34,157] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-22 08:32:34,170] INFO: pkg (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 08:32:34,185] WARNING: pkg (3/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 08:32:34,199] INFO: pkg (3/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:32:34,227] INFO: pkg (6/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:32:34,254] INFO: pkg (9/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:32:34,283] INFO: pkg (12/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 08:32:34,312] INFO: pkg (3/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:32:34,340] INFO: pkg (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:32:34,368] INFO: pkg (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:32:34,397] INFO: pkg (12/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 08:32:34,425] INFO: pkg (3/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:32:34,453] INFO: pkg (6/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:32:34,482] INFO: pkg (9/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:32:34,510] INFO: pkg (12/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 08:32:34,538] INFO: pkg (3/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:32:34,568] INFO: pkg (6/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:32:34,596] INFO: pkg (9/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:32:34,623] INFO: pkg (12/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 08:32:34,651] INFO: pkg (3/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:32:34,684] INFO: pkg (6/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:32:34,712] INFO: pkg (9/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:32:34,740] INFO: pkg (12/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 08:32:34,770] INFO: pkg (3/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:32:34,797] INFO: pkg (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:32:34,825] INFO: pkg (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:32:34,854] INFO: pkg (12/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 08:32:34,882] INFO: pkg (3/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:32:34,910] INFO: pkg (6/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:32:34,937] INFO: pkg (9/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:32:34,969] INFO: pkg (12/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 08:32:34,998] INFO: pkg (3/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:32:35,025] INFO: pkg (6/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:32:35,054] INFO: pkg (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:32:35,069] WARNING: pkg (12/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 08:32:35,082] INFO: pkg (12/2024): Updated existing record with 19 non-zero financial metrics

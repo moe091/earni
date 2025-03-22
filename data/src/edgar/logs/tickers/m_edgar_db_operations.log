@@ -1,0 +1,139 @@
+[2025-03-22 16:01:50,671] INFO: Trying adjusted date: 2/2010 (original: 1/2010)
+[2025-03-22 16:01:50,684] WARNING: m (1/2010): No existing record found(1/2010, 2010-01-30) - creating new one
+[2025-03-22 16:01:50,685] INFO: m (1/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:01:50,702] INFO: Trying adjusted date: 4/2010 (original: 5/2010)
+[2025-03-22 16:01:50,715] WARNING: m (5/2010): No existing record found(5/2010, 2010-05-01) - creating new one
+[2025-03-22 16:01:50,716] INFO: m (5/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:01:50,732] INFO: Trying adjusted date: 8/2010 (original: 7/2010)
+[2025-03-22 16:01:50,746] WARNING: m (7/2010): No existing record found(7/2010, 2010-07-31) - creating new one
+[2025-03-22 16:01:50,746] INFO: m (7/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:01:50,762] INFO: Trying adjusted date: 11/2010 (original: 10/2010)
+[2025-03-22 16:01:50,775] WARNING: m (10/2010): No existing record found(10/2010, 2010-10-30) - creating new one
+[2025-03-22 16:01:50,776] INFO: m (10/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:01:50,794] INFO: Trying adjusted date: 2/2011 (original: 1/2011)
+[2025-03-22 16:01:50,808] WARNING: m (1/2011): No existing record found(1/2011, 2011-01-29) - creating new one
+[2025-03-22 16:01:50,808] INFO: m (1/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:01:50,825] INFO: Trying adjusted date: 5/2011 (original: 4/2011)
+[2025-03-22 16:01:50,839] WARNING: m (4/2011): No existing record found(4/2011, 2011-04-30) - creating new one
+[2025-03-22 16:01:50,840] INFO: m (4/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:01:50,856] INFO: Trying adjusted date: 8/2011 (original: 7/2011)
+[2025-03-22 16:01:50,871] WARNING: m (7/2011): No existing record found(7/2011, 2011-07-30) - creating new one
+[2025-03-22 16:01:50,871] INFO: m (7/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:01:50,887] INFO: Trying adjusted date: 11/2011 (original: 10/2011)
+[2025-03-22 16:01:50,903] WARNING: m (10/2011): No existing record found(10/2011, 2011-10-29) - creating new one
+[2025-03-22 16:01:50,904] INFO: m (10/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:01:50,925] INFO: Trying adjusted date: 2/2012 (original: 1/2012)
+[2025-03-22 16:01:50,940] WARNING: m (1/2012): No existing record found(1/2012, 2012-01-28) - creating new one
+[2025-03-22 16:01:50,940] INFO: m (1/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:01:50,960] INFO: Trying adjusted date: 5/2012 (original: 4/2012)
+[2025-03-22 16:01:50,975] WARNING: m (4/2012): No existing record found(4/2012, 2012-04-28) - creating new one
+[2025-03-22 16:01:50,976] INFO: m (4/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:01:50,994] INFO: Trying adjusted date: 8/2012 (original: 7/2012)
+[2025-03-22 16:01:51,011] WARNING: m (7/2012): No existing record found(7/2012, 2012-07-28) - creating new one
+[2025-03-22 16:01:51,012] INFO: m (7/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,049] INFO: m (10/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,067] INFO: Trying adjusted date: 1/2013 (original: 2/2013)
+[2025-03-22 16:01:51,082] INFO: Found existing row with adjusted date: 1/2013
+[2025-03-22 16:01:51,103] INFO: m (1/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,125] INFO: Trying adjusted date: 4/2013 (original: 5/2013)
+[2025-03-22 16:01:51,143] INFO: Found existing row with adjusted date: 4/2013
+[2025-03-22 16:01:51,157] INFO: m (4/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,175] INFO: Trying adjusted date: 7/2013 (original: 8/2013)
+[2025-03-22 16:01:51,191] INFO: Found existing row with adjusted date: 7/2013
+[2025-03-22 16:01:51,207] INFO: m (7/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,225] INFO: Trying adjusted date: 10/2013 (original: 11/2013)
+[2025-03-22 16:01:51,241] INFO: Found existing row with adjusted date: 10/2013
+[2025-03-22 16:01:51,257] INFO: m (10/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,275] INFO: Trying adjusted date: 1/2014 (original: 2/2014)
+[2025-03-22 16:01:51,292] INFO: Found existing row with adjusted date: 1/2014
+[2025-03-22 16:01:51,309] INFO: m (1/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,333] INFO: Trying adjusted date: 4/2014 (original: 5/2014)
+[2025-03-22 16:01:51,352] INFO: Found existing row with adjusted date: 4/2014
+[2025-03-22 16:01:51,365] INFO: m (4/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,383] INFO: Trying adjusted date: 7/2014 (original: 8/2014)
+[2025-03-22 16:01:51,397] INFO: Found existing row with adjusted date: 7/2014
+[2025-03-22 16:01:51,412] INFO: m (7/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,429] INFO: Trying adjusted date: 10/2014 (original: 11/2014)
+[2025-03-22 16:01:51,443] INFO: Found existing row with adjusted date: 10/2014
+[2025-03-22 16:01:51,456] INFO: m (10/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,486] INFO: m (1/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,503] INFO: Trying adjusted date: 4/2015 (original: 5/2015)
+[2025-03-22 16:01:51,516] INFO: Found existing row with adjusted date: 4/2015
+[2025-03-22 16:01:51,530] INFO: m (4/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,546] INFO: Trying adjusted date: 7/2015 (original: 8/2015)
+[2025-03-22 16:01:51,559] INFO: Found existing row with adjusted date: 7/2015
+[2025-03-22 16:01:51,573] INFO: m (7/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,603] INFO: m (10/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,634] INFO: m (1/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,663] INFO: m (4/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,694] INFO: m (7/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,725] INFO: m (10/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,755] INFO: m (1/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,786] INFO: m (4/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,817] INFO: m (7/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,847] INFO: m (10/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,863] INFO: Trying adjusted date: 1/2018 (original: 2/2018)
+[2025-03-22 16:01:51,878] INFO: Found existing row with adjusted date: 1/2018
+[2025-03-22 16:01:51,891] INFO: m (1/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,908] INFO: Trying adjusted date: 4/2018 (original: 5/2018)
+[2025-03-22 16:01:51,923] INFO: Found existing row with adjusted date: 4/2018
+[2025-03-22 16:01:51,936] INFO: m (4/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,952] INFO: Trying adjusted date: 7/2018 (original: 8/2018)
+[2025-03-22 16:01:51,967] INFO: Found existing row with adjusted date: 7/2018
+[2025-03-22 16:01:51,981] INFO: m (7/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:51,998] INFO: Trying adjusted date: 10/2018 (original: 11/2018)
+[2025-03-22 16:01:52,011] INFO: Found existing row with adjusted date: 10/2018
+[2025-03-22 16:01:52,027] INFO: m (10/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,043] INFO: Trying adjusted date: 1/2019 (original: 2/2019)
+[2025-03-22 16:01:52,058] INFO: Found existing row with adjusted date: 1/2019
+[2025-03-22 16:01:52,072] INFO: m (1/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,089] INFO: Trying adjusted date: 4/2019 (original: 5/2019)
+[2025-03-22 16:01:52,103] INFO: Found existing row with adjusted date: 4/2019
+[2025-03-22 16:01:52,117] INFO: m (4/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,133] INFO: Trying adjusted date: 7/2019 (original: 8/2019)
+[2025-03-22 16:01:52,148] INFO: Found existing row with adjusted date: 7/2019
+[2025-03-22 16:01:52,163] INFO: m (7/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,180] INFO: Trying adjusted date: 10/2019 (original: 11/2019)
+[2025-03-22 16:01:52,194] INFO: Found existing row with adjusted date: 10/2019
+[2025-03-22 16:01:52,208] INFO: m (10/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,225] INFO: Trying adjusted date: 1/2020 (original: 2/2020)
+[2025-03-22 16:01:52,239] INFO: Found existing row with adjusted date: 1/2020
+[2025-03-22 16:01:52,253] INFO: m (1/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,269] INFO: Trying adjusted date: 4/2020 (original: 5/2020)
+[2025-03-22 16:01:52,282] INFO: Found existing row with adjusted date: 4/2020
+[2025-03-22 16:01:52,296] INFO: m (4/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,312] INFO: Trying adjusted date: 7/2020 (original: 8/2020)
+[2025-03-22 16:01:52,326] INFO: Found existing row with adjusted date: 7/2020
+[2025-03-22 16:01:52,339] INFO: m (7/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,369] INFO: m (10/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,399] INFO: m (1/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,415] INFO: Trying adjusted date: 4/2021 (original: 5/2021)
+[2025-03-22 16:01:52,430] INFO: Found existing row with adjusted date: 4/2021
+[2025-03-22 16:01:52,444] INFO: m (4/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,474] INFO: m (7/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,505] INFO: m (10/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,535] INFO: m (1/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,566] INFO: m (4/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,597] INFO: m (7/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,632] INFO: m (10/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,663] INFO: m (1/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,694] INFO: m (4/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,728] INFO: m (7/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,745] INFO: Trying adjusted date: 11/2023 (original: 10/2023)
+[2025-03-22 16:01:52,759] WARNING: m (10/2023): No existing record found(10/2023, 2023-10-28) - creating new one
+[2025-03-22 16:01:52,760] INFO: m (10/2023): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,778] INFO: Trying adjusted date: 1/2024 (original: 2/2024)
+[2025-03-22 16:01:52,792] INFO: Found existing row with adjusted date: 1/2024
+[2025-03-22 16:01:52,807] INFO: m (1/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,824] INFO: Trying adjusted date: 4/2024 (original: 5/2024)
+[2025-03-22 16:01:52,839] INFO: Found existing row with adjusted date: 4/2024
+[2025-03-22 16:01:52,853] INFO: m (4/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,870] INFO: Trying adjusted date: 7/2024 (original: 8/2024)
+[2025-03-22 16:01:52,884] INFO: Found existing row with adjusted date: 7/2024
+[2025-03-22 16:01:52,900] INFO: m (7/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,917] INFO: Trying adjusted date: 10/2024 (original: 11/2024)
+[2025-03-22 16:01:52,948] INFO: Found existing row with adjusted date: 10/2024
+[2025-03-22 16:01:52,964] INFO: m (10/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:01:52,984] INFO: Trying adjusted date: 1/2025 (original: 2/2025)
+[2025-03-22 16:01:53,004] WARNING: m (2/2025): No existing record found(2/2025, 2025-02-01) - creating new one
+[2025-03-22 16:01:53,004] INFO: m (2/2025): Created new record with 0 non-zero financial metrics

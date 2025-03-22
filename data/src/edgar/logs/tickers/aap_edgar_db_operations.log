@@ -1,0 +1,164 @@
+[2025-03-22 09:39:12,535] INFO: Trying adjusted date: 5/2010 (original: 4/2010)
+[2025-03-22 09:39:12,548] WARNING: aap (4/2010): No existing record found(4/2010, 2010-04-24) - creating new one
+[2025-03-22 09:39:12,549] INFO: aap (4/2010): Created new record with 6 non-zero financial metrics
+[2025-03-22 09:39:12,567] INFO: Trying adjusted date: 8/2010 (original: 7/2010)
+[2025-03-22 09:39:12,581] WARNING: aap (7/2010): No existing record found(7/2010, 2010-07-17) - creating new one
+[2025-03-22 09:39:12,582] INFO: aap (7/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 09:39:12,597] INFO: Trying adjusted date: 9/2010 (original: 10/2010)
+[2025-03-22 09:39:12,611] WARNING: aap (10/2010): No existing record found(10/2010, 2010-10-09) - creating new one
+[2025-03-22 09:39:12,611] INFO: aap (10/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 09:39:12,628] INFO: Trying adjusted date: 12/2010 (original: 1/2011)
+[2025-03-22 09:39:12,641] WARNING: aap (1/2011): No existing record found(1/2011, 2011-01-01) - creating new one
+[2025-03-22 09:39:12,641] INFO: aap (1/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 09:39:12,657] INFO: Trying adjusted date: 5/2011 (original: 4/2011)
+[2025-03-22 09:39:12,670] WARNING: aap (4/2011): No existing record found(4/2011, 2011-04-23) - creating new one
+[2025-03-22 09:39:12,671] INFO: aap (4/2011): Created new record with 6 non-zero financial metrics
+[2025-03-22 09:39:12,688] INFO: Trying adjusted date: 8/2011 (original: 7/2011)
+[2025-03-22 09:39:12,702] WARNING: aap (7/2011): No existing record found(7/2011, 2011-07-16) - creating new one
+[2025-03-22 09:39:12,702] INFO: aap (7/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 09:39:12,718] INFO: Trying adjusted date: 9/2011 (original: 10/2011)
+[2025-03-22 09:39:12,731] WARNING: aap (10/2011): No existing record found(10/2011, 2011-10-08) - creating new one
+[2025-03-22 09:39:12,731] INFO: aap (10/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 09:39:12,745] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 09:39:12,759] WARNING: aap (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 09:39:12,760] INFO: aap (12/2011): Created new record with 20 non-zero financial metrics
+[2025-03-22 09:39:12,776] INFO: Trying adjusted date: 5/2012 (original: 4/2012)
+[2025-03-22 09:39:12,789] WARNING: aap (4/2012): No existing record found(4/2012, 2012-04-21) - creating new one
+[2025-03-22 09:39:12,789] INFO: aap (4/2012): Created new record with 7 non-zero financial metrics
+[2025-03-22 09:39:12,805] INFO: Trying adjusted date: 6/2012 (original: 7/2012)
+[2025-03-22 09:39:12,819] WARNING: aap (7/2012): No existing record found(7/2012, 2012-07-14) - creating new one
+[2025-03-22 09:39:12,819] INFO: aap (7/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 09:39:12,834] INFO: Trying adjusted date: 9/2012 (original: 10/2012)
+[2025-03-22 09:39:12,847] INFO: Found existing row with adjusted date: 9/2012
+[2025-03-22 09:39:12,860] INFO: aap (9/2012): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:39:12,890] INFO: aap (12/2012): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 09:39:12,905] INFO: Trying adjusted date: 5/2013 (original: 4/2013)
+[2025-03-22 09:39:12,918] WARNING: aap (4/2013): No existing record found(4/2013, 2013-04-20) - creating new one
+[2025-03-22 09:39:12,918] INFO: aap (4/2013): Created new record with 8 non-zero financial metrics
+[2025-03-22 09:39:12,934] INFO: Trying adjusted date: 6/2013 (original: 7/2013)
+[2025-03-22 09:39:12,947] INFO: Found existing row with adjusted date: 6/2013
+[2025-03-22 09:39:12,960] INFO: aap (6/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:39:12,976] INFO: Trying adjusted date: 9/2013 (original: 10/2013)
+[2025-03-22 09:39:12,989] INFO: Found existing row with adjusted date: 9/2013
+[2025-03-22 09:39:13,003] INFO: aap (9/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:39:13,030] INFO: aap (12/2013): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 09:39:13,044] INFO: Trying adjusted date: 5/2014 (original: 4/2014)
+[2025-03-22 09:39:13,059] WARNING: aap (4/2014): No existing record found(4/2014, 2014-04-19) - creating new one
+[2025-03-22 09:39:13,059] INFO: aap (4/2014): Created new record with 8 non-zero financial metrics
+[2025-03-22 09:39:13,075] INFO: Trying adjusted date: 6/2014 (original: 7/2014)
+[2025-03-22 09:39:13,090] INFO: Found existing row with adjusted date: 6/2014
+[2025-03-22 09:39:13,103] INFO: aap (6/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:39:13,118] INFO: Trying adjusted date: 9/2014 (original: 10/2014)
+[2025-03-22 09:39:13,132] INFO: Found existing row with adjusted date: 9/2014
+[2025-03-22 09:39:13,146] INFO: aap (9/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:39:13,160] INFO: Trying adjusted date: 12/2014 (original: 1/2015)
+[2025-03-22 09:39:13,173] INFO: Found existing row with adjusted date: 12/2014
+[2025-03-22 09:39:13,186] INFO: aap (12/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:39:13,201] INFO: Trying adjusted date: 5/2015 (original: 4/2015)
+[2025-03-22 09:39:13,214] WARNING: aap (4/2015): No existing record found(4/2015, 2015-04-25) - creating new one
+[2025-03-22 09:39:13,215] INFO: aap (4/2015): Created new record with 7 non-zero financial metrics
+[2025-03-22 09:39:13,230] INFO: Trying adjusted date: 8/2015 (original: 7/2015)
+[2025-03-22 09:39:13,243] WARNING: aap (7/2015): No existing record found(7/2015, 2015-07-18) - creating new one
+[2025-03-22 09:39:13,243] INFO: aap (7/2015): Created new record with 14 non-zero financial metrics
+[2025-03-22 09:39:13,258] INFO: Trying adjusted date: 9/2015 (original: 10/2015)
+[2025-03-22 09:39:13,272] INFO: Found existing row with adjusted date: 9/2015
+[2025-03-22 09:39:13,285] INFO: aap (9/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:39:13,300] INFO: Trying adjusted date: 12/2015 (original: 1/2016)
+[2025-03-22 09:39:13,314] INFO: Found existing row with adjusted date: 12/2015
+[2025-03-22 09:39:13,326] INFO: aap (12/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:39:13,342] INFO: Trying adjusted date: 5/2016 (original: 4/2016)
+[2025-03-22 09:39:13,355] WARNING: aap (4/2016): No existing record found(4/2016, 2016-04-23) - creating new one
+[2025-03-22 09:39:13,356] INFO: aap (4/2016): Created new record with 7 non-zero financial metrics
+[2025-03-22 09:39:13,371] INFO: Trying adjusted date: 8/2016 (original: 7/2016)
+[2025-03-22 09:39:13,384] WARNING: aap (7/2016): No existing record found(7/2016, 2016-07-16) - creating new one
+[2025-03-22 09:39:13,384] INFO: aap (7/2016): Created new record with 13 non-zero financial metrics
+[2025-03-22 09:39:13,400] INFO: Trying adjusted date: 9/2016 (original: 10/2016)
+[2025-03-22 09:39:13,413] INFO: Found existing row with adjusted date: 9/2016
+[2025-03-22 09:39:13,426] INFO: aap (9/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:39:13,452] INFO: aap (12/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:39:13,467] INFO: Trying adjusted date: 5/2017 (original: 4/2017)
+[2025-03-22 09:39:13,480] WARNING: aap (4/2017): No existing record found(4/2017, 2017-04-22) - creating new one
+[2025-03-22 09:39:13,481] INFO: aap (4/2017): Created new record with 7 non-zero financial metrics
+[2025-03-22 09:39:13,496] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-22 09:39:13,510] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-22 09:39:13,523] INFO: aap (6/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:39:13,537] INFO: Trying adjusted date: 9/2017 (original: 10/2017)
+[2025-03-22 09:39:13,551] INFO: Found existing row with adjusted date: 9/2017
+[2025-03-22 09:39:13,564] INFO: aap (9/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:39:13,593] INFO: aap (12/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:39:13,608] INFO: Trying adjusted date: 5/2018 (original: 4/2018)
+[2025-03-22 09:39:13,621] WARNING: aap (4/2018): No existing record found(4/2018, 2018-04-21) - creating new one
+[2025-03-22 09:39:13,621] INFO: aap (4/2018): Created new record with 7 non-zero financial metrics
+[2025-03-22 09:39:13,636] INFO: Trying adjusted date: 6/2018 (original: 7/2018)
+[2025-03-22 09:39:13,649] INFO: Found existing row with adjusted date: 6/2018
+[2025-03-22 09:39:13,663] INFO: aap (6/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:39:13,677] INFO: Trying adjusted date: 9/2018 (original: 10/2018)
+[2025-03-22 09:39:13,690] INFO: Found existing row with adjusted date: 9/2018
+[2025-03-22 09:39:13,704] INFO: aap (9/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:39:13,731] INFO: aap (12/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:39:13,747] INFO: Trying adjusted date: 5/2019 (original: 4/2019)
+[2025-03-22 09:39:13,760] WARNING: aap (4/2019): No existing record found(4/2019, 2019-04-20) - creating new one
+[2025-03-22 09:39:13,760] INFO: aap (4/2019): Created new record with 7 non-zero financial metrics
+[2025-03-22 09:39:13,776] INFO: Trying adjusted date: 6/2019 (original: 7/2019)
+[2025-03-22 09:39:13,789] INFO: Found existing row with adjusted date: 6/2019
+[2025-03-22 09:39:13,803] INFO: aap (6/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:39:13,818] INFO: Trying adjusted date: 9/2019 (original: 10/2019)
+[2025-03-22 09:39:13,831] INFO: Found existing row with adjusted date: 9/2019
+[2025-03-22 09:39:13,844] INFO: aap (9/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:39:13,874] INFO: aap (12/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:39:13,889] INFO: Trying adjusted date: 5/2020 (original: 4/2020)
+[2025-03-22 09:39:13,902] WARNING: aap (4/2020): No existing record found(4/2020, 2020-04-18) - creating new one
+[2025-03-22 09:39:13,903] INFO: aap (4/2020): Created new record with 8 non-zero financial metrics
+[2025-03-22 09:39:13,918] INFO: Trying adjusted date: 6/2020 (original: 7/2020)
+[2025-03-22 09:39:13,931] INFO: Found existing row with adjusted date: 6/2020
+[2025-03-22 09:39:13,945] INFO: aap (6/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:39:13,959] INFO: Trying adjusted date: 9/2020 (original: 10/2020)
+[2025-03-22 09:39:13,973] INFO: Found existing row with adjusted date: 9/2020
+[2025-03-22 09:39:13,987] INFO: aap (9/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:39:14,001] INFO: Trying adjusted date: 12/2020 (original: 1/2021)
+[2025-03-22 09:39:14,015] INFO: Found existing row with adjusted date: 12/2020
+[2025-03-22 09:39:14,028] INFO: aap (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 09:39:14,043] INFO: Trying adjusted date: 5/2021 (original: 4/2021)
+[2025-03-22 09:39:14,056] WARNING: aap (4/2021): No existing record found(4/2021, 2021-04-24) - creating new one
+[2025-03-22 09:39:14,057] INFO: aap (4/2021): Created new record with 8 non-zero financial metrics
+[2025-03-22 09:39:14,071] INFO: Trying adjusted date: 8/2021 (original: 7/2021)
+[2025-03-22 09:39:14,085] WARNING: aap (7/2021): No existing record found(7/2021, 2021-07-17) - creating new one
+[2025-03-22 09:39:14,085] INFO: aap (7/2021): Created new record with 14 non-zero financial metrics
+[2025-03-22 09:39:14,100] INFO: Trying adjusted date: 9/2021 (original: 10/2021)
+[2025-03-22 09:39:14,114] INFO: Found existing row with adjusted date: 9/2021
+[2025-03-22 09:39:14,127] INFO: aap (9/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:39:14,142] INFO: Trying adjusted date: 12/2021 (original: 1/2022)
+[2025-03-22 09:39:14,158] INFO: Found existing row with adjusted date: 12/2021
+[2025-03-22 09:39:14,172] INFO: aap (12/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:39:14,188] INFO: Trying adjusted date: 5/2022 (original: 4/2022)
+[2025-03-22 09:39:14,202] WARNING: aap (4/2022): No existing record found(4/2022, 2022-04-23) - creating new one
+[2025-03-22 09:39:14,202] INFO: aap (4/2022): Created new record with 9 non-zero financial metrics
+[2025-03-22 09:39:14,217] INFO: Trying adjusted date: 8/2022 (original: 7/2022)
+[2025-03-22 09:39:14,229] WARNING: aap (7/2022): No existing record found(7/2022, 2022-07-16) - creating new one
+[2025-03-22 09:39:14,230] INFO: aap (7/2022): Created new record with 15 non-zero financial metrics
+[2025-03-22 09:39:14,244] INFO: Trying adjusted date: 9/2022 (original: 10/2022)
+[2025-03-22 09:39:14,258] INFO: Found existing row with adjusted date: 9/2022
+[2025-03-22 09:39:14,271] INFO: aap (9/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:39:14,299] INFO: aap (12/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:39:14,314] INFO: Trying adjusted date: 5/2023 (original: 4/2023)
+[2025-03-22 09:39:14,327] WARNING: aap (4/2023): No existing record found(4/2023, 2023-04-22) - creating new one
+[2025-03-22 09:39:14,328] INFO: aap (4/2023): Created new record with 9 non-zero financial metrics
+[2025-03-22 09:39:14,342] INFO: Trying adjusted date: 6/2023 (original: 7/2023)
+[2025-03-22 09:39:14,357] INFO: Found existing row with adjusted date: 6/2023
+[2025-03-22 09:39:14,371] INFO: aap (6/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:39:14,386] INFO: Trying adjusted date: 9/2023 (original: 10/2023)
+[2025-03-22 09:39:14,399] INFO: Found existing row with adjusted date: 9/2023
+[2025-03-22 09:39:14,412] INFO: aap (9/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:39:14,442] INFO: aap (12/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 09:39:14,457] INFO: Trying adjusted date: 5/2024 (original: 4/2024)
+[2025-03-22 09:39:14,470] WARNING: aap (4/2024): No existing record found(4/2024, 2024-04-20) - creating new one
+[2025-03-22 09:39:14,471] INFO: aap (4/2024): Created new record with 9 non-zero financial metrics
+[2025-03-22 09:39:14,486] INFO: Trying adjusted date: 6/2024 (original: 7/2024)
+[2025-03-22 09:39:14,500] INFO: Found existing row with adjusted date: 6/2024
+[2025-03-22 09:39:14,513] INFO: aap (6/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:39:14,528] INFO: Trying adjusted date: 9/2024 (original: 10/2024)
+[2025-03-22 09:39:14,541] INFO: Found existing row with adjusted date: 9/2024
+[2025-03-22 09:39:14,554] INFO: aap (9/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:39:14,570] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 09:39:14,583] WARNING: aap (12/2024): No existing record found(12/2024, 2024-12-28) - creating new one
+[2025-03-22 09:39:14,583] INFO: aap (12/2024): Created new record with 19 non-zero financial metrics

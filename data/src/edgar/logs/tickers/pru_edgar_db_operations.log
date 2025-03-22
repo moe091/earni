@@ -1,0 +1,109 @@
+[2025-03-22 02:56:46,385] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 02:56:46,397] WARNING: pru (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 02:56:46,397] INFO: pru (3/2010): Created new record with 10 non-zero financial metrics
+[2025-03-22 02:56:46,430] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 02:56:46,445] WARNING: pru (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 02:56:46,447] INFO: pru (9/2010): Created new record with 7 non-zero financial metrics
+[2025-03-22 02:56:46,462] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 02:56:46,474] WARNING: pru (12/2010): Found zero values for fields: Share Repurchases
+[2025-03-22 02:56:46,474] WARNING: pru (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 02:56:46,475] INFO: pru (12/2010): Created new record with 11 non-zero financial metrics
+[2025-03-22 02:56:46,489] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 02:56:46,501] WARNING: pru (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 02:56:46,502] INFO: pru (3/2011): Created new record with 9 non-zero financial metrics
+[2025-03-22 02:56:46,515] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 02:56:46,527] WARNING: pru (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 02:56:46,528] INFO: pru (6/2011): Created new record with 6 non-zero financial metrics
+[2025-03-22 02:56:46,542] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 02:56:46,554] WARNING: pru (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 02:56:46,555] INFO: pru (9/2011): Created new record with 6 non-zero financial metrics
+[2025-03-22 02:56:46,570] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 02:56:46,582] WARNING: pru (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 02:56:46,583] INFO: pru (12/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 02:56:46,597] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 02:56:46,609] WARNING: pru (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 02:56:46,609] INFO: pru (3/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 02:56:46,623] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 02:56:46,635] WARNING: pru (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 02:56:46,635] INFO: pru (6/2012): Created new record with 6 non-zero financial metrics
+[2025-03-22 02:56:46,650] INFO: Trying adjusted date: 10/2012 (original: 9/2012)
+[2025-03-22 02:56:46,662] WARNING: pru (9/2012): No existing record found(9/2012, 2012-09-30) - creating new one
+[2025-03-22 02:56:46,662] INFO: pru (9/2012): Created new record with 6 non-zero financial metrics
+[2025-03-22 02:56:46,688] INFO: pru (12/2012): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 02:56:46,704] INFO: Trying adjusted date: 4/2013 (original: 3/2013)
+[2025-03-22 02:56:46,716] WARNING: pru (3/2013): Found zero values for fields: Share Repurchases
+[2025-03-22 02:56:46,716] WARNING: pru (3/2013): No existing record found(3/2013, 2013-03-31) - creating new one
+[2025-03-22 02:56:46,717] INFO: pru (3/2013): Created new record with 10 non-zero financial metrics
+[2025-03-22 02:56:46,730] INFO: Trying adjusted date: 7/2013 (original: 6/2013)
+[2025-03-22 02:56:46,742] WARNING: pru (6/2013): No existing record found(6/2013, 2013-06-30) - creating new one
+[2025-03-22 02:56:46,743] INFO: pru (6/2013): Created new record with 6 non-zero financial metrics
+[2025-03-22 02:56:46,757] INFO: Trying adjusted date: 10/2013 (original: 9/2013)
+[2025-03-22 02:56:46,769] WARNING: pru (9/2013): No existing record found(9/2013, 2013-09-30) - creating new one
+[2025-03-22 02:56:46,770] INFO: pru (9/2013): Created new record with 6 non-zero financial metrics
+[2025-03-22 02:56:46,784] INFO: Trying adjusted date: 1/2014 (original: 12/2013)
+[2025-03-22 02:56:46,796] WARNING: pru (12/2013): No existing record found(12/2013, 2013-12-31) - creating new one
+[2025-03-22 02:56:46,797] INFO: pru (12/2013): Created new record with 12 non-zero financial metrics
+[2025-03-22 02:56:46,810] INFO: Trying adjusted date: 4/2014 (original: 3/2014)
+[2025-03-22 02:56:46,823] WARNING: pru (3/2014): No existing record found(3/2014, 2014-03-31) - creating new one
+[2025-03-22 02:56:46,823] INFO: pru (3/2014): Created new record with 11 non-zero financial metrics
+[2025-03-22 02:56:46,837] INFO: Trying adjusted date: 7/2014 (original: 6/2014)
+[2025-03-22 02:56:46,850] WARNING: pru (6/2014): No existing record found(6/2014, 2014-06-30) - creating new one
+[2025-03-22 02:56:46,851] INFO: pru (6/2014): Created new record with 6 non-zero financial metrics
+[2025-03-22 02:56:46,864] INFO: Trying adjusted date: 10/2014 (original: 9/2014)
+[2025-03-22 02:56:46,876] WARNING: pru (9/2014): No existing record found(9/2014, 2014-09-30) - creating new one
+[2025-03-22 02:56:46,877] INFO: pru (9/2014): Created new record with 6 non-zero financial metrics
+[2025-03-22 02:56:46,890] INFO: Trying adjusted date: 1/2015 (original: 12/2014)
+[2025-03-22 02:56:46,903] WARNING: pru (12/2014): No existing record found(12/2014, 2014-12-31) - creating new one
+[2025-03-22 02:56:46,903] INFO: pru (12/2014): Created new record with 11 non-zero financial metrics
+[2025-03-22 02:56:46,917] INFO: Trying adjusted date: 4/2015 (original: 3/2015)
+[2025-03-22 02:56:46,929] WARNING: pru (3/2015): No existing record found(3/2015, 2015-03-31) - creating new one
+[2025-03-22 02:56:46,930] INFO: pru (3/2015): Created new record with 11 non-zero financial metrics
+[2025-03-22 02:56:46,943] INFO: Trying adjusted date: 7/2015 (original: 6/2015)
+[2025-03-22 02:56:46,955] WARNING: pru (6/2015): No existing record found(6/2015, 2015-06-30) - creating new one
+[2025-03-22 02:56:46,955] INFO: pru (6/2015): Created new record with 7 non-zero financial metrics
+[2025-03-22 02:56:46,970] INFO: Trying adjusted date: 10/2015 (original: 9/2015)
+[2025-03-22 02:56:46,982] WARNING: pru (9/2015): No existing record found(9/2015, 2015-09-30) - creating new one
+[2025-03-22 02:56:46,983] INFO: pru (9/2015): Created new record with 7 non-zero financial metrics
+[2025-03-22 02:56:46,997] INFO: Trying adjusted date: 1/2016 (original: 12/2015)
+[2025-03-22 02:56:47,010] WARNING: pru (12/2015): No existing record found(12/2015, 2015-12-31) - creating new one
+[2025-03-22 02:56:47,010] INFO: pru (12/2015): Created new record with 13 non-zero financial metrics
+[2025-03-22 02:56:47,025] INFO: Trying adjusted date: 4/2016 (original: 3/2016)
+[2025-03-22 02:56:47,040] WARNING: pru (3/2016): No existing record found(3/2016, 2016-03-31) - creating new one
+[2025-03-22 02:56:47,041] INFO: pru (3/2016): Created new record with 11 non-zero financial metrics
+[2025-03-22 02:56:47,055] INFO: Trying adjusted date: 7/2016 (original: 6/2016)
+[2025-03-22 02:56:47,067] WARNING: pru (6/2016): No existing record found(6/2016, 2016-06-30) - creating new one
+[2025-03-22 02:56:47,068] INFO: pru (6/2016): Created new record with 8 non-zero financial metrics
+[2025-03-22 02:56:47,094] INFO: pru (9/2016): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 02:56:47,119] INFO: pru (12/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:56:47,145] INFO: pru (3/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:56:47,172] INFO: pru (6/2017): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 02:56:47,197] INFO: pru (9/2017): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 02:56:47,223] INFO: pru (12/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 02:56:47,250] INFO: pru (3/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 02:56:47,276] INFO: pru (6/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 02:56:47,302] INFO: pru (9/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 02:56:47,327] INFO: pru (12/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 02:56:47,352] INFO: pru (3/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:56:47,378] INFO: pru (6/2019): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 02:56:47,405] INFO: pru (9/2019): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 02:56:47,432] INFO: pru (12/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:56:47,458] INFO: pru (3/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:56:47,484] INFO: pru (6/2020): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 02:56:47,510] INFO: pru (9/2020): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 02:56:47,536] INFO: pru (12/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:56:47,562] INFO: pru (3/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:56:47,587] INFO: pru (6/2021): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 02:56:47,613] INFO: pru (9/2021): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 02:56:47,639] INFO: pru (12/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:56:47,665] INFO: pru (3/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:56:47,692] INFO: pru (6/2022): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 02:56:47,717] INFO: pru (9/2022): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 02:56:47,744] INFO: pru (12/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:56:47,769] INFO: pru (3/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 02:56:47,796] INFO: pru (6/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 02:56:47,821] INFO: pru (9/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 02:56:47,846] INFO: pru (12/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 02:56:47,872] INFO: pru (3/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 02:56:47,899] INFO: pru (6/2024): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 02:56:47,925] INFO: pru (9/2024): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 02:56:47,954] INFO: pru (12/2024): Updated existing record with 14 non-zero financial metrics

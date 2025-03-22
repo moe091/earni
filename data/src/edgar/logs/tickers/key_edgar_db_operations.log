@@ -1,0 +1,105 @@
+[2025-03-22 06:38:43,044] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 06:38:43,057] WARNING: key (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 06:38:43,057] INFO: key (3/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 06:38:43,083] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 06:38:43,095] WARNING: key (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 06:38:43,096] INFO: key (6/2010): Created new record with 10 non-zero financial metrics
+[2025-03-22 06:38:43,111] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 06:38:43,123] WARNING: key (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 06:38:43,124] INFO: key (9/2010): Created new record with 10 non-zero financial metrics
+[2025-03-22 06:38:43,138] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 06:38:43,151] WARNING: key (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 06:38:43,152] INFO: key (12/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 06:38:43,167] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 06:38:43,179] WARNING: key (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 06:38:43,180] INFO: key (3/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 06:38:43,194] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 06:38:43,207] WARNING: key (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 06:38:43,208] INFO: key (6/2011): Created new record with 10 non-zero financial metrics
+[2025-03-22 06:38:43,222] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 06:38:43,235] WARNING: key (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 06:38:43,235] INFO: key (9/2011): Created new record with 10 non-zero financial metrics
+[2025-03-22 06:38:43,250] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 06:38:43,262] WARNING: key (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 06:38:43,263] INFO: key (12/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 06:38:43,277] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 06:38:43,290] WARNING: key (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 06:38:43,291] INFO: key (3/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 06:38:43,305] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 06:38:43,318] WARNING: key (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 06:38:43,318] INFO: key (6/2012): Created new record with 10 non-zero financial metrics
+[2025-03-22 06:38:43,345] INFO: key (9/2012): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:38:43,372] INFO: key (12/2012): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:38:43,400] INFO: key (3/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:38:43,428] INFO: key (6/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:38:43,456] INFO: key (9/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:38:43,482] INFO: key (12/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:38:43,509] INFO: key (3/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:38:43,538] INFO: key (6/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:38:43,565] INFO: key (9/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:38:43,592] INFO: key (12/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:38:43,619] INFO: key (3/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:38:43,647] INFO: key (6/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:38:43,674] INFO: key (9/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:38:43,701] INFO: key (12/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:38:43,729] INFO: key (3/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 06:38:43,756] INFO: key (6/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:38:43,783] INFO: key (9/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:38:43,811] INFO: key (12/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:38:43,838] INFO: key (3/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:38:43,865] INFO: key (6/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:38:43,892] INFO: key (9/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:38:43,919] INFO: key (12/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:38:43,934] WARNING: key (3/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:43,947] INFO: key (3/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:38:43,961] WARNING: key (6/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:43,973] INFO: key (6/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:38:43,988] WARNING: key (9/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:44,001] INFO: key (9/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:38:44,016] WARNING: key (12/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:44,028] INFO: key (12/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:38:44,043] WARNING: key (3/2019): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:44,056] INFO: key (3/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:38:44,073] WARNING: key (6/2019): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:44,086] INFO: key (6/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:38:44,101] WARNING: key (9/2019): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:44,114] INFO: key (9/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:38:44,128] WARNING: key (12/2019): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:44,141] INFO: key (12/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:38:44,157] WARNING: key (3/2020): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:44,170] INFO: key (3/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:38:44,185] WARNING: key (6/2020): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:44,198] INFO: key (6/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:38:44,213] WARNING: key (9/2020): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:44,226] INFO: key (9/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:38:44,254] INFO: key (12/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:38:44,271] WARNING: key (6/2021): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:44,284] INFO: key (6/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:38:44,299] WARNING: key (9/2021): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:44,312] INFO: key (9/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:38:44,326] WARNING: key (12/2021): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:44,340] INFO: key (12/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:38:44,354] WARNING: key (3/2022): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:44,367] INFO: key (3/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:38:44,381] WARNING: key (6/2022): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:44,393] INFO: key (6/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:38:44,407] WARNING: key (9/2022): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:44,421] INFO: key (9/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:38:44,438] WARNING: key (12/2022): Found zero values for fields: Share Repurchases, Deferred Revenue
+[2025-03-22 06:38:44,451] INFO: key (12/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:38:44,466] WARNING: key (3/2023): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:44,480] INFO: key (3/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:38:44,495] WARNING: key (6/2023): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:44,509] INFO: key (6/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:38:44,523] WARNING: key (9/2023): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:44,536] INFO: key (9/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:38:44,551] WARNING: key (12/2023): Found zero values for fields: Share Repurchases, Deferred Revenue
+[2025-03-22 06:38:44,564] INFO: key (12/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:38:44,578] WARNING: key (3/2024): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:44,591] INFO: key (3/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:38:44,607] WARNING: key (6/2024): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:44,619] INFO: key (6/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:38:44,636] WARNING: key (9/2024): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:44,649] INFO: key (9/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:38:44,664] WARNING: key (12/2024): Found zero values for fields: Deferred Revenue
+[2025-03-22 06:38:44,677] INFO: key (12/2024): Updated existing record with 13 non-zero financial metrics

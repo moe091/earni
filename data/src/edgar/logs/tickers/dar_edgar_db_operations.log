@@ -1,0 +1,129 @@
+[2025-03-22 08:44:28,917] INFO: Trying adjusted date: 6/2010 (original: 7/2010)
+[2025-03-22 08:44:28,930] WARNING: dar (7/2010): No existing record found(7/2010, 2010-07-03) - creating new one
+[2025-03-22 08:44:28,930] INFO: dar (7/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 08:44:28,945] INFO: Trying adjusted date: 9/2010 (original: 10/2010)
+[2025-03-22 08:44:28,958] WARNING: dar (10/2010): No existing record found(10/2010, 2010-10-02) - creating new one
+[2025-03-22 08:44:28,959] INFO: dar (10/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 08:44:28,974] INFO: Trying adjusted date: 12/2010 (original: 1/2011)
+[2025-03-22 08:44:28,987] WARNING: dar (1/2011): No existing record found(1/2011, 2011-01-01) - creating new one
+[2025-03-22 08:44:28,988] INFO: dar (1/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 08:44:29,003] INFO: Trying adjusted date: 3/2011 (original: 4/2011)
+[2025-03-22 08:44:29,017] WARNING: dar (4/2011): No existing record found(4/2011, 2011-04-02) - creating new one
+[2025-03-22 08:44:29,017] INFO: dar (4/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 08:44:29,031] INFO: Trying adjusted date: 6/2011 (original: 7/2011)
+[2025-03-22 08:44:29,044] WARNING: dar (7/2011): No existing record found(7/2011, 2011-07-02) - creating new one
+[2025-03-22 08:44:29,045] INFO: dar (7/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 08:44:29,060] INFO: Trying adjusted date: 9/2011 (original: 10/2011)
+[2025-03-22 08:44:29,073] WARNING: dar (10/2011): No existing record found(10/2011, 2011-10-01) - creating new one
+[2025-03-22 08:44:29,073] INFO: dar (10/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 08:44:29,090] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 08:44:29,103] WARNING: dar (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 08:44:29,104] INFO: dar (12/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 08:44:29,120] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 08:44:29,132] WARNING: dar (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 08:44:29,133] INFO: dar (3/2012): Created new record with 17 non-zero financial metrics
+[2025-03-22 08:44:29,148] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 08:44:29,161] WARNING: dar (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 08:44:29,162] INFO: dar (6/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 08:44:29,192] INFO: dar (9/2012): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:44:29,220] INFO: dar (12/2012): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:44:29,235] INFO: Trying adjusted date: 4/2013 (original: 3/2013)
+[2025-03-22 08:44:29,247] WARNING: dar (3/2013): No existing record found(3/2013, 2013-03-30) - creating new one
+[2025-03-22 08:44:29,248] INFO: dar (3/2013): Created new record with 17 non-zero financial metrics
+[2025-03-22 08:44:29,278] INFO: dar (6/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:44:29,306] INFO: dar (9/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:44:29,335] INFO: dar (12/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:44:29,362] INFO: dar (3/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:44:29,394] INFO: dar (6/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 08:44:29,423] INFO: dar (9/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 08:44:29,438] INFO: Trying adjusted date: 12/2014 (original: 1/2015)
+[2025-03-22 08:44:29,451] WARNING: dar (1/2015): No existing record found(1/2015, 2015-01-03) - creating new one
+[2025-03-22 08:44:29,452] INFO: dar (1/2015): Created new record with 18 non-zero financial metrics
+[2025-03-22 08:44:29,466] INFO: Trying adjusted date: 3/2015 (original: 4/2015)
+[2025-03-22 08:44:29,480] WARNING: dar (4/2015): Found zero values for fields: EPS Diluted
+[2025-03-22 08:44:29,480] WARNING: dar (4/2015): No existing record found(4/2015, 2015-04-04) - creating new one
+[2025-03-22 08:44:29,480] INFO: dar (4/2015): Created new record with 17 non-zero financial metrics
+[2025-03-22 08:44:29,495] INFO: Trying adjusted date: 6/2015 (original: 7/2015)
+[2025-03-22 08:44:29,508] INFO: Found existing row with adjusted date: 6/2015
+[2025-03-22 08:44:29,521] INFO: dar (6/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 08:44:29,535] INFO: Trying adjusted date: 9/2015 (original: 10/2015)
+[2025-03-22 08:44:29,548] INFO: Found existing row with adjusted date: 9/2015
+[2025-03-22 08:44:29,561] INFO: dar (9/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 08:44:29,578] INFO: Trying adjusted date: 12/2015 (original: 1/2016)
+[2025-03-22 08:44:29,591] INFO: Found existing row with adjusted date: 12/2015
+[2025-03-22 08:44:29,604] INFO: dar (12/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:44:29,620] INFO: Trying adjusted date: 3/2016 (original: 4/2016)
+[2025-03-22 08:44:29,634] INFO: Found existing row with adjusted date: 3/2016
+[2025-03-22 08:44:29,648] INFO: dar (3/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:44:29,662] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-22 08:44:29,676] INFO: Found existing row with adjusted date: 6/2016
+[2025-03-22 08:44:29,689] INFO: dar (6/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 08:44:29,704] INFO: Trying adjusted date: 9/2016 (original: 10/2016)
+[2025-03-22 08:44:29,717] INFO: Found existing row with adjusted date: 9/2016
+[2025-03-22 08:44:29,731] INFO: dar (9/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 08:44:29,757] INFO: dar (12/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:44:29,772] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-22 08:44:29,785] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-22 08:44:29,786] WARNING: dar (3/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 08:44:29,799] INFO: dar (3/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:44:29,814] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-22 08:44:29,827] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-22 08:44:29,840] INFO: dar (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:44:29,869] INFO: dar (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:44:29,883] WARNING: dar (12/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 08:44:29,896] INFO: dar (12/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:44:29,924] INFO: dar (3/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:44:29,953] INFO: dar (6/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:44:29,981] INFO: dar (9/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:44:29,996] WARNING: dar (12/2018): Found zero values for fields: Share Repurchases
+[2025-03-22 08:44:30,008] INFO: dar (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:44:30,036] INFO: dar (3/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:44:30,064] INFO: dar (6/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:44:30,092] INFO: dar (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:44:30,121] INFO: dar (12/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:44:30,149] INFO: dar (3/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:44:30,164] WARNING: dar (6/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 08:44:30,178] INFO: dar (6/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:44:30,192] WARNING: dar (9/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 08:44:30,207] INFO: dar (9/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:44:30,223] INFO: Trying adjusted date: 12/2020 (original: 1/2021)
+[2025-03-22 08:44:30,237] INFO: Found existing row with adjusted date: 12/2020
+[2025-03-22 08:44:30,250] INFO: dar (12/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 08:44:30,265] INFO: Trying adjusted date: 3/2021 (original: 4/2021)
+[2025-03-22 08:44:30,278] INFO: Found existing row with adjusted date: 3/2021
+[2025-03-22 08:44:30,279] WARNING: dar (3/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 08:44:30,292] INFO: dar (3/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:44:30,307] INFO: Trying adjusted date: 6/2021 (original: 7/2021)
+[2025-03-22 08:44:30,320] INFO: Found existing row with adjusted date: 6/2021
+[2025-03-22 08:44:30,332] INFO: dar (6/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:44:30,347] INFO: Trying adjusted date: 9/2021 (original: 10/2021)
+[2025-03-22 08:44:30,360] INFO: Found existing row with adjusted date: 9/2021
+[2025-03-22 08:44:30,373] INFO: dar (9/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:44:30,388] INFO: Trying adjusted date: 12/2021 (original: 1/2022)
+[2025-03-22 08:44:30,401] INFO: Found existing row with adjusted date: 12/2021
+[2025-03-22 08:44:30,415] INFO: dar (12/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 08:44:30,429] INFO: Trying adjusted date: 3/2022 (original: 4/2022)
+[2025-03-22 08:44:30,442] INFO: Found existing row with adjusted date: 3/2022
+[2025-03-22 08:44:30,455] INFO: dar (3/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:44:30,470] INFO: Trying adjusted date: 6/2022 (original: 7/2022)
+[2025-03-22 08:44:30,482] INFO: Found existing row with adjusted date: 6/2022
+[2025-03-22 08:44:30,495] INFO: dar (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:44:30,510] INFO: Trying adjusted date: 9/2022 (original: 10/2022)
+[2025-03-22 08:44:30,523] INFO: Found existing row with adjusted date: 9/2022
+[2025-03-22 08:44:30,537] INFO: dar (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:44:30,564] INFO: dar (12/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:44:30,578] INFO: Trying adjusted date: 3/2023 (original: 4/2023)
+[2025-03-22 08:44:30,590] INFO: Found existing row with adjusted date: 3/2023
+[2025-03-22 08:44:30,604] INFO: dar (3/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:44:30,619] INFO: Trying adjusted date: 6/2023 (original: 7/2023)
+[2025-03-22 08:44:30,633] INFO: Found existing row with adjusted date: 6/2023
+[2025-03-22 08:44:30,645] INFO: dar (6/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:44:30,674] INFO: dar (9/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:44:30,702] INFO: dar (12/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:44:30,717] WARNING: dar (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 08:44:30,731] INFO: dar (3/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 08:44:30,760] INFO: dar (6/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:44:30,787] INFO: dar (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:44:30,803] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 08:44:30,816] WARNING: dar (12/2024): No existing record found(12/2024, 2024-12-28) - creating new one
+[2025-03-22 08:44:30,817] INFO: dar (12/2024): Created new record with 18 non-zero financial metrics

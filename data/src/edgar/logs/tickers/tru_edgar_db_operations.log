@@ -1,0 +1,80 @@
+[2025-03-22 08:10:19,018] INFO: Trying adjusted date: 10/2012 (original: 9/2012)
+[2025-03-22 08:10:19,031] WARNING: tru (9/2012): No existing record found(9/2012, 2012-09-30) - creating new one
+[2025-03-22 08:10:19,031] INFO: tru (9/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 08:10:19,051] INFO: Trying adjusted date: 1/2013 (original: 12/2012)
+[2025-03-22 08:10:19,065] WARNING: tru (12/2012): No existing record found(12/2012, 2012-12-31) - creating new one
+[2025-03-22 08:10:19,065] INFO: tru (12/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 08:10:19,081] INFO: Trying adjusted date: 4/2013 (original: 3/2013)
+[2025-03-22 08:10:19,094] WARNING: tru (3/2013): No existing record found(3/2013, 2013-03-31) - creating new one
+[2025-03-22 08:10:19,095] INFO: tru (3/2013): Created new record with 0 non-zero financial metrics
+[2025-03-22 08:10:19,110] INFO: Trying adjusted date: 7/2013 (original: 6/2013)
+[2025-03-22 08:10:19,124] WARNING: tru (6/2013): No existing record found(6/2013, 2013-06-30) - creating new one
+[2025-03-22 08:10:19,124] INFO: tru (6/2013): Created new record with 0 non-zero financial metrics
+[2025-03-22 08:10:19,142] INFO: Trying adjusted date: 10/2013 (original: 9/2013)
+[2025-03-22 08:10:19,155] WARNING: tru (9/2013): No existing record found(9/2013, 2013-09-30) - creating new one
+[2025-03-22 08:10:19,156] INFO: tru (9/2013): Created new record with 10 non-zero financial metrics
+[2025-03-22 08:10:19,173] INFO: Trying adjusted date: 1/2014 (original: 12/2013)
+[2025-03-22 08:10:19,186] WARNING: tru (12/2013): No existing record found(12/2013, 2013-12-31) - creating new one
+[2025-03-22 08:10:19,186] INFO: tru (12/2013): Created new record with 16 non-zero financial metrics
+[2025-03-22 08:10:19,201] INFO: Trying adjusted date: 4/2014 (original: 3/2014)
+[2025-03-22 08:10:19,214] WARNING: tru (3/2014): Found zero values for fields: Share Repurchases
+[2025-03-22 08:10:19,214] WARNING: tru (3/2014): No existing record found(3/2014, 2014-03-31) - creating new one
+[2025-03-22 08:10:19,215] INFO: tru (3/2014): Created new record with 14 non-zero financial metrics
+[2025-03-22 08:10:19,230] INFO: Trying adjusted date: 7/2014 (original: 6/2014)
+[2025-03-22 08:10:19,244] WARNING: tru (6/2014): No existing record found(6/2014, 2014-06-30) - creating new one
+[2025-03-22 08:10:19,244] INFO: tru (6/2014): Created new record with 11 non-zero financial metrics
+[2025-03-22 08:10:19,259] INFO: Trying adjusted date: 10/2014 (original: 9/2014)
+[2025-03-22 08:10:19,272] WARNING: tru (9/2014): No existing record found(9/2014, 2014-09-30) - creating new one
+[2025-03-22 08:10:19,273] INFO: tru (9/2014): Created new record with 11 non-zero financial metrics
+[2025-03-22 08:10:19,287] INFO: Trying adjusted date: 1/2015 (original: 12/2014)
+[2025-03-22 08:10:19,300] WARNING: tru (12/2014): No existing record found(12/2014, 2014-12-31) - creating new one
+[2025-03-22 08:10:19,300] INFO: tru (12/2014): Created new record with 0 non-zero financial metrics
+[2025-03-22 08:10:19,315] INFO: Trying adjusted date: 4/2015 (original: 3/2015)
+[2025-03-22 08:10:19,328] WARNING: tru (3/2015): No existing record found(3/2015, 2015-03-31) - creating new one
+[2025-03-22 08:10:19,328] INFO: tru (3/2015): Created new record with 15 non-zero financial metrics
+[2025-03-22 08:10:19,344] INFO: Trying adjusted date: 7/2015 (original: 6/2015)
+[2025-03-22 08:10:19,357] WARNING: tru (6/2015): No existing record found(6/2015, 2015-06-30) - creating new one
+[2025-03-22 08:10:19,358] INFO: tru (6/2015): Created new record with 12 non-zero financial metrics
+[2025-03-22 08:10:19,385] INFO: tru (9/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:10:19,413] INFO: tru (12/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:10:19,441] INFO: tru (3/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:10:19,468] INFO: tru (6/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:10:19,496] INFO: tru (9/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:10:19,524] INFO: tru (12/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:10:19,552] INFO: tru (3/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:10:19,580] INFO: tru (6/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:10:19,609] INFO: tru (9/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:10:19,640] INFO: tru (12/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:10:19,655] WARNING: tru (3/2018): Found zero values for fields: Share Repurchases
+[2025-03-22 08:10:19,668] INFO: tru (3/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 08:10:19,697] INFO: tru (6/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:10:19,724] INFO: tru (9/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:10:19,739] WARNING: tru (12/2018): Found zero values for fields: Share Repurchases
+[2025-03-22 08:10:19,753] INFO: tru (12/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:10:19,781] INFO: tru (3/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:10:19,810] INFO: tru (6/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:10:19,838] INFO: tru (9/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:10:19,854] WARNING: tru (12/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 08:10:19,866] INFO: tru (12/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:10:19,895] INFO: tru (3/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:10:19,923] INFO: tru (6/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:10:19,952] INFO: tru (9/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:10:19,980] INFO: tru (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:10:20,009] INFO: tru (3/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:10:20,037] INFO: tru (6/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:10:20,065] INFO: tru (9/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:10:20,096] INFO: tru (12/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:10:20,124] INFO: tru (3/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:10:20,152] INFO: tru (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:10:20,181] INFO: tru (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:10:20,209] INFO: tru (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:10:20,237] INFO: tru (3/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:10:20,265] INFO: tru (6/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:10:20,293] INFO: tru (9/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:10:20,321] INFO: tru (12/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:10:20,349] INFO: tru (3/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:10:20,377] INFO: tru (6/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:10:20,405] INFO: tru (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:10:20,422] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 08:10:20,435] WARNING: tru (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 08:10:20,436] INFO: tru (12/2024): Created new record with 18 non-zero financial metrics

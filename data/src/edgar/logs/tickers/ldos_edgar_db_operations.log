@@ -1,0 +1,124 @@
+[2025-03-22 08:16:25,206] INFO: Trying adjusted date: 8/2010 (original: 7/2010)
+[2025-03-22 08:16:25,218] WARNING: ldos (7/2010): No existing record found(7/2010, 2010-07-31) - creating new one
+[2025-03-22 08:16:25,219] INFO: ldos (7/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 08:16:25,234] INFO: Trying adjusted date: 11/2010 (original: 10/2010)
+[2025-03-22 08:16:25,247] WARNING: ldos (10/2010): No existing record found(10/2010, 2010-10-31) - creating new one
+[2025-03-22 08:16:25,248] INFO: ldos (10/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 08:16:25,263] INFO: Trying adjusted date: 2/2011 (original: 1/2011)
+[2025-03-22 08:16:25,276] WARNING: ldos (1/2011): No existing record found(1/2011, 2011-01-31) - creating new one
+[2025-03-22 08:16:25,276] INFO: ldos (1/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 08:16:25,294] INFO: Trying adjusted date: 5/2011 (original: 4/2011)
+[2025-03-22 08:16:25,306] WARNING: ldos (4/2011): No existing record found(4/2011, 2011-04-30) - creating new one
+[2025-03-22 08:16:25,307] INFO: ldos (4/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 08:16:25,323] INFO: Trying adjusted date: 8/2011 (original: 7/2011)
+[2025-03-22 08:16:25,336] WARNING: ldos (7/2011): No existing record found(7/2011, 2011-07-31) - creating new one
+[2025-03-22 08:16:25,336] INFO: ldos (7/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 08:16:25,352] INFO: Trying adjusted date: 11/2011 (original: 10/2011)
+[2025-03-22 08:16:25,365] WARNING: ldos (10/2011): No existing record found(10/2011, 2011-10-31) - creating new one
+[2025-03-22 08:16:25,365] INFO: ldos (10/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 08:16:25,381] INFO: Trying adjusted date: 2/2012 (original: 1/2012)
+[2025-03-22 08:16:25,394] WARNING: ldos (1/2012): No existing record found(1/2012, 2012-01-31) - creating new one
+[2025-03-22 08:16:25,394] INFO: ldos (1/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 08:16:25,413] INFO: Trying adjusted date: 5/2012 (original: 4/2012)
+[2025-03-22 08:16:25,426] WARNING: ldos (4/2012): No existing record found(4/2012, 2012-04-30) - creating new one
+[2025-03-22 08:16:25,426] INFO: ldos (4/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 08:16:25,441] INFO: Trying adjusted date: 8/2012 (original: 7/2012)
+[2025-03-22 08:16:25,454] WARNING: ldos (7/2012): No existing record found(7/2012, 2012-07-31) - creating new one
+[2025-03-22 08:16:25,455] INFO: ldos (7/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 08:16:25,470] INFO: Trying adjusted date: 11/2012 (original: 10/2012)
+[2025-03-22 08:16:25,483] WARNING: ldos (10/2012): No existing record found(10/2012, 2012-10-31) - creating new one
+[2025-03-22 08:16:25,484] INFO: ldos (10/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 08:16:25,499] INFO: Trying adjusted date: 2/2013 (original: 1/2013)
+[2025-03-22 08:16:25,512] WARNING: ldos (1/2013): No existing record found(1/2013, 2013-01-31) - creating new one
+[2025-03-22 08:16:25,512] INFO: ldos (1/2013): Created new record with 15 non-zero financial metrics
+[2025-03-22 08:16:25,527] INFO: Trying adjusted date: 4/2013 (original: 5/2013)
+[2025-03-22 08:16:25,541] WARNING: ldos (5/2013): No existing record found(5/2013, 2013-05-03) - creating new one
+[2025-03-22 08:16:25,541] INFO: ldos (5/2013): Created new record with 14 non-zero financial metrics
+[2025-03-22 08:16:25,556] INFO: Trying adjusted date: 7/2013 (original: 8/2013)
+[2025-03-22 08:16:25,569] WARNING: ldos (8/2013): No existing record found(8/2013, 2013-08-02) - creating new one
+[2025-03-22 08:16:25,569] INFO: ldos (8/2013): Created new record with 0 non-zero financial metrics
+[2025-03-22 08:16:25,585] INFO: Trying adjusted date: 10/2013 (original: 11/2013)
+[2025-03-22 08:16:25,598] WARNING: ldos (11/2013): No existing record found(11/2013, 2013-11-01) - creating new one
+[2025-03-22 08:16:25,599] INFO: ldos (11/2013): Created new record with 12 non-zero financial metrics
+[2025-03-22 08:16:25,627] INFO: ldos (1/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 08:16:25,642] INFO: Trying adjusted date: 4/2014 (original: 5/2014)
+[2025-03-22 08:16:25,657] INFO: Found existing row with adjusted date: 4/2014
+[2025-03-22 08:16:25,669] INFO: ldos (4/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:16:25,685] INFO: Trying adjusted date: 7/2014 (original: 8/2014)
+[2025-03-22 08:16:25,699] INFO: Found existing row with adjusted date: 7/2014
+[2025-03-22 08:16:25,712] INFO: ldos (7/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:16:25,740] INFO: ldos (10/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:16:25,767] INFO: ldos (1/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 08:16:25,794] INFO: ldos (4/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:16:25,810] INFO: Trying adjusted date: 6/2015 (original: 7/2015)
+[2025-03-22 08:16:25,823] INFO: Found existing row with adjusted date: 6/2015
+[2025-03-22 08:16:25,836] INFO: ldos (6/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:16:25,851] INFO: Trying adjusted date: 9/2015 (original: 10/2015)
+[2025-03-22 08:16:25,864] INFO: Found existing row with adjusted date: 9/2015
+[2025-03-22 08:16:25,878] INFO: ldos (9/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:16:25,892] INFO: Trying adjusted date: 3/2016 (original: 4/2016)
+[2025-03-22 08:16:25,906] INFO: Found existing row with adjusted date: 3/2016
+[2025-03-22 08:16:25,919] INFO: ldos (3/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 08:16:25,934] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-22 08:16:25,947] INFO: Found existing row with adjusted date: 6/2016
+[2025-03-22 08:16:25,961] INFO: ldos (6/2016): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 08:16:25,989] INFO: ldos (9/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:16:26,017] INFO: ldos (12/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:16:26,044] INFO: ldos (3/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:16:26,073] INFO: ldos (6/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:16:26,104] INFO: ldos (9/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:16:26,133] INFO: ldos (12/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:16:26,162] INFO: ldos (3/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 08:16:26,191] INFO: ldos (6/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:16:26,220] INFO: ldos (9/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:16:26,248] INFO: ldos (12/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:16:26,277] INFO: ldos (3/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:16:26,305] INFO: ldos (6/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 08:16:26,333] INFO: ldos (9/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 08:16:26,349] INFO: Trying adjusted date: 12/2019 (original: 1/2020)
+[2025-03-22 08:16:26,362] INFO: Found existing row with adjusted date: 12/2019
+[2025-03-22 08:16:26,375] INFO: ldos (12/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:16:26,391] INFO: Trying adjusted date: 3/2020 (original: 4/2020)
+[2025-03-22 08:16:26,404] INFO: Found existing row with adjusted date: 3/2020
+[2025-03-22 08:16:26,417] INFO: ldos (3/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:16:26,432] INFO: Trying adjusted date: 6/2020 (original: 7/2020)
+[2025-03-22 08:16:26,445] INFO: Found existing row with adjusted date: 6/2020
+[2025-03-22 08:16:26,458] INFO: ldos (6/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:16:26,473] INFO: Trying adjusted date: 9/2020 (original: 10/2020)
+[2025-03-22 08:16:26,486] INFO: Found existing row with adjusted date: 9/2020
+[2025-03-22 08:16:26,499] INFO: ldos (9/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 08:16:26,514] INFO: Trying adjusted date: 12/2020 (original: 1/2021)
+[2025-03-22 08:16:26,527] INFO: Found existing row with adjusted date: 12/2020
+[2025-03-22 08:16:26,540] INFO: ldos (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:16:26,555] INFO: Trying adjusted date: 3/2021 (original: 4/2021)
+[2025-03-22 08:16:26,567] INFO: Found existing row with adjusted date: 3/2021
+[2025-03-22 08:16:26,580] INFO: ldos (3/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:16:26,594] INFO: Trying adjusted date: 6/2021 (original: 7/2021)
+[2025-03-22 08:16:26,607] INFO: Found existing row with adjusted date: 6/2021
+[2025-03-22 08:16:26,608] WARNING: ldos (6/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 08:16:26,621] INFO: ldos (6/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:16:26,636] INFO: Trying adjusted date: 9/2021 (original: 10/2021)
+[2025-03-22 08:16:26,648] INFO: Found existing row with adjusted date: 9/2021
+[2025-03-22 08:16:26,662] INFO: ldos (9/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:16:26,689] INFO: ldos (12/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 08:16:26,704] INFO: Trying adjusted date: 3/2022 (original: 4/2022)
+[2025-03-22 08:16:26,718] INFO: Found existing row with adjusted date: 3/2022
+[2025-03-22 08:16:26,731] INFO: ldos (3/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 08:16:26,746] INFO: Trying adjusted date: 6/2022 (original: 7/2022)
+[2025-03-22 08:16:26,759] INFO: Found existing row with adjusted date: 6/2022
+[2025-03-22 08:16:26,772] INFO: ldos (6/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:16:26,800] INFO: ldos (9/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:16:26,815] WARNING: ldos (12/2022): Found zero values for fields: Share Repurchases
+[2025-03-22 08:16:26,828] INFO: ldos (12/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 08:16:26,858] INFO: ldos (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:16:26,873] WARNING: ldos (6/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 08:16:26,886] INFO: ldos (6/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:16:26,902] WARNING: ldos (9/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 08:16:26,915] INFO: ldos (9/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:16:26,941] INFO: ldos (12/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 08:16:26,969] INFO: ldos (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 08:16:26,997] INFO: ldos (6/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:16:27,025] INFO: ldos (9/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:16:27,040] INFO: Trying adjusted date: 12/2024 (original: 1/2025)
+[2025-03-22 08:16:27,054] WARNING: ldos (1/2025): No existing record found(1/2025, 2025-01-03) - creating new one
+[2025-03-22 08:16:27,054] INFO: ldos (1/2025): Created new record with 18 non-zero financial metrics

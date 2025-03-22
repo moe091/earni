@@ -1,0 +1,45 @@
+[2025-03-22 10:22:50,299] INFO: Trying adjusted date: 10/2015 (original: 9/2015)
+[2025-03-22 10:22:50,312] WARNING: nvcr (9/2015): No existing record found(9/2015, 2015-09-30) - creating new one
+[2025-03-22 10:22:50,313] INFO: nvcr (9/2015): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:22:50,342] INFO: nvcr (12/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:22:50,370] INFO: nvcr (3/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:22:50,400] INFO: nvcr (6/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:22:50,428] INFO: nvcr (9/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:22:50,444] WARNING: nvcr (12/2016): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 10:22:50,458] INFO: nvcr (12/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:22:50,488] INFO: nvcr (3/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:22:50,517] INFO: nvcr (6/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:22:50,546] INFO: nvcr (9/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:22:50,575] INFO: nvcr (12/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:22:50,604] INFO: nvcr (3/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:22:50,633] INFO: nvcr (6/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:22:50,664] INFO: nvcr (9/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:22:50,692] INFO: nvcr (12/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 10:22:50,721] INFO: nvcr (3/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:22:50,750] INFO: nvcr (6/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:22:50,779] INFO: nvcr (9/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:22:50,810] INFO: nvcr (12/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 10:22:50,843] INFO: nvcr (3/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:22:50,861] INFO: Trying adjusted date: 7/2020 (original: 6/2020)
+[2025-03-22 10:22:50,875] WARNING: nvcr (6/2020): No existing record found(6/2020, 2020-06-30) - creating new one
+[2025-03-22 10:22:50,875] INFO: nvcr (6/2020): Created new record with 20 non-zero financial metrics
+[2025-03-22 10:22:50,908] INFO: nvcr (9/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:22:50,938] INFO: nvcr (12/2020): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 10:22:50,967] INFO: nvcr (3/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:22:50,997] INFO: nvcr (6/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:22:51,026] INFO: nvcr (9/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:22:51,054] INFO: nvcr (12/2021): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 10:22:51,085] INFO: nvcr (3/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:22:51,114] INFO: nvcr (6/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:22:51,146] INFO: nvcr (9/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:22:51,178] INFO: nvcr (12/2022): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 10:22:51,206] INFO: nvcr (3/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:22:51,236] INFO: nvcr (6/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:22:51,268] INFO: nvcr (9/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:22:51,298] INFO: nvcr (12/2023): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 10:22:51,326] INFO: nvcr (3/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:22:51,355] INFO: nvcr (6/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:22:51,386] INFO: nvcr (9/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:22:51,404] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 10:22:51,417] WARNING: nvcr (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 10:22:51,418] INFO: nvcr (12/2024): Created new record with 22 non-zero financial metrics

@@ -1,0 +1,67 @@
+[2025-03-22 16:35:58,242] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 16:35:58,257] WARNING: ipgp (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 16:35:58,258] INFO: ipgp (6/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,276] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 16:35:58,291] WARNING: ipgp (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 16:35:58,291] INFO: ipgp (9/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,309] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 16:35:58,324] WARNING: ipgp (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 16:35:58,324] INFO: ipgp (12/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,341] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 16:35:58,356] WARNING: ipgp (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 16:35:58,356] INFO: ipgp (3/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,374] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 16:35:58,389] WARNING: ipgp (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 16:35:58,389] INFO: ipgp (6/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,421] INFO: ipgp (9/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,452] INFO: ipgp (12/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,484] INFO: ipgp (3/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,516] INFO: ipgp (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,548] INFO: ipgp (9/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,580] INFO: ipgp (12/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,614] INFO: ipgp (3/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,646] INFO: ipgp (6/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,677] INFO: ipgp (9/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,708] INFO: ipgp (12/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,740] INFO: ipgp (3/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,771] INFO: ipgp (6/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,802] INFO: ipgp (9/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,833] INFO: ipgp (12/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,864] INFO: ipgp (3/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,895] INFO: ipgp (6/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,926] INFO: ipgp (9/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,957] INFO: ipgp (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:58,988] INFO: ipgp (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,021] INFO: ipgp (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,053] INFO: ipgp (9/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,084] INFO: ipgp (12/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,115] INFO: ipgp (3/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,145] INFO: ipgp (6/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,177] INFO: ipgp (9/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,209] INFO: ipgp (12/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,240] INFO: ipgp (3/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,272] INFO: ipgp (6/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,304] INFO: ipgp (9/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,336] INFO: ipgp (12/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,367] INFO: ipgp (3/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,398] INFO: ipgp (6/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,428] INFO: ipgp (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,461] INFO: ipgp (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,492] INFO: ipgp (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,525] INFO: ipgp (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,558] INFO: ipgp (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,590] INFO: ipgp (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,623] INFO: ipgp (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,655] INFO: ipgp (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,687] INFO: ipgp (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,719] INFO: ipgp (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,750] INFO: ipgp (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,781] INFO: ipgp (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,812] INFO: ipgp (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,843] INFO: ipgp (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,877] INFO: ipgp (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,913] INFO: ipgp (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,944] INFO: ipgp (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:35:59,963] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 16:35:59,979] WARNING: ipgp (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 16:35:59,979] INFO: ipgp (12/2024): Created new record with 0 non-zero financial metrics

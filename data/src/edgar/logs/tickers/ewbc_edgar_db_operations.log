@@ -1,0 +1,75 @@
+[2025-03-22 09:35:52,303] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 09:35:52,316] WARNING: ewbc (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 09:35:52,317] INFO: ewbc (3/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 09:35:52,344] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 09:35:52,358] WARNING: ewbc (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 09:35:52,360] INFO: ewbc (6/2011): Created new record with 10 non-zero financial metrics
+[2025-03-22 09:35:52,375] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 09:35:52,388] WARNING: ewbc (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 09:35:52,389] INFO: ewbc (9/2011): Created new record with 10 non-zero financial metrics
+[2025-03-22 09:35:52,405] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 09:35:52,419] WARNING: ewbc (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 09:35:52,419] INFO: ewbc (12/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:35:52,436] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 09:35:52,449] WARNING: ewbc (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 09:35:52,450] INFO: ewbc (3/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 09:35:52,464] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 09:35:52,477] WARNING: ewbc (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 09:35:52,478] INFO: ewbc (6/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 09:35:52,507] INFO: ewbc (9/2012): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:35:52,536] INFO: ewbc (12/2012): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:35:52,565] INFO: ewbc (3/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:35:52,593] INFO: ewbc (6/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:35:52,621] INFO: ewbc (9/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:35:52,649] INFO: ewbc (12/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:35:52,678] INFO: ewbc (3/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:35:52,708] INFO: ewbc (6/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:35:52,736] INFO: ewbc (9/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:35:52,767] INFO: ewbc (12/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:35:52,794] INFO: ewbc (3/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:35:52,825] INFO: ewbc (6/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:35:52,854] INFO: ewbc (9/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:35:52,868] WARNING: ewbc (12/2015): Found zero values for fields: Share Repurchases
+[2025-03-22 09:35:52,881] INFO: ewbc (12/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:35:52,912] INFO: ewbc (3/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:35:52,942] INFO: ewbc (6/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:35:52,971] INFO: ewbc (9/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:35:53,002] INFO: ewbc (12/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:35:53,031] INFO: ewbc (3/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:35:53,061] INFO: ewbc (6/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:35:53,090] INFO: ewbc (9/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:35:53,119] INFO: ewbc (12/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:35:53,148] INFO: ewbc (3/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:35:53,177] INFO: ewbc (6/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:35:53,206] INFO: ewbc (9/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:35:53,238] INFO: ewbc (12/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:35:53,266] INFO: ewbc (3/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:35:53,295] INFO: ewbc (6/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:35:53,311] WARNING: ewbc (9/2019): Found zero values for fields: Deferred Revenue
+[2025-03-22 09:35:53,325] INFO: ewbc (9/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:35:53,355] INFO: ewbc (12/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:35:53,384] INFO: ewbc (3/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 09:35:53,412] INFO: ewbc (6/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:35:53,442] INFO: ewbc (9/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:35:53,475] INFO: ewbc (12/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 09:35:53,490] WARNING: ewbc (3/2021): Found zero values for fields: Share Repurchases, Loans Held for Sale
+[2025-03-22 09:35:53,503] INFO: ewbc (3/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:35:53,533] INFO: ewbc (6/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:35:53,550] WARNING: ewbc (9/2021): Found zero values for fields: Loans Held for Sale
+[2025-03-22 09:35:53,564] INFO: ewbc (9/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 09:35:53,579] WARNING: ewbc (12/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 09:35:53,593] INFO: ewbc (12/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:35:53,621] INFO: ewbc (3/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:35:53,651] INFO: ewbc (6/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:35:53,681] INFO: ewbc (9/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:35:53,709] INFO: ewbc (12/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:35:53,738] INFO: ewbc (3/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:35:53,767] INFO: ewbc (6/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:35:53,795] INFO: ewbc (9/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:35:53,826] INFO: ewbc (12/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:35:53,856] INFO: ewbc (3/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:35:53,885] INFO: ewbc (6/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:35:53,900] WARNING: ewbc (9/2024): Found zero values for fields: Loans Held for Sale
+[2025-03-22 09:35:53,913] INFO: ewbc (9/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:35:53,928] WARNING: ewbc (12/2024): Found zero values for fields: Loans Held for Sale
+[2025-03-22 09:35:53,942] INFO: ewbc (12/2024): Updated existing record with 13 non-zero financial metrics

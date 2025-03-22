@@ -1,0 +1,80 @@
+[2025-03-22 06:50:23,739] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 06:50:23,751] WARNING: mkl (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 06:50:23,752] INFO: mkl (6/2010): Created new record with 9 non-zero financial metrics
+[2025-03-22 06:50:23,768] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 06:50:23,781] WARNING: mkl (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 06:50:23,782] INFO: mkl (9/2010): Created new record with 9 non-zero financial metrics
+[2025-03-22 06:50:23,797] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 06:50:23,810] WARNING: mkl (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 06:50:23,810] INFO: mkl (12/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 06:50:23,825] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 06:50:23,838] WARNING: mkl (3/2011): Found zero values for fields: Share Repurchases
+[2025-03-22 06:50:23,838] WARNING: mkl (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 06:50:23,839] INFO: mkl (3/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 06:50:23,853] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 06:50:23,865] WARNING: mkl (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 06:50:23,866] INFO: mkl (6/2011): Created new record with 9 non-zero financial metrics
+[2025-03-22 06:50:23,880] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 06:50:23,893] WARNING: mkl (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 06:50:23,893] INFO: mkl (9/2011): Created new record with 9 non-zero financial metrics
+[2025-03-22 06:50:23,908] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 06:50:23,921] WARNING: mkl (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 06:50:23,921] INFO: mkl (12/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 06:50:23,936] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 06:50:23,949] WARNING: mkl (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 06:50:23,949] INFO: mkl (3/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 06:50:23,964] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 06:50:23,978] WARNING: mkl (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 06:50:23,978] INFO: mkl (6/2012): Created new record with 9 non-zero financial metrics
+[2025-03-22 06:50:24,005] INFO: mkl (9/2012): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 06:50:24,032] INFO: mkl (12/2012): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:50:24,060] INFO: mkl (3/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:50:24,088] INFO: mkl (6/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:50:24,114] INFO: mkl (9/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:50:24,142] INFO: mkl (12/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:50:24,170] INFO: mkl (3/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:50:24,200] INFO: mkl (6/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:50:24,228] INFO: mkl (9/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:50:24,256] INFO: mkl (12/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:50:24,283] INFO: mkl (3/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:50:24,319] INFO: mkl (6/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:50:24,346] INFO: mkl (9/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:50:24,377] INFO: mkl (12/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:50:24,405] INFO: mkl (3/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:50:24,433] INFO: mkl (6/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:50:24,460] INFO: mkl (9/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:50:24,488] INFO: mkl (12/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:50:24,516] INFO: mkl (3/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:50:24,542] INFO: mkl (6/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:50:24,569] INFO: mkl (9/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:50:24,597] INFO: mkl (12/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:50:24,625] INFO: mkl (3/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:50:24,653] INFO: mkl (6/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:50:24,680] INFO: mkl (9/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:50:24,709] INFO: mkl (12/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:50:24,737] INFO: mkl (3/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:50:24,765] INFO: mkl (6/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:50:24,792] INFO: mkl (9/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:50:24,819] INFO: mkl (12/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:50:24,847] INFO: mkl (3/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:50:24,875] INFO: mkl (6/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:50:24,902] INFO: mkl (9/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:50:24,929] INFO: mkl (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:50:24,957] INFO: mkl (3/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:50:24,985] INFO: mkl (6/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:50:25,014] INFO: mkl (9/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 06:50:25,042] INFO: mkl (12/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:50:25,069] INFO: mkl (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:50:25,097] INFO: mkl (6/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:50:25,124] INFO: mkl (9/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:50:25,152] INFO: mkl (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:50:25,180] INFO: mkl (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:50:25,207] INFO: mkl (6/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:50:25,235] INFO: mkl (9/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:50:25,263] INFO: mkl (12/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:50:25,292] INFO: mkl (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:50:25,321] INFO: mkl (6/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:50:25,349] INFO: mkl (9/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 06:50:25,363] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 06:50:25,375] WARNING: mkl (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 06:50:25,376] INFO: mkl (12/2024): Created new record with 18 non-zero financial metrics

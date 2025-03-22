@@ -1,0 +1,78 @@
+[2025-03-22 04:49:19,363] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 04:49:19,376] WARNING: siri (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 04:49:19,376] INFO: siri (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 04:49:19,392] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 04:49:19,405] WARNING: siri (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 04:49:19,406] INFO: siri (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 04:49:19,420] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 04:49:19,432] WARNING: siri (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 04:49:19,432] INFO: siri (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 04:49:19,448] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 04:49:19,460] WARNING: siri (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 04:49:19,460] INFO: siri (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 04:49:19,474] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 04:49:19,486] WARNING: siri (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 04:49:19,487] INFO: siri (6/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 04:49:19,501] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 04:49:19,513] WARNING: siri (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 04:49:19,513] INFO: siri (9/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 04:49:19,527] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 04:49:19,540] WARNING: siri (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 04:49:19,540] INFO: siri (12/2011): Created new record with 22 non-zero financial metrics
+[2025-03-22 04:49:19,554] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 04:49:19,567] WARNING: siri (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 04:49:19,567] INFO: siri (3/2012): Created new record with 21 non-zero financial metrics
+[2025-03-22 04:49:19,583] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 04:49:19,596] WARNING: siri (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 04:49:19,596] INFO: siri (6/2012): Created new record with 17 non-zero financial metrics
+[2025-03-22 04:49:19,623] INFO: siri (9/2012): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:49:19,650] INFO: siri (12/2012): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 04:49:19,678] INFO: siri (3/2013): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 04:49:19,705] INFO: siri (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 04:49:19,731] INFO: siri (9/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:49:19,758] INFO: siri (12/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 04:49:19,786] INFO: siri (3/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 04:49:19,812] INFO: siri (6/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:49:19,838] INFO: siri (9/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:49:19,865] INFO: siri (12/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 04:49:19,892] INFO: siri (3/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 04:49:19,919] INFO: siri (6/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:49:19,945] INFO: siri (9/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:49:19,972] INFO: siri (12/2015): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 04:49:19,999] INFO: siri (3/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 04:49:20,027] INFO: siri (6/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:49:20,054] INFO: siri (9/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:49:20,082] INFO: siri (12/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 04:49:20,108] INFO: siri (3/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 04:49:20,135] INFO: siri (6/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:49:20,161] INFO: siri (9/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:49:20,189] INFO: siri (12/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 04:49:20,216] INFO: siri (3/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 04:49:20,243] INFO: siri (6/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:49:20,269] INFO: siri (9/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:49:20,296] INFO: siri (12/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 04:49:20,323] INFO: siri (3/2019): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 04:49:20,350] INFO: siri (6/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:49:20,377] INFO: siri (9/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:49:20,404] INFO: siri (12/2019): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 04:49:20,430] INFO: siri (3/2020): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 04:49:20,458] INFO: siri (6/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:49:20,486] INFO: siri (9/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:49:20,512] INFO: siri (12/2020): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 04:49:20,539] INFO: siri (3/2021): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 04:49:20,567] INFO: siri (6/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:49:20,594] INFO: siri (9/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:49:20,620] INFO: siri (12/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 04:49:20,647] INFO: siri (3/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 04:49:20,674] INFO: siri (6/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:49:20,701] INFO: siri (9/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:49:20,728] INFO: siri (12/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 04:49:20,757] INFO: siri (3/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 04:49:20,784] INFO: siri (6/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:49:20,811] INFO: siri (9/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:49:20,838] INFO: siri (12/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 04:49:20,853] WARNING: siri (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 04:49:20,865] INFO: siri (3/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 04:49:20,894] INFO: siri (6/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:49:20,920] INFO: siri (9/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:49:20,948] INFO: siri (12/2024): Updated existing record with 20 non-zero financial metrics

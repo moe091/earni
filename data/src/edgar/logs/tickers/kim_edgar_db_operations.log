@@ -1,0 +1,89 @@
+[2025-03-22 08:24:27,198] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 08:24:27,210] WARNING: kim (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 08:24:27,211] INFO: kim (3/2010): Created new record with 11 non-zero financial metrics
+[2025-03-22 08:24:27,226] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 08:24:27,239] WARNING: kim (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 08:24:27,240] INFO: kim (6/2010): Created new record with 8 non-zero financial metrics
+[2025-03-22 08:24:27,255] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 08:24:27,268] WARNING: kim (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 08:24:27,268] INFO: kim (9/2010): Created new record with 8 non-zero financial metrics
+[2025-03-22 08:24:27,283] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 08:24:27,295] WARNING: kim (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 08:24:27,296] INFO: kim (12/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 08:24:27,311] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 08:24:27,325] WARNING: kim (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 08:24:27,325] INFO: kim (3/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 08:24:27,340] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 08:24:27,353] WARNING: kim (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 08:24:27,356] INFO: kim (6/2011): Created new record with 8 non-zero financial metrics
+[2025-03-22 08:24:27,371] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 08:24:27,385] WARNING: kim (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 08:24:27,385] INFO: kim (9/2011): Created new record with 8 non-zero financial metrics
+[2025-03-22 08:24:27,400] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 08:24:27,413] WARNING: kim (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 08:24:27,414] INFO: kim (12/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 08:24:27,427] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 08:24:27,441] WARNING: kim (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 08:24:27,442] INFO: kim (3/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 08:24:27,456] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 08:24:27,469] WARNING: kim (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 08:24:27,470] INFO: kim (6/2012): Created new record with 10 non-zero financial metrics
+[2025-03-22 08:24:27,497] INFO: kim (9/2012): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 08:24:27,526] INFO: kim (12/2012): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 08:24:27,554] INFO: kim (3/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:24:27,582] INFO: kim (6/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 08:24:27,612] INFO: kim (9/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 08:24:27,641] INFO: kim (12/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:24:27,669] INFO: kim (3/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:24:27,698] INFO: kim (6/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 08:24:27,726] INFO: kim (9/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 08:24:27,754] INFO: kim (12/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:24:27,782] INFO: kim (3/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:24:27,811] INFO: kim (6/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 08:24:27,839] INFO: kim (9/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 08:24:27,867] INFO: kim (12/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:24:27,895] INFO: kim (3/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:24:27,922] INFO: kim (6/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 08:24:27,950] INFO: kim (9/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 08:24:27,979] INFO: kim (12/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:24:28,008] INFO: kim (3/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:24:28,036] INFO: kim (6/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 08:24:28,063] INFO: kim (9/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 08:24:28,091] INFO: kim (12/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:24:28,106] WARNING: kim (3/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 08:24:28,118] INFO: kim (3/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 08:24:28,133] WARNING: kim (6/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 08:24:28,147] INFO: kim (6/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 08:24:28,162] WARNING: kim (9/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 08:24:28,176] INFO: kim (9/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 08:24:28,203] INFO: kim (12/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 08:24:28,218] ERROR: Invalid numeric value for Share Repurchases: 
+[2025-03-22 08:24:28,218] ERROR: kim (3/2019): Invalid data types: Share Repurchases=
+[2025-03-22 08:24:28,232] INFO: kim (3/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:24:28,262] INFO: kim (6/2019): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 08:24:28,291] INFO: kim (9/2019): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 08:24:28,306] WARNING: kim (12/2019): Found zero values for fields: Share Repurchases, Deferred Revenue
+[2025-03-22 08:24:28,320] INFO: kim (12/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:24:28,350] INFO: kim (3/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:24:28,383] INFO: kim (6/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 08:24:28,411] INFO: kim (9/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 08:24:28,428] WARNING: kim (12/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 08:24:28,442] INFO: kim (12/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:24:28,469] INFO: kim (3/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:24:28,499] INFO: kim (6/2021): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 08:24:28,528] INFO: kim (9/2021): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 08:24:28,556] INFO: kim (12/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:24:28,585] INFO: kim (3/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:24:28,613] INFO: kim (6/2022): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 08:24:28,640] INFO: kim (9/2022): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 08:24:28,667] INFO: kim (12/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:24:28,694] INFO: kim (3/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:24:28,725] INFO: kim (6/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 08:24:28,754] INFO: kim (9/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 08:24:28,782] INFO: kim (12/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 08:24:28,812] INFO: kim (3/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 08:24:28,840] INFO: kim (6/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 08:24:28,868] INFO: kim (9/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 08:24:28,883] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 08:24:28,896] WARNING: kim (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 08:24:28,897] INFO: kim (12/2024): Created new record with 13 non-zero financial metrics

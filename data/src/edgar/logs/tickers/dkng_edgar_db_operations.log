@@ -1,0 +1,14 @@
+[2025-03-22 11:59:27,360] INFO: dkng (3/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:59:27,391] INFO: dkng (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:59:27,424] INFO: dkng (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:59:27,459] INFO: dkng (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:59:27,490] INFO: dkng (3/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:59:27,521] INFO: dkng (6/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:59:27,553] INFO: dkng (9/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:59:27,583] INFO: dkng (12/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:59:27,615] INFO: dkng (3/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:59:27,644] INFO: dkng (6/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:59:27,674] INFO: dkng (9/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:59:27,691] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 11:59:27,704] WARNING: dkng (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 11:59:27,705] INFO: dkng (12/2024): Created new record with 19 non-zero financial metrics

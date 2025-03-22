@@ -1,0 +1,80 @@
+[2025-03-22 14:58:20,269] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 14:58:20,285] WARNING: wu (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 14:58:20,286] INFO: wu (3/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 14:58:20,304] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 14:58:20,316] WARNING: wu (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 14:58:20,317] INFO: wu (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 14:58:20,336] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 14:58:20,349] WARNING: wu (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 14:58:20,349] INFO: wu (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 14:58:20,367] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 14:58:20,380] WARNING: wu (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 14:58:20,381] INFO: wu (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 14:58:20,397] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 14:58:20,410] WARNING: wu (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 14:58:20,411] INFO: wu (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 14:58:20,427] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 14:58:20,441] WARNING: wu (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 14:58:20,442] INFO: wu (6/2011): Created new record with 9 non-zero financial metrics
+[2025-03-22 14:58:20,458] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 14:58:20,471] WARNING: wu (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 14:58:20,472] INFO: wu (9/2011): Created new record with 9 non-zero financial metrics
+[2025-03-22 14:58:20,487] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 14:58:20,501] WARNING: wu (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 14:58:20,501] INFO: wu (12/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 14:58:20,517] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 14:58:20,530] WARNING: wu (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 14:58:20,530] INFO: wu (3/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 14:58:20,547] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 14:58:20,561] WARNING: wu (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 14:58:20,562] INFO: wu (6/2012): Created new record with 9 non-zero financial metrics
+[2025-03-22 14:58:20,593] INFO: wu (9/2012): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:58:20,623] INFO: wu (12/2012): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 14:58:20,652] INFO: wu (3/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:58:20,683] INFO: wu (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 14:58:20,715] INFO: wu (9/2013): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:58:20,745] INFO: wu (12/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 14:58:20,774] INFO: wu (3/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:58:20,804] INFO: wu (6/2014): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:58:20,835] INFO: wu (9/2014): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:58:20,864] INFO: wu (12/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:58:20,897] INFO: wu (3/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:58:20,928] INFO: wu (6/2015): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:58:20,958] INFO: wu (9/2015): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:58:20,989] INFO: wu (12/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:58:21,018] INFO: wu (3/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:58:21,048] INFO: wu (6/2016): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:58:21,079] INFO: wu (9/2016): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:58:21,110] INFO: wu (12/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:58:21,141] INFO: wu (3/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:58:21,170] INFO: wu (6/2017): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:58:21,209] INFO: wu (9/2017): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:58:21,244] INFO: wu (12/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:58:21,278] INFO: wu (3/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:58:21,309] INFO: wu (6/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:58:21,339] INFO: wu (9/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:58:21,370] INFO: wu (12/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:58:21,400] INFO: wu (3/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:58:21,429] INFO: wu (6/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:58:21,459] INFO: wu (9/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:58:21,488] INFO: wu (12/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:58:21,519] INFO: wu (3/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 14:58:21,549] INFO: wu (6/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 14:58:21,579] INFO: wu (9/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 14:58:21,610] INFO: wu (12/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 14:58:21,640] INFO: wu (3/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:58:21,670] INFO: wu (6/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 14:58:21,700] INFO: wu (9/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 14:58:21,730] INFO: wu (12/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:58:21,760] INFO: wu (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 14:58:21,790] INFO: wu (6/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 14:58:21,820] INFO: wu (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:58:21,849] INFO: wu (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:58:21,881] INFO: wu (3/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:58:21,911] INFO: wu (6/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:58:21,941] INFO: wu (9/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:58:21,970] INFO: wu (12/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:58:22,002] INFO: wu (3/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:58:22,032] INFO: wu (6/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:58:22,063] INFO: wu (9/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:58:22,094] INFO: wu (12/2024): Updated existing record with 18 non-zero financial metrics

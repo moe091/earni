@@ -1,0 +1,60 @@
+[2025-03-22 02:06:17,796] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 02:06:17,807] WARNING: enph (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 02:06:17,808] INFO: enph (3/2012): Created new record with 20 non-zero financial metrics
+[2025-03-22 02:06:17,823] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 02:06:17,836] WARNING: enph (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 02:06:17,836] INFO: enph (6/2012): Created new record with 17 non-zero financial metrics
+[2025-03-22 02:06:17,862] INFO: enph (9/2012): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 02:06:17,887] INFO: enph (12/2012): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 02:06:17,912] INFO: enph (3/2013): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 02:06:17,940] INFO: enph (6/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 02:06:17,966] INFO: enph (9/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 02:06:17,993] INFO: enph (12/2013): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 02:06:18,019] INFO: enph (3/2014): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 02:06:18,045] INFO: enph (6/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 02:06:18,074] INFO: enph (9/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 02:06:18,087] WARNING: enph (12/2014): Found zero values for fields: Long Term Debt
+[2025-03-22 02:06:18,099] INFO: enph (12/2014): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 02:06:18,125] INFO: enph (3/2015): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 02:06:18,151] INFO: enph (6/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 02:06:18,177] INFO: enph (9/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 02:06:18,206] INFO: enph (12/2015): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 02:06:18,231] INFO: enph (3/2016): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 02:06:18,260] INFO: enph (6/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 02:06:18,285] INFO: enph (9/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 02:06:18,311] INFO: enph (12/2016): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 02:06:18,337] INFO: enph (3/2017): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 02:06:18,363] INFO: enph (6/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 02:06:18,391] INFO: enph (9/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 02:06:18,404] INFO: Trying adjusted date: 1/2018 (original: 12/2017)
+[2025-03-22 02:06:18,417] WARNING: enph (12/2017): No existing record found(12/2017, 2017-12-31) - creating new one
+[2025-03-22 02:06:18,417] INFO: enph (12/2017): Created new record with 22 non-zero financial metrics
+[2025-03-22 02:06:18,442] INFO: enph (3/2018): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 02:06:18,468] INFO: enph (6/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 02:06:18,493] INFO: enph (9/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 02:06:18,519] INFO: enph (12/2018): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 02:06:18,544] INFO: enph (3/2019): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 02:06:18,571] INFO: enph (6/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 02:06:18,596] INFO: enph (9/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 02:06:18,623] INFO: enph (12/2019): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 02:06:18,648] INFO: enph (3/2020): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 02:06:18,674] INFO: enph (6/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 02:06:18,699] INFO: enph (9/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 02:06:18,725] INFO: enph (12/2020): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 02:06:18,752] INFO: enph (3/2021): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 02:06:18,777] INFO: enph (6/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 02:06:18,804] INFO: enph (9/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 02:06:18,833] INFO: enph (12/2021): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 02:06:18,859] INFO: enph (3/2022): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 02:06:18,884] INFO: enph (6/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 02:06:18,910] INFO: enph (9/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 02:06:18,923] WARNING: enph (12/2022): Found zero values for fields: Share Repurchases
+[2025-03-22 02:06:18,936] INFO: enph (12/2022): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 02:06:18,962] INFO: enph (3/2023): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 02:06:18,988] INFO: enph (6/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 02:06:19,014] INFO: enph (9/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 02:06:19,039] INFO: enph (12/2023): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 02:06:19,065] INFO: enph (3/2024): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 02:06:19,090] INFO: enph (6/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 02:06:19,116] INFO: enph (9/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 02:06:19,142] INFO: enph (12/2024): Updated existing record with 25 non-zero financial metrics

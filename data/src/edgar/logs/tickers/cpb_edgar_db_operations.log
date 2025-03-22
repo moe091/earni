@@ -1,0 +1,109 @@
+[2025-03-22 07:40:02,405] INFO: Trying adjusted date: 4/2010 (original: 5/2010)
+[2025-03-22 07:40:02,418] WARNING: cpb (5/2010): No existing record found(5/2010, 2010-05-02) - creating new one
+[2025-03-22 07:40:02,418] INFO: cpb (5/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 07:40:02,434] INFO: Trying adjusted date: 7/2010 (original: 8/2010)
+[2025-03-22 07:40:02,447] WARNING: cpb (8/2010): No existing record found(8/2010, 2010-08-01) - creating new one
+[2025-03-22 07:40:02,448] INFO: cpb (8/2010): Created new record with 19 non-zero financial metrics
+[2025-03-22 07:40:02,464] INFO: Trying adjusted date: 11/2010 (original: 10/2010)
+[2025-03-22 07:40:02,478] WARNING: cpb (10/2010): No existing record found(10/2010, 2010-10-31) - creating new one
+[2025-03-22 07:40:02,478] INFO: cpb (10/2010): Created new record with 19 non-zero financial metrics
+[2025-03-22 07:40:02,493] INFO: Trying adjusted date: 2/2011 (original: 1/2011)
+[2025-03-22 07:40:02,507] WARNING: cpb (1/2011): No existing record found(1/2011, 2011-01-30) - creating new one
+[2025-03-22 07:40:02,508] INFO: cpb (1/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 07:40:02,523] INFO: Trying adjusted date: 4/2011 (original: 5/2011)
+[2025-03-22 07:40:02,538] WARNING: cpb (5/2011): No existing record found(5/2011, 2011-05-01) - creating new one
+[2025-03-22 07:40:02,539] INFO: cpb (5/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 07:40:02,554] INFO: Trying adjusted date: 8/2011 (original: 7/2011)
+[2025-03-22 07:40:02,567] WARNING: cpb (7/2011): No existing record found(7/2011, 2011-07-31) - creating new one
+[2025-03-22 07:40:02,568] INFO: cpb (7/2011): Created new record with 21 non-zero financial metrics
+[2025-03-22 07:40:02,583] INFO: Trying adjusted date: 11/2011 (original: 10/2011)
+[2025-03-22 07:40:02,597] WARNING: cpb (10/2011): No existing record found(10/2011, 2011-10-30) - creating new one
+[2025-03-22 07:40:02,597] INFO: cpb (10/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 07:40:02,613] INFO: Trying adjusted date: 2/2012 (original: 1/2012)
+[2025-03-22 07:40:02,626] WARNING: cpb (1/2012): No existing record found(1/2012, 2012-01-29) - creating new one
+[2025-03-22 07:40:02,627] INFO: cpb (1/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 07:40:02,642] INFO: Trying adjusted date: 5/2012 (original: 4/2012)
+[2025-03-22 07:40:02,655] WARNING: cpb (4/2012): No existing record found(4/2012, 2012-04-29) - creating new one
+[2025-03-22 07:40:02,656] INFO: cpb (4/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 07:40:02,673] INFO: Trying adjusted date: 8/2012 (original: 7/2012)
+[2025-03-22 07:40:02,686] WARNING: cpb (7/2012): No existing record found(7/2012, 2012-07-29) - creating new one
+[2025-03-22 07:40:02,686] INFO: cpb (7/2012): Created new record with 21 non-zero financial metrics
+[2025-03-22 07:40:02,714] INFO: cpb (10/2012): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:40:02,742] INFO: cpb (1/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:40:02,770] INFO: cpb (4/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:40:02,797] INFO: cpb (7/2013): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:40:02,825] INFO: cpb (10/2013): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:40:02,852] INFO: cpb (1/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:40:02,880] INFO: cpb (4/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:40:02,894] INFO: Trying adjusted date: 7/2014 (original: 8/2014)
+[2025-03-22 07:40:02,908] INFO: Found existing row with adjusted date: 7/2014
+[2025-03-22 07:40:02,921] INFO: cpb (7/2014): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:40:02,935] INFO: Trying adjusted date: 10/2014 (original: 11/2014)
+[2025-03-22 07:40:02,947] INFO: Found existing row with adjusted date: 10/2014
+[2025-03-22 07:40:02,960] INFO: cpb (10/2014): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:40:02,974] INFO: Trying adjusted date: 1/2015 (original: 2/2015)
+[2025-03-22 07:40:02,988] INFO: Found existing row with adjusted date: 1/2015
+[2025-03-22 07:40:03,001] INFO: cpb (1/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:40:03,015] INFO: Trying adjusted date: 4/2015 (original: 5/2015)
+[2025-03-22 07:40:03,029] INFO: Found existing row with adjusted date: 4/2015
+[2025-03-22 07:40:03,042] INFO: cpb (4/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:40:03,058] INFO: Trying adjusted date: 7/2015 (original: 8/2015)
+[2025-03-22 07:40:03,072] INFO: Found existing row with adjusted date: 7/2015
+[2025-03-22 07:40:03,085] INFO: cpb (7/2015): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:40:03,102] INFO: Trying adjusted date: 10/2015 (original: 11/2015)
+[2025-03-22 07:40:03,115] INFO: Found existing row with adjusted date: 10/2015
+[2025-03-22 07:40:03,129] INFO: cpb (10/2015): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:40:03,160] INFO: cpb (1/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:40:03,176] INFO: Trying adjusted date: 4/2016 (original: 5/2016)
+[2025-03-22 07:40:03,190] INFO: Found existing row with adjusted date: 4/2016
+[2025-03-22 07:40:03,204] INFO: cpb (4/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:40:03,232] INFO: cpb (7/2016): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:40:03,260] INFO: cpb (10/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:40:03,288] INFO: cpb (1/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:40:03,316] INFO: cpb (4/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:40:03,344] INFO: cpb (7/2017): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:40:03,373] INFO: cpb (10/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:40:03,400] INFO: cpb (1/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:40:03,428] INFO: cpb (4/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:40:03,456] INFO: cpb (7/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:40:03,471] WARNING: cpb (10/2018): Found zero values for fields: Share Repurchases
+[2025-03-22 07:40:03,484] INFO: cpb (10/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:40:03,511] INFO: cpb (1/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:40:03,539] INFO: cpb (4/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:40:03,555] WARNING: cpb (7/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 07:40:03,568] INFO: cpb (7/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:40:03,597] INFO: cpb (10/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:40:03,624] INFO: cpb (1/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:40:03,654] INFO: cpb (4/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:40:03,669] INFO: Trying adjusted date: 7/2020 (original: 8/2020)
+[2025-03-22 07:40:03,682] INFO: Found existing row with adjusted date: 7/2020
+[2025-03-22 07:40:03,682] WARNING: cpb (7/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 07:40:03,695] INFO: cpb (7/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:40:03,710] INFO: Trying adjusted date: 10/2020 (original: 11/2020)
+[2025-03-22 07:40:03,723] INFO: Found existing row with adjusted date: 10/2020
+[2025-03-22 07:40:03,736] INFO: cpb (10/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 07:40:03,764] INFO: cpb (1/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:40:03,778] INFO: Trying adjusted date: 4/2021 (original: 5/2021)
+[2025-03-22 07:40:03,791] INFO: Found existing row with adjusted date: 4/2021
+[2025-03-22 07:40:03,804] INFO: cpb (4/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:40:03,819] INFO: Trying adjusted date: 7/2021 (original: 8/2021)
+[2025-03-22 07:40:03,832] INFO: Found existing row with adjusted date: 7/2021
+[2025-03-22 07:40:03,844] INFO: cpb (7/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:40:03,873] INFO: cpb (10/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:40:03,900] INFO: cpb (1/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:40:03,915] INFO: Trying adjusted date: 4/2022 (original: 5/2022)
+[2025-03-22 07:40:03,928] INFO: Found existing row with adjusted date: 4/2022
+[2025-03-22 07:40:03,941] INFO: cpb (4/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:40:03,968] INFO: cpb (7/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:40:03,995] INFO: cpb (10/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:40:04,022] INFO: cpb (1/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:40:04,051] INFO: cpb (4/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:40:04,078] INFO: cpb (7/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:40:04,106] INFO: cpb (10/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:40:04,135] INFO: cpb (1/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:40:04,162] INFO: cpb (4/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:40:04,190] INFO: cpb (7/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 07:40:04,219] INFO: cpb (10/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 07:40:04,234] INFO: Trying adjusted date: 2/2025 (original: 1/2025)
+[2025-03-22 07:40:04,247] WARNING: cpb (1/2025): No existing record found(1/2025, 2025-01-26) - creating new one
+[2025-03-22 07:40:04,248] INFO: cpb (1/2025): Created new record with 15 non-zero financial metrics

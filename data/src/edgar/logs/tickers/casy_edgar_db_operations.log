@@ -1,0 +1,83 @@
+[2025-03-22 11:50:17,817] INFO: Trying adjusted date: 8/2010 (original: 7/2010)
+[2025-03-22 11:50:17,831] WARNING: casy (7/2010): No existing record found(7/2010, 2010-07-31) - creating new one
+[2025-03-22 11:50:17,831] INFO: casy (7/2010): Created new record with 17 non-zero financial metrics
+[2025-03-22 11:50:17,854] INFO: Trying adjusted date: 11/2010 (original: 10/2010)
+[2025-03-22 11:50:17,871] WARNING: casy (10/2010): No existing record found(10/2010, 2010-10-31) - creating new one
+[2025-03-22 11:50:17,872] INFO: casy (10/2010): Created new record with 13 non-zero financial metrics
+[2025-03-22 11:50:17,888] INFO: Trying adjusted date: 2/2011 (original: 1/2011)
+[2025-03-22 11:50:17,902] WARNING: casy (1/2011): No existing record found(1/2011, 2011-01-31) - creating new one
+[2025-03-22 11:50:17,903] INFO: casy (1/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 11:50:17,918] INFO: Trying adjusted date: 5/2011 (original: 4/2011)
+[2025-03-22 11:50:17,932] WARNING: casy (4/2011): No existing record found(4/2011, 2011-04-30) - creating new one
+[2025-03-22 11:50:17,933] INFO: casy (4/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 11:50:17,949] INFO: Trying adjusted date: 8/2011 (original: 7/2011)
+[2025-03-22 11:50:17,963] WARNING: casy (7/2011): No existing record found(7/2011, 2011-07-31) - creating new one
+[2025-03-22 11:50:17,964] INFO: casy (7/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 11:50:17,980] INFO: Trying adjusted date: 11/2011 (original: 10/2011)
+[2025-03-22 11:50:17,994] WARNING: casy (10/2011): No existing record found(10/2011, 2011-10-31) - creating new one
+[2025-03-22 11:50:17,995] INFO: casy (10/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 11:50:18,011] INFO: Trying adjusted date: 2/2012 (original: 1/2012)
+[2025-03-22 11:50:18,026] WARNING: casy (1/2012): No existing record found(1/2012, 2012-01-31) - creating new one
+[2025-03-22 11:50:18,026] INFO: casy (1/2012): Created new record with 13 non-zero financial metrics
+[2025-03-22 11:50:18,043] INFO: Trying adjusted date: 5/2012 (original: 4/2012)
+[2025-03-22 11:50:18,057] WARNING: casy (4/2012): No existing record found(4/2012, 2012-04-30) - creating new one
+[2025-03-22 11:50:18,058] INFO: casy (4/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 11:50:18,074] INFO: Trying adjusted date: 8/2012 (original: 7/2012)
+[2025-03-22 11:50:18,088] WARNING: casy (7/2012): No existing record found(7/2012, 2012-07-31) - creating new one
+[2025-03-22 11:50:18,089] INFO: casy (7/2012): Created new record with 17 non-zero financial metrics
+[2025-03-22 11:50:18,119] INFO: casy (10/2012): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:50:18,150] INFO: casy (1/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:50:18,181] INFO: casy (4/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:50:18,212] INFO: casy (7/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:50:18,243] INFO: casy (10/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:50:18,272] INFO: casy (1/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:50:18,301] INFO: casy (4/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:50:18,331] INFO: casy (7/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:50:18,361] INFO: casy (10/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:50:18,391] INFO: casy (1/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:50:18,420] INFO: casy (4/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:50:18,450] INFO: casy (7/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:50:18,479] INFO: casy (10/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:50:18,510] INFO: casy (1/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:50:18,539] INFO: casy (4/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:50:18,569] INFO: casy (7/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:50:18,599] INFO: casy (10/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:50:18,629] INFO: casy (1/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:50:18,658] INFO: casy (4/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 11:50:18,689] INFO: casy (7/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:50:18,719] INFO: casy (10/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:50:18,748] INFO: casy (1/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:50:18,777] INFO: casy (4/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:50:18,805] INFO: casy (7/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:50:18,836] INFO: casy (10/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:50:18,867] INFO: casy (1/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:50:18,896] INFO: casy (4/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:50:18,912] WARNING: casy (7/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 11:50:18,927] INFO: casy (7/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:50:18,956] INFO: casy (10/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:50:18,987] INFO: casy (1/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:50:19,003] WARNING: casy (4/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 11:50:19,016] INFO: casy (4/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:50:19,044] INFO: casy (7/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:50:19,078] INFO: casy (10/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:50:19,107] INFO: casy (1/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:50:19,124] WARNING: casy (4/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 11:50:19,138] INFO: casy (4/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:50:19,167] INFO: casy (7/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:50:19,197] INFO: casy (10/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:50:19,228] INFO: casy (1/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:50:19,258] INFO: casy (4/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:50:19,286] INFO: casy (7/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:50:19,317] INFO: casy (10/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 11:50:19,348] INFO: casy (1/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 11:50:19,377] INFO: casy (4/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:50:19,408] INFO: casy (7/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:50:19,438] INFO: casy (10/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 11:50:19,468] INFO: casy (1/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 11:50:19,498] INFO: casy (4/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:50:19,514] WARNING: casy (7/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 11:50:19,528] INFO: casy (7/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:50:19,558] INFO: casy (10/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 11:50:19,573] INFO: Trying adjusted date: 2/2025 (original: 1/2025)
+[2025-03-22 11:50:19,587] WARNING: casy (1/2025): No existing record found(1/2025, 2025-01-31) - creating new one
+[2025-03-22 11:50:19,587] INFO: casy (1/2025): Created new record with 11 non-zero financial metrics

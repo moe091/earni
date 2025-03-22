@@ -1,0 +1,42 @@
+[2025-03-22 15:48:24,258] INFO: Trying adjusted date: 4/2016 (original: 3/2016)
+[2025-03-22 15:48:24,273] WARNING: ntla (3/2016): No existing record found(3/2016, 2016-03-31) - creating new one
+[2025-03-22 15:48:24,273] INFO: ntla (3/2016): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:48:24,301] INFO: Trying adjusted date: 7/2016 (original: 6/2016)
+[2025-03-22 15:48:24,317] WARNING: ntla (6/2016): No existing record found(6/2016, 2016-06-30) - creating new one
+[2025-03-22 15:48:24,317] INFO: ntla (6/2016): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:48:24,348] INFO: ntla (9/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:24,380] INFO: ntla (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:24,413] INFO: ntla (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:24,445] INFO: ntla (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:24,481] INFO: ntla (9/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:24,513] INFO: ntla (12/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:24,545] INFO: ntla (3/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:24,577] INFO: ntla (6/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:24,609] INFO: ntla (9/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:24,640] INFO: ntla (12/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:24,673] INFO: ntla (3/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:24,705] INFO: ntla (6/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:24,737] INFO: ntla (9/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:24,769] INFO: ntla (12/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:24,801] INFO: ntla (3/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:24,833] INFO: ntla (6/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:24,866] INFO: ntla (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:24,898] INFO: ntla (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:24,931] INFO: ntla (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:24,961] INFO: ntla (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:24,993] INFO: ntla (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:25,024] INFO: ntla (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:25,055] INFO: ntla (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:25,086] INFO: ntla (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:25,116] INFO: ntla (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:25,150] INFO: ntla (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:25,181] INFO: ntla (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:25,211] INFO: ntla (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:25,242] INFO: ntla (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:25,272] INFO: ntla (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:25,303] INFO: ntla (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:25,335] INFO: ntla (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:25,366] INFO: ntla (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:48:25,384] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 15:48:25,398] WARNING: ntla (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 15:48:25,399] INFO: ntla (12/2024): Created new record with 0 non-zero financial metrics

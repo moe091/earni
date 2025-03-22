@@ -1,0 +1,68 @@
+[2025-03-22 09:41:22,691] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 09:41:22,704] WARNING: cna (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 09:41:22,704] INFO: cna (6/2011): Created new record with 6 non-zero financial metrics
+[2025-03-22 09:41:22,731] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 09:41:22,744] WARNING: cna (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 09:41:22,744] INFO: cna (9/2011): Created new record with 6 non-zero financial metrics
+[2025-03-22 09:41:22,760] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 09:41:22,773] WARNING: cna (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 09:41:22,773] INFO: cna (12/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 09:41:22,788] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 09:41:22,802] WARNING: cna (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 09:41:22,802] INFO: cna (3/2012): Created new record with 10 non-zero financial metrics
+[2025-03-22 09:41:22,817] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 09:41:22,829] WARNING: cna (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 09:41:22,830] INFO: cna (6/2012): Created new record with 7 non-zero financial metrics
+[2025-03-22 09:41:22,859] INFO: cna (9/2012): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 09:41:22,888] INFO: cna (12/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:41:22,918] INFO: cna (3/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 09:41:22,946] INFO: cna (6/2013): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 09:41:22,974] INFO: cna (9/2013): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 09:41:23,004] INFO: cna (12/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:41:23,032] INFO: cna (3/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:41:23,060] INFO: cna (6/2014): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 09:41:23,090] INFO: cna (9/2014): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 09:41:23,118] INFO: cna (12/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:41:23,147] INFO: cna (3/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:41:23,177] INFO: cna (6/2015): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 09:41:23,206] INFO: cna (9/2015): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 09:41:23,234] INFO: cna (12/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:41:23,262] INFO: cna (3/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:41:23,291] INFO: cna (6/2016): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 09:41:23,320] INFO: cna (9/2016): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 09:41:23,350] INFO: cna (12/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:41:23,378] INFO: cna (3/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 09:41:23,406] INFO: cna (6/2017): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 09:41:23,435] INFO: cna (9/2017): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 09:41:23,465] INFO: cna (12/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:41:23,494] INFO: cna (3/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:41:23,523] INFO: cna (6/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:41:23,554] INFO: cna (9/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:41:23,581] INFO: cna (12/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:41:23,611] INFO: cna (3/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:41:23,639] INFO: cna (6/2019): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:41:23,669] INFO: cna (9/2019): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:41:23,698] INFO: cna (12/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:41:23,728] INFO: cna (3/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:41:23,757] INFO: cna (6/2020): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:41:23,786] INFO: cna (9/2020): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:41:23,814] INFO: cna (12/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:41:23,843] INFO: cna (3/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:41:23,871] INFO: cna (6/2021): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:41:23,899] INFO: cna (9/2021): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:41:23,930] INFO: cna (12/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:41:23,960] INFO: cna (3/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:41:23,990] INFO: cna (6/2022): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:41:24,018] INFO: cna (9/2022): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:41:24,046] INFO: cna (12/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:41:24,075] INFO: cna (3/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 09:41:24,105] INFO: cna (6/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:41:24,132] INFO: cna (9/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:41:24,162] INFO: cna (12/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 09:41:24,178] WARNING: cna (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 09:41:24,192] INFO: cna (3/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 09:41:24,222] INFO: cna (6/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:41:24,250] INFO: cna (9/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 09:41:24,266] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 09:41:24,280] WARNING: cna (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 09:41:24,281] INFO: cna (12/2024): Created new record with 15 non-zero financial metrics

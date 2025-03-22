@@ -1,0 +1,113 @@
+[2025-03-22 14:06:15,194] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 14:06:15,208] WARNING: son (6/2010): No existing record found(6/2010, 2010-06-27) - creating new one
+[2025-03-22 14:06:15,209] INFO: son (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 14:06:15,226] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 14:06:15,241] WARNING: son (9/2010): No existing record found(9/2010, 2010-09-26) - creating new one
+[2025-03-22 14:06:15,241] INFO: son (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 14:06:15,258] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 14:06:15,272] WARNING: son (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 14:06:15,272] INFO: son (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 14:06:15,288] INFO: Trying adjusted date: 3/2011 (original: 4/2011)
+[2025-03-22 14:06:15,303] WARNING: son (4/2011): No existing record found(4/2011, 2011-04-03) - creating new one
+[2025-03-22 14:06:15,303] INFO: son (4/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 14:06:15,319] INFO: Trying adjusted date: 6/2011 (original: 7/2011)
+[2025-03-22 14:06:15,333] WARNING: son (7/2011): No existing record found(7/2011, 2011-07-03) - creating new one
+[2025-03-22 14:06:15,334] INFO: son (7/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 14:06:15,350] INFO: Trying adjusted date: 9/2011 (original: 10/2011)
+[2025-03-22 14:06:15,364] WARNING: son (10/2011): No existing record found(10/2011, 2011-10-02) - creating new one
+[2025-03-22 14:06:15,365] INFO: son (10/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 14:06:15,383] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 14:06:15,398] WARNING: son (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 14:06:15,399] INFO: son (12/2011): Created new record with 20 non-zero financial metrics
+[2025-03-22 14:06:15,415] INFO: Trying adjusted date: 3/2012 (original: 4/2012)
+[2025-03-22 14:06:15,429] WARNING: son (4/2012): No existing record found(4/2012, 2012-04-01) - creating new one
+[2025-03-22 14:06:15,429] INFO: son (4/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 14:06:15,446] INFO: Trying adjusted date: 6/2012 (original: 7/2012)
+[2025-03-22 14:06:15,461] WARNING: son (7/2012): No existing record found(7/2012, 2012-07-01) - creating new one
+[2025-03-22 14:06:15,461] INFO: son (7/2012): Created new record with 13 non-zero financial metrics
+[2025-03-22 14:06:15,492] INFO: son (9/2012): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:06:15,522] INFO: son (12/2012): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:06:15,552] INFO: son (3/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:06:15,585] INFO: son (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 14:06:15,620] INFO: son (9/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:06:15,651] INFO: son (12/2013): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:06:15,685] INFO: son (3/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:06:15,715] INFO: son (6/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:06:15,747] INFO: son (9/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:06:15,780] INFO: son (12/2014): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:06:15,811] INFO: son (3/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:06:15,843] INFO: son (6/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:06:15,873] INFO: son (9/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:06:15,902] INFO: son (12/2015): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:06:15,919] INFO: Trying adjusted date: 3/2016 (original: 4/2016)
+[2025-03-22 14:06:15,934] INFO: Found existing row with adjusted date: 3/2016
+[2025-03-22 14:06:15,950] INFO: son (3/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:06:15,965] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-22 14:06:15,980] INFO: Found existing row with adjusted date: 6/2016
+[2025-03-22 14:06:15,994] INFO: son (6/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:06:16,010] INFO: Trying adjusted date: 9/2016 (original: 10/2016)
+[2025-03-22 14:06:16,024] INFO: Found existing row with adjusted date: 9/2016
+[2025-03-22 14:06:16,038] INFO: son (9/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:06:16,070] INFO: son (12/2016): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:06:16,086] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-22 14:06:16,101] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-22 14:06:16,115] INFO: son (3/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 14:06:16,131] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-22 14:06:16,146] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-22 14:06:16,161] INFO: son (6/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:06:16,176] INFO: Trying adjusted date: 9/2017 (original: 10/2017)
+[2025-03-22 14:06:16,190] INFO: Found existing row with adjusted date: 9/2017
+[2025-03-22 14:06:16,205] INFO: son (9/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 14:06:16,235] INFO: son (12/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:06:16,252] INFO: Trying adjusted date: 3/2018 (original: 4/2018)
+[2025-03-22 14:06:16,266] INFO: Found existing row with adjusted date: 3/2018
+[2025-03-22 14:06:16,280] INFO: son (3/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:06:16,296] INFO: Trying adjusted date: 6/2018 (original: 7/2018)
+[2025-03-22 14:06:16,311] INFO: Found existing row with adjusted date: 6/2018
+[2025-03-22 14:06:16,324] INFO: son (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:06:16,354] INFO: son (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:06:16,385] INFO: son (12/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 14:06:16,416] INFO: son (3/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:06:16,447] INFO: son (6/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:06:16,480] INFO: son (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:06:16,510] INFO: son (12/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:06:16,540] INFO: son (3/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:06:16,571] INFO: son (6/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:06:16,602] INFO: son (9/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:06:16,633] INFO: son (12/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:06:16,649] INFO: Trying adjusted date: 3/2021 (original: 4/2021)
+[2025-03-22 14:06:16,664] INFO: Found existing row with adjusted date: 3/2021
+[2025-03-22 14:06:16,678] INFO: son (3/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:06:16,693] INFO: Trying adjusted date: 6/2021 (original: 7/2021)
+[2025-03-22 14:06:16,707] INFO: Found existing row with adjusted date: 6/2021
+[2025-03-22 14:06:16,721] INFO: son (6/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:06:16,737] INFO: Trying adjusted date: 9/2021 (original: 10/2021)
+[2025-03-22 14:06:16,751] INFO: Found existing row with adjusted date: 9/2021
+[2025-03-22 14:06:16,764] INFO: son (9/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:06:16,795] INFO: son (12/2021): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:06:16,811] INFO: Trying adjusted date: 3/2022 (original: 4/2022)
+[2025-03-22 14:06:16,825] INFO: Found existing row with adjusted date: 3/2022
+[2025-03-22 14:06:16,838] INFO: son (3/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:06:16,855] INFO: Trying adjusted date: 6/2022 (original: 7/2022)
+[2025-03-22 14:06:16,869] INFO: Found existing row with adjusted date: 6/2022
+[2025-03-22 14:06:16,882] INFO: son (6/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:06:16,899] INFO: Trying adjusted date: 9/2022 (original: 10/2022)
+[2025-03-22 14:06:16,913] INFO: Found existing row with adjusted date: 9/2022
+[2025-03-22 14:06:16,927] INFO: son (9/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:06:16,957] INFO: son (12/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:06:16,974] INFO: Trying adjusted date: 3/2023 (original: 4/2023)
+[2025-03-22 14:06:16,987] INFO: Found existing row with adjusted date: 3/2023
+[2025-03-22 14:06:17,001] INFO: son (3/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:06:17,017] INFO: Trying adjusted date: 6/2023 (original: 7/2023)
+[2025-03-22 14:06:17,032] INFO: Found existing row with adjusted date: 6/2023
+[2025-03-22 14:06:17,046] INFO: son (6/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:06:17,062] INFO: Trying adjusted date: 9/2023 (original: 10/2023)
+[2025-03-22 14:06:17,076] INFO: Found existing row with adjusted date: 9/2023
+[2025-03-22 14:06:17,091] INFO: son (9/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:06:17,121] INFO: son (12/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 14:06:17,151] INFO: son (3/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 14:06:17,182] INFO: son (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:06:17,213] INFO: son (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 14:06:17,230] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 14:06:17,245] WARNING: son (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 14:06:17,246] INFO: son (12/2024): Created new record with 20 non-zero financial metrics

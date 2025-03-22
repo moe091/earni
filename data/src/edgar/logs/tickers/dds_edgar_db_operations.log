@@ -1,0 +1,129 @@
+[2025-03-22 15:00:40,043] INFO: Trying adjusted date: 8/2010 (original: 7/2010)
+[2025-03-22 15:00:40,057] WARNING: dds (7/2010): No existing record found(7/2010, 2010-07-31) - creating new one
+[2025-03-22 15:00:40,057] INFO: dds (7/2010): Created new record with 7 non-zero financial metrics
+[2025-03-22 15:00:40,074] INFO: Trying adjusted date: 11/2010 (original: 10/2010)
+[2025-03-22 15:00:40,089] WARNING: dds (10/2010): No existing record found(10/2010, 2010-10-30) - creating new one
+[2025-03-22 15:00:40,089] INFO: dds (10/2010): Created new record with 7 non-zero financial metrics
+[2025-03-22 15:00:40,106] INFO: Trying adjusted date: 2/2011 (original: 1/2011)
+[2025-03-22 15:00:40,120] WARNING: dds (1/2011): No existing record found(1/2011, 2011-01-29) - creating new one
+[2025-03-22 15:00:40,121] INFO: dds (1/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 15:00:40,137] INFO: Trying adjusted date: 5/2011 (original: 4/2011)
+[2025-03-22 15:00:40,152] WARNING: dds (4/2011): No existing record found(4/2011, 2011-04-30) - creating new one
+[2025-03-22 15:00:40,153] INFO: dds (4/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 15:00:40,169] INFO: Trying adjusted date: 8/2011 (original: 7/2011)
+[2025-03-22 15:00:40,184] WARNING: dds (7/2011): No existing record found(7/2011, 2011-07-30) - creating new one
+[2025-03-22 15:00:40,185] INFO: dds (7/2011): Created new record with 8 non-zero financial metrics
+[2025-03-22 15:00:40,202] INFO: Trying adjusted date: 11/2011 (original: 10/2011)
+[2025-03-22 15:00:40,217] WARNING: dds (10/2011): No existing record found(10/2011, 2011-10-29) - creating new one
+[2025-03-22 15:00:40,218] INFO: dds (10/2011): Created new record with 8 non-zero financial metrics
+[2025-03-22 15:00:40,235] INFO: Trying adjusted date: 2/2012 (original: 1/2012)
+[2025-03-22 15:00:40,250] WARNING: dds (1/2012): No existing record found(1/2012, 2012-01-28) - creating new one
+[2025-03-22 15:00:40,250] INFO: dds (1/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 15:00:40,268] INFO: Trying adjusted date: 5/2012 (original: 4/2012)
+[2025-03-22 15:00:40,282] WARNING: dds (4/2012): No existing record found(4/2012, 2012-04-28) - creating new one
+[2025-03-22 15:00:40,283] INFO: dds (4/2012): Created new record with 10 non-zero financial metrics
+[2025-03-22 15:00:40,299] INFO: Trying adjusted date: 8/2012 (original: 7/2012)
+[2025-03-22 15:00:40,314] WARNING: dds (7/2012): No existing record found(7/2012, 2012-07-28) - creating new one
+[2025-03-22 15:00:40,315] INFO: dds (7/2012): Created new record with 8 non-zero financial metrics
+[2025-03-22 15:00:40,347] INFO: dds (10/2012): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 15:00:40,365] INFO: Trying adjusted date: 1/2013 (original: 2/2013)
+[2025-03-22 15:00:40,380] INFO: Found existing row with adjusted date: 1/2013
+[2025-03-22 15:00:40,395] INFO: dds (1/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:00:40,413] INFO: Trying adjusted date: 4/2013 (original: 5/2013)
+[2025-03-22 15:00:40,427] INFO: Found existing row with adjusted date: 4/2013
+[2025-03-22 15:00:40,442] INFO: dds (4/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:00:40,458] INFO: Trying adjusted date: 7/2013 (original: 8/2013)
+[2025-03-22 15:00:40,473] INFO: Found existing row with adjusted date: 7/2013
+[2025-03-22 15:00:40,487] INFO: dds (7/2013): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 15:00:40,505] INFO: Trying adjusted date: 10/2013 (original: 11/2013)
+[2025-03-22 15:00:40,519] INFO: Found existing row with adjusted date: 10/2013
+[2025-03-22 15:00:40,534] INFO: dds (10/2013): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 15:00:40,550] INFO: Trying adjusted date: 1/2014 (original: 2/2014)
+[2025-03-22 15:00:40,564] INFO: Found existing row with adjusted date: 1/2014
+[2025-03-22 15:00:40,578] INFO: dds (1/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:00:40,594] INFO: Trying adjusted date: 4/2014 (original: 5/2014)
+[2025-03-22 15:00:40,608] INFO: Found existing row with adjusted date: 4/2014
+[2025-03-22 15:00:40,622] INFO: dds (4/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:00:40,639] INFO: Trying adjusted date: 7/2014 (original: 8/2014)
+[2025-03-22 15:00:40,653] INFO: Found existing row with adjusted date: 7/2014
+[2025-03-22 15:00:40,667] INFO: dds (7/2014): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 15:00:40,683] INFO: Trying adjusted date: 10/2014 (original: 11/2014)
+[2025-03-22 15:00:40,698] INFO: Found existing row with adjusted date: 10/2014
+[2025-03-22 15:00:40,712] INFO: dds (10/2014): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 15:00:40,744] INFO: dds (1/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:00:40,761] INFO: Trying adjusted date: 4/2015 (original: 5/2015)
+[2025-03-22 15:00:40,775] INFO: Found existing row with adjusted date: 4/2015
+[2025-03-22 15:00:40,775] WARNING: dds (4/2015): Found zero values for fields: Share Repurchases
+[2025-03-22 15:00:40,790] INFO: dds (4/2015): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:00:40,807] INFO: Trying adjusted date: 7/2015 (original: 8/2015)
+[2025-03-22 15:00:40,821] INFO: Found existing row with adjusted date: 7/2015
+[2025-03-22 15:00:40,835] INFO: dds (7/2015): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 15:00:40,865] INFO: dds (10/2015): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 15:00:40,896] INFO: dds (1/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:00:40,926] INFO: dds (4/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:00:40,957] INFO: dds (7/2016): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:00:40,989] INFO: dds (10/2016): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:00:41,022] INFO: dds (1/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:00:41,053] INFO: dds (4/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 15:00:41,084] INFO: dds (7/2017): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:00:41,115] INFO: dds (10/2017): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:00:41,134] INFO: Trying adjusted date: 1/2018 (original: 2/2018)
+[2025-03-22 15:00:41,148] INFO: Found existing row with adjusted date: 1/2018
+[2025-03-22 15:00:41,163] INFO: dds (1/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:00:41,179] INFO: Trying adjusted date: 4/2018 (original: 5/2018)
+[2025-03-22 15:00:41,193] INFO: Found existing row with adjusted date: 4/2018
+[2025-03-22 15:00:41,207] INFO: dds (4/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 15:00:41,224] INFO: Trying adjusted date: 7/2018 (original: 8/2018)
+[2025-03-22 15:00:41,238] INFO: Found existing row with adjusted date: 7/2018
+[2025-03-22 15:00:41,252] INFO: dds (7/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:00:41,267] INFO: Trying adjusted date: 10/2018 (original: 11/2018)
+[2025-03-22 15:00:41,282] INFO: Found existing row with adjusted date: 10/2018
+[2025-03-22 15:00:41,296] INFO: dds (10/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:00:41,313] INFO: Trying adjusted date: 1/2019 (original: 2/2019)
+[2025-03-22 15:00:41,327] INFO: Found existing row with adjusted date: 1/2019
+[2025-03-22 15:00:41,341] INFO: dds (1/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:00:41,356] INFO: Trying adjusted date: 4/2019 (original: 5/2019)
+[2025-03-22 15:00:41,370] INFO: Found existing row with adjusted date: 4/2019
+[2025-03-22 15:00:41,384] INFO: dds (4/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:00:41,400] INFO: Trying adjusted date: 7/2019 (original: 8/2019)
+[2025-03-22 15:00:41,414] INFO: Found existing row with adjusted date: 7/2019
+[2025-03-22 15:00:41,428] INFO: dds (7/2019): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:00:41,444] INFO: Trying adjusted date: 10/2019 (original: 11/2019)
+[2025-03-22 15:00:41,458] INFO: Found existing row with adjusted date: 10/2019
+[2025-03-22 15:00:41,472] INFO: dds (10/2019): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:00:41,487] INFO: Trying adjusted date: 1/2020 (original: 2/2020)
+[2025-03-22 15:00:41,501] INFO: Found existing row with adjusted date: 1/2020
+[2025-03-22 15:00:41,515] INFO: dds (1/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 15:00:41,532] INFO: Trying adjusted date: 4/2020 (original: 5/2020)
+[2025-03-22 15:00:41,548] INFO: Found existing row with adjusted date: 4/2020
+[2025-03-22 15:00:41,563] INFO: dds (4/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:00:41,578] INFO: Trying adjusted date: 7/2020 (original: 8/2020)
+[2025-03-22 15:00:41,592] INFO: Found existing row with adjusted date: 7/2020
+[2025-03-22 15:00:41,607] INFO: dds (7/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:00:41,636] INFO: dds (10/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:00:41,669] INFO: dds (1/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:00:41,685] INFO: Trying adjusted date: 4/2021 (original: 5/2021)
+[2025-03-22 15:00:41,700] INFO: Found existing row with adjusted date: 4/2021
+[2025-03-22 15:00:41,714] INFO: dds (4/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 15:00:41,744] INFO: dds (7/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:00:41,774] INFO: dds (10/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 15:00:41,805] INFO: dds (1/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:00:41,837] INFO: dds (4/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 15:00:41,867] INFO: dds (7/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:00:41,897] INFO: dds (10/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:00:41,928] INFO: dds (1/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:00:41,957] INFO: dds (4/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 15:00:41,987] INFO: dds (7/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:00:42,021] INFO: dds (10/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:00:42,037] INFO: Trying adjusted date: 1/2024 (original: 2/2024)
+[2025-03-22 15:00:42,052] INFO: Found existing row with adjusted date: 1/2024
+[2025-03-22 15:00:42,066] INFO: dds (1/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:00:42,082] INFO: Trying adjusted date: 4/2024 (original: 5/2024)
+[2025-03-22 15:00:42,096] INFO: Found existing row with adjusted date: 4/2024
+[2025-03-22 15:00:42,110] INFO: dds (4/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:00:42,126] INFO: Trying adjusted date: 7/2024 (original: 8/2024)
+[2025-03-22 15:00:42,140] INFO: Found existing row with adjusted date: 7/2024
+[2025-03-22 15:00:42,154] INFO: dds (7/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 15:00:42,170] INFO: Trying adjusted date: 10/2024 (original: 11/2024)
+[2025-03-22 15:00:42,183] INFO: Found existing row with adjusted date: 10/2024
+[2025-03-22 15:00:42,197] INFO: dds (10/2024): Updated existing record with 11 non-zero financial metrics

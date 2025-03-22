@@ -1,0 +1,82 @@
+[2025-03-22 11:22:04,175] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 11:22:04,188] WARNING: jll (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 11:22:04,189] INFO: jll (6/2010): Created new record with 12 non-zero financial metrics
+[2025-03-22 11:22:04,207] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 11:22:04,221] WARNING: jll (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 11:22:04,221] INFO: jll (9/2010): Created new record with 12 non-zero financial metrics
+[2025-03-22 11:22:04,237] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 11:22:04,251] WARNING: jll (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 11:22:04,252] INFO: jll (12/2010): Created new record with 16 non-zero financial metrics
+[2025-03-22 11:22:04,268] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 11:22:04,282] WARNING: jll (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 11:22:04,282] INFO: jll (3/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 11:22:04,298] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 11:22:04,311] WARNING: jll (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 11:22:04,312] INFO: jll (6/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 11:22:04,328] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 11:22:04,343] WARNING: jll (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 11:22:04,343] INFO: jll (9/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 11:22:04,359] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 11:22:04,372] WARNING: jll (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 11:22:04,373] INFO: jll (12/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 11:22:04,388] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 11:22:04,402] WARNING: jll (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 11:22:04,402] INFO: jll (3/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 11:22:04,417] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 11:22:04,430] WARNING: jll (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 11:22:04,430] INFO: jll (6/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 11:22:04,461] INFO: jll (9/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:22:04,489] INFO: jll (12/2012): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:22:04,518] INFO: jll (3/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:22:04,548] INFO: jll (6/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:22:04,575] INFO: jll (9/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:22:04,607] INFO: jll (12/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:22:04,638] INFO: jll (3/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:22:04,667] INFO: jll (6/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:22:04,697] INFO: jll (9/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:22:04,726] INFO: jll (12/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:22:04,756] INFO: jll (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:22:04,784] INFO: jll (6/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:22:04,812] INFO: jll (9/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:22:04,841] INFO: jll (12/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:22:04,873] INFO: jll (3/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:22:04,903] INFO: jll (6/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:22:04,933] INFO: jll (9/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:22:04,962] INFO: jll (12/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:22:04,977] WARNING: jll (3/2017): Found zero values for fields: Capital Expenditures
+[2025-03-22 11:22:04,992] INFO: jll (3/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:22:05,022] INFO: jll (6/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 11:22:05,050] INFO: jll (9/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 11:22:05,079] INFO: jll (12/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:22:05,109] INFO: jll (3/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:22:05,138] INFO: jll (6/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:22:05,167] INFO: jll (9/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:22:05,197] INFO: jll (12/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:22:05,225] INFO: jll (3/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:22:05,257] INFO: jll (6/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:22:05,288] INFO: jll (9/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:22:05,318] INFO: jll (12/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:22:05,348] INFO: jll (3/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:22:05,378] INFO: jll (6/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:22:05,411] INFO: jll (9/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:22:05,440] INFO: jll (12/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:22:05,457] WARNING: jll (3/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 11:22:05,471] INFO: jll (3/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:22:05,501] INFO: jll (6/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:22:05,530] INFO: jll (9/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:22:05,559] INFO: jll (12/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:22:05,589] INFO: jll (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:22:05,617] INFO: jll (6/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:22:05,646] INFO: jll (9/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:22:05,674] INFO: jll (12/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:22:05,690] WARNING: jll (3/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 11:22:05,704] INFO: jll (3/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:22:05,733] INFO: jll (6/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:22:05,761] INFO: jll (9/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:22:05,792] INFO: jll (12/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:22:05,822] INFO: jll (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:22:05,852] INFO: jll (6/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:22:05,882] INFO: jll (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:22:05,897] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 11:22:05,911] WARNING: jll (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 11:22:05,912] INFO: jll (12/2024): Created new record with 16 non-zero financial metrics

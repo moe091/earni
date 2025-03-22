@@ -1,0 +1,70 @@
+[2025-03-22 11:42:07,962] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 11:42:07,975] WARNING: mpw (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 11:42:07,975] INFO: mpw (3/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 11:42:07,992] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 11:42:08,006] WARNING: mpw (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 11:42:08,006] INFO: mpw (6/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 11:42:08,021] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 11:42:08,035] WARNING: mpw (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 11:42:08,036] INFO: mpw (9/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 11:42:08,051] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 11:42:08,066] WARNING: mpw (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 11:42:08,066] INFO: mpw (12/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 11:42:08,082] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 11:42:08,096] WARNING: mpw (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 11:42:08,096] INFO: mpw (3/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 11:42:08,112] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 11:42:08,125] WARNING: mpw (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 11:42:08,127] INFO: mpw (6/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 11:42:08,156] INFO: mpw (9/2012): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 11:42:08,185] INFO: mpw (12/2012): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:42:08,215] INFO: mpw (3/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:42:08,244] INFO: mpw (6/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:42:08,273] INFO: mpw (9/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:42:08,302] INFO: mpw (12/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:42:08,331] INFO: mpw (3/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:42:08,362] INFO: mpw (6/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:42:08,390] INFO: mpw (9/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:42:08,419] INFO: mpw (12/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:42:08,451] INFO: mpw (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:42:08,480] INFO: mpw (6/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:42:08,508] INFO: mpw (9/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:42:08,539] INFO: mpw (12/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:42:08,570] INFO: mpw (3/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:42:08,600] INFO: mpw (6/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:42:08,630] INFO: mpw (9/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:42:08,659] INFO: mpw (12/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:42:08,689] INFO: mpw (3/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:42:08,719] INFO: mpw (6/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:42:08,748] INFO: mpw (9/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:42:08,778] INFO: mpw (12/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:42:08,807] INFO: mpw (3/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:42:08,837] INFO: mpw (6/2018): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 11:42:08,866] INFO: mpw (9/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:42:08,895] INFO: mpw (12/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:42:08,924] INFO: mpw (3/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:42:08,954] INFO: mpw (6/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 11:42:08,986] INFO: mpw (9/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 11:42:09,015] INFO: mpw (12/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:42:09,044] INFO: mpw (3/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:42:09,074] INFO: mpw (6/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 11:42:09,103] INFO: mpw (9/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 11:42:09,132] INFO: mpw (12/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:42:09,160] INFO: mpw (3/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:42:09,193] INFO: mpw (6/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 11:42:09,223] INFO: mpw (9/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 11:42:09,252] INFO: mpw (12/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:42:09,282] INFO: mpw (3/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 11:42:09,312] INFO: mpw (6/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 11:42:09,341] INFO: mpw (9/2022): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 11:42:09,371] INFO: mpw (12/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:42:09,400] INFO: mpw (3/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:42:09,431] INFO: mpw (6/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 11:42:09,461] INFO: mpw (9/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 11:42:09,492] INFO: mpw (12/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:42:09,521] INFO: mpw (3/2024): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:42:09,552] INFO: mpw (6/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 11:42:09,582] INFO: mpw (9/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 11:42:09,598] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 11:42:09,612] WARNING: mpw (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 11:42:09,613] INFO: mpw (12/2024): Created new record with 15 non-zero financial metrics

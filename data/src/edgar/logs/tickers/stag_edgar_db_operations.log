@@ -1,0 +1,71 @@
+[2025-03-22 15:21:08,194] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 15:21:08,208] WARNING: stag (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 15:21:08,208] INFO: stag (6/2011): Created new record with 6 non-zero financial metrics
+[2025-03-22 15:21:08,226] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 15:21:08,240] WARNING: stag (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 15:21:08,241] INFO: stag (9/2011): Created new record with 9 non-zero financial metrics
+[2025-03-22 15:21:08,257] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 15:21:08,271] WARNING: stag (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 15:21:08,272] INFO: stag (12/2011): Created new record with 6 non-zero financial metrics
+[2025-03-22 15:21:08,288] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 15:21:08,304] WARNING: stag (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 15:21:08,304] INFO: stag (3/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 15:21:08,321] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 15:21:08,335] WARNING: stag (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 15:21:08,336] INFO: stag (6/2012): Created new record with 10 non-zero financial metrics
+[2025-03-22 15:21:08,353] INFO: Trying adjusted date: 10/2012 (original: 9/2012)
+[2025-03-22 15:21:08,367] WARNING: stag (9/2012): No existing record found(9/2012, 2012-09-30) - creating new one
+[2025-03-22 15:21:08,368] INFO: stag (9/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 15:21:08,386] WARNING: stag (12/2012): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 15:21:08,400] INFO: stag (12/2012): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:21:08,416] WARNING: stag (3/2013): Found zero values for fields: Loan Loss Reserves
+[2025-03-22 15:21:08,431] INFO: stag (3/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:21:08,465] INFO: stag (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:21:08,498] INFO: stag (9/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 15:21:08,529] INFO: stag (12/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:21:08,561] INFO: stag (3/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:21:08,590] INFO: stag (6/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:21:08,621] INFO: stag (9/2014): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:21:08,653] INFO: stag (12/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:21:08,684] INFO: stag (3/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:21:08,715] INFO: stag (6/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:21:08,746] INFO: stag (9/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:21:08,778] INFO: stag (12/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:21:08,809] INFO: stag (3/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:21:08,839] INFO: stag (6/2016): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:21:08,871] INFO: stag (9/2016): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:21:08,903] INFO: stag (12/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:21:08,934] INFO: stag (3/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:21:08,968] INFO: stag (6/2017): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:21:09,000] INFO: stag (9/2017): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 15:21:09,032] INFO: stag (12/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:21:09,067] INFO: stag (3/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 15:21:09,098] INFO: stag (6/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:21:09,129] INFO: stag (9/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:21:09,160] INFO: stag (12/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:21:09,190] INFO: stag (3/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:21:09,221] INFO: stag (6/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:21:09,252] INFO: stag (9/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:21:09,284] INFO: stag (12/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:21:09,315] INFO: stag (3/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:21:09,347] INFO: stag (6/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:21:09,378] INFO: stag (9/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:21:09,408] INFO: stag (12/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:21:09,439] INFO: stag (3/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:21:09,471] INFO: stag (6/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:21:09,503] INFO: stag (9/2021): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:21:09,533] INFO: stag (12/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:21:09,565] INFO: stag (3/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:21:09,597] INFO: stag (6/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:21:09,627] INFO: stag (9/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:21:09,658] INFO: stag (12/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:21:09,689] INFO: stag (3/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:21:09,720] INFO: stag (6/2023): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:21:09,750] INFO: stag (9/2023): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:21:09,781] INFO: stag (12/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:21:09,811] INFO: stag (3/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:21:09,843] INFO: stag (6/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:21:09,873] INFO: stag (9/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 15:21:09,890] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 15:21:09,904] WARNING: stag (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 15:21:09,904] INFO: stag (12/2024): Created new record with 13 non-zero financial metrics

@@ -1,0 +1,95 @@
+[2025-03-22 13:26:53,773] INFO: Trying adjusted date: 8/2010 (original: 7/2010)
+[2025-03-22 13:26:53,787] WARNING: cien (7/2010): No existing record found(7/2010, 2010-07-31) - creating new one
+[2025-03-22 13:26:53,788] INFO: cien (7/2010): Created new record with 18 non-zero financial metrics
+[2025-03-22 13:26:53,807] INFO: Trying adjusted date: 11/2010 (original: 10/2010)
+[2025-03-22 13:26:53,822] WARNING: cien (10/2010): No existing record found(10/2010, 2010-10-31) - creating new one
+[2025-03-22 13:26:53,823] INFO: cien (10/2010): Created new record with 21 non-zero financial metrics
+[2025-03-22 13:26:53,839] INFO: Trying adjusted date: 2/2011 (original: 1/2011)
+[2025-03-22 13:26:53,854] WARNING: cien (1/2011): No existing record found(1/2011, 2011-01-31) - creating new one
+[2025-03-22 13:26:53,854] INFO: cien (1/2011): Created new record with 21 non-zero financial metrics
+[2025-03-22 13:26:53,871] INFO: Trying adjusted date: 5/2011 (original: 4/2011)
+[2025-03-22 13:26:53,886] WARNING: cien (4/2011): No existing record found(4/2011, 2011-04-30) - creating new one
+[2025-03-22 13:26:53,886] INFO: cien (4/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 13:26:53,901] INFO: Trying adjusted date: 8/2011 (original: 7/2011)
+[2025-03-22 13:26:53,915] WARNING: cien (7/2011): No existing record found(7/2011, 2011-07-31) - creating new one
+[2025-03-22 13:26:53,916] INFO: cien (7/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 13:26:53,932] INFO: Trying adjusted date: 11/2011 (original: 10/2011)
+[2025-03-22 13:26:53,946] WARNING: cien (10/2011): Found zero values for fields: Goodwill
+[2025-03-22 13:26:53,946] WARNING: cien (10/2011): No existing record found(10/2011, 2011-10-31) - creating new one
+[2025-03-22 13:26:53,947] INFO: cien (10/2011): Created new record with 22 non-zero financial metrics
+[2025-03-22 13:26:53,964] INFO: Trying adjusted date: 2/2012 (original: 1/2012)
+[2025-03-22 13:26:53,977] WARNING: cien (1/2012): No existing record found(1/2012, 2012-01-31) - creating new one
+[2025-03-22 13:26:53,978] INFO: cien (1/2012): Created new record with 22 non-zero financial metrics
+[2025-03-22 13:26:53,994] INFO: Trying adjusted date: 5/2012 (original: 4/2012)
+[2025-03-22 13:26:54,008] WARNING: cien (4/2012): No existing record found(4/2012, 2012-04-30) - creating new one
+[2025-03-22 13:26:54,009] INFO: cien (4/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 13:26:54,024] INFO: Trying adjusted date: 8/2012 (original: 7/2012)
+[2025-03-22 13:26:54,039] WARNING: cien (7/2012): No existing record found(7/2012, 2012-07-31) - creating new one
+[2025-03-22 13:26:54,039] INFO: cien (7/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 13:26:54,070] INFO: cien (10/2012): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 13:26:54,100] INFO: cien (1/2013): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 13:26:54,130] INFO: cien (4/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:26:54,161] INFO: cien (7/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:26:54,193] INFO: cien (10/2013): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 13:26:54,223] INFO: cien (1/2014): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 13:26:54,254] INFO: cien (4/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:26:54,285] INFO: cien (7/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:26:54,302] INFO: Trying adjusted date: 10/2014 (original: 11/2014)
+[2025-03-22 13:26:54,316] INFO: Found existing row with adjusted date: 10/2014
+[2025-03-22 13:26:54,330] INFO: cien (10/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 13:26:54,361] INFO: cien (1/2015): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 13:26:54,377] INFO: Trying adjusted date: 4/2015 (original: 5/2015)
+[2025-03-22 13:26:54,391] INFO: Found existing row with adjusted date: 4/2015
+[2025-03-22 13:26:54,405] INFO: cien (4/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 13:26:54,421] INFO: Trying adjusted date: 7/2015 (original: 8/2015)
+[2025-03-22 13:26:54,434] INFO: Found existing row with adjusted date: 7/2015
+[2025-03-22 13:26:54,447] INFO: cien (7/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 13:26:54,478] INFO: cien (10/2015): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 13:26:54,508] INFO: cien (1/2016): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 13:26:54,539] INFO: cien (4/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:26:54,569] INFO: cien (7/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:26:54,599] INFO: cien (10/2016): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 13:26:54,629] INFO: cien (1/2017): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 13:26:54,659] INFO: cien (4/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:26:54,689] INFO: cien (7/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:26:54,719] INFO: cien (10/2017): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 13:26:54,750] INFO: cien (1/2018): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 13:26:54,781] INFO: cien (4/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:26:54,811] INFO: cien (7/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:26:54,842] INFO: cien (10/2018): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 13:26:54,873] INFO: cien (1/2019): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 13:26:54,902] INFO: cien (4/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:26:54,933] INFO: cien (7/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:26:54,964] INFO: cien (10/2019): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 13:26:54,994] INFO: cien (1/2020): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 13:26:55,011] INFO: Trying adjusted date: 4/2020 (original: 5/2020)
+[2025-03-22 13:26:55,025] INFO: Found existing row with adjusted date: 4/2020
+[2025-03-22 13:26:55,039] INFO: cien (4/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:26:55,055] INFO: Trying adjusted date: 7/2020 (original: 8/2020)
+[2025-03-22 13:26:55,069] INFO: Found existing row with adjusted date: 7/2020
+[2025-03-22 13:26:55,082] INFO: cien (7/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:26:55,112] INFO: cien (10/2020): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 13:26:55,142] INFO: cien (1/2021): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 13:26:55,158] INFO: Trying adjusted date: 4/2021 (original: 5/2021)
+[2025-03-22 13:26:55,171] INFO: Found existing row with adjusted date: 4/2021
+[2025-03-22 13:26:55,186] INFO: cien (4/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:26:55,216] INFO: cien (7/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:26:55,245] INFO: cien (10/2021): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 13:26:55,278] INFO: cien (1/2022): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 13:26:55,309] INFO: cien (4/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:26:55,340] INFO: cien (7/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:26:55,369] INFO: cien (10/2022): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 13:26:55,386] WARNING: cien (1/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 13:26:55,400] INFO: cien (1/2023): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 13:26:55,431] INFO: cien (4/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:26:55,462] INFO: cien (7/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:26:55,493] INFO: cien (10/2023): Updated existing record with 25 non-zero financial metrics
+[2025-03-22 13:26:55,524] INFO: cien (1/2024): Updated existing record with 26 non-zero financial metrics
+[2025-03-22 13:26:55,555] INFO: cien (4/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:26:55,585] INFO: cien (7/2024): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 13:26:55,601] INFO: Trying adjusted date: 10/2024 (original: 11/2024)
+[2025-03-22 13:26:55,615] INFO: Found existing row with adjusted date: 10/2024
+[2025-03-22 13:26:55,629] INFO: cien (10/2024): Updated existing record with 24 non-zero financial metrics
+[2025-03-22 13:26:55,645] INFO: Trying adjusted date: 1/2025 (original: 2/2025)
+[2025-03-22 13:26:55,660] WARNING: cien (2/2025): No existing record found(2/2025, 2025-02-01) - creating new one
+[2025-03-22 13:26:55,661] INFO: cien (2/2025): Created new record with 25 non-zero financial metrics

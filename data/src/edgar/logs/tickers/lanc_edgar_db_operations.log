@@ -1,0 +1,107 @@
+[2025-03-22 16:39:14,462] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 16:39:14,478] WARNING: lanc (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 16:39:14,478] INFO: lanc (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:14,500] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 16:39:14,514] WARNING: lanc (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 16:39:14,515] INFO: lanc (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:14,535] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 16:39:14,550] WARNING: lanc (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 16:39:14,550] INFO: lanc (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:14,568] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 16:39:14,583] WARNING: lanc (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 16:39:14,583] INFO: lanc (9/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:14,600] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 16:39:14,616] WARNING: lanc (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 16:39:14,616] INFO: lanc (12/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:14,633] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 16:39:14,649] WARNING: lanc (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 16:39:14,649] INFO: lanc (3/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:14,666] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 16:39:14,681] WARNING: lanc (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 16:39:14,681] INFO: lanc (6/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:14,713] INFO: lanc (9/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:14,745] INFO: lanc (12/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:14,777] INFO: lanc (3/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:14,809] INFO: lanc (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:14,841] INFO: lanc (9/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:14,873] INFO: lanc (12/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:14,891] INFO: Trying adjusted date: 4/2014 (original: 3/2014)
+[2025-03-22 16:39:14,906] WARNING: lanc (3/2014): No existing record found(3/2014, 2014-03-31) - creating new one
+[2025-03-22 16:39:14,906] INFO: lanc (3/2014): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:14,924] INFO: Trying adjusted date: 7/2014 (original: 6/2014)
+[2025-03-22 16:39:14,939] WARNING: lanc (6/2014): No existing record found(6/2014, 2014-06-30) - creating new one
+[2025-03-22 16:39:14,939] INFO: lanc (6/2014): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:14,957] INFO: Trying adjusted date: 10/2014 (original: 9/2014)
+[2025-03-22 16:39:14,972] WARNING: lanc (9/2014): No existing record found(9/2014, 2014-09-30) - creating new one
+[2025-03-22 16:39:14,972] INFO: lanc (9/2014): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,005] INFO: lanc (12/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,023] INFO: Trying adjusted date: 4/2015 (original: 3/2015)
+[2025-03-22 16:39:15,038] WARNING: lanc (3/2015): No existing record found(3/2015, 2015-03-31) - creating new one
+[2025-03-22 16:39:15,038] INFO: lanc (3/2015): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,070] INFO: lanc (6/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,103] INFO: lanc (9/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,136] INFO: lanc (12/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,173] INFO: lanc (3/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,207] INFO: lanc (6/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,243] INFO: lanc (9/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,276] INFO: lanc (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,307] INFO: lanc (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,338] INFO: lanc (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,369] INFO: lanc (9/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,386] INFO: Trying adjusted date: 1/2018 (original: 12/2017)
+[2025-03-22 16:39:15,400] WARNING: lanc (12/2017): No existing record found(12/2017, 2017-12-31) - creating new one
+[2025-03-22 16:39:15,400] INFO: lanc (12/2017): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,418] INFO: Trying adjusted date: 4/2018 (original: 3/2018)
+[2025-03-22 16:39:15,433] WARNING: lanc (3/2018): No existing record found(3/2018, 2018-03-31) - creating new one
+[2025-03-22 16:39:15,433] INFO: lanc (3/2018): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,452] INFO: Trying adjusted date: 7/2018 (original: 6/2018)
+[2025-03-22 16:39:15,466] WARNING: lanc (6/2018): No existing record found(6/2018, 2018-06-30) - creating new one
+[2025-03-22 16:39:15,467] INFO: lanc (6/2018): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,483] INFO: Trying adjusted date: 10/2018 (original: 9/2018)
+[2025-03-22 16:39:15,498] WARNING: lanc (9/2018): No existing record found(9/2018, 2018-09-30) - creating new one
+[2025-03-22 16:39:15,498] INFO: lanc (9/2018): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,515] INFO: Trying adjusted date: 1/2019 (original: 12/2018)
+[2025-03-22 16:39:15,529] WARNING: lanc (12/2018): No existing record found(12/2018, 2018-12-31) - creating new one
+[2025-03-22 16:39:15,530] INFO: lanc (12/2018): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,547] INFO: Trying adjusted date: 4/2019 (original: 3/2019)
+[2025-03-22 16:39:15,562] WARNING: lanc (3/2019): No existing record found(3/2019, 2019-03-31) - creating new one
+[2025-03-22 16:39:15,562] INFO: lanc (3/2019): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,579] INFO: Trying adjusted date: 7/2019 (original: 6/2019)
+[2025-03-22 16:39:15,593] WARNING: lanc (6/2019): No existing record found(6/2019, 2019-06-30) - creating new one
+[2025-03-22 16:39:15,594] INFO: lanc (6/2019): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,612] INFO: Trying adjusted date: 10/2019 (original: 9/2019)
+[2025-03-22 16:39:15,626] WARNING: lanc (9/2019): No existing record found(9/2019, 2019-09-30) - creating new one
+[2025-03-22 16:39:15,627] INFO: lanc (9/2019): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,646] INFO: Trying adjusted date: 1/2020 (original: 12/2019)
+[2025-03-22 16:39:15,660] WARNING: lanc (12/2019): No existing record found(12/2019, 2019-12-31) - creating new one
+[2025-03-22 16:39:15,661] INFO: lanc (12/2019): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,678] INFO: Trying adjusted date: 4/2020 (original: 3/2020)
+[2025-03-22 16:39:15,693] WARNING: lanc (3/2020): No existing record found(3/2020, 2020-03-31) - creating new one
+[2025-03-22 16:39:15,693] INFO: lanc (3/2020): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,710] INFO: Trying adjusted date: 7/2020 (original: 6/2020)
+[2025-03-22 16:39:15,725] WARNING: lanc (6/2020): No existing record found(6/2020, 2020-06-30) - creating new one
+[2025-03-22 16:39:15,725] INFO: lanc (6/2020): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,756] INFO: lanc (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,786] INFO: lanc (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,818] INFO: lanc (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,848] INFO: lanc (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,864] INFO: Trying adjusted date: 10/2021 (original: 9/2021)
+[2025-03-22 16:39:15,879] WARNING: lanc (9/2021): No existing record found(9/2021, 2021-09-30) - creating new one
+[2025-03-22 16:39:15,880] INFO: lanc (9/2021): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,896] INFO: Trying adjusted date: 1/2022 (original: 12/2021)
+[2025-03-22 16:39:15,912] WARNING: lanc (12/2021): No existing record found(12/2021, 2021-12-31) - creating new one
+[2025-03-22 16:39:15,912] INFO: lanc (12/2021): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,929] INFO: Trying adjusted date: 4/2022 (original: 3/2022)
+[2025-03-22 16:39:15,945] WARNING: lanc (3/2022): No existing record found(3/2022, 2022-03-31) - creating new one
+[2025-03-22 16:39:15,945] INFO: lanc (3/2022): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:39:15,976] INFO: lanc (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:16,008] INFO: lanc (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:16,042] INFO: lanc (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:16,079] INFO: lanc (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:16,111] INFO: lanc (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:16,144] INFO: lanc (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:16,178] INFO: lanc (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:16,211] INFO: lanc (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:16,242] INFO: lanc (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:16,274] INFO: lanc (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:39:16,305] INFO: lanc (12/2024): Updated existing record with 0 non-zero financial metrics

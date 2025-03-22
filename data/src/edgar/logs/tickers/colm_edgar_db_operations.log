@@ -1,0 +1,69 @@
+[2025-03-22 16:26:14,580] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 16:26:14,595] WARNING: colm (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 16:26:14,595] INFO: colm (6/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:26:14,613] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 16:26:14,628] WARNING: colm (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 16:26:14,629] INFO: colm (9/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:26:14,645] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 16:26:14,660] WARNING: colm (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 16:26:14,661] INFO: colm (12/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:26:14,678] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 16:26:14,692] WARNING: colm (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 16:26:14,693] INFO: colm (3/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:26:14,710] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 16:26:14,724] WARNING: colm (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 16:26:14,725] INFO: colm (6/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:26:14,757] INFO: colm (9/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:14,789] INFO: colm (12/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:14,822] INFO: colm (3/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:14,853] INFO: colm (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:14,883] INFO: colm (9/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:14,914] INFO: colm (12/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:14,945] INFO: colm (3/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:14,977] INFO: colm (6/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,009] INFO: colm (9/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,039] INFO: colm (12/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,070] INFO: colm (3/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,100] INFO: colm (6/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,131] INFO: colm (9/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,162] INFO: colm (12/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,194] INFO: colm (3/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,211] INFO: Trying adjusted date: 7/2016 (original: 8/2016)
+[2025-03-22 16:26:15,225] WARNING: colm (8/2016): No existing record found(8/2016, 2016-08-04) - creating new one
+[2025-03-22 16:26:15,226] INFO: colm (8/2016): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,259] INFO: colm (9/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,290] INFO: colm (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,321] INFO: colm (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,351] INFO: colm (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,382] INFO: colm (9/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,413] INFO: colm (12/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,444] INFO: colm (3/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,476] INFO: colm (6/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,507] INFO: colm (9/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,538] INFO: colm (12/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,569] INFO: colm (3/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,586] INFO: Trying adjusted date: 7/2019 (original: 6/2019)
+[2025-03-22 16:26:15,600] WARNING: colm (6/2019): No existing record found(6/2019, 2019-06-30) - creating new one
+[2025-03-22 16:26:15,600] INFO: colm (6/2019): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,631] INFO: colm (9/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,662] INFO: colm (12/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,693] INFO: colm (3/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,723] INFO: colm (6/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,754] INFO: colm (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,785] INFO: colm (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,817] INFO: colm (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,850] INFO: colm (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,881] INFO: colm (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,913] INFO: colm (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,946] INFO: colm (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:15,978] INFO: colm (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:16,009] INFO: colm (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:16,042] INFO: colm (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:16,075] INFO: colm (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:16,106] INFO: colm (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:16,137] INFO: colm (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:16,168] INFO: colm (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:16,198] INFO: colm (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:16,229] INFO: colm (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:16,259] INFO: colm (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:26:16,291] INFO: colm (12/2024): Updated existing record with 0 non-zero financial metrics

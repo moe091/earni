@@ -1,0 +1,84 @@
+[2025-03-22 00:35:12,328] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 00:35:12,339] WARNING: aon (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-22 00:35:12,339] INFO: aon (3/2010): Created new record with 17 non-zero financial metrics
+[2025-03-22 00:35:12,354] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 00:35:12,366] WARNING: aon (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 00:35:12,367] INFO: aon (6/2010): Created new record with 12 non-zero financial metrics
+[2025-03-22 00:35:12,380] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 00:35:12,392] WARNING: aon (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 00:35:12,393] INFO: aon (9/2010): Created new record with 12 non-zero financial metrics
+[2025-03-22 00:35:12,405] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 00:35:12,417] WARNING: aon (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 00:35:12,418] INFO: aon (12/2010): Created new record with 19 non-zero financial metrics
+[2025-03-22 00:35:12,431] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 00:35:12,443] WARNING: aon (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 00:35:12,444] INFO: aon (3/2011): Created new record with 17 non-zero financial metrics
+[2025-03-22 00:35:12,457] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 00:35:12,469] WARNING: aon (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 00:35:12,469] INFO: aon (6/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 00:35:12,483] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 00:35:12,495] WARNING: aon (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 00:35:12,495] INFO: aon (9/2011): Created new record with 12 non-zero financial metrics
+[2025-03-22 00:35:12,508] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 00:35:12,520] WARNING: aon (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 00:35:12,521] INFO: aon (12/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 00:35:12,533] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 00:35:12,545] WARNING: aon (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 00:35:12,546] INFO: aon (3/2012): Created new record with 17 non-zero financial metrics
+[2025-03-22 00:35:12,559] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 00:35:12,571] WARNING: aon (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 00:35:12,572] INFO: aon (6/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 00:35:12,585] INFO: Trying adjusted date: 10/2012 (original: 9/2012)
+[2025-03-22 00:35:12,597] WARNING: aon (9/2012): No existing record found(9/2012, 2012-09-30) - creating new one
+[2025-03-22 00:35:12,597] INFO: aon (9/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 00:35:12,623] INFO: aon (12/2012): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:35:12,648] INFO: aon (3/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:35:12,674] INFO: aon (6/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:35:12,699] INFO: aon (9/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:35:12,725] INFO: aon (12/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:35:12,738] INFO: Trying adjusted date: 4/2014 (original: 3/2014)
+[2025-03-22 00:35:12,749] WARNING: aon (3/2014): No existing record found(3/2014, 2014-03-31) - creating new one
+[2025-03-22 00:35:12,750] INFO: aon (3/2014): Created new record with 17 non-zero financial metrics
+[2025-03-22 00:35:12,775] INFO: aon (6/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:35:12,801] INFO: aon (9/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:35:12,825] INFO: aon (12/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:35:12,850] INFO: aon (3/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:35:12,877] INFO: aon (6/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:35:12,902] INFO: aon (9/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:35:12,927] INFO: aon (12/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:35:12,953] INFO: aon (3/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:35:12,980] INFO: aon (6/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:35:13,005] INFO: aon (9/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:35:13,030] INFO: aon (12/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:35:13,056] INFO: aon (3/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:35:13,082] INFO: aon (6/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:35:13,108] INFO: aon (9/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:35:13,132] INFO: aon (12/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 00:35:13,157] INFO: aon (3/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:35:13,182] INFO: aon (6/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:35:13,209] INFO: aon (9/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:35:13,234] INFO: aon (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:35:13,258] INFO: aon (3/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:35:13,283] INFO: aon (6/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:35:13,309] INFO: aon (9/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:35:13,333] INFO: aon (12/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:35:13,359] INFO: aon (3/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:35:13,384] INFO: aon (6/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:35:13,409] INFO: aon (9/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:35:13,436] INFO: aon (12/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:35:13,462] INFO: aon (3/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:35:13,487] INFO: aon (6/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:35:13,516] INFO: aon (9/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:35:13,541] INFO: aon (12/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:35:13,567] INFO: aon (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:35:13,594] INFO: aon (6/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:35:13,620] INFO: aon (9/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:35:13,645] INFO: aon (12/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:35:13,671] INFO: aon (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:35:13,697] INFO: aon (6/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:35:13,722] INFO: aon (9/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 00:35:13,746] INFO: aon (12/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 00:35:13,771] INFO: aon (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:35:13,798] INFO: aon (6/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:35:13,822] INFO: aon (9/2024): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:35:13,847] INFO: aon (12/2024): Updated existing record with 16 non-zero financial metrics

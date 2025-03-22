@@ -1,0 +1,68 @@
+[2025-03-22 15:46:35,676] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 15:46:35,691] WARNING: adc (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 15:46:35,692] INFO: adc (6/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 15:46:35,709] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 15:46:35,724] WARNING: adc (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 15:46:35,725] INFO: adc (9/2011): Created new record with 13 non-zero financial metrics
+[2025-03-22 15:46:35,742] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 15:46:35,758] WARNING: adc (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 15:46:35,758] INFO: adc (12/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 15:46:35,775] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 15:46:35,791] WARNING: adc (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 15:46:35,791] INFO: adc (3/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 15:46:35,810] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 15:46:35,825] WARNING: adc (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 15:46:35,826] INFO: adc (6/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 15:46:35,858] INFO: adc (9/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:35,890] INFO: adc (12/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:35,922] INFO: adc (3/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:35,954] INFO: adc (6/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 15:46:35,986] INFO: adc (9/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:46:36,017] INFO: adc (12/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:46:36,049] INFO: adc (3/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 15:46:36,081] INFO: adc (6/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:46:36,111] INFO: adc (9/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:46:36,142] INFO: adc (12/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 15:46:36,172] INFO: adc (3/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 15:46:36,204] INFO: adc (6/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:46:36,235] INFO: adc (9/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:46:36,267] INFO: adc (12/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:46:36,299] INFO: adc (3/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 15:46:36,336] INFO: adc (6/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 15:46:36,357] WARNING: adc (9/2016): Found zero values for fields: Deferred Revenue
+[2025-03-22 15:46:36,371] INFO: adc (9/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:46:36,402] INFO: adc (12/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 15:46:36,433] INFO: adc (3/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 15:46:36,464] INFO: adc (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:46:36,495] INFO: adc (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:46:36,526] INFO: adc (12/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:46:36,557] INFO: adc (3/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:46:36,591] INFO: adc (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:46:36,624] INFO: adc (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 15:46:36,655] INFO: adc (12/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 15:46:36,685] INFO: adc (3/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:36,716] INFO: adc (6/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:36,747] INFO: adc (9/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:36,778] INFO: adc (12/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:36,810] INFO: adc (3/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:36,840] INFO: adc (6/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:36,871] INFO: adc (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:36,901] INFO: adc (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:36,931] INFO: adc (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:36,964] INFO: adc (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:36,996] INFO: adc (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:37,027] INFO: adc (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:37,059] INFO: adc (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:37,090] INFO: adc (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:37,120] INFO: adc (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:37,151] INFO: adc (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:37,182] INFO: adc (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:37,214] INFO: adc (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:37,245] INFO: adc (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:37,275] INFO: adc (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:37,306] INFO: adc (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:37,337] INFO: adc (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:37,368] INFO: adc (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:46:37,384] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 15:46:37,398] WARNING: adc (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 15:46:37,399] INFO: adc (12/2024): Created new record with 0 non-zero financial metrics

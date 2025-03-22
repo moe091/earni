@@ -1,0 +1,153 @@
+[2025-03-22 10:06:39,047] INFO: Trying adjusted date: 9/2010 (original: 10/2010)
+[2025-03-22 10:06:39,060] WARNING: rrx (10/2010): No existing record found(10/2010, 2010-10-02) - creating new one
+[2025-03-22 10:06:39,060] INFO: rrx (10/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 10:06:39,076] INFO: Trying adjusted date: 12/2010 (original: 1/2011)
+[2025-03-22 10:06:39,090] WARNING: rrx (1/2011): No existing record found(1/2011, 2011-01-01) - creating new one
+[2025-03-22 10:06:39,091] INFO: rrx (1/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 10:06:39,106] INFO: Trying adjusted date: 3/2011 (original: 4/2011)
+[2025-03-22 10:06:39,118] WARNING: rrx (4/2011): No existing record found(4/2011, 2011-04-02) - creating new one
+[2025-03-22 10:06:39,119] INFO: rrx (4/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 10:06:39,137] INFO: Trying adjusted date: 9/2011 (original: 10/2011)
+[2025-03-22 10:06:39,150] WARNING: rrx (10/2011): No existing record found(10/2011, 2011-10-01) - creating new one
+[2025-03-22 10:06:39,150] INFO: rrx (10/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:06:39,166] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 10:06:39,180] WARNING: rrx (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 10:06:39,181] INFO: rrx (12/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 10:06:39,195] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 10:06:39,209] WARNING: rrx (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 10:06:39,209] INFO: rrx (3/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 10:06:39,224] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 10:06:39,238] WARNING: rrx (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 10:06:39,238] INFO: rrx (6/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:06:39,254] INFO: Trying adjusted date: 10/2012 (original: 9/2012)
+[2025-03-22 10:06:39,267] WARNING: rrx (9/2012): No existing record found(9/2012, 2012-09-29) - creating new one
+[2025-03-22 10:06:39,268] INFO: rrx (9/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:06:39,283] INFO: Trying adjusted date: 1/2013 (original: 12/2012)
+[2025-03-22 10:06:39,296] WARNING: rrx (12/2012): No existing record found(12/2012, 2012-12-29) - creating new one
+[2025-03-22 10:06:39,297] INFO: rrx (12/2012): Created new record with 19 non-zero financial metrics
+[2025-03-22 10:06:39,312] INFO: Trying adjusted date: 4/2013 (original: 3/2013)
+[2025-03-22 10:06:39,325] WARNING: rrx (3/2013): No existing record found(3/2013, 2013-03-30) - creating new one
+[2025-03-22 10:06:39,326] INFO: rrx (3/2013): Created new record with 18 non-zero financial metrics
+[2025-03-22 10:06:39,341] INFO: Trying adjusted date: 7/2013 (original: 6/2013)
+[2025-03-22 10:06:39,355] WARNING: rrx (6/2013): No existing record found(6/2013, 2013-06-29) - creating new one
+[2025-03-22 10:06:39,356] INFO: rrx (6/2013): Created new record with 0 non-zero financial metrics
+[2025-03-22 10:06:39,370] INFO: Trying adjusted date: 10/2013 (original: 9/2013)
+[2025-03-22 10:06:39,384] WARNING: rrx (9/2013): No existing record found(9/2013, 2013-09-28) - creating new one
+[2025-03-22 10:06:39,384] INFO: rrx (9/2013): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:06:39,400] INFO: Trying adjusted date: 1/2014 (original: 12/2013)
+[2025-03-22 10:06:39,413] WARNING: rrx (12/2013): No existing record found(12/2013, 2013-12-28) - creating new one
+[2025-03-22 10:06:39,414] INFO: rrx (12/2013): Created new record with 19 non-zero financial metrics
+[2025-03-22 10:06:39,428] INFO: Trying adjusted date: 4/2014 (original: 3/2014)
+[2025-03-22 10:06:39,442] WARNING: rrx (3/2014): No existing record found(3/2014, 2014-03-29) - creating new one
+[2025-03-22 10:06:39,442] INFO: rrx (3/2014): Created new record with 19 non-zero financial metrics
+[2025-03-22 10:06:39,458] INFO: Trying adjusted date: 7/2014 (original: 6/2014)
+[2025-03-22 10:06:39,472] WARNING: rrx (6/2014): No existing record found(6/2014, 2014-06-28) - creating new one
+[2025-03-22 10:06:39,472] INFO: rrx (6/2014): Created new record with 16 non-zero financial metrics
+[2025-03-22 10:06:39,488] INFO: Trying adjusted date: 10/2014 (original: 9/2014)
+[2025-03-22 10:06:39,501] WARNING: rrx (9/2014): No existing record found(9/2014, 2014-09-27) - creating new one
+[2025-03-22 10:06:39,501] INFO: rrx (9/2014): Created new record with 16 non-zero financial metrics
+[2025-03-22 10:06:39,516] INFO: Trying adjusted date: 12/2014 (original: 1/2015)
+[2025-03-22 10:06:39,529] WARNING: rrx (1/2015): No existing record found(1/2015, 2015-01-03) - creating new one
+[2025-03-22 10:06:39,530] INFO: rrx (1/2015): Created new record with 21 non-zero financial metrics
+[2025-03-22 10:06:39,545] INFO: Trying adjusted date: 3/2015 (original: 4/2015)
+[2025-03-22 10:06:39,558] WARNING: rrx (4/2015): No existing record found(4/2015, 2015-04-04) - creating new one
+[2025-03-22 10:06:39,559] INFO: rrx (4/2015): Created new record with 19 non-zero financial metrics
+[2025-03-22 10:06:39,575] INFO: Trying adjusted date: 6/2015 (original: 7/2015)
+[2025-03-22 10:06:39,588] WARNING: rrx (7/2015): No existing record found(7/2015, 2015-07-04) - creating new one
+[2025-03-22 10:06:39,589] INFO: rrx (7/2015): Created new record with 16 non-zero financial metrics
+[2025-03-22 10:06:39,604] INFO: Trying adjusted date: 9/2015 (original: 10/2015)
+[2025-03-22 10:06:39,618] WARNING: rrx (10/2015): No existing record found(10/2015, 2015-10-03) - creating new one
+[2025-03-22 10:06:39,618] INFO: rrx (10/2015): Created new record with 16 non-zero financial metrics
+[2025-03-22 10:06:39,633] INFO: Trying adjusted date: 12/2015 (original: 1/2016)
+[2025-03-22 10:06:39,646] WARNING: rrx (1/2016): No existing record found(1/2016, 2016-01-02) - creating new one
+[2025-03-22 10:06:39,646] INFO: rrx (1/2016): Created new record with 20 non-zero financial metrics
+[2025-03-22 10:06:39,662] INFO: Trying adjusted date: 3/2016 (original: 4/2016)
+[2025-03-22 10:06:39,676] WARNING: rrx (4/2016): No existing record found(4/2016, 2016-04-02) - creating new one
+[2025-03-22 10:06:39,676] INFO: rrx (4/2016): Created new record with 18 non-zero financial metrics
+[2025-03-22 10:06:39,692] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-22 10:06:39,706] WARNING: rrx (7/2016): No existing record found(7/2016, 2016-07-02) - creating new one
+[2025-03-22 10:06:39,706] INFO: rrx (7/2016): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:06:39,722] INFO: Trying adjusted date: 9/2016 (original: 10/2016)
+[2025-03-22 10:06:39,734] WARNING: rrx (10/2016): No existing record found(10/2016, 2016-10-01) - creating new one
+[2025-03-22 10:06:39,735] INFO: rrx (10/2016): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:06:39,751] INFO: Trying adjusted date: 12/2016 (original: 1/2017)
+[2025-03-22 10:06:39,764] WARNING: rrx (1/2017): No existing record found(1/2017, 2017-01-07) - creating new one
+[2025-03-22 10:06:39,764] INFO: rrx (1/2017): Created new record with 0 non-zero financial metrics
+[2025-03-22 10:06:39,780] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-22 10:06:39,793] WARNING: rrx (4/2017): No existing record found(4/2017, 2017-04-01) - creating new one
+[2025-03-22 10:06:39,794] INFO: rrx (4/2017): Created new record with 18 non-zero financial metrics
+[2025-03-22 10:06:39,809] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-22 10:06:39,822] WARNING: rrx (7/2017): No existing record found(7/2017, 2017-07-01) - creating new one
+[2025-03-22 10:06:39,823] INFO: rrx (7/2017): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:06:39,840] INFO: Trying adjusted date: 10/2017 (original: 9/2017)
+[2025-03-22 10:06:39,852] WARNING: rrx (9/2017): No existing record found(9/2017, 2017-09-30) - creating new one
+[2025-03-22 10:06:39,852] INFO: rrx (9/2017): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:06:39,869] INFO: Trying adjusted date: 1/2018 (original: 12/2017)
+[2025-03-22 10:06:39,883] WARNING: rrx (12/2017): No existing record found(12/2017, 2017-12-30) - creating new one
+[2025-03-22 10:06:39,883] INFO: rrx (12/2017): Created new record with 20 non-zero financial metrics
+[2025-03-22 10:06:39,899] INFO: Trying adjusted date: 4/2018 (original: 3/2018)
+[2025-03-22 10:06:39,912] WARNING: rrx (3/2018): No existing record found(3/2018, 2018-03-31) - creating new one
+[2025-03-22 10:06:39,912] INFO: rrx (3/2018): Created new record with 20 non-zero financial metrics
+[2025-03-22 10:06:39,928] INFO: Trying adjusted date: 7/2018 (original: 6/2018)
+[2025-03-22 10:06:39,943] WARNING: rrx (6/2018): No existing record found(6/2018, 2018-06-30) - creating new one
+[2025-03-22 10:06:39,943] INFO: rrx (6/2018): Created new record with 16 non-zero financial metrics
+[2025-03-22 10:06:39,958] INFO: Trying adjusted date: 10/2018 (original: 9/2018)
+[2025-03-22 10:06:39,972] WARNING: rrx (9/2018): No existing record found(9/2018, 2018-09-29) - creating new one
+[2025-03-22 10:06:39,972] INFO: rrx (9/2018): Created new record with 16 non-zero financial metrics
+[2025-03-22 10:06:39,987] INFO: Trying adjusted date: 1/2019 (original: 12/2018)
+[2025-03-22 10:06:40,000] WARNING: rrx (12/2018): No existing record found(12/2018, 2018-12-29) - creating new one
+[2025-03-22 10:06:40,001] INFO: rrx (12/2018): Created new record with 21 non-zero financial metrics
+[2025-03-22 10:06:40,016] INFO: Trying adjusted date: 4/2019 (original: 3/2019)
+[2025-03-22 10:06:40,030] WARNING: rrx (3/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 10:06:40,030] WARNING: rrx (3/2019): No existing record found(3/2019, 2019-03-30) - creating new one
+[2025-03-22 10:06:40,030] INFO: rrx (3/2019): Created new record with 18 non-zero financial metrics
+[2025-03-22 10:06:40,045] INFO: Trying adjusted date: 7/2019 (original: 6/2019)
+[2025-03-22 10:06:40,061] WARNING: rrx (6/2019): No existing record found(6/2019, 2019-06-29) - creating new one
+[2025-03-22 10:06:40,062] INFO: rrx (6/2019): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:06:40,076] INFO: Trying adjusted date: 10/2019 (original: 9/2019)
+[2025-03-22 10:06:40,091] WARNING: rrx (9/2019): No existing record found(9/2019, 2019-09-28) - creating new one
+[2025-03-22 10:06:40,091] INFO: rrx (9/2019): Created new record with 15 non-zero financial metrics
+[2025-03-22 10:06:40,107] INFO: Trying adjusted date: 1/2020 (original: 12/2019)
+[2025-03-22 10:06:40,121] WARNING: rrx (12/2019): No existing record found(12/2019, 2019-12-28) - creating new one
+[2025-03-22 10:06:40,122] INFO: rrx (12/2019): Created new record with 21 non-zero financial metrics
+[2025-03-22 10:06:40,137] INFO: Trying adjusted date: 4/2020 (original: 3/2020)
+[2025-03-22 10:06:40,150] WARNING: rrx (3/2020): No existing record found(3/2020, 2020-03-28) - creating new one
+[2025-03-22 10:06:40,151] INFO: rrx (3/2020): Created new record with 19 non-zero financial metrics
+[2025-03-22 10:06:40,166] INFO: Trying adjusted date: 7/2020 (original: 6/2020)
+[2025-03-22 10:06:40,179] WARNING: rrx (6/2020): No existing record found(6/2020, 2020-06-27) - creating new one
+[2025-03-22 10:06:40,180] INFO: rrx (6/2020): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:06:40,197] INFO: Trying adjusted date: 10/2020 (original: 9/2020)
+[2025-03-22 10:06:40,211] WARNING: rrx (9/2020): No existing record found(9/2020, 2020-09-26) - creating new one
+[2025-03-22 10:06:40,211] INFO: rrx (9/2020): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:06:40,227] INFO: Trying adjusted date: 12/2020 (original: 1/2021)
+[2025-03-22 10:06:40,241] WARNING: rrx (1/2021): No existing record found(1/2021, 2021-01-02) - creating new one
+[2025-03-22 10:06:40,242] INFO: rrx (1/2021): Created new record with 21 non-zero financial metrics
+[2025-03-22 10:06:40,257] INFO: Trying adjusted date: 3/2021 (original: 4/2021)
+[2025-03-22 10:06:40,270] WARNING: rrx (4/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 10:06:40,270] WARNING: rrx (4/2021): No existing record found(4/2021, 2021-04-03) - creating new one
+[2025-03-22 10:06:40,270] INFO: rrx (4/2021): Created new record with 17 non-zero financial metrics
+[2025-03-22 10:06:40,286] INFO: Trying adjusted date: 6/2021 (original: 7/2021)
+[2025-03-22 10:06:40,299] WARNING: rrx (7/2021): No existing record found(7/2021, 2021-07-03) - creating new one
+[2025-03-22 10:06:40,300] INFO: rrx (7/2021): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:06:40,316] INFO: Trying adjusted date: 9/2021 (original: 10/2021)
+[2025-03-22 10:06:40,330] INFO: Found existing row with adjusted date: 9/2021
+[2025-03-22 10:06:40,343] INFO: rrx (9/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:06:40,358] INFO: Trying adjusted date: 12/2021 (original: 1/2022)
+[2025-03-22 10:06:40,371] INFO: Found existing row with adjusted date: 12/2021
+[2025-03-22 10:06:40,385] INFO: rrx (12/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 10:06:40,413] INFO: rrx (3/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:06:40,444] INFO: rrx (6/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:06:40,473] INFO: rrx (9/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:06:40,501] INFO: rrx (12/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 10:06:40,516] WARNING: rrx (3/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 10:06:40,529] INFO: rrx (3/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:06:40,557] INFO: rrx (6/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:06:40,589] INFO: rrx (9/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:06:40,605] WARNING: rrx (12/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 10:06:40,618] INFO: rrx (12/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:06:40,647] INFO: rrx (3/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:06:40,675] INFO: rrx (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:06:40,707] INFO: rrx (9/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 10:06:40,722] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 10:06:40,736] WARNING: rrx (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 10:06:40,736] INFO: rrx (12/2024): Created new record with 19 non-zero financial metrics

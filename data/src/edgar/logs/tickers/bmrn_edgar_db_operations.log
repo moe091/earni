@@ -1,0 +1,79 @@
+[2025-03-22 06:52:33,556] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 06:52:33,568] WARNING: bmrn (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 06:52:33,569] INFO: bmrn (6/2010): Created new record with 15 non-zero financial metrics
+[2025-03-22 06:52:33,595] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 06:52:33,609] WARNING: bmrn (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 06:52:33,609] INFO: bmrn (9/2010): Created new record with 15 non-zero financial metrics
+[2025-03-22 06:52:33,624] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 06:52:33,637] WARNING: bmrn (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 06:52:33,638] INFO: bmrn (12/2010): Created new record with 19 non-zero financial metrics
+[2025-03-22 06:52:33,653] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 06:52:33,667] WARNING: bmrn (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 06:52:33,667] INFO: bmrn (3/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 06:52:33,682] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 06:52:33,696] WARNING: bmrn (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 06:52:33,696] INFO: bmrn (6/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 06:52:33,711] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 06:52:33,724] WARNING: bmrn (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 06:52:33,725] INFO: bmrn (9/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 06:52:33,739] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 06:52:33,753] WARNING: bmrn (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 06:52:33,753] INFO: bmrn (12/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 06:52:33,768] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 06:52:33,781] WARNING: bmrn (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 06:52:33,781] INFO: bmrn (3/2012): Created new record with 19 non-zero financial metrics
+[2025-03-22 06:52:33,809] INFO: bmrn (6/2012): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:52:33,837] INFO: bmrn (9/2012): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:52:33,866] INFO: bmrn (12/2012): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:52:33,894] INFO: bmrn (3/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:52:33,920] INFO: bmrn (6/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:52:33,948] INFO: bmrn (9/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:52:33,978] INFO: bmrn (12/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:52:34,006] INFO: bmrn (3/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:52:34,034] INFO: bmrn (6/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:52:34,062] INFO: bmrn (9/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:52:34,089] INFO: bmrn (12/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:52:34,117] INFO: bmrn (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:52:34,146] INFO: bmrn (6/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:52:34,174] INFO: bmrn (9/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:52:34,201] INFO: bmrn (12/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:52:34,229] INFO: bmrn (3/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:52:34,257] INFO: bmrn (6/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:52:34,283] INFO: bmrn (9/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:52:34,311] INFO: bmrn (12/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:52:34,339] INFO: bmrn (3/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:52:34,367] INFO: bmrn (6/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:52:34,396] INFO: bmrn (9/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:52:34,425] INFO: bmrn (12/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:52:34,452] INFO: bmrn (3/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:52:34,479] INFO: bmrn (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:52:34,507] INFO: bmrn (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:52:34,534] INFO: bmrn (12/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:52:34,561] INFO: bmrn (3/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:52:34,589] INFO: bmrn (6/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:52:34,617] INFO: bmrn (9/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:52:34,649] INFO: bmrn (12/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 06:52:34,678] INFO: bmrn (3/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:52:34,705] INFO: bmrn (6/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:52:34,734] INFO: bmrn (9/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:52:34,762] INFO: bmrn (12/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 06:52:34,790] INFO: bmrn (3/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:52:34,817] INFO: bmrn (6/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:52:34,845] INFO: bmrn (9/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:52:34,860] WARNING: bmrn (12/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 06:52:34,873] INFO: bmrn (12/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:52:34,901] INFO: bmrn (3/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:52:34,928] INFO: bmrn (6/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:52:34,956] INFO: bmrn (9/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:52:34,971] WARNING: bmrn (12/2022): Found zero values for fields: Share Repurchases
+[2025-03-22 06:52:34,984] INFO: bmrn (12/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:52:35,012] INFO: bmrn (3/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:52:35,040] INFO: bmrn (6/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:52:35,067] INFO: bmrn (9/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:52:35,095] INFO: bmrn (12/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:52:35,123] INFO: bmrn (3/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:52:35,150] INFO: bmrn (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:52:35,178] INFO: bmrn (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 06:52:35,193] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 06:52:35,207] WARNING: bmrn (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 06:52:35,207] INFO: bmrn (12/2024): Created new record with 18 non-zero financial metrics

@@ -1,0 +1,22 @@
+[2025-03-22 13:34:38,027] WARNING: iot (4/2022): Found zero values for fields: Share Repurchases
+[2025-03-22 13:34:38,040] INFO: iot (4/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 13:34:38,071] INFO: iot (7/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:34:38,101] INFO: iot (10/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:34:38,119] WARNING: iot (1/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 13:34:38,132] INFO: iot (1/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 13:34:38,165] INFO: iot (4/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 13:34:38,196] INFO: iot (7/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:34:38,226] INFO: iot (10/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:34:38,243] INFO: Trying adjusted date: 1/2024 (original: 2/2024)
+[2025-03-22 13:34:38,257] INFO: Found existing row with adjusted date: 1/2024
+[2025-03-22 13:34:38,258] WARNING: iot (1/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 13:34:38,272] INFO: iot (1/2024): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 13:34:38,288] INFO: Trying adjusted date: 4/2024 (original: 5/2024)
+[2025-03-22 13:34:38,302] INFO: Found existing row with adjusted date: 4/2024
+[2025-03-22 13:34:38,316] INFO: iot (4/2024): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 13:34:38,332] INFO: Trying adjusted date: 7/2024 (original: 8/2024)
+[2025-03-22 13:34:38,346] INFO: Found existing row with adjusted date: 7/2024
+[2025-03-22 13:34:38,359] INFO: iot (7/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:34:38,375] INFO: Trying adjusted date: 10/2024 (original: 11/2024)
+[2025-03-22 13:34:38,389] INFO: Found existing row with adjusted date: 10/2024
+[2025-03-22 13:34:38,403] INFO: iot (10/2024): Updated existing record with 18 non-zero financial metrics

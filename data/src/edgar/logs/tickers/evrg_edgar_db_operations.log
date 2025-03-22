@@ -1,0 +1,36 @@
+[2025-03-22 07:04:43,389] INFO: evrg (6/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 07:04:43,417] INFO: evrg (9/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 07:04:43,444] INFO: evrg (12/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:04:43,474] INFO: evrg (3/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:04:43,502] INFO: evrg (6/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 07:04:43,530] INFO: evrg (9/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 07:04:43,544] INFO: Trying adjusted date: 1/2020 (original: 12/2019)
+[2025-03-22 07:04:43,557] WARNING: evrg (12/2019): No existing record found(12/2019, 2019-12-31) - creating new one
+[2025-03-22 07:04:43,558] INFO: evrg (12/2019): Created new record with 15 non-zero financial metrics
+[2025-03-22 07:04:43,574] WARNING: evrg (3/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 07:04:43,587] INFO: evrg (3/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:04:43,615] INFO: evrg (6/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:04:43,642] INFO: evrg (9/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:04:43,658] WARNING: evrg (12/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 07:04:43,672] INFO: evrg (12/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:04:43,702] INFO: evrg (3/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:04:43,730] INFO: evrg (6/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 07:04:43,758] INFO: evrg (9/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 07:04:43,773] WARNING: evrg (12/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 07:04:43,786] INFO: evrg (12/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 07:04:43,813] INFO: evrg (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:04:43,828] INFO: Trying adjusted date: 7/2022 (original: 6/2022)
+[2025-03-22 07:04:43,842] WARNING: evrg (6/2022): No existing record found(6/2022, 2022-06-30) - creating new one
+[2025-03-22 07:04:43,843] INFO: evrg (6/2022): Created new record with 12 non-zero financial metrics
+[2025-03-22 07:04:43,869] INFO: evrg (9/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:04:43,896] INFO: evrg (12/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:04:43,924] INFO: evrg (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:04:43,952] INFO: evrg (6/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:04:43,980] INFO: evrg (9/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:04:44,007] INFO: evrg (12/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:04:44,036] INFO: evrg (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 07:04:44,064] INFO: evrg (6/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:04:44,091] INFO: evrg (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 07:04:44,107] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 07:04:44,119] WARNING: evrg (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 07:04:44,120] INFO: evrg (12/2024): Created new record with 16 non-zero financial metrics

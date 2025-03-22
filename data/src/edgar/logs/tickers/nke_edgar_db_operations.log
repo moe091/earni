@@ -1,0 +1,85 @@
+[2025-03-21 22:23:30,728] INFO: Trying adjusted date: 3/2010 (original: 2/2010)
+[2025-03-21 22:23:30,739] WARNING: nke (2/2010): No existing record found(2/2010, 2010-02-28) - creating new one
+[2025-03-21 22:23:30,740] INFO: nke (2/2010): Created new record with 12 non-zero financial metrics
+[2025-03-21 22:23:30,754] INFO: Trying adjusted date: 6/2010 (original: 5/2010)
+[2025-03-21 22:23:30,765] WARNING: nke (5/2010): No existing record found(5/2010, 2010-05-31) - creating new one
+[2025-03-21 22:23:30,766] INFO: nke (5/2010): Created new record with 17 non-zero financial metrics
+[2025-03-21 22:23:30,779] INFO: Trying adjusted date: 9/2010 (original: 8/2010)
+[2025-03-21 22:23:30,791] WARNING: nke (8/2010): No existing record found(8/2010, 2010-08-31) - creating new one
+[2025-03-21 22:23:30,791] INFO: nke (8/2010): Created new record with 18 non-zero financial metrics
+[2025-03-21 22:23:30,804] INFO: Trying adjusted date: 12/2010 (original: 11/2010)
+[2025-03-21 22:23:30,815] WARNING: nke (11/2010): No existing record found(11/2010, 2010-11-30) - creating new one
+[2025-03-21 22:23:30,816] INFO: nke (11/2010): Created new record with 13 non-zero financial metrics
+[2025-03-21 22:23:30,829] INFO: Trying adjusted date: 3/2011 (original: 2/2011)
+[2025-03-21 22:23:30,840] WARNING: nke (2/2011): No existing record found(2/2011, 2011-02-28) - creating new one
+[2025-03-21 22:23:30,841] INFO: nke (2/2011): Created new record with 13 non-zero financial metrics
+[2025-03-21 22:23:30,853] INFO: Trying adjusted date: 6/2011 (original: 5/2011)
+[2025-03-21 22:23:30,865] WARNING: nke (5/2011): No existing record found(5/2011, 2011-05-31) - creating new one
+[2025-03-21 22:23:30,865] INFO: nke (5/2011): Created new record with 20 non-zero financial metrics
+[2025-03-21 22:23:30,878] INFO: Trying adjusted date: 9/2011 (original: 8/2011)
+[2025-03-21 22:23:30,889] WARNING: nke (8/2011): No existing record found(8/2011, 2011-08-31) - creating new one
+[2025-03-21 22:23:30,889] INFO: nke (8/2011): Created new record with 17 non-zero financial metrics
+[2025-03-21 22:23:30,902] INFO: Trying adjusted date: 12/2011 (original: 11/2011)
+[2025-03-21 22:23:30,913] WARNING: nke (11/2011): No existing record found(11/2011, 2011-11-30) - creating new one
+[2025-03-21 22:23:30,914] INFO: nke (11/2011): Created new record with 12 non-zero financial metrics
+[2025-03-21 22:23:30,927] INFO: Trying adjusted date: 3/2012 (original: 2/2012)
+[2025-03-21 22:23:30,938] WARNING: nke (2/2012): No existing record found(2/2012, 2012-02-29) - creating new one
+[2025-03-21 22:23:30,939] INFO: nke (2/2012): Created new record with 12 non-zero financial metrics
+[2025-03-21 22:23:30,952] INFO: Trying adjusted date: 6/2012 (original: 5/2012)
+[2025-03-21 22:23:30,963] WARNING: nke (5/2012): No existing record found(5/2012, 2012-05-31) - creating new one
+[2025-03-21 22:23:30,964] INFO: nke (5/2012): Created new record with 19 non-zero financial metrics
+[2025-03-21 22:23:30,977] INFO: Trying adjusted date: 9/2012 (original: 8/2012)
+[2025-03-21 22:23:30,989] WARNING: nke (8/2012): No existing record found(8/2012, 2012-08-31) - creating new one
+[2025-03-21 22:23:30,989] INFO: nke (8/2012): Created new record with 17 non-zero financial metrics
+[2025-03-21 22:23:31,013] INFO: nke (11/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:23:31,037] INFO: nke (2/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:23:31,061] INFO: nke (5/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:23:31,085] INFO: nke (8/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:23:31,111] INFO: nke (11/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:23:31,135] INFO: nke (2/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:23:31,159] INFO: nke (5/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:23:31,183] INFO: nke (8/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:23:31,208] INFO: nke (11/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:23:31,233] INFO: nke (2/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:23:31,257] INFO: nke (5/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:23:31,282] INFO: nke (8/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:23:31,306] INFO: nke (11/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 22:23:31,330] INFO: nke (2/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 22:23:31,354] INFO: nke (5/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:23:31,379] INFO: nke (8/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:23:31,402] INFO: nke (11/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 22:23:31,426] INFO: nke (2/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 22:23:31,451] INFO: nke (5/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:23:31,478] INFO: nke (8/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:23:31,510] INFO: nke (11/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:23:31,534] INFO: nke (2/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:23:31,567] INFO: nke (5/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:23:31,595] INFO: nke (8/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:23:31,621] INFO: nke (11/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:23:31,646] INFO: nke (2/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:23:31,669] INFO: nke (5/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:23:31,696] INFO: nke (8/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:23:31,720] INFO: nke (11/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:23:31,745] INFO: nke (2/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:23:31,758] INFO: Trying adjusted date: 6/2020 (original: 5/2020)
+[2025-03-21 22:23:31,770] WARNING: nke (5/2020): No existing record found(5/2020, 2020-05-31) - creating new one
+[2025-03-21 22:23:31,770] INFO: nke (5/2020): Created new record with 19 non-zero financial metrics
+[2025-03-21 22:23:31,783] WARNING: nke (8/2020): Found zero values for fields: Share Repurchases
+[2025-03-21 22:23:31,795] INFO: nke (8/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 22:23:31,819] INFO: nke (11/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:23:31,843] INFO: nke (2/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:23:31,868] INFO: nke (5/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:23:31,893] INFO: nke (8/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:23:31,919] INFO: nke (11/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:23:31,944] INFO: nke (2/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:23:31,968] INFO: nke (5/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:23:31,992] INFO: nke (8/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:23:32,017] INFO: nke (11/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:23:32,041] INFO: nke (2/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:23:32,066] INFO: nke (5/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:23:32,089] INFO: nke (8/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:23:32,113] INFO: nke (11/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:23:32,137] INFO: nke (2/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 22:23:32,163] INFO: nke (5/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 22:23:32,188] INFO: nke (8/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 22:23:32,212] INFO: nke (11/2024): Updated existing record with 12 non-zero financial metrics

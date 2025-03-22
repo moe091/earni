@@ -1,0 +1,85 @@
+[2025-03-22 04:15:38,119] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 04:15:38,131] WARNING: cqp (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 04:15:38,132] INFO: cqp (6/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 04:15:38,146] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 04:15:38,159] WARNING: cqp (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 04:15:38,160] INFO: cqp (9/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 04:15:38,174] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 04:15:38,187] WARNING: cqp (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 04:15:38,187] INFO: cqp (12/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 04:15:38,204] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 04:15:38,217] WARNING: cqp (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 04:15:38,217] INFO: cqp (3/2012): Created new record with 15 non-zero financial metrics
+[2025-03-22 04:15:38,239] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 04:15:38,252] WARNING: cqp (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 04:15:38,253] INFO: cqp (6/2012): Created new record with 11 non-zero financial metrics
+[2025-03-22 04:15:38,281] INFO: cqp (9/2012): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 04:15:38,308] INFO: cqp (12/2012): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:15:38,335] INFO: cqp (3/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:15:38,362] INFO: cqp (6/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 04:15:38,387] INFO: cqp (9/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:15:38,414] INFO: cqp (12/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:15:38,440] INFO: cqp (3/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:15:38,467] INFO: cqp (6/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 04:15:38,493] INFO: cqp (9/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:15:38,520] INFO: cqp (12/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:15:38,546] INFO: cqp (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:15:38,573] INFO: cqp (6/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:15:38,599] INFO: cqp (9/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:15:38,614] INFO: Trying adjusted date: 1/2016 (original: 12/2015)
+[2025-03-22 04:15:38,626] WARNING: cqp (12/2015): No existing record found(12/2015, 2015-12-31) - creating new one
+[2025-03-22 04:15:38,627] INFO: cqp (12/2015): Created new record with 16 non-zero financial metrics
+[2025-03-22 04:15:38,654] INFO: cqp (3/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:15:38,680] INFO: cqp (6/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:15:38,706] INFO: cqp (9/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:15:38,720] WARNING: cqp (12/2016): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 04:15:38,732] INFO: cqp (12/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:15:38,746] WARNING: cqp (3/2017): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 04:15:38,759] INFO: cqp (3/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 04:15:38,773] WARNING: cqp (6/2017): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 04:15:38,786] INFO: cqp (6/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 04:15:38,800] WARNING: cqp (9/2017): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 04:15:38,813] INFO: cqp (9/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 04:15:38,826] WARNING: cqp (12/2017): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 04:15:38,838] INFO: cqp (12/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:15:38,853] WARNING: cqp (3/2018): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 04:15:38,866] INFO: cqp (3/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:15:38,879] WARNING: cqp (6/2018): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 04:15:38,891] INFO: cqp (6/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:15:38,905] WARNING: cqp (9/2018): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 04:15:38,917] INFO: cqp (9/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:15:38,931] WARNING: cqp (12/2018): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 04:15:38,944] INFO: cqp (12/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:15:38,958] WARNING: cqp (3/2019): Found zero values for fields: Cash and Cash Equivalents
+[2025-03-22 04:15:38,971] INFO: cqp (3/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:15:38,985] WARNING: cqp (6/2019): Found zero values for fields: R&D Expense
+[2025-03-22 04:15:38,996] INFO: cqp (6/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:15:39,010] WARNING: cqp (9/2019): Found zero values for fields: R&D Expense
+[2025-03-22 04:15:39,023] INFO: cqp (9/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 04:15:39,037] WARNING: cqp (12/2019): Found zero values for fields: R&D Expense
+[2025-03-22 04:15:39,050] INFO: cqp (12/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:15:39,077] INFO: cqp (3/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 04:15:39,106] INFO: cqp (6/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 04:15:39,132] INFO: cqp (9/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:15:39,146] WARNING: cqp (12/2020): Found zero values for fields: R&D Expense
+[2025-03-22 04:15:39,159] INFO: cqp (12/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:15:39,186] INFO: cqp (3/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:15:39,212] INFO: cqp (6/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:15:39,226] WARNING: cqp (9/2021): Found zero values for fields: R&D Expense
+[2025-03-22 04:15:39,238] INFO: cqp (9/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:15:39,265] INFO: cqp (12/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 04:15:39,291] INFO: cqp (3/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:15:39,306] WARNING: cqp (6/2022): Found zero values for fields: R&D Expense
+[2025-03-22 04:15:39,319] INFO: cqp (6/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:15:39,345] INFO: cqp (9/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:15:39,372] INFO: cqp (12/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:15:39,399] INFO: cqp (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:15:39,425] INFO: cqp (6/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:15:39,451] INFO: cqp (9/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:15:39,477] INFO: cqp (12/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:15:39,503] INFO: cqp (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 04:15:39,529] INFO: cqp (6/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 04:15:39,555] INFO: cqp (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 04:15:39,570] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 04:15:39,582] WARNING: cqp (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 04:15:39,582] INFO: cqp (12/2024): Created new record with 15 non-zero financial metrics

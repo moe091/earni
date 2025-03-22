@@ -1,0 +1,44 @@
+[2025-03-22 06:43:33,282] INFO: sedg (6/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 06:43:33,311] INFO: sedg (9/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:43:33,339] INFO: sedg (12/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:43:33,368] INFO: sedg (3/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:43:33,383] ERROR: Invalid numeric value for Interest Expense: 
+[2025-03-22 06:43:33,383] ERROR: sedg (6/2016): Invalid data types: Interest Expense=
+[2025-03-22 06:43:33,396] INFO: sedg (6/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:43:33,425] INFO: sedg (9/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:43:33,453] INFO: sedg (3/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:43:33,480] INFO: sedg (6/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:43:33,508] INFO: sedg (9/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:43:33,524] ERROR: Invalid numeric value for Interest Expense: 
+[2025-03-22 06:43:33,524] ERROR: sedg (12/2017): Invalid data types: Interest Expense=
+[2025-03-22 06:43:33,537] INFO: sedg (12/2017): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 06:43:33,566] INFO: sedg (3/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 06:43:33,597] INFO: sedg (6/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 06:43:33,627] INFO: sedg (9/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:43:33,655] INFO: sedg (12/2018): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:43:33,686] INFO: sedg (3/2019): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 06:43:33,714] INFO: sedg (6/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:43:33,741] INFO: sedg (9/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:43:33,769] INFO: sedg (12/2019): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:43:33,799] INFO: sedg (3/2020): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 06:43:33,827] INFO: sedg (6/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:43:33,853] INFO: sedg (9/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:43:33,881] INFO: sedg (12/2020): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:43:33,910] INFO: sedg (3/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 06:43:33,938] INFO: sedg (6/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:43:33,965] INFO: sedg (9/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 06:43:33,993] INFO: sedg (12/2021): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:43:34,023] INFO: sedg (3/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 06:43:34,051] INFO: sedg (6/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:43:34,079] INFO: sedg (9/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:43:34,106] INFO: sedg (12/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 06:43:34,134] INFO: sedg (3/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 06:43:34,160] INFO: sedg (6/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:43:34,189] INFO: sedg (9/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:43:34,217] INFO: sedg (12/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:43:34,244] INFO: sedg (3/2024): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 06:43:34,274] INFO: sedg (6/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:43:34,302] INFO: sedg (9/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 06:43:34,317] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 06:43:34,330] WARNING: sedg (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 06:43:34,331] INFO: sedg (12/2024): Created new record with 23 non-zero financial metrics

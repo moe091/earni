@@ -1,0 +1,80 @@
+[2025-03-22 15:51:58,298] INFO: Trying adjusted date: 3/2016 (original: 4/2016)
+[2025-03-22 15:51:58,312] INFO: Found existing row with adjusted date: 3/2016
+[2025-03-22 15:51:58,327] INFO: site (3/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:58,346] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-22 15:51:58,361] INFO: Found existing row with adjusted date: 6/2016
+[2025-03-22 15:51:58,376] INFO: site (6/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:58,393] INFO: Trying adjusted date: 9/2016 (original: 10/2016)
+[2025-03-22 15:51:58,407] INFO: Found existing row with adjusted date: 9/2016
+[2025-03-22 15:51:58,422] INFO: site (9/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:58,439] INFO: Trying adjusted date: 12/2016 (original: 1/2017)
+[2025-03-22 15:51:58,454] INFO: Found existing row with adjusted date: 12/2016
+[2025-03-22 15:51:58,469] INFO: site (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:58,486] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-22 15:51:58,500] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-22 15:51:58,515] INFO: site (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:58,544] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-22 15:51:58,559] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-22 15:51:58,574] INFO: site (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:58,593] INFO: Trying adjusted date: 9/2017 (original: 10/2017)
+[2025-03-22 15:51:58,608] INFO: Found existing row with adjusted date: 9/2017
+[2025-03-22 15:51:58,623] INFO: site (9/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:58,657] INFO: site (12/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:58,674] INFO: Trying adjusted date: 3/2018 (original: 4/2018)
+[2025-03-22 15:51:58,688] INFO: Found existing row with adjusted date: 3/2018
+[2025-03-22 15:51:58,703] INFO: site (3/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:58,720] INFO: Trying adjusted date: 6/2018 (original: 7/2018)
+[2025-03-22 15:51:58,735] INFO: Found existing row with adjusted date: 6/2018
+[2025-03-22 15:51:58,749] INFO: site (6/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:58,780] INFO: site (9/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:58,812] INFO: site (12/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:58,844] INFO: site (3/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:58,875] INFO: site (6/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:58,907] INFO: site (9/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:58,937] INFO: site (12/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:58,969] INFO: site (3/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:58,999] INFO: site (6/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:59,032] INFO: site (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:59,049] INFO: Trying adjusted date: 12/2020 (original: 1/2021)
+[2025-03-22 15:51:59,063] INFO: Found existing row with adjusted date: 12/2020
+[2025-03-22 15:51:59,077] INFO: site (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:59,093] INFO: Trying adjusted date: 3/2021 (original: 4/2021)
+[2025-03-22 15:51:59,107] INFO: Found existing row with adjusted date: 3/2021
+[2025-03-22 15:51:59,121] INFO: site (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:59,137] INFO: Trying adjusted date: 6/2021 (original: 7/2021)
+[2025-03-22 15:51:59,151] INFO: Found existing row with adjusted date: 6/2021
+[2025-03-22 15:51:59,166] INFO: site (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:59,182] INFO: Trying adjusted date: 9/2021 (original: 10/2021)
+[2025-03-22 15:51:59,197] INFO: Found existing row with adjusted date: 9/2021
+[2025-03-22 15:51:59,211] INFO: site (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:59,228] INFO: Trying adjusted date: 12/2021 (original: 1/2022)
+[2025-03-22 15:51:59,241] INFO: Found existing row with adjusted date: 12/2021
+[2025-03-22 15:51:59,255] INFO: site (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:59,271] INFO: Trying adjusted date: 3/2022 (original: 4/2022)
+[2025-03-22 15:51:59,284] INFO: Found existing row with adjusted date: 3/2022
+[2025-03-22 15:51:59,298] INFO: site (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:59,314] INFO: Trying adjusted date: 6/2022 (original: 7/2022)
+[2025-03-22 15:51:59,327] INFO: Found existing row with adjusted date: 6/2022
+[2025-03-22 15:51:59,342] INFO: site (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:59,358] INFO: Trying adjusted date: 9/2022 (original: 10/2022)
+[2025-03-22 15:51:59,373] INFO: Found existing row with adjusted date: 9/2022
+[2025-03-22 15:51:59,387] INFO: site (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:59,404] INFO: Trying adjusted date: 12/2022 (original: 1/2023)
+[2025-03-22 15:51:59,418] INFO: Found existing row with adjusted date: 12/2022
+[2025-03-22 15:51:59,432] INFO: site (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:59,448] INFO: Trying adjusted date: 3/2023 (original: 4/2023)
+[2025-03-22 15:51:59,463] INFO: Found existing row with adjusted date: 3/2023
+[2025-03-22 15:51:59,477] INFO: site (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:59,493] INFO: Trying adjusted date: 6/2023 (original: 7/2023)
+[2025-03-22 15:51:59,507] INFO: Found existing row with adjusted date: 6/2023
+[2025-03-22 15:51:59,521] INFO: site (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:59,537] INFO: Trying adjusted date: 9/2023 (original: 10/2023)
+[2025-03-22 15:51:59,551] INFO: Found existing row with adjusted date: 9/2023
+[2025-03-22 15:51:59,565] INFO: site (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:59,596] INFO: site (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:59,625] INFO: site (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:59,654] INFO: site (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:59,685] INFO: site (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 15:51:59,701] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 15:51:59,716] WARNING: site (12/2024): No existing record found(12/2024, 2024-12-29) - creating new one
+[2025-03-22 15:51:59,716] INFO: site (12/2024): Created new record with 0 non-zero financial metrics

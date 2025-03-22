@@ -1,0 +1,77 @@
+[2025-03-22 16:38:09,199] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 16:38:09,214] WARNING: exp (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-22 16:38:09,215] INFO: exp (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,233] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 16:38:09,248] WARNING: exp (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 16:38:09,248] INFO: exp (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,265] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 16:38:09,280] WARNING: exp (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 16:38:09,280] INFO: exp (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,297] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 16:38:09,314] WARNING: exp (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-22 16:38:09,315] INFO: exp (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,332] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 16:38:09,348] WARNING: exp (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 16:38:09,348] INFO: exp (6/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,365] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 16:38:09,380] WARNING: exp (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 16:38:09,381] INFO: exp (9/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,398] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 16:38:09,412] WARNING: exp (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 16:38:09,413] INFO: exp (12/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,430] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 16:38:09,445] WARNING: exp (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 16:38:09,445] INFO: exp (3/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,462] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 16:38:09,477] WARNING: exp (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 16:38:09,477] INFO: exp (6/2012): Created new record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,509] INFO: exp (9/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,542] INFO: exp (12/2012): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,574] INFO: exp (3/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,606] INFO: exp (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,638] INFO: exp (9/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,669] INFO: exp (12/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,703] INFO: exp (3/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,736] INFO: exp (6/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,769] INFO: exp (9/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,801] INFO: exp (12/2014): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,834] INFO: exp (3/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,866] INFO: exp (6/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,897] INFO: exp (9/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,928] INFO: exp (12/2015): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,960] INFO: exp (3/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:09,991] INFO: exp (6/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,022] INFO: exp (9/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,053] INFO: exp (12/2016): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,084] INFO: exp (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,116] INFO: exp (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,148] INFO: exp (9/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,180] INFO: exp (12/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,212] INFO: exp (3/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,244] INFO: exp (6/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,275] INFO: exp (9/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,305] INFO: exp (12/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,336] INFO: exp (3/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,367] INFO: exp (6/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,399] INFO: exp (9/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,430] INFO: exp (12/2019): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,461] INFO: exp (3/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,492] INFO: exp (6/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,522] INFO: exp (9/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,553] INFO: exp (12/2020): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,584] INFO: exp (3/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,615] INFO: exp (6/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,646] INFO: exp (9/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,678] INFO: exp (12/2021): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,709] INFO: exp (3/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,739] INFO: exp (6/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,770] INFO: exp (9/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,801] INFO: exp (12/2022): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,834] INFO: exp (3/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,866] INFO: exp (6/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,899] INFO: exp (9/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,932] INFO: exp (12/2023): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:10,966] INFO: exp (3/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:11,000] INFO: exp (6/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:11,034] INFO: exp (9/2024): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 16:38:11,065] INFO: exp (12/2024): Updated existing record with 0 non-zero financial metrics

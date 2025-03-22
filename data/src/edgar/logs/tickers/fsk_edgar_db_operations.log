@@ -1,0 +1,14 @@
+[2025-03-22 14:28:29,187] INFO: fsk (9/2022): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 14:28:29,219] INFO: fsk (12/2022): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:28:29,248] INFO: fsk (3/2023): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:28:29,278] INFO: fsk (6/2023): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 14:28:29,307] INFO: fsk (9/2023): Updated existing record with 7 non-zero financial metrics
+[2025-03-22 14:28:29,337] INFO: fsk (12/2023): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 14:28:29,353] WARNING: fsk (3/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 14:28:29,367] INFO: fsk (3/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 14:28:29,397] INFO: fsk (6/2024): Updated existing record with 6 non-zero financial metrics
+[2025-03-22 14:28:29,428] INFO: fsk (9/2024): Updated existing record with 6 non-zero financial metrics
+[2025-03-22 14:28:29,444] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 14:28:29,459] WARNING: fsk (12/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 14:28:29,459] WARNING: fsk (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 14:28:29,459] INFO: fsk (12/2024): Created new record with 9 non-zero financial metrics

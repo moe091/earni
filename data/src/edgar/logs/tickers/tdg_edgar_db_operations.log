@@ -1,0 +1,108 @@
+[2025-03-22 03:17:06,926] INFO: Trying adjusted date: 6/2010 (original: 7/2010)
+[2025-03-22 03:17:06,939] WARNING: tdg (7/2010): No existing record found(7/2010, 2010-07-03) - creating new one
+[2025-03-22 03:17:06,939] INFO: tdg (7/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 03:17:06,955] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 03:17:06,967] WARNING: tdg (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-22 03:17:06,968] INFO: tdg (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-22 03:17:06,985] INFO: Trying adjusted date: 12/2010 (original: 1/2011)
+[2025-03-22 03:17:06,998] WARNING: tdg (1/2011): No existing record found(1/2011, 2011-01-01) - creating new one
+[2025-03-22 03:17:06,998] INFO: tdg (1/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 03:17:07,012] INFO: Trying adjusted date: 3/2011 (original: 4/2011)
+[2025-03-22 03:17:07,024] WARNING: tdg (4/2011): No existing record found(4/2011, 2011-04-02) - creating new one
+[2025-03-22 03:17:07,025] INFO: tdg (4/2011): Created new record with 0 non-zero financial metrics
+[2025-03-22 03:17:07,039] INFO: Trying adjusted date: 6/2011 (original: 7/2011)
+[2025-03-22 03:17:07,052] WARNING: tdg (7/2011): No existing record found(7/2011, 2011-07-02) - creating new one
+[2025-03-22 03:17:07,052] INFO: tdg (7/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 03:17:07,068] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 03:17:07,081] WARNING: tdg (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 03:17:07,081] INFO: tdg (9/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 03:17:07,095] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 03:17:07,108] WARNING: tdg (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 03:17:07,108] INFO: tdg (12/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 03:17:07,123] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 03:17:07,136] WARNING: tdg (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 03:17:07,137] INFO: tdg (3/2012): Created new record with 13 non-zero financial metrics
+[2025-03-22 03:17:07,150] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 03:17:07,162] WARNING: tdg (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 03:17:07,163] INFO: tdg (6/2012): Created new record with 13 non-zero financial metrics
+[2025-03-22 03:17:07,189] INFO: tdg (9/2012): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:17:07,217] INFO: tdg (12/2012): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:17:07,244] INFO: tdg (3/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:17:07,269] INFO: tdg (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 03:17:07,295] INFO: tdg (9/2013): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:17:07,321] INFO: tdg (12/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:17:07,347] INFO: tdg (3/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:17:07,374] INFO: tdg (6/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:17:07,399] INFO: tdg (9/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:17:07,427] INFO: tdg (12/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:17:07,453] INFO: tdg (3/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 03:17:07,479] INFO: tdg (6/2015): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:17:07,493] WARNING: tdg (9/2015): Found zero values for fields: Share Repurchases
+[2025-03-22 03:17:07,506] INFO: tdg (9/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:17:07,519] INFO: Trying adjusted date: 12/2015 (original: 1/2016)
+[2025-03-22 03:17:07,532] INFO: Found existing row with adjusted date: 12/2015
+[2025-03-22 03:17:07,544] INFO: tdg (12/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:17:07,558] INFO: Trying adjusted date: 3/2016 (original: 4/2016)
+[2025-03-22 03:17:07,570] INFO: Found existing row with adjusted date: 3/2016
+[2025-03-22 03:17:07,581] INFO: tdg (3/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:17:07,595] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-22 03:17:07,607] INFO: Found existing row with adjusted date: 6/2016
+[2025-03-22 03:17:07,619] INFO: tdg (6/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:17:07,646] INFO: tdg (9/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:17:07,659] WARNING: tdg (12/2016): Found zero values for fields: Share Repurchases
+[2025-03-22 03:17:07,671] INFO: tdg (12/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:17:07,685] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-22 03:17:07,698] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-22 03:17:07,711] INFO: tdg (3/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:17:07,736] INFO: tdg (6/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 03:17:07,762] INFO: tdg (9/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 03:17:07,787] INFO: tdg (12/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:17:07,812] INFO: tdg (3/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:17:07,838] INFO: tdg (6/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 03:17:07,853] WARNING: tdg (9/2018): Found zero values for fields: Share Repurchases
+[2025-03-22 03:17:07,865] INFO: tdg (9/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 03:17:07,895] INFO: tdg (12/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:17:07,921] INFO: tdg (3/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:17:07,947] INFO: tdg (6/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:17:07,962] WARNING: tdg (9/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 03:17:07,975] INFO: tdg (9/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:17:08,001] INFO: tdg (12/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:17:08,030] INFO: tdg (3/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:17:08,056] INFO: tdg (6/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:17:08,082] INFO: tdg (9/2020): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 03:17:08,096] INFO: Trying adjusted date: 12/2020 (original: 1/2021)
+[2025-03-22 03:17:08,108] INFO: Found existing row with adjusted date: 12/2020
+[2025-03-22 03:17:08,120] INFO: tdg (12/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:17:08,133] INFO: Trying adjusted date: 3/2021 (original: 4/2021)
+[2025-03-22 03:17:08,146] INFO: Found existing row with adjusted date: 3/2021
+[2025-03-22 03:17:08,158] INFO: tdg (3/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:17:08,171] INFO: Trying adjusted date: 6/2021 (original: 7/2021)
+[2025-03-22 03:17:08,183] INFO: Found existing row with adjusted date: 6/2021
+[2025-03-22 03:17:08,195] INFO: tdg (6/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:17:08,209] WARNING: tdg (9/2021): Found zero values for fields: Share Repurchases
+[2025-03-22 03:17:08,221] INFO: tdg (9/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-22 03:17:08,235] INFO: Trying adjusted date: 12/2021 (original: 1/2022)
+[2025-03-22 03:17:08,247] INFO: Found existing row with adjusted date: 12/2021
+[2025-03-22 03:17:08,259] INFO: tdg (12/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:17:08,273] INFO: Trying adjusted date: 3/2022 (original: 4/2022)
+[2025-03-22 03:17:08,285] INFO: Found existing row with adjusted date: 3/2022
+[2025-03-22 03:17:08,297] INFO: tdg (3/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:17:08,310] INFO: Trying adjusted date: 6/2022 (original: 7/2022)
+[2025-03-22 03:17:08,322] INFO: Found existing row with adjusted date: 6/2022
+[2025-03-22 03:17:08,334] INFO: tdg (6/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 03:17:08,361] INFO: tdg (9/2022): Updated existing record with 23 non-zero financial metrics
+[2025-03-22 03:17:08,387] INFO: tdg (12/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 03:17:08,400] INFO: Trying adjusted date: 3/2023 (original: 4/2023)
+[2025-03-22 03:17:08,413] INFO: Found existing row with adjusted date: 3/2023
+[2025-03-22 03:17:08,425] INFO: tdg (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:17:08,438] INFO: Trying adjusted date: 6/2023 (original: 7/2023)
+[2025-03-22 03:17:08,449] INFO: Found existing row with adjusted date: 6/2023
+[2025-03-22 03:17:08,462] INFO: tdg (6/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:17:08,475] WARNING: tdg (9/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 03:17:08,487] INFO: tdg (9/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 03:17:08,514] INFO: tdg (12/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 03:17:08,540] INFO: tdg (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:17:08,567] INFO: tdg (6/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 03:17:08,582] WARNING: tdg (9/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 03:17:08,595] INFO: tdg (9/2024): Updated existing record with 22 non-zero financial metrics
+[2025-03-22 03:17:08,620] INFO: tdg (12/2024): Updated existing record with 21 non-zero financial metrics

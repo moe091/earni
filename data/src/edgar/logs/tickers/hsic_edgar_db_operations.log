@@ -1,0 +1,100 @@
+[2025-03-22 10:00:20,366] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 10:00:20,380] WARNING: hsic (6/2010): No existing record found(6/2010, 2010-06-26) - creating new one
+[2025-03-22 10:00:20,380] INFO: hsic (6/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:00:20,408] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 10:00:20,421] WARNING: hsic (9/2010): No existing record found(9/2010, 2010-09-25) - creating new one
+[2025-03-22 10:00:20,421] INFO: hsic (9/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:00:20,438] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 10:00:20,452] WARNING: hsic (12/2010): No existing record found(12/2010, 2010-12-25) - creating new one
+[2025-03-22 10:00:20,452] INFO: hsic (12/2010): Created new record with 19 non-zero financial metrics
+[2025-03-22 10:00:20,468] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-22 10:00:20,482] WARNING: hsic (3/2011): No existing record found(3/2011, 2011-03-26) - creating new one
+[2025-03-22 10:00:20,483] INFO: hsic (3/2011): Created new record with 18 non-zero financial metrics
+[2025-03-22 10:00:20,497] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 10:00:20,511] WARNING: hsic (6/2011): No existing record found(6/2011, 2011-06-25) - creating new one
+[2025-03-22 10:00:20,511] INFO: hsic (6/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:00:20,527] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 10:00:20,540] WARNING: hsic (9/2011): No existing record found(9/2011, 2011-09-24) - creating new one
+[2025-03-22 10:00:20,541] INFO: hsic (9/2011): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:00:20,558] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 10:00:20,572] WARNING: hsic (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 10:00:20,572] INFO: hsic (12/2011): Created new record with 19 non-zero financial metrics
+[2025-03-22 10:00:20,587] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 10:00:20,600] WARNING: hsic (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 10:00:20,601] INFO: hsic (3/2012): Created new record with 18 non-zero financial metrics
+[2025-03-22 10:00:20,616] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 10:00:20,628] WARNING: hsic (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 10:00:20,631] INFO: hsic (6/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 10:00:20,660] INFO: hsic (9/2012): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:00:20,692] INFO: hsic (12/2012): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:00:20,721] INFO: hsic (3/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:00:20,750] INFO: hsic (6/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:00:20,779] INFO: hsic (9/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:00:20,808] INFO: hsic (12/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:00:20,837] INFO: hsic (3/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:00:20,865] INFO: hsic (6/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:00:20,893] INFO: hsic (9/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:00:20,922] INFO: hsic (12/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:00:20,952] INFO: hsic (3/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:00:20,980] INFO: hsic (6/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:00:21,009] INFO: hsic (9/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:00:21,039] INFO: hsic (12/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:00:21,069] INFO: hsic (3/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:00:21,084] INFO: Trying adjusted date: 7/2016 (original: 8/2016)
+[2025-03-22 10:00:21,097] WARNING: hsic (8/2016): No existing record found(8/2016, 2016-08-04) - creating new one
+[2025-03-22 10:00:21,098] INFO: hsic (8/2016): Created new record with 0 non-zero financial metrics
+[2025-03-22 10:00:21,113] INFO: Trying adjusted date: 10/2016 (original: 11/2016)
+[2025-03-22 10:00:21,126] WARNING: hsic (11/2016): No existing record found(11/2016, 2016-11-02) - creating new one
+[2025-03-22 10:00:21,127] INFO: hsic (11/2016): Created new record with 0 non-zero financial metrics
+[2025-03-22 10:00:21,155] INFO: hsic (12/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 10:00:21,171] INFO: Trying adjusted date: 4/2017 (original: 5/2017)
+[2025-03-22 10:00:21,184] WARNING: hsic (5/2017): No existing record found(5/2017, 2017-05-09) - creating new one
+[2025-03-22 10:00:21,184] INFO: hsic (5/2017): Created new record with 0 non-zero financial metrics
+[2025-03-22 10:00:21,199] INFO: Trying adjusted date: 7/2017 (original: 8/2017)
+[2025-03-22 10:00:21,213] WARNING: hsic (8/2017): No existing record found(8/2017, 2017-08-08) - creating new one
+[2025-03-22 10:00:21,213] INFO: hsic (8/2017): Created new record with 0 non-zero financial metrics
+[2025-03-22 10:00:21,228] INFO: Trying adjusted date: 10/2017 (original: 11/2017)
+[2025-03-22 10:00:21,242] WARNING: hsic (11/2017): No existing record found(11/2017, 2017-11-06) - creating new one
+[2025-03-22 10:00:21,242] INFO: hsic (11/2017): Created new record with 0 non-zero financial metrics
+[2025-03-22 10:00:21,257] INFO: Trying adjusted date: 3/2018 (original: 2/2018)
+[2025-03-22 10:00:21,270] INFO: Found existing row with adjusted date: 3/2018
+[2025-03-22 10:00:21,284] INFO: hsic (3/2018): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 10:00:21,300] INFO: Trying adjusted date: 4/2018 (original: 5/2018)
+[2025-03-22 10:00:21,313] WARNING: hsic (5/2018): No existing record found(5/2018, 2018-05-08) - creating new one
+[2025-03-22 10:00:21,314] INFO: hsic (5/2018): Created new record with 0 non-zero financial metrics
+[2025-03-22 10:00:21,331] INFO: Trying adjusted date: 7/2018 (original: 8/2018)
+[2025-03-22 10:00:21,345] WARNING: hsic (8/2018): No existing record found(8/2018, 2018-08-06) - creating new one
+[2025-03-22 10:00:21,345] INFO: hsic (8/2018): Created new record with 0 non-zero financial metrics
+[2025-03-22 10:00:21,375] INFO: hsic (9/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 10:00:21,404] INFO: hsic (12/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:00:21,433] INFO: hsic (3/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:00:21,462] INFO: hsic (6/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:00:21,492] INFO: hsic (9/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:00:21,521] INFO: hsic (12/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:00:21,551] INFO: hsic (3/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:00:21,580] INFO: hsic (6/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:00:21,607] INFO: hsic (9/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:00:21,637] INFO: hsic (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:00:21,665] INFO: hsic (3/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:00:21,694] INFO: hsic (6/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:00:21,722] INFO: hsic (9/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:00:21,751] INFO: hsic (12/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:00:21,767] WARNING: hsic (3/2022): Found zero values for fields: Share Repurchases
+[2025-03-22 10:00:21,780] INFO: hsic (3/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 10:00:21,809] INFO: hsic (6/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:00:21,838] INFO: hsic (9/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:00:21,866] INFO: hsic (12/2022): Updated existing record with 20 non-zero financial metrics
+[2025-03-22 10:00:21,881] INFO: Trying adjusted date: 3/2023 (original: 4/2023)
+[2025-03-22 10:00:21,895] INFO: Found existing row with adjusted date: 3/2023
+[2025-03-22 10:00:21,908] INFO: hsic (3/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:00:21,924] INFO: Trying adjusted date: 6/2023 (original: 7/2023)
+[2025-03-22 10:00:21,938] INFO: Found existing row with adjusted date: 6/2023
+[2025-03-22 10:00:21,951] INFO: hsic (6/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:00:21,980] INFO: hsic (9/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:00:22,008] INFO: hsic (12/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 10:00:22,036] INFO: hsic (3/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 10:00:22,064] INFO: hsic (6/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:00:22,094] INFO: hsic (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 10:00:22,110] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 10:00:22,124] WARNING: hsic (12/2024): No existing record found(12/2024, 2024-12-28) - creating new one
+[2025-03-22 10:00:22,124] INFO: hsic (12/2024): Created new record with 20 non-zero financial metrics

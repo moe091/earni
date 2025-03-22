@@ -1,0 +1,70 @@
+[2025-03-22 11:47:21,634] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-22 11:47:21,648] WARNING: knx (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-22 11:47:21,648] INFO: knx (6/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 11:47:21,666] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 11:47:21,680] WARNING: knx (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 11:47:21,681] INFO: knx (9/2011): Created new record with 11 non-zero financial metrics
+[2025-03-22 11:47:21,697] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 11:47:21,712] WARNING: knx (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-22 11:47:21,712] INFO: knx (12/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 11:47:21,728] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 11:47:21,742] WARNING: knx (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-22 11:47:21,743] INFO: knx (3/2012): Created new record with 16 non-zero financial metrics
+[2025-03-22 11:47:21,760] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-22 11:47:21,774] WARNING: knx (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-22 11:47:21,775] INFO: knx (6/2012): Created new record with 12 non-zero financial metrics
+[2025-03-22 11:47:21,805] INFO: knx (9/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:47:21,834] INFO: knx (12/2012): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:47:21,864] INFO: knx (3/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:47:21,901] INFO: knx (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 11:47:21,932] INFO: knx (9/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:47:21,962] INFO: knx (12/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:47:21,991] INFO: knx (3/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:47:22,019] INFO: knx (6/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:47:22,049] INFO: knx (9/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:47:22,078] INFO: knx (12/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:47:22,107] INFO: knx (3/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:47:22,138] INFO: knx (6/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:47:22,169] INFO: knx (9/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:47:22,199] INFO: knx (12/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:47:22,228] INFO: knx (3/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:47:22,259] INFO: knx (6/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:47:22,290] INFO: knx (9/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:47:22,318] INFO: knx (12/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:47:22,334] WARNING: knx (3/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 11:47:22,348] INFO: knx (3/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 11:47:22,378] INFO: knx (6/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:47:22,407] INFO: knx (9/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:47:22,424] WARNING: knx (12/2017): Found zero values for fields: Share Repurchases
+[2025-03-22 11:47:22,438] INFO: knx (12/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:47:22,472] INFO: knx (3/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:47:22,501] INFO: knx (6/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:47:22,531] INFO: knx (9/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:47:22,560] INFO: knx (12/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:47:22,588] INFO: knx (3/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:47:22,618] INFO: knx (6/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:47:22,648] INFO: knx (9/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:47:22,677] INFO: knx (12/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 11:47:22,706] INFO: knx (3/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:47:22,736] INFO: knx (6/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:47:22,765] INFO: knx (9/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:47:22,794] INFO: knx (12/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:47:22,823] INFO: knx (3/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:47:22,854] INFO: knx (6/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:47:22,883] INFO: knx (9/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:47:22,912] INFO: knx (12/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:47:22,942] INFO: knx (3/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:47:22,971] INFO: knx (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:47:23,002] INFO: knx (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:47:23,031] INFO: knx (12/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 11:47:23,046] WARNING: knx (3/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 11:47:23,061] INFO: knx (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:47:23,090] INFO: knx (6/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:47:23,120] INFO: knx (9/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:47:23,136] WARNING: knx (12/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 11:47:23,151] INFO: knx (12/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:47:23,180] INFO: knx (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 11:47:23,209] INFO: knx (6/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 11:47:23,238] INFO: knx (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 11:47:23,253] WARNING: knx (12/2024): Found zero values for fields: Share Repurchases
+[2025-03-22 11:47:23,268] INFO: knx (12/2024): Updated existing record with 15 non-zero financial metrics

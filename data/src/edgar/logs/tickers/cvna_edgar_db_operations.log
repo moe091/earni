@@ -1,0 +1,37 @@
+[2025-03-22 13:21:56,964] INFO: cvna (3/2017): Updated existing record with 0 non-zero financial metrics
+[2025-03-22 13:21:56,994] INFO: cvna (6/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:21:57,025] INFO: cvna (9/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:21:57,056] INFO: cvna (12/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:21:57,088] INFO: cvna (3/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:21:57,119] INFO: cvna (6/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:21:57,151] INFO: cvna (9/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:21:57,182] INFO: cvna (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:21:57,212] INFO: cvna (3/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:21:57,242] INFO: cvna (6/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:21:57,273] INFO: cvna (9/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:21:57,305] INFO: cvna (12/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:21:57,336] INFO: cvna (3/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:21:57,365] INFO: cvna (6/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:21:57,395] INFO: cvna (9/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:21:57,425] INFO: cvna (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:21:57,455] INFO: cvna (3/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:21:57,486] INFO: cvna (6/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:21:57,516] INFO: cvna (9/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:21:57,546] INFO: cvna (12/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-22 13:21:57,576] INFO: cvna (3/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-22 13:21:57,606] INFO: cvna (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:21:57,637] INFO: cvna (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:21:57,654] WARNING: cvna (12/2022): Found zero values for fields: Goodwill
+[2025-03-22 13:21:57,669] INFO: cvna (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:21:57,699] INFO: cvna (3/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 13:21:57,729] INFO: cvna (6/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:21:57,759] INFO: cvna (9/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 13:21:57,789] INFO: cvna (12/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:21:57,818] INFO: cvna (3/2024): Updated existing record with 18 non-zero financial metrics
+[2025-03-22 13:21:57,835] INFO: Trying adjusted date: 7/2024 (original: 6/2024)
+[2025-03-22 13:21:57,848] WARNING: cvna (6/2024): No existing record found(6/2024, 2024-06-30) - creating new one
+[2025-03-22 13:21:57,849] INFO: cvna (6/2024): Created new record with 12 non-zero financial metrics
+[2025-03-22 13:21:57,879] INFO: cvna (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 13:21:57,895] INFO: Trying adjusted date: 1/2025 (original: 12/2024)
+[2025-03-22 13:21:57,909] WARNING: cvna (12/2024): No existing record found(12/2024, 2024-12-31) - creating new one
+[2025-03-22 13:21:57,910] INFO: cvna (12/2024): Created new record with 18 non-zero financial metrics

@@ -1,0 +1,57 @@
+[2025-03-22 05:29:17,550] INFO: Trying adjusted date: 4/2017 (original: 3/2017)
+[2025-03-22 05:29:17,562] ERROR: Invalid numeric value for EPS Diluted: 
+[2025-03-22 05:29:17,562] WARNING: bkr (3/2017): Found zero values for fields: Share Repurchases, Net Income
+[2025-03-22 05:29:17,562] ERROR: bkr (3/2017): Invalid data types: EPS Diluted=
+[2025-03-22 05:29:17,562] WARNING: bkr (3/2017): No existing record found(3/2017, 2017-03-31) - creating new one
+[2025-03-22 05:29:17,563] INFO: bkr (3/2017): Created new record with 7 non-zero financial metrics
+[2025-03-22 05:29:17,579] INFO: Trying adjusted date: 7/2017 (original: 6/2017)
+[2025-03-22 05:29:17,592] WARNING: bkr (6/2017): Found zero values for fields: Revenue, Net Income, COGS, OperatingIncomeLoss, Total Assets, Total Liabilities, Stockholders Equity, Cash and Cash Equivalents, R&D Expense
+[2025-03-22 05:29:17,592] WARNING: bkr (6/2017): No existing record found(6/2017, 2017-06-30) - creating new one
+[2025-03-22 05:29:17,592] INFO: bkr (6/2017): Created new record with 0 non-zero financial metrics
+[2025-03-22 05:29:17,608] INFO: Trying adjusted date: 10/2017 (original: 9/2017)
+[2025-03-22 05:29:17,622] WARNING: bkr (9/2017): No existing record found(9/2017, 2017-09-30) - creating new one
+[2025-03-22 05:29:17,622] INFO: bkr (9/2017): Created new record with 12 non-zero financial metrics
+[2025-03-22 05:29:17,637] INFO: Trying adjusted date: 1/2018 (original: 12/2017)
+[2025-03-22 05:29:17,650] WARNING: bkr (12/2017): No existing record found(12/2017, 2017-12-31) - creating new one
+[2025-03-22 05:29:17,650] INFO: bkr (12/2017): Created new record with 17 non-zero financial metrics
+[2025-03-22 05:29:17,664] INFO: Trying adjusted date: 7/2018 (original: 6/2018)
+[2025-03-22 05:29:17,677] WARNING: bkr (6/2018): No existing record found(6/2018, 2018-06-30) - creating new one
+[2025-03-22 05:29:17,678] INFO: bkr (6/2018): Created new record with 9 non-zero financial metrics
+[2025-03-22 05:29:17,694] INFO: Trying adjusted date: 10/2018 (original: 9/2018)
+[2025-03-22 05:29:17,707] WARNING: bkr (9/2018): No existing record found(9/2018, 2018-09-30) - creating new one
+[2025-03-22 05:29:17,707] INFO: bkr (9/2018): Created new record with 8 non-zero financial metrics
+[2025-03-22 05:29:17,721] INFO: Trying adjusted date: 1/2019 (original: 12/2018)
+[2025-03-22 05:29:17,734] WARNING: bkr (12/2018): No existing record found(12/2018, 2018-12-31) - creating new one
+[2025-03-22 05:29:17,735] INFO: bkr (12/2018): Created new record with 16 non-zero financial metrics
+[2025-03-22 05:29:17,749] INFO: Trying adjusted date: 4/2019 (original: 3/2019)
+[2025-03-22 05:29:17,762] WARNING: bkr (3/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 05:29:17,762] WARNING: bkr (3/2019): No existing record found(3/2019, 2019-03-31) - creating new one
+[2025-03-22 05:29:17,763] INFO: bkr (3/2019): Created new record with 11 non-zero financial metrics
+[2025-03-22 05:29:17,778] INFO: Trying adjusted date: 7/2019 (original: 6/2019)
+[2025-03-22 05:29:17,790] WARNING: bkr (6/2019): No existing record found(6/2019, 2019-06-30) - creating new one
+[2025-03-22 05:29:17,791] INFO: bkr (6/2019): Created new record with 8 non-zero financial metrics
+[2025-03-22 05:29:17,817] INFO: bkr (9/2019): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 05:29:17,832] WARNING: bkr (12/2019): Found zero values for fields: Share Repurchases
+[2025-03-22 05:29:17,845] INFO: bkr (12/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:29:17,872] INFO: bkr (3/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:29:17,898] INFO: bkr (6/2020): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 05:29:17,925] INFO: bkr (9/2020): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 05:29:17,939] WARNING: bkr (12/2020): Found zero values for fields: Share Repurchases
+[2025-03-22 05:29:17,951] INFO: bkr (12/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 05:29:17,979] INFO: bkr (3/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:29:18,007] INFO: bkr (6/2021): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 05:29:18,035] INFO: bkr (9/2021): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 05:29:18,061] INFO: bkr (12/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:29:18,089] INFO: bkr (3/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 05:29:18,115] INFO: bkr (6/2022): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 05:29:18,143] INFO: bkr (9/2022): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 05:29:18,171] INFO: bkr (12/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:29:18,186] WARNING: bkr (3/2023): Found zero values for fields: Share Repurchases
+[2025-03-22 05:29:18,198] INFO: bkr (3/2023): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 05:29:18,227] INFO: bkr (6/2023): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 05:29:18,254] INFO: bkr (9/2023): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 05:29:18,281] INFO: bkr (12/2023): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 05:29:18,308] INFO: bkr (3/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-22 05:29:18,335] INFO: bkr (6/2024): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 05:29:18,365] INFO: bkr (9/2024): Updated existing record with 8 non-zero financial metrics
+[2025-03-22 05:29:18,392] INFO: bkr (12/2024): Updated existing record with 15 non-zero financial metrics

@@ -1,0 +1,85 @@
+[2025-03-22 00:19:52,151] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-22 00:19:52,162] WARNING: csx (3/2010): No existing record found(3/2010, 2010-03-26) - creating new one
+[2025-03-22 00:19:52,163] INFO: csx (3/2010): Created new record with 14 non-zero financial metrics
+[2025-03-22 00:19:52,179] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-22 00:19:52,191] WARNING: csx (6/2010): No existing record found(6/2010, 2010-06-25) - creating new one
+[2025-03-22 00:19:52,192] INFO: csx (6/2010): Created new record with 11 non-zero financial metrics
+[2025-03-22 00:19:52,205] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-22 00:19:52,216] WARNING: csx (9/2010): No existing record found(9/2010, 2010-09-24) - creating new one
+[2025-03-22 00:19:52,217] INFO: csx (9/2010): Created new record with 11 non-zero financial metrics
+[2025-03-22 00:19:52,230] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-22 00:19:52,241] WARNING: csx (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-22 00:19:52,242] INFO: csx (12/2010): Created new record with 16 non-zero financial metrics
+[2025-03-22 00:19:52,256] INFO: Trying adjusted date: 3/2011 (original: 4/2011)
+[2025-03-22 00:19:52,268] WARNING: csx (4/2011): No existing record found(4/2011, 2011-04-01) - creating new one
+[2025-03-22 00:19:52,268] INFO: csx (4/2011): Created new record with 15 non-zero financial metrics
+[2025-03-22 00:19:52,282] INFO: Trying adjusted date: 6/2011 (original: 7/2011)
+[2025-03-22 00:19:52,294] WARNING: csx (7/2011): No existing record found(7/2011, 2011-07-01) - creating new one
+[2025-03-22 00:19:52,295] INFO: csx (7/2011): Created new record with 10 non-zero financial metrics
+[2025-03-22 00:19:52,307] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-22 00:19:52,319] WARNING: csx (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-22 00:19:52,320] INFO: csx (9/2011): Created new record with 10 non-zero financial metrics
+[2025-03-22 00:19:52,332] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-22 00:19:52,344] WARNING: csx (12/2011): No existing record found(12/2011, 2011-12-30) - creating new one
+[2025-03-22 00:19:52,345] INFO: csx (12/2011): Created new record with 16 non-zero financial metrics
+[2025-03-22 00:19:52,358] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-22 00:19:52,370] WARNING: csx (3/2012): No existing record found(3/2012, 2012-03-30) - creating new one
+[2025-03-22 00:19:52,370] INFO: csx (3/2012): Created new record with 14 non-zero financial metrics
+[2025-03-22 00:19:52,395] INFO: csx (6/2012): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 00:19:52,420] INFO: csx (9/2012): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 00:19:52,445] INFO: csx (12/2012): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:19:52,470] INFO: csx (3/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:19:52,495] INFO: csx (6/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 00:19:52,522] INFO: csx (9/2013): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:19:52,548] INFO: csx (12/2013): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:19:52,573] INFO: csx (3/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:19:52,599] INFO: csx (6/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:19:52,624] INFO: csx (9/2014): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:19:52,649] INFO: csx (12/2014): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:19:52,673] INFO: csx (3/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:19:52,698] INFO: csx (6/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:19:52,723] INFO: csx (9/2015): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:19:52,749] INFO: csx (12/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:19:52,774] INFO: csx (3/2016): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:19:52,799] INFO: csx (6/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:19:52,824] INFO: csx (9/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:19:52,850] INFO: csx (12/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:19:52,875] INFO: csx (3/2017): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:19:52,900] INFO: csx (6/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:19:52,923] INFO: csx (9/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-22 00:19:52,947] INFO: csx (12/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-22 00:19:52,963] WARNING: csx (3/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 00:19:52,975] INFO: csx (3/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:19:52,989] WARNING: csx (6/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 00:19:53,001] INFO: csx (6/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 00:19:53,014] WARNING: csx (9/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 00:19:53,025] INFO: csx (9/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 00:19:53,037] WARNING: csx (12/2018): Found zero values for fields: Deferred Revenue
+[2025-03-22 00:19:53,047] INFO: csx (12/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:19:53,060] WARNING: csx (3/2019): Found zero values for fields: Deferred Revenue
+[2025-03-22 00:19:53,072] INFO: csx (3/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:19:53,085] WARNING: csx (6/2019): Found zero values for fields: Deferred Revenue
+[2025-03-22 00:19:53,097] INFO: csx (6/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 00:19:53,110] WARNING: csx (9/2019): Found zero values for fields: Deferred Revenue
+[2025-03-22 00:19:53,122] INFO: csx (9/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 00:19:53,147] INFO: csx (12/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:19:53,172] INFO: csx (3/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:19:53,196] INFO: csx (6/2020): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 00:19:53,223] INFO: csx (9/2020): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 00:19:53,248] INFO: csx (12/2020): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:19:53,273] INFO: csx (3/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:19:53,298] INFO: csx (6/2021): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 00:19:53,326] INFO: csx (9/2021): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 00:19:53,352] INFO: csx (12/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:19:53,377] INFO: csx (3/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:19:53,402] INFO: csx (6/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 00:19:53,428] INFO: csx (9/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-22 00:19:53,453] INFO: csx (12/2022): Updated existing record with 15 non-zero financial metrics
+[2025-03-22 00:19:53,478] INFO: csx (3/2023): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:19:53,503] INFO: csx (6/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 00:19:53,530] INFO: csx (9/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 00:19:53,558] INFO: csx (12/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-22 00:19:53,583] INFO: csx (3/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-22 00:19:53,609] INFO: csx (6/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 00:19:53,636] INFO: csx (9/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-22 00:19:53,661] INFO: csx (12/2024): Updated existing record with 14 non-zero financial metrics
