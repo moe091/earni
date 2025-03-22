@@ -1,0 +1,204 @@
+[2025-03-21 21:05:43,135] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-21 21:05:43,146] ERROR: Invalid numeric value for original_report_date: 2010-03-31
+[2025-03-21 21:05:43,146] ERROR: xom (3/2010): Invalid data types: original_report_date=2010-03-31
+[2025-03-21 21:05:43,146] ERROR: xom (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-21 21:05:43,146] INFO: xom (3/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 21:05:43,158] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-21 21:05:43,169] ERROR: Invalid numeric value for original_report_date: 2010-06-30
+[2025-03-21 21:05:43,169] ERROR: xom (6/2010): Invalid data types: original_report_date=2010-06-30
+[2025-03-21 21:05:43,169] ERROR: xom (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-21 21:05:43,170] INFO: xom (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 21:05:43,182] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-21 21:05:43,194] ERROR: Invalid numeric value for original_report_date: 2010-09-30
+[2025-03-21 21:05:43,194] ERROR: xom (9/2010): Invalid data types: original_report_date=2010-09-30
+[2025-03-21 21:05:43,194] ERROR: xom (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-21 21:05:43,195] INFO: xom (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 21:05:43,208] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-21 21:05:43,220] ERROR: Invalid numeric value for original_report_date: 2010-12-31
+[2025-03-21 21:05:43,220] ERROR: xom (12/2010): Invalid data types: original_report_date=2010-12-31
+[2025-03-21 21:05:43,220] ERROR: xom (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-21 21:05:43,220] INFO: xom (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 21:05:43,233] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-21 21:05:43,244] ERROR: Invalid numeric value for original_report_date: 2011-03-31
+[2025-03-21 21:05:43,244] ERROR: xom (3/2011): Invalid data types: original_report_date=2011-03-31
+[2025-03-21 21:05:43,244] ERROR: xom (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-21 21:05:43,244] INFO: xom (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-21 21:05:43,257] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-21 21:05:43,268] ERROR: Invalid numeric value for original_report_date: 2011-06-30
+[2025-03-21 21:05:43,268] ERROR: xom (6/2011): Invalid data types: original_report_date=2011-06-30
+[2025-03-21 21:05:43,268] ERROR: xom (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-21 21:05:43,269] INFO: xom (6/2011): Created new record with 9 non-zero financial metrics
+[2025-03-21 21:05:43,281] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-21 21:05:43,292] ERROR: Invalid numeric value for original_report_date: 2011-09-30
+[2025-03-21 21:05:43,292] ERROR: xom (9/2011): Invalid data types: original_report_date=2011-09-30
+[2025-03-21 21:05:43,292] ERROR: xom (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-21 21:05:43,293] INFO: xom (9/2011): Created new record with 9 non-zero financial metrics
+[2025-03-21 21:05:43,305] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-21 21:05:43,317] ERROR: Invalid numeric value for original_report_date: 2011-12-31
+[2025-03-21 21:05:43,317] ERROR: xom (12/2011): Invalid data types: original_report_date=2011-12-31
+[2025-03-21 21:05:43,317] ERROR: xom (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-21 21:05:43,317] INFO: xom (12/2011): Created new record with 17 non-zero financial metrics
+[2025-03-21 21:05:43,330] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-21 21:05:43,342] ERROR: Invalid numeric value for original_report_date: 2012-03-31
+[2025-03-21 21:05:43,342] ERROR: xom (3/2012): Invalid data types: original_report_date=2012-03-31
+[2025-03-21 21:05:43,342] ERROR: xom (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-21 21:05:43,342] INFO: xom (3/2012): Created new record with 14 non-zero financial metrics
+[2025-03-21 21:05:43,354] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-21 21:05:43,366] ERROR: Invalid numeric value for original_report_date: 2012-06-30
+[2025-03-21 21:05:43,366] ERROR: xom (6/2012): Invalid data types: original_report_date=2012-06-30
+[2025-03-21 21:05:43,366] ERROR: xom (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-21 21:05:43,366] INFO: xom (6/2012): Created new record with 9 non-zero financial metrics
+[2025-03-21 21:05:43,379] INFO: Trying adjusted date: 10/2012 (original: 11/2012)
+[2025-03-21 21:05:43,390] ERROR: Invalid numeric value for original_report_date: 2012-11-06
+[2025-03-21 21:05:43,390] ERROR: xom (11/2012): Invalid data types: original_report_date=2012-11-06
+[2025-03-21 21:05:43,390] ERROR: xom (11/2012): No existing record found(11/2012, 2012-11-06) - creating new one
+[2025-03-21 21:05:43,391] INFO: xom (11/2012): Created new record with 0 non-zero financial metrics
+[2025-03-21 21:05:43,403] ERROR: Invalid numeric value for original_report_date: 2012-12-31
+[2025-03-21 21:05:43,404] ERROR: xom (12/2012): Invalid data types: original_report_date=2012-12-31
+[2025-03-21 21:05:43,415] INFO: xom (12/2012): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 21:05:43,428] ERROR: Invalid numeric value for original_report_date: 2013-03-31
+[2025-03-21 21:05:43,428] ERROR: xom (3/2013): Invalid data types: original_report_date=2013-03-31
+[2025-03-21 21:05:43,440] INFO: xom (3/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:05:43,453] ERROR: Invalid numeric value for original_report_date: 2013-06-30
+[2025-03-21 21:05:43,453] ERROR: xom (6/2013): Invalid data types: original_report_date=2013-06-30
+[2025-03-21 21:05:43,465] INFO: xom (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-21 21:05:43,478] ERROR: Invalid numeric value for original_report_date: 2013-09-30
+[2025-03-21 21:05:43,478] ERROR: xom (9/2013): Invalid data types: original_report_date=2013-09-30
+[2025-03-21 21:05:43,489] INFO: xom (9/2013): Updated existing record with 8 non-zero financial metrics
+[2025-03-21 21:05:43,502] ERROR: Invalid numeric value for original_report_date: 2013-12-31
+[2025-03-21 21:05:43,502] ERROR: xom (12/2013): Invalid data types: original_report_date=2013-12-31
+[2025-03-21 21:05:43,513] INFO: xom (12/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:05:43,526] ERROR: Invalid numeric value for original_report_date: 2014-03-31
+[2025-03-21 21:05:43,526] ERROR: xom (3/2014): Invalid data types: original_report_date=2014-03-31
+[2025-03-21 21:05:43,537] INFO: xom (3/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 21:05:43,549] ERROR: Invalid numeric value for original_report_date: 2014-06-30
+[2025-03-21 21:05:43,549] ERROR: xom (6/2014): Invalid data types: original_report_date=2014-06-30
+[2025-03-21 21:05:43,560] INFO: xom (6/2014): Updated existing record with 8 non-zero financial metrics
+[2025-03-21 21:05:43,573] ERROR: Invalid numeric value for original_report_date: 2014-09-30
+[2025-03-21 21:05:43,573] ERROR: xom (9/2014): Invalid data types: original_report_date=2014-09-30
+[2025-03-21 21:05:43,585] INFO: xom (9/2014): Updated existing record with 8 non-zero financial metrics
+[2025-03-21 21:05:43,597] ERROR: Invalid numeric value for original_report_date: 2014-12-31
+[2025-03-21 21:05:43,597] ERROR: xom (12/2014): Invalid data types: original_report_date=2014-12-31
+[2025-03-21 21:05:43,609] INFO: xom (12/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:05:43,622] ERROR: Invalid numeric value for original_report_date: 2015-03-31
+[2025-03-21 21:05:43,622] ERROR: xom (3/2015): Invalid data types: original_report_date=2015-03-31
+[2025-03-21 21:05:43,634] INFO: xom (3/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 21:05:43,646] ERROR: Invalid numeric value for original_report_date: 2015-06-30
+[2025-03-21 21:05:43,646] ERROR: xom (6/2015): Invalid data types: original_report_date=2015-06-30
+[2025-03-21 21:05:43,658] INFO: xom (6/2015): Updated existing record with 8 non-zero financial metrics
+[2025-03-21 21:05:43,670] ERROR: Invalid numeric value for original_report_date: 2015-09-30
+[2025-03-21 21:05:43,670] ERROR: xom (9/2015): Invalid data types: original_report_date=2015-09-30
+[2025-03-21 21:05:43,681] INFO: xom (9/2015): Updated existing record with 8 non-zero financial metrics
+[2025-03-21 21:05:43,694] ERROR: Invalid numeric value for original_report_date: 2015-12-31
+[2025-03-21 21:05:43,694] ERROR: xom (12/2015): Invalid data types: original_report_date=2015-12-31
+[2025-03-21 21:05:43,705] INFO: xom (12/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:05:43,718] ERROR: Invalid numeric value for original_report_date: 2016-03-31
+[2025-03-21 21:05:43,718] ERROR: xom (3/2016): Invalid data types: original_report_date=2016-03-31
+[2025-03-21 21:05:43,730] INFO: xom (3/2016): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 21:05:43,743] ERROR: Invalid numeric value for original_report_date: 2016-06-30
+[2025-03-21 21:05:43,743] ERROR: xom (6/2016): Invalid data types: original_report_date=2016-06-30
+[2025-03-21 21:05:43,755] INFO: xom (6/2016): Updated existing record with 8 non-zero financial metrics
+[2025-03-21 21:05:43,768] ERROR: Invalid numeric value for original_report_date: 2016-09-30
+[2025-03-21 21:05:43,768] ERROR: xom (9/2016): Invalid data types: original_report_date=2016-09-30
+[2025-03-21 21:05:43,779] INFO: xom (9/2016): Updated existing record with 8 non-zero financial metrics
+[2025-03-21 21:05:43,792] ERROR: Invalid numeric value for original_report_date: 2016-12-31
+[2025-03-21 21:05:43,792] ERROR: xom (12/2016): Invalid data types: original_report_date=2016-12-31
+[2025-03-21 21:05:43,803] INFO: xom (12/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:05:43,816] ERROR: Invalid numeric value for original_report_date: 2017-03-31
+[2025-03-21 21:05:43,816] ERROR: xom (3/2017): Invalid data types: original_report_date=2017-03-31
+[2025-03-21 21:05:43,827] INFO: xom (3/2017): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 21:05:43,840] ERROR: Invalid numeric value for original_report_date: 2017-06-30
+[2025-03-21 21:05:43,840] ERROR: xom (6/2017): Invalid data types: original_report_date=2017-06-30
+[2025-03-21 21:05:43,851] INFO: xom (6/2017): Updated existing record with 8 non-zero financial metrics
+[2025-03-21 21:05:43,864] ERROR: Invalid numeric value for original_report_date: 2017-09-30
+[2025-03-21 21:05:43,864] ERROR: xom (9/2017): Invalid data types: original_report_date=2017-09-30
+[2025-03-21 21:05:43,875] INFO: xom (9/2017): Updated existing record with 8 non-zero financial metrics
+[2025-03-21 21:05:43,889] ERROR: Invalid numeric value for original_report_date: 2017-12-31
+[2025-03-21 21:05:43,889] ERROR: xom (12/2017): Invalid data types: original_report_date=2017-12-31
+[2025-03-21 21:05:43,900] INFO: xom (12/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 21:05:43,912] ERROR: Invalid numeric value for original_report_date: 2018-03-31
+[2025-03-21 21:05:43,912] ERROR: xom (3/2018): Invalid data types: original_report_date=2018-03-31
+[2025-03-21 21:05:43,924] INFO: xom (3/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 21:05:43,936] ERROR: Invalid numeric value for original_report_date: 2018-06-30
+[2025-03-21 21:05:43,936] ERROR: xom (6/2018): Invalid data types: original_report_date=2018-06-30
+[2025-03-21 21:05:43,948] INFO: xom (6/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-21 21:05:43,961] ERROR: Invalid numeric value for original_report_date: 2018-09-30
+[2025-03-21 21:05:43,961] ERROR: xom (9/2018): Invalid data types: original_report_date=2018-09-30
+[2025-03-21 21:05:43,972] INFO: xom (9/2018): Updated existing record with 9 non-zero financial metrics
+[2025-03-21 21:05:43,985] ERROR: Invalid numeric value for original_report_date: 2018-12-31
+[2025-03-21 21:05:43,985] ERROR: xom (12/2018): Invalid data types: original_report_date=2018-12-31
+[2025-03-21 21:05:43,997] INFO: xom (12/2018): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 21:05:44,010] ERROR: Invalid numeric value for original_report_date: 2019-03-31
+[2025-03-21 21:05:44,011] ERROR: xom (3/2019): Invalid data types: original_report_date=2019-03-31
+[2025-03-21 21:05:44,022] INFO: xom (3/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 21:05:44,035] ERROR: Invalid numeric value for original_report_date: 2019-06-30
+[2025-03-21 21:05:44,035] ERROR: xom (6/2019): Invalid data types: original_report_date=2019-06-30
+[2025-03-21 21:05:44,046] INFO: xom (6/2019): Updated existing record with 9 non-zero financial metrics
+[2025-03-21 21:05:44,059] ERROR: Invalid numeric value for original_report_date: 2019-09-30
+[2025-03-21 21:05:44,059] ERROR: xom (9/2019): Invalid data types: original_report_date=2019-09-30
+[2025-03-21 21:05:44,070] INFO: xom (9/2019): Updated existing record with 9 non-zero financial metrics
+[2025-03-21 21:05:44,083] ERROR: Invalid numeric value for original_report_date: 2019-12-31
+[2025-03-21 21:05:44,083] ERROR: xom (12/2019): Invalid data types: original_report_date=2019-12-31
+[2025-03-21 21:05:44,095] INFO: xom (12/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 21:05:44,107] INFO: Trying adjusted date: 4/2020 (original: 3/2020)
+[2025-03-21 21:05:44,119] ERROR: Invalid numeric value for original_report_date: 2020-03-31
+[2025-03-21 21:05:44,119] ERROR: xom (3/2020): Invalid data types: original_report_date=2020-03-31
+[2025-03-21 21:05:44,119] ERROR: xom (3/2020): No existing record found(3/2020, 2020-03-31) - creating new one
+[2025-03-21 21:05:44,119] INFO: xom (3/2020): Created new record with 15 non-zero financial metrics
+[2025-03-21 21:05:44,132] ERROR: Invalid numeric value for original_report_date: 2020-06-30
+[2025-03-21 21:05:44,132] ERROR: xom (6/2020): Invalid data types: original_report_date=2020-06-30
+[2025-03-21 21:05:44,143] INFO: xom (6/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 21:05:44,156] ERROR: Invalid numeric value for original_report_date: 2020-09-30
+[2025-03-21 21:05:44,156] ERROR: xom (9/2020): Invalid data types: original_report_date=2020-09-30
+[2025-03-21 21:05:44,168] INFO: xom (9/2020): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 21:05:44,183] ERROR: Invalid numeric value for original_report_date: 2020-12-31
+[2025-03-21 21:05:44,183] ERROR: xom (12/2020): Invalid data types: original_report_date=2020-12-31
+[2025-03-21 21:05:44,194] INFO: xom (12/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 21:05:44,207] ERROR: Invalid numeric value for original_report_date: 2021-03-31
+[2025-03-21 21:05:44,207] ERROR: xom (3/2021): Invalid data types: original_report_date=2021-03-31
+[2025-03-21 21:05:44,218] INFO: xom (3/2021): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 21:05:44,231] ERROR: Invalid numeric value for original_report_date: 2021-06-30
+[2025-03-21 21:05:44,231] ERROR: xom (6/2021): Invalid data types: original_report_date=2021-06-30
+[2025-03-21 21:05:44,242] INFO: xom (6/2021): Updated existing record with 9 non-zero financial metrics
+[2025-03-21 21:05:44,254] ERROR: Invalid numeric value for original_report_date: 2021-09-30
+[2025-03-21 21:05:44,254] ERROR: xom (9/2021): Invalid data types: original_report_date=2021-09-30
+[2025-03-21 21:05:44,266] INFO: xom (9/2021): Updated existing record with 9 non-zero financial metrics
+[2025-03-21 21:05:44,278] ERROR: Invalid numeric value for original_report_date: 2021-12-31
+[2025-03-21 21:05:44,278] ERROR: xom (12/2021): Invalid data types: original_report_date=2021-12-31
+[2025-03-21 21:05:44,289] INFO: xom (12/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 21:05:44,303] ERROR: Invalid numeric value for original_report_date: 2022-03-31
+[2025-03-21 21:05:44,303] ERROR: xom (3/2022): Invalid data types: original_report_date=2022-03-31
+[2025-03-21 21:05:44,314] INFO: xom (3/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 21:05:44,328] ERROR: Invalid numeric value for original_report_date: 2022-06-30
+[2025-03-21 21:05:44,329] ERROR: xom (6/2022): Invalid data types: original_report_date=2022-06-30
+[2025-03-21 21:05:44,340] INFO: xom (6/2022): Updated existing record with 9 non-zero financial metrics
+[2025-03-21 21:05:44,353] ERROR: Invalid numeric value for original_report_date: 2022-09-30
+[2025-03-21 21:05:44,353] ERROR: xom (9/2022): Invalid data types: original_report_date=2022-09-30
+[2025-03-21 21:05:44,365] INFO: xom (9/2022): Updated existing record with 9 non-zero financial metrics
+[2025-03-21 21:05:44,377] ERROR: Invalid numeric value for original_report_date: 2022-12-31
+[2025-03-21 21:05:44,377] ERROR: xom (12/2022): Invalid data types: original_report_date=2022-12-31
+[2025-03-21 21:05:44,389] INFO: xom (12/2022): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 21:05:44,402] ERROR: Invalid numeric value for original_report_date: 2023-03-31
+[2025-03-21 21:05:44,402] ERROR: xom (3/2023): Invalid data types: original_report_date=2023-03-31
+[2025-03-21 21:05:44,413] INFO: xom (3/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 21:05:44,427] ERROR: Invalid numeric value for original_report_date: 2023-06-30
+[2025-03-21 21:05:44,427] ERROR: xom (6/2023): Invalid data types: original_report_date=2023-06-30
+[2025-03-21 21:05:44,439] INFO: xom (6/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-21 21:05:44,455] ERROR: Invalid numeric value for original_report_date: 2023-09-30
+[2025-03-21 21:05:44,455] ERROR: xom (9/2023): Invalid data types: original_report_date=2023-09-30
+[2025-03-21 21:05:44,469] INFO: xom (9/2023): Updated existing record with 9 non-zero financial metrics
+[2025-03-21 21:05:44,483] ERROR: Invalid numeric value for original_report_date: 2023-12-31
+[2025-03-21 21:05:44,483] ERROR: xom (12/2023): Invalid data types: original_report_date=2023-12-31
+[2025-03-21 21:05:44,495] INFO: xom (12/2023): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 21:05:44,507] ERROR: Invalid numeric value for original_report_date: 2024-03-31
+[2025-03-21 21:05:44,507] ERROR: xom (3/2024): Invalid data types: original_report_date=2024-03-31
+[2025-03-21 21:05:44,519] INFO: xom (3/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 21:05:44,533] ERROR: Invalid numeric value for original_report_date: 2024-06-30
+[2025-03-21 21:05:44,533] ERROR: xom (6/2024): Invalid data types: original_report_date=2024-06-30
+[2025-03-21 21:05:44,545] INFO: xom (6/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-21 21:05:44,558] ERROR: Invalid numeric value for original_report_date: 2024-09-30
+[2025-03-21 21:05:44,558] ERROR: xom (9/2024): Invalid data types: original_report_date=2024-09-30
+[2025-03-21 21:05:44,570] INFO: xom (9/2024): Updated existing record with 9 non-zero financial metrics
+[2025-03-21 21:05:44,583] ERROR: Invalid numeric value for original_report_date: 2024-12-31
+[2025-03-21 21:05:44,583] ERROR: xom (12/2024): Invalid data types: original_report_date=2024-12-31
+[2025-03-21 21:05:44,595] INFO: xom (12/2024): Updated existing record with 16 non-zero financial metrics

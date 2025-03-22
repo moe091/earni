@@ -218,7 +218,7 @@ class EdgarInstance:
                 soup = BeautifulSoup(xbrl_response.text, features="xml")
                 filing_info['xbrl_soup'] = soup
                 # Extract and store relevant us-gaap fields
-                self._extract_gaap_fields(soup, report_date, filing_info['filing_type'])
+                self._extract_gaap_fields(soup, report_date, filing_info['report_date'], filing_info['filing_type'])
                 
             except Exception as e:
                 logger.error(f"Error processing filing {filing_info['access_num']}: {e}")
@@ -275,7 +275,7 @@ class EdgarInstance:
         
         return None
     
-    def _extract_gaap_fields(self, soup, report_date, filing_type):
+    def _extract_gaap_fields(self, soup, report_date, original_report_date, filing_type):
         """
         Extract us-gaap fields from the XBRL document.
         
@@ -286,7 +286,7 @@ class EdgarInstance:
         """
         # Initialize entry for this report date if it doesn't exist
         if report_date not in self.filings:
-            self.filings[report_date] = {'filing_type': filing_type}
+            self.filings[report_date] = {'filing_type': filing_type, 'original_report_date': original_report_date}  
         
         # Find all context elements
         contexts = soup.find_all('context')
@@ -473,6 +473,7 @@ class EdgarInstance:
             
             # Initialize a dictionary for this report date with None values for all schema keys
             populated_values[report_date] = {metric_name: None for metric_name in schema}
+            populated_values[report_date]['original_report_date'] = filing_data.get('original_report_date')
 
             # Add filing type to the output
             populated_values[report_date]['Filing Type'] = filing_data.get('filing_type')

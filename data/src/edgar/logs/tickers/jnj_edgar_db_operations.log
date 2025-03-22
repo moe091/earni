@@ -1,0 +1,245 @@
+[2025-03-21 20:57:41,938] INFO: Trying adjusted date: 3/2010 (original: 4/2010)
+[2025-03-21 20:57:41,949] ERROR: Invalid numeric value for original_report_date: 2010-04-04
+[2025-03-21 20:57:41,949] ERROR: jnj (4/2010): Invalid data types: original_report_date=2010-04-04
+[2025-03-21 20:57:41,949] ERROR: jnj (4/2010): No existing record found(4/2010, 2010-04-04) - creating new one
+[2025-03-21 20:57:41,950] INFO: jnj (4/2010): Created new record with 17 non-zero financial metrics
+[2025-03-21 20:57:41,964] INFO: Trying adjusted date: 6/2010 (original: 7/2010)
+[2025-03-21 20:57:41,976] ERROR: Invalid numeric value for original_report_date: 2010-07-04
+[2025-03-21 20:57:41,976] ERROR: jnj (7/2010): Invalid data types: original_report_date=2010-07-04
+[2025-03-21 20:57:41,976] ERROR: jnj (7/2010): No existing record found(7/2010, 2010-07-04) - creating new one
+[2025-03-21 20:57:41,977] INFO: jnj (7/2010): Created new record with 12 non-zero financial metrics
+[2025-03-21 20:57:41,990] INFO: Trying adjusted date: 9/2010 (original: 10/2010)
+[2025-03-21 20:57:42,001] ERROR: Invalid numeric value for original_report_date: 2010-10-03
+[2025-03-21 20:57:42,001] ERROR: jnj (10/2010): Invalid data types: original_report_date=2010-10-03
+[2025-03-21 20:57:42,002] ERROR: jnj (10/2010): No existing record found(10/2010, 2010-10-03) - creating new one
+[2025-03-21 20:57:42,002] INFO: jnj (10/2010): Created new record with 12 non-zero financial metrics
+[2025-03-21 20:57:42,014] INFO: Trying adjusted date: 12/2010 (original: 1/2011)
+[2025-03-21 20:57:42,025] ERROR: Invalid numeric value for original_report_date: 2011-01-02
+[2025-03-21 20:57:42,025] ERROR: jnj (1/2011): Invalid data types: original_report_date=2011-01-02
+[2025-03-21 20:57:42,025] ERROR: jnj (1/2011): No existing record found(1/2011, 2011-01-02) - creating new one
+[2025-03-21 20:57:42,026] INFO: jnj (1/2011): Created new record with 18 non-zero financial metrics
+[2025-03-21 20:57:42,038] INFO: Trying adjusted date: 3/2011 (original: 4/2011)
+[2025-03-21 20:57:42,050] ERROR: Invalid numeric value for original_report_date: 2011-04-03
+[2025-03-21 20:57:42,050] ERROR: jnj (4/2011): Invalid data types: original_report_date=2011-04-03
+[2025-03-21 20:57:42,050] ERROR: jnj (4/2011): No existing record found(4/2011, 2011-04-03) - creating new one
+[2025-03-21 20:57:42,051] INFO: jnj (4/2011): Created new record with 17 non-zero financial metrics
+[2025-03-21 20:57:42,063] INFO: Trying adjusted date: 6/2011 (original: 7/2011)
+[2025-03-21 20:57:42,075] ERROR: Invalid numeric value for original_report_date: 2011-07-03
+[2025-03-21 20:57:42,075] ERROR: jnj (7/2011): Invalid data types: original_report_date=2011-07-03
+[2025-03-21 20:57:42,075] ERROR: jnj (7/2011): No existing record found(7/2011, 2011-07-03) - creating new one
+[2025-03-21 20:57:42,075] INFO: jnj (7/2011): Created new record with 13 non-zero financial metrics
+[2025-03-21 20:57:42,088] INFO: Trying adjusted date: 9/2011 (original: 10/2011)
+[2025-03-21 20:57:42,100] ERROR: Invalid numeric value for original_report_date: 2011-10-02
+[2025-03-21 20:57:42,100] ERROR: jnj (10/2011): Invalid data types: original_report_date=2011-10-02
+[2025-03-21 20:57:42,100] ERROR: jnj (10/2011): No existing record found(10/2011, 2011-10-02) - creating new one
+[2025-03-21 20:57:42,100] INFO: jnj (10/2011): Created new record with 13 non-zero financial metrics
+[2025-03-21 20:57:42,112] INFO: Trying adjusted date: 12/2011 (original: 1/2012)
+[2025-03-21 20:57:42,124] ERROR: Invalid numeric value for original_report_date: 2012-01-01
+[2025-03-21 20:57:42,124] ERROR: jnj (1/2012): Invalid data types: original_report_date=2012-01-01
+[2025-03-21 20:57:42,124] ERROR: jnj (1/2012): No existing record found(1/2012, 2012-01-01) - creating new one
+[2025-03-21 20:57:42,124] INFO: jnj (1/2012): Created new record with 18 non-zero financial metrics
+[2025-03-21 20:57:42,137] INFO: Trying adjusted date: 3/2012 (original: 4/2012)
+[2025-03-21 20:57:42,148] ERROR: Invalid numeric value for original_report_date: 2012-04-01
+[2025-03-21 20:57:42,148] ERROR: jnj (4/2012): Invalid data types: original_report_date=2012-04-01
+[2025-03-21 20:57:42,148] ERROR: jnj (4/2012): No existing record found(4/2012, 2012-04-01) - creating new one
+[2025-03-21 20:57:42,148] INFO: jnj (4/2012): Created new record with 18 non-zero financial metrics
+[2025-03-21 20:57:42,161] INFO: Trying adjusted date: 6/2012 (original: 7/2012)
+[2025-03-21 20:57:42,173] ERROR: Invalid numeric value for original_report_date: 2012-07-01
+[2025-03-21 20:57:42,173] ERROR: jnj (7/2012): Invalid data types: original_report_date=2012-07-01
+[2025-03-21 20:57:42,173] ERROR: jnj (7/2012): No existing record found(7/2012, 2012-07-01) - creating new one
+[2025-03-21 20:57:42,173] INFO: jnj (7/2012): Created new record with 13 non-zero financial metrics
+[2025-03-21 20:57:42,186] ERROR: Invalid numeric value for original_report_date: 2012-09-30
+[2025-03-21 20:57:42,187] ERROR: jnj (9/2012): Invalid data types: original_report_date=2012-09-30
+[2025-03-21 20:57:42,198] INFO: jnj (9/2012): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 20:57:42,211] ERROR: Invalid numeric value for original_report_date: 2012-12-30
+[2025-03-21 20:57:42,211] ERROR: jnj (12/2012): Invalid data types: original_report_date=2012-12-30
+[2025-03-21 20:57:42,223] INFO: jnj (12/2012): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:57:42,235] ERROR: Invalid numeric value for original_report_date: 2013-03-31
+[2025-03-21 20:57:42,235] WARNING: jnj (3/2013): Found zero values for fields: Share Repurchases
+[2025-03-21 20:57:42,235] ERROR: jnj (3/2013): Invalid data types: original_report_date=2013-03-31
+[2025-03-21 20:57:42,247] INFO: jnj (3/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:57:42,260] ERROR: Invalid numeric value for original_report_date: 2013-06-30
+[2025-03-21 20:57:42,260] ERROR: jnj (6/2013): Invalid data types: original_report_date=2013-06-30
+[2025-03-21 20:57:42,271] INFO: jnj (6/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 20:57:42,284] ERROR: Invalid numeric value for original_report_date: 2013-09-29
+[2025-03-21 20:57:42,284] ERROR: jnj (9/2013): Invalid data types: original_report_date=2013-09-29
+[2025-03-21 20:57:42,295] INFO: jnj (9/2013): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 20:57:42,307] ERROR: Invalid numeric value for original_report_date: 2013-12-29
+[2025-03-21 20:57:42,307] ERROR: jnj (12/2013): Invalid data types: original_report_date=2013-12-29
+[2025-03-21 20:57:42,319] INFO: jnj (12/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:57:42,332] ERROR: Invalid numeric value for original_report_date: 2014-03-30
+[2025-03-21 20:57:42,332] ERROR: jnj (3/2014): Invalid data types: original_report_date=2014-03-30
+[2025-03-21 20:57:42,344] INFO: jnj (3/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 20:57:42,356] ERROR: Invalid numeric value for original_report_date: 2014-06-29
+[2025-03-21 20:57:42,356] ERROR: jnj (6/2014): Invalid data types: original_report_date=2014-06-29
+[2025-03-21 20:57:42,367] INFO: jnj (6/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 20:57:42,380] ERROR: Invalid numeric value for original_report_date: 2014-09-28
+[2025-03-21 20:57:42,380] ERROR: jnj (9/2014): Invalid data types: original_report_date=2014-09-28
+[2025-03-21 20:57:42,392] INFO: jnj (9/2014): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 20:57:42,404] ERROR: Invalid numeric value for original_report_date: 2014-12-28
+[2025-03-21 20:57:42,404] ERROR: jnj (12/2014): Invalid data types: original_report_date=2014-12-28
+[2025-03-21 20:57:42,416] INFO: jnj (12/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:57:42,429] ERROR: Invalid numeric value for original_report_date: 2015-03-29
+[2025-03-21 20:57:42,429] ERROR: jnj (3/2015): Invalid data types: original_report_date=2015-03-29
+[2025-03-21 20:57:42,440] INFO: jnj (3/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:57:42,454] ERROR: Invalid numeric value for original_report_date: 2015-06-28
+[2025-03-21 20:57:42,454] ERROR: jnj (6/2015): Invalid data types: original_report_date=2015-06-28
+[2025-03-21 20:57:42,465] INFO: jnj (6/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:57:42,478] ERROR: Invalid numeric value for original_report_date: 2015-09-27
+[2025-03-21 20:57:42,478] ERROR: jnj (9/2015): Invalid data types: original_report_date=2015-09-27
+[2025-03-21 20:57:42,489] INFO: jnj (9/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:57:42,502] INFO: Trying adjusted date: 12/2015 (original: 1/2016)
+[2025-03-21 20:57:42,514] INFO: Found existing row with adjusted date: 12/2015
+[2025-03-21 20:57:42,514] ERROR: Invalid numeric value for original_report_date: 2016-01-03
+[2025-03-21 20:57:42,514] ERROR: jnj (12/2015): Invalid data types: original_report_date=2016-01-03
+[2025-03-21 20:57:42,525] INFO: jnj (12/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:57:42,538] INFO: Trying adjusted date: 3/2016 (original: 4/2016)
+[2025-03-21 20:57:42,550] INFO: Found existing row with adjusted date: 3/2016
+[2025-03-21 20:57:42,551] ERROR: Invalid numeric value for original_report_date: 2016-04-03
+[2025-03-21 20:57:42,551] ERROR: jnj (3/2016): Invalid data types: original_report_date=2016-04-03
+[2025-03-21 20:57:42,562] INFO: jnj (3/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:57:42,575] INFO: Trying adjusted date: 6/2016 (original: 7/2016)
+[2025-03-21 20:57:42,587] INFO: Found existing row with adjusted date: 6/2016
+[2025-03-21 20:57:42,587] ERROR: Invalid numeric value for original_report_date: 2016-07-03
+[2025-03-21 20:57:42,587] ERROR: jnj (6/2016): Invalid data types: original_report_date=2016-07-03
+[2025-03-21 20:57:42,599] INFO: jnj (6/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:57:42,614] INFO: Trying adjusted date: 9/2016 (original: 10/2016)
+[2025-03-21 20:57:42,625] INFO: Found existing row with adjusted date: 9/2016
+[2025-03-21 20:57:42,626] ERROR: Invalid numeric value for original_report_date: 2016-10-02
+[2025-03-21 20:57:42,626] ERROR: jnj (9/2016): Invalid data types: original_report_date=2016-10-02
+[2025-03-21 20:57:42,637] INFO: jnj (9/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:57:42,650] INFO: Trying adjusted date: 12/2016 (original: 1/2017)
+[2025-03-21 20:57:42,662] INFO: Found existing row with adjusted date: 12/2016
+[2025-03-21 20:57:42,662] ERROR: Invalid numeric value for original_report_date: 2017-01-01
+[2025-03-21 20:57:42,662] ERROR: jnj (12/2016): Invalid data types: original_report_date=2017-01-01
+[2025-03-21 20:57:42,673] INFO: jnj (12/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:57:42,686] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-21 20:57:42,699] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-21 20:57:42,699] ERROR: Invalid numeric value for original_report_date: 2017-04-02
+[2025-03-21 20:57:42,699] ERROR: jnj (3/2017): Invalid data types: original_report_date=2017-04-02
+[2025-03-21 20:57:42,712] INFO: jnj (3/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:57:42,725] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-21 20:57:42,736] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-21 20:57:42,737] ERROR: Invalid numeric value for original_report_date: 2017-07-02
+[2025-03-21 20:57:42,737] ERROR: jnj (6/2017): Invalid data types: original_report_date=2017-07-02
+[2025-03-21 20:57:42,748] INFO: jnj (6/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:57:42,760] INFO: Trying adjusted date: 9/2017 (original: 10/2017)
+[2025-03-21 20:57:42,771] INFO: Found existing row with adjusted date: 9/2017
+[2025-03-21 20:57:42,771] ERROR: Invalid numeric value for original_report_date: 2017-10-01
+[2025-03-21 20:57:42,771] ERROR: jnj (9/2017): Invalid data types: original_report_date=2017-10-01
+[2025-03-21 20:57:42,782] INFO: jnj (9/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:57:42,794] ERROR: Invalid numeric value for original_report_date: 2017-12-31
+[2025-03-21 20:57:42,794] ERROR: jnj (12/2017): Invalid data types: original_report_date=2017-12-31
+[2025-03-21 20:57:42,805] INFO: jnj (12/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:57:42,818] INFO: Trying adjusted date: 3/2018 (original: 4/2018)
+[2025-03-21 20:57:42,830] INFO: Found existing row with adjusted date: 3/2018
+[2025-03-21 20:57:42,830] ERROR: Invalid numeric value for original_report_date: 2018-04-01
+[2025-03-21 20:57:42,830] ERROR: jnj (3/2018): Invalid data types: original_report_date=2018-04-01
+[2025-03-21 20:57:42,842] INFO: jnj (3/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:57:42,854] INFO: Trying adjusted date: 6/2018 (original: 7/2018)
+[2025-03-21 20:57:42,866] INFO: Found existing row with adjusted date: 6/2018
+[2025-03-21 20:57:42,866] ERROR: Invalid numeric value for original_report_date: 2018-07-01
+[2025-03-21 20:57:42,866] ERROR: jnj (6/2018): Invalid data types: original_report_date=2018-07-01
+[2025-03-21 20:57:42,878] INFO: jnj (6/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:57:42,891] ERROR: Invalid numeric value for original_report_date: 2018-09-30
+[2025-03-21 20:57:42,891] ERROR: jnj (9/2018): Invalid data types: original_report_date=2018-09-30
+[2025-03-21 20:57:42,902] INFO: jnj (9/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 20:57:42,916] ERROR: Invalid numeric value for original_report_date: 2018-12-30
+[2025-03-21 20:57:42,916] ERROR: jnj (12/2018): Invalid data types: original_report_date=2018-12-30
+[2025-03-21 20:57:42,927] INFO: jnj (12/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:57:42,941] ERROR: Invalid numeric value for original_report_date: 2019-03-31
+[2025-03-21 20:57:42,941] ERROR: jnj (3/2019): Invalid data types: original_report_date=2019-03-31
+[2025-03-21 20:57:42,953] INFO: jnj (3/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:57:42,970] ERROR: Invalid numeric value for original_report_date: 2019-06-30
+[2025-03-21 20:57:42,970] ERROR: jnj (6/2019): Invalid data types: original_report_date=2019-06-30
+[2025-03-21 20:57:42,981] INFO: jnj (6/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 20:57:42,995] ERROR: Invalid numeric value for original_report_date: 2019-09-29
+[2025-03-21 20:57:42,995] ERROR: jnj (9/2019): Invalid data types: original_report_date=2019-09-29
+[2025-03-21 20:57:43,007] INFO: jnj (9/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 20:57:43,019] ERROR: Invalid numeric value for original_report_date: 2019-12-29
+[2025-03-21 20:57:43,019] ERROR: jnj (12/2019): Invalid data types: original_report_date=2019-12-29
+[2025-03-21 20:57:43,031] INFO: jnj (12/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:57:43,045] ERROR: Invalid numeric value for original_report_date: 2020-03-29
+[2025-03-21 20:57:43,045] ERROR: jnj (3/2020): Invalid data types: original_report_date=2020-03-29
+[2025-03-21 20:57:43,058] INFO: jnj (3/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:57:43,071] ERROR: Invalid numeric value for original_report_date: 2020-06-28
+[2025-03-21 20:57:43,071] ERROR: jnj (6/2020): Invalid data types: original_report_date=2020-06-28
+[2025-03-21 20:57:43,082] INFO: jnj (6/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 20:57:43,096] ERROR: Invalid numeric value for original_report_date: 2020-09-27
+[2025-03-21 20:57:43,096] ERROR: jnj (9/2020): Invalid data types: original_report_date=2020-09-27
+[2025-03-21 20:57:43,108] INFO: jnj (9/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 20:57:43,121] INFO: Trying adjusted date: 12/2020 (original: 1/2021)
+[2025-03-21 20:57:43,135] INFO: Found existing row with adjusted date: 12/2020
+[2025-03-21 20:57:43,135] ERROR: Invalid numeric value for original_report_date: 2021-01-03
+[2025-03-21 20:57:43,136] ERROR: jnj (12/2020): Invalid data types: original_report_date=2021-01-03
+[2025-03-21 20:57:43,147] INFO: jnj (12/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:57:43,160] INFO: Trying adjusted date: 3/2021 (original: 4/2021)
+[2025-03-21 20:57:43,171] INFO: Found existing row with adjusted date: 3/2021
+[2025-03-21 20:57:43,171] ERROR: Invalid numeric value for original_report_date: 2021-04-04
+[2025-03-21 20:57:43,171] ERROR: jnj (3/2021): Invalid data types: original_report_date=2021-04-04
+[2025-03-21 20:57:43,183] INFO: jnj (3/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:57:43,196] INFO: Trying adjusted date: 6/2021 (original: 7/2021)
+[2025-03-21 20:57:43,208] INFO: Found existing row with adjusted date: 6/2021
+[2025-03-21 20:57:43,208] ERROR: Invalid numeric value for original_report_date: 2021-07-04
+[2025-03-21 20:57:43,208] ERROR: jnj (6/2021): Invalid data types: original_report_date=2021-07-04
+[2025-03-21 20:57:43,220] INFO: jnj (6/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 20:57:43,233] INFO: Trying adjusted date: 9/2021 (original: 10/2021)
+[2025-03-21 20:57:43,244] INFO: Found existing row with adjusted date: 9/2021
+[2025-03-21 20:57:43,244] ERROR: Invalid numeric value for original_report_date: 2021-10-03
+[2025-03-21 20:57:43,244] ERROR: jnj (9/2021): Invalid data types: original_report_date=2021-10-03
+[2025-03-21 20:57:43,256] INFO: jnj (9/2021): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 20:57:43,269] INFO: Trying adjusted date: 12/2021 (original: 1/2022)
+[2025-03-21 20:57:43,281] INFO: Found existing row with adjusted date: 12/2021
+[2025-03-21 20:57:43,281] ERROR: Invalid numeric value for original_report_date: 2022-01-02
+[2025-03-21 20:57:43,281] ERROR: jnj (12/2021): Invalid data types: original_report_date=2022-01-02
+[2025-03-21 20:57:43,293] INFO: jnj (12/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 20:57:43,305] INFO: Trying adjusted date: 3/2022 (original: 4/2022)
+[2025-03-21 20:57:43,317] INFO: Found existing row with adjusted date: 3/2022
+[2025-03-21 20:57:43,317] ERROR: Invalid numeric value for original_report_date: 2022-04-03
+[2025-03-21 20:57:43,317] ERROR: jnj (3/2022): Invalid data types: original_report_date=2022-04-03
+[2025-03-21 20:57:43,329] INFO: jnj (3/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:57:43,341] INFO: Trying adjusted date: 6/2022 (original: 7/2022)
+[2025-03-21 20:57:43,352] INFO: Found existing row with adjusted date: 6/2022
+[2025-03-21 20:57:43,352] ERROR: Invalid numeric value for original_report_date: 2022-07-03
+[2025-03-21 20:57:43,352] ERROR: jnj (6/2022): Invalid data types: original_report_date=2022-07-03
+[2025-03-21 20:57:43,363] INFO: jnj (6/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 20:57:43,377] INFO: Trying adjusted date: 9/2022 (original: 10/2022)
+[2025-03-21 20:57:43,389] INFO: Found existing row with adjusted date: 9/2022
+[2025-03-21 20:57:43,389] ERROR: Invalid numeric value for original_report_date: 2022-10-02
+[2025-03-21 20:57:43,389] ERROR: jnj (9/2022): Invalid data types: original_report_date=2022-10-02
+[2025-03-21 20:57:43,401] INFO: jnj (9/2022): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 20:57:43,416] INFO: Trying adjusted date: 12/2022 (original: 1/2023)
+[2025-03-21 20:57:43,427] INFO: Found existing row with adjusted date: 12/2022
+[2025-03-21 20:57:43,427] ERROR: Invalid numeric value for original_report_date: 2023-01-01
+[2025-03-21 20:57:43,427] ERROR: jnj (12/2022): Invalid data types: original_report_date=2023-01-01
+[2025-03-21 20:57:43,439] INFO: jnj (12/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 20:57:43,455] INFO: Trying adjusted date: 3/2023 (original: 4/2023)
+[2025-03-21 20:57:43,467] INFO: Found existing row with adjusted date: 3/2023
+[2025-03-21 20:57:43,467] ERROR: Invalid numeric value for original_report_date: 2023-04-02
+[2025-03-21 20:57:43,467] ERROR: jnj (3/2023): Invalid data types: original_report_date=2023-04-02
+[2025-03-21 20:57:43,479] INFO: jnj (3/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:57:43,494] INFO: Trying adjusted date: 6/2023 (original: 7/2023)
+[2025-03-21 20:57:43,505] INFO: Found existing row with adjusted date: 6/2023
+[2025-03-21 20:57:43,505] ERROR: Invalid numeric value for original_report_date: 2023-07-02
+[2025-03-21 20:57:43,505] ERROR: jnj (6/2023): Invalid data types: original_report_date=2023-07-02
+[2025-03-21 20:57:43,517] INFO: jnj (6/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 20:57:43,534] INFO: Trying adjusted date: 9/2023 (original: 10/2023)
+[2025-03-21 20:57:43,546] INFO: Found existing row with adjusted date: 9/2023
+[2025-03-21 20:57:43,547] ERROR: Invalid numeric value for original_report_date: 2023-10-01
+[2025-03-21 20:57:43,547] ERROR: jnj (9/2023): Invalid data types: original_report_date=2023-10-01
+[2025-03-21 20:57:43,559] INFO: jnj (9/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 20:57:43,572] ERROR: Invalid numeric value for original_report_date: 2023-12-31
+[2025-03-21 20:57:43,572] ERROR: jnj (12/2023): Invalid data types: original_report_date=2023-12-31
+[2025-03-21 20:57:43,584] INFO: jnj (12/2023): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 20:57:43,597] ERROR: Invalid numeric value for original_report_date: 2024-03-31
+[2025-03-21 20:57:43,597] ERROR: jnj (3/2024): Invalid data types: original_report_date=2024-03-31
+[2025-03-21 20:57:43,609] INFO: jnj (3/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 20:57:43,621] ERROR: Invalid numeric value for original_report_date: 2024-06-30
+[2025-03-21 20:57:43,621] ERROR: jnj (6/2024): Invalid data types: original_report_date=2024-06-30
+[2025-03-21 20:57:43,632] INFO: jnj (6/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 20:57:43,645] ERROR: Invalid numeric value for original_report_date: 2024-09-29
+[2025-03-21 20:57:43,645] ERROR: jnj (9/2024): Invalid data types: original_report_date=2024-09-29
+[2025-03-21 20:57:43,657] INFO: jnj (9/2024): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 20:57:43,670] ERROR: Invalid numeric value for original_report_date: 2024-12-29
+[2025-03-21 20:57:43,670] ERROR: jnj (12/2024): Invalid data types: original_report_date=2024-12-29
+[2025-03-21 20:57:43,682] INFO: jnj (12/2024): Updated existing record with 19 non-zero financial metrics

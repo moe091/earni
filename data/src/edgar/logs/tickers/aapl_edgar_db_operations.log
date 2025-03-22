@@ -1,0 +1,208 @@
+[2025-03-21 20:53:10,425] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-21 20:53:10,437] ERROR: Invalid numeric value for original_report_date: 2010-03-27
+[2025-03-21 20:53:10,437] ERROR: aapl (3/2010): Invalid data types: original_report_date=2010-03-27
+[2025-03-21 20:53:10,437] ERROR: aapl (3/2010): No existing record found(3/2010, 2010-03-27) - creating new one
+[2025-03-21 20:53:10,438] INFO: aapl (3/2010): Created new record with 15 non-zero financial metrics
+[2025-03-21 20:53:10,451] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-21 20:53:10,463] ERROR: Invalid numeric value for original_report_date: 2010-06-26
+[2025-03-21 20:53:10,463] ERROR: aapl (6/2010): Invalid data types: original_report_date=2010-06-26
+[2025-03-21 20:53:10,463] ERROR: aapl (6/2010): No existing record found(6/2010, 2010-06-26) - creating new one
+[2025-03-21 20:53:10,464] INFO: aapl (6/2010): Created new record with 15 non-zero financial metrics
+[2025-03-21 20:53:10,477] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-21 20:53:10,489] ERROR: Invalid numeric value for original_report_date: 2010-09-25
+[2025-03-21 20:53:10,489] ERROR: aapl (9/2010): Invalid data types: original_report_date=2010-09-25
+[2025-03-21 20:53:10,489] ERROR: aapl (9/2010): No existing record found(9/2010, 2010-09-25) - creating new one
+[2025-03-21 20:53:10,490] INFO: aapl (9/2010): Created new record with 18 non-zero financial metrics
+[2025-03-21 20:53:10,503] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-21 20:53:10,515] ERROR: Invalid numeric value for original_report_date: 2010-12-25
+[2025-03-21 20:53:10,516] ERROR: aapl (12/2010): Invalid data types: original_report_date=2010-12-25
+[2025-03-21 20:53:10,516] ERROR: aapl (12/2010): No existing record found(12/2010, 2010-12-25) - creating new one
+[2025-03-21 20:53:10,517] INFO: aapl (12/2010): Created new record with 18 non-zero financial metrics
+[2025-03-21 20:53:10,531] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-21 20:53:10,544] ERROR: Invalid numeric value for original_report_date: 2011-03-26
+[2025-03-21 20:53:10,544] ERROR: aapl (3/2011): Invalid data types: original_report_date=2011-03-26
+[2025-03-21 20:53:10,544] ERROR: aapl (3/2011): No existing record found(3/2011, 2011-03-26) - creating new one
+[2025-03-21 20:53:10,544] INFO: aapl (3/2011): Created new record with 15 non-zero financial metrics
+[2025-03-21 20:53:10,557] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-21 20:53:10,569] ERROR: Invalid numeric value for original_report_date: 2011-06-25
+[2025-03-21 20:53:10,569] ERROR: aapl (6/2011): Invalid data types: original_report_date=2011-06-25
+[2025-03-21 20:53:10,569] ERROR: aapl (6/2011): No existing record found(6/2011, 2011-06-25) - creating new one
+[2025-03-21 20:53:10,570] INFO: aapl (6/2011): Created new record with 15 non-zero financial metrics
+[2025-03-21 20:53:10,583] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-21 20:53:10,595] ERROR: Invalid numeric value for original_report_date: 2011-09-24
+[2025-03-21 20:53:10,595] ERROR: aapl (9/2011): Invalid data types: original_report_date=2011-09-24
+[2025-03-21 20:53:10,595] ERROR: aapl (9/2011): No existing record found(9/2011, 2011-09-24) - creating new one
+[2025-03-21 20:53:10,595] INFO: aapl (9/2011): Created new record with 18 non-zero financial metrics
+[2025-03-21 20:53:10,610] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-21 20:53:10,622] ERROR: Invalid numeric value for original_report_date: 2011-12-31
+[2025-03-21 20:53:10,622] ERROR: aapl (12/2011): Invalid data types: original_report_date=2011-12-31
+[2025-03-21 20:53:10,622] ERROR: aapl (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-21 20:53:10,622] INFO: aapl (12/2011): Created new record with 18 non-zero financial metrics
+[2025-03-21 20:53:10,635] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-21 20:53:10,647] ERROR: Invalid numeric value for original_report_date: 2012-03-31
+[2025-03-21 20:53:10,647] ERROR: aapl (3/2012): Invalid data types: original_report_date=2012-03-31
+[2025-03-21 20:53:10,647] ERROR: aapl (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-21 20:53:10,647] INFO: aapl (3/2012): Created new record with 15 non-zero financial metrics
+[2025-03-21 20:53:10,661] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-21 20:53:10,674] ERROR: Invalid numeric value for original_report_date: 2012-06-30
+[2025-03-21 20:53:10,674] ERROR: aapl (6/2012): Invalid data types: original_report_date=2012-06-30
+[2025-03-21 20:53:10,674] ERROR: aapl (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-21 20:53:10,674] INFO: aapl (6/2012): Created new record with 15 non-zero financial metrics
+[2025-03-21 20:53:10,687] ERROR: Invalid numeric value for original_report_date: 2012-09-29
+[2025-03-21 20:53:10,687] ERROR: aapl (9/2012): Invalid data types: original_report_date=2012-09-29
+[2025-03-21 20:53:10,699] INFO: aapl (9/2012): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:53:10,713] ERROR: Invalid numeric value for original_report_date: 2012-12-29
+[2025-03-21 20:53:10,713] ERROR: aapl (12/2012): Invalid data types: original_report_date=2012-12-29
+[2025-03-21 20:53:10,725] INFO: aapl (12/2012): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 20:53:10,739] ERROR: Invalid numeric value for original_report_date: 2013-03-30
+[2025-03-21 20:53:10,739] ERROR: aapl (3/2013): Invalid data types: original_report_date=2013-03-30
+[2025-03-21 20:53:10,750] INFO: aapl (3/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 20:53:10,765] ERROR: Invalid numeric value for original_report_date: 2013-06-29
+[2025-03-21 20:53:10,765] ERROR: aapl (6/2013): Invalid data types: original_report_date=2013-06-29
+[2025-03-21 20:53:10,777] INFO: aapl (6/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:53:10,790] ERROR: Invalid numeric value for original_report_date: 2013-09-28
+[2025-03-21 20:53:10,790] ERROR: aapl (9/2013): Invalid data types: original_report_date=2013-09-28
+[2025-03-21 20:53:10,802] INFO: aapl (9/2013): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 20:53:10,815] ERROR: Invalid numeric value for original_report_date: 2013-12-28
+[2025-03-21 20:53:10,815] ERROR: aapl (12/2013): Invalid data types: original_report_date=2013-12-28
+[2025-03-21 20:53:10,826] INFO: aapl (12/2013): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 20:53:10,839] ERROR: Invalid numeric value for original_report_date: 2014-03-29
+[2025-03-21 20:53:10,839] ERROR: aapl (3/2014): Invalid data types: original_report_date=2014-03-29
+[2025-03-21 20:53:10,850] INFO: aapl (3/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:53:10,863] ERROR: Invalid numeric value for original_report_date: 2014-06-28
+[2025-03-21 20:53:10,864] ERROR: aapl (6/2014): Invalid data types: original_report_date=2014-06-28
+[2025-03-21 20:53:10,876] INFO: aapl (6/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:53:10,890] ERROR: Invalid numeric value for original_report_date: 2014-09-27
+[2025-03-21 20:53:10,890] ERROR: aapl (9/2014): Invalid data types: original_report_date=2014-09-27
+[2025-03-21 20:53:10,901] INFO: aapl (9/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:53:10,914] ERROR: Invalid numeric value for original_report_date: 2014-12-27
+[2025-03-21 20:53:10,914] ERROR: aapl (12/2014): Invalid data types: original_report_date=2014-12-27
+[2025-03-21 20:53:10,926] INFO: aapl (12/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 20:53:10,939] ERROR: Invalid numeric value for original_report_date: 2015-03-28
+[2025-03-21 20:53:10,939] ERROR: aapl (3/2015): Invalid data types: original_report_date=2015-03-28
+[2025-03-21 20:53:10,950] INFO: aapl (3/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:53:10,963] ERROR: Invalid numeric value for original_report_date: 2015-06-27
+[2025-03-21 20:53:10,963] ERROR: aapl (6/2015): Invalid data types: original_report_date=2015-06-27
+[2025-03-21 20:53:10,975] INFO: aapl (6/2015): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 20:53:10,987] ERROR: Invalid numeric value for original_report_date: 2015-09-26
+[2025-03-21 20:53:10,988] ERROR: aapl (9/2015): Invalid data types: original_report_date=2015-09-26
+[2025-03-21 20:53:10,999] INFO: aapl (9/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:53:11,012] ERROR: Invalid numeric value for original_report_date: 2015-12-26
+[2025-03-21 20:53:11,012] ERROR: aapl (12/2015): Invalid data types: original_report_date=2015-12-26
+[2025-03-21 20:53:11,023] INFO: aapl (12/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:53:11,035] ERROR: Invalid numeric value for original_report_date: 2016-03-26
+[2025-03-21 20:53:11,035] ERROR: aapl (3/2016): Invalid data types: original_report_date=2016-03-26
+[2025-03-21 20:53:11,048] INFO: aapl (3/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 20:53:11,060] ERROR: Invalid numeric value for original_report_date: 2016-06-25
+[2025-03-21 20:53:11,061] ERROR: aapl (6/2016): Invalid data types: original_report_date=2016-06-25
+[2025-03-21 20:53:11,072] INFO: aapl (6/2016): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 20:53:11,085] ERROR: Invalid numeric value for original_report_date: 2016-09-24
+[2025-03-21 20:53:11,085] ERROR: aapl (9/2016): Invalid data types: original_report_date=2016-09-24
+[2025-03-21 20:53:11,097] INFO: aapl (9/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:53:11,113] ERROR: Invalid numeric value for original_report_date: 2016-12-31
+[2025-03-21 20:53:11,113] ERROR: aapl (12/2016): Invalid data types: original_report_date=2016-12-31
+[2025-03-21 20:53:11,127] INFO: aapl (12/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:53:11,142] INFO: Trying adjusted date: 3/2017 (original: 4/2017)
+[2025-03-21 20:53:11,158] INFO: Found existing row with adjusted date: 3/2017
+[2025-03-21 20:53:11,158] ERROR: Invalid numeric value for original_report_date: 2017-04-01
+[2025-03-21 20:53:11,158] ERROR: aapl (3/2017): Invalid data types: original_report_date=2017-04-01
+[2025-03-21 20:53:11,169] INFO: aapl (3/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 20:53:11,182] INFO: Trying adjusted date: 6/2017 (original: 7/2017)
+[2025-03-21 20:53:11,194] INFO: Found existing row with adjusted date: 6/2017
+[2025-03-21 20:53:11,194] ERROR: Invalid numeric value for original_report_date: 2017-07-01
+[2025-03-21 20:53:11,194] ERROR: aapl (6/2017): Invalid data types: original_report_date=2017-07-01
+[2025-03-21 20:53:11,205] INFO: aapl (6/2017): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 20:53:11,218] ERROR: Invalid numeric value for original_report_date: 2017-09-30
+[2025-03-21 20:53:11,218] ERROR: aapl (9/2017): Invalid data types: original_report_date=2017-09-30
+[2025-03-21 20:53:11,230] INFO: aapl (9/2017): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 20:53:11,243] ERROR: Invalid numeric value for original_report_date: 2017-12-30
+[2025-03-21 20:53:11,243] ERROR: aapl (12/2017): Invalid data types: original_report_date=2017-12-30
+[2025-03-21 20:53:11,255] INFO: aapl (12/2017): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 20:53:11,267] ERROR: Invalid numeric value for original_report_date: 2018-03-31
+[2025-03-21 20:53:11,267] ERROR: aapl (3/2018): Invalid data types: original_report_date=2018-03-31
+[2025-03-21 20:53:11,279] INFO: aapl (3/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 20:53:11,292] ERROR: Invalid numeric value for original_report_date: 2018-06-30
+[2025-03-21 20:53:11,292] ERROR: aapl (6/2018): Invalid data types: original_report_date=2018-06-30
+[2025-03-21 20:53:11,304] INFO: aapl (6/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 20:53:11,317] ERROR: Invalid numeric value for original_report_date: 2018-09-29
+[2025-03-21 20:53:11,317] ERROR: aapl (9/2018): Invalid data types: original_report_date=2018-09-29
+[2025-03-21 20:53:11,329] INFO: aapl (9/2018): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 20:53:11,345] ERROR: Invalid numeric value for original_report_date: 2018-12-29
+[2025-03-21 20:53:11,345] ERROR: aapl (12/2018): Invalid data types: original_report_date=2018-12-29
+[2025-03-21 20:53:11,358] INFO: aapl (12/2018): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 20:53:11,370] ERROR: Invalid numeric value for original_report_date: 2019-03-30
+[2025-03-21 20:53:11,370] ERROR: aapl (3/2019): Invalid data types: original_report_date=2019-03-30
+[2025-03-21 20:53:11,382] INFO: aapl (3/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 20:53:11,395] ERROR: Invalid numeric value for original_report_date: 2019-06-29
+[2025-03-21 20:53:11,395] ERROR: aapl (6/2019): Invalid data types: original_report_date=2019-06-29
+[2025-03-21 20:53:11,406] INFO: aapl (6/2019): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 20:53:11,420] ERROR: Invalid numeric value for original_report_date: 2019-09-28
+[2025-03-21 20:53:11,420] ERROR: aapl (9/2019): Invalid data types: original_report_date=2019-09-28
+[2025-03-21 20:53:11,432] INFO: aapl (9/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 20:53:11,444] ERROR: Invalid numeric value for original_report_date: 2019-12-28
+[2025-03-21 20:53:11,445] ERROR: aapl (12/2019): Invalid data types: original_report_date=2019-12-28
+[2025-03-21 20:53:11,456] INFO: aapl (12/2019): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 20:53:11,469] ERROR: Invalid numeric value for original_report_date: 2020-03-28
+[2025-03-21 20:53:11,469] ERROR: aapl (3/2020): Invalid data types: original_report_date=2020-03-28
+[2025-03-21 20:53:11,482] INFO: aapl (3/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 20:53:11,496] ERROR: Invalid numeric value for original_report_date: 2020-06-27
+[2025-03-21 20:53:11,496] ERROR: aapl (6/2020): Invalid data types: original_report_date=2020-06-27
+[2025-03-21 20:53:11,508] INFO: aapl (6/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 20:53:11,522] ERROR: Invalid numeric value for original_report_date: 2020-09-26
+[2025-03-21 20:53:11,522] ERROR: aapl (9/2020): Invalid data types: original_report_date=2020-09-26
+[2025-03-21 20:53:11,534] INFO: aapl (9/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 20:53:11,547] ERROR: Invalid numeric value for original_report_date: 2020-12-26
+[2025-03-21 20:53:11,547] ERROR: aapl (12/2020): Invalid data types: original_report_date=2020-12-26
+[2025-03-21 20:53:11,559] INFO: aapl (12/2020): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 20:53:11,571] ERROR: Invalid numeric value for original_report_date: 2021-03-27
+[2025-03-21 20:53:11,571] ERROR: aapl (3/2021): Invalid data types: original_report_date=2021-03-27
+[2025-03-21 20:53:11,582] INFO: aapl (3/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 20:53:11,595] ERROR: Invalid numeric value for original_report_date: 2021-06-26
+[2025-03-21 20:53:11,596] ERROR: aapl (6/2021): Invalid data types: original_report_date=2021-06-26
+[2025-03-21 20:53:11,608] INFO: aapl (6/2021): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 20:53:11,620] ERROR: Invalid numeric value for original_report_date: 2021-09-25
+[2025-03-21 20:53:11,621] ERROR: aapl (9/2021): Invalid data types: original_report_date=2021-09-25
+[2025-03-21 20:53:11,632] INFO: aapl (9/2021): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 20:53:11,647] ERROR: Invalid numeric value for original_report_date: 2021-12-25
+[2025-03-21 20:53:11,647] ERROR: aapl (12/2021): Invalid data types: original_report_date=2021-12-25
+[2025-03-21 20:53:11,660] INFO: aapl (12/2021): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 20:53:11,672] ERROR: Invalid numeric value for original_report_date: 2022-03-26
+[2025-03-21 20:53:11,673] ERROR: aapl (3/2022): Invalid data types: original_report_date=2022-03-26
+[2025-03-21 20:53:11,685] INFO: aapl (3/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:53:11,698] ERROR: Invalid numeric value for original_report_date: 2022-06-25
+[2025-03-21 20:53:11,698] ERROR: aapl (6/2022): Invalid data types: original_report_date=2022-06-25
+[2025-03-21 20:53:11,711] INFO: aapl (6/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:53:11,724] ERROR: Invalid numeric value for original_report_date: 2022-09-24
+[2025-03-21 20:53:11,724] ERROR: aapl (9/2022): Invalid data types: original_report_date=2022-09-24
+[2025-03-21 20:53:11,737] INFO: aapl (9/2022): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 20:53:11,750] ERROR: Invalid numeric value for original_report_date: 2022-12-31
+[2025-03-21 20:53:11,751] ERROR: aapl (12/2022): Invalid data types: original_report_date=2022-12-31
+[2025-03-21 20:53:11,762] INFO: aapl (12/2022): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 20:53:11,775] INFO: Trying adjusted date: 3/2023 (original: 4/2023)
+[2025-03-21 20:53:11,787] INFO: Found existing row with adjusted date: 3/2023
+[2025-03-21 20:53:11,788] ERROR: Invalid numeric value for original_report_date: 2023-04-01
+[2025-03-21 20:53:11,788] ERROR: aapl (3/2023): Invalid data types: original_report_date=2023-04-01
+[2025-03-21 20:53:11,800] INFO: aapl (3/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:53:11,818] INFO: Trying adjusted date: 6/2023 (original: 7/2023)
+[2025-03-21 20:53:11,829] INFO: Found existing row with adjusted date: 6/2023
+[2025-03-21 20:53:11,829] ERROR: Invalid numeric value for original_report_date: 2023-07-01
+[2025-03-21 20:53:11,829] ERROR: aapl (6/2023): Invalid data types: original_report_date=2023-07-01
+[2025-03-21 20:53:11,840] INFO: aapl (6/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:53:11,853] ERROR: Invalid numeric value for original_report_date: 2023-09-30
+[2025-03-21 20:53:11,853] ERROR: aapl (9/2023): Invalid data types: original_report_date=2023-09-30
+[2025-03-21 20:53:11,865] INFO: aapl (9/2023): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 20:53:11,878] ERROR: Invalid numeric value for original_report_date: 2023-12-30
+[2025-03-21 20:53:11,878] ERROR: aapl (12/2023): Invalid data types: original_report_date=2023-12-30
+[2025-03-21 20:53:11,889] INFO: aapl (12/2023): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 20:53:11,901] ERROR: Invalid numeric value for original_report_date: 2024-03-30
+[2025-03-21 20:53:11,901] ERROR: aapl (3/2024): Invalid data types: original_report_date=2024-03-30
+[2025-03-21 20:53:11,913] INFO: aapl (3/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 20:53:11,925] ERROR: Invalid numeric value for original_report_date: 2024-06-29
+[2025-03-21 20:53:11,925] ERROR: aapl (6/2024): Invalid data types: original_report_date=2024-06-29
+[2025-03-21 20:53:11,937] INFO: aapl (6/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 20:53:11,951] ERROR: Invalid numeric value for original_report_date: 2024-09-28
+[2025-03-21 20:53:11,951] ERROR: aapl (9/2024): Invalid data types: original_report_date=2024-09-28
+[2025-03-21 20:53:11,963] INFO: aapl (9/2024): Updated existing record with 21 non-zero financial metrics
+[2025-03-21 20:53:11,976] ERROR: Invalid numeric value for original_report_date: 2024-12-28
+[2025-03-21 20:53:11,976] ERROR: aapl (12/2024): Invalid data types: original_report_date=2024-12-28
+[2025-03-21 20:53:11,988] INFO: aapl (12/2024): Updated existing record with 21 non-zero financial metrics

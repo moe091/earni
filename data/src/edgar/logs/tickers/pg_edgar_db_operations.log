@@ -1,0 +1,200 @@
+[2025-03-21 21:12:00,722] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-21 21:12:00,734] ERROR: Invalid numeric value for original_report_date: 2010-03-31
+[2025-03-21 21:12:00,734] ERROR: pg (3/2010): Invalid data types: original_report_date=2010-03-31
+[2025-03-21 21:12:00,734] ERROR: pg (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-21 21:12:00,734] INFO: pg (3/2010): Created new record with 13 non-zero financial metrics
+[2025-03-21 21:12:00,749] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-21 21:12:00,760] ERROR: Invalid numeric value for original_report_date: 2010-06-30
+[2025-03-21 21:12:00,760] ERROR: pg (6/2010): Invalid data types: original_report_date=2010-06-30
+[2025-03-21 21:12:00,760] ERROR: pg (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-21 21:12:00,761] INFO: pg (6/2010): Created new record with 18 non-zero financial metrics
+[2025-03-21 21:12:00,773] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-21 21:12:00,785] ERROR: Invalid numeric value for original_report_date: 2010-09-30
+[2025-03-21 21:12:00,785] ERROR: pg (9/2010): Invalid data types: original_report_date=2010-09-30
+[2025-03-21 21:12:00,785] ERROR: pg (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-21 21:12:00,785] INFO: pg (9/2010): Created new record with 18 non-zero financial metrics
+[2025-03-21 21:12:00,798] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-21 21:12:00,809] ERROR: Invalid numeric value for original_report_date: 2010-12-31
+[2025-03-21 21:12:00,809] ERROR: pg (12/2010): Invalid data types: original_report_date=2010-12-31
+[2025-03-21 21:12:00,809] ERROR: pg (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-21 21:12:00,810] INFO: pg (12/2010): Created new record with 13 non-zero financial metrics
+[2025-03-21 21:12:00,822] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-21 21:12:00,834] ERROR: Invalid numeric value for original_report_date: 2011-03-31
+[2025-03-21 21:12:00,834] ERROR: pg (3/2011): Invalid data types: original_report_date=2011-03-31
+[2025-03-21 21:12:00,834] ERROR: pg (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-21 21:12:00,835] INFO: pg (3/2011): Created new record with 13 non-zero financial metrics
+[2025-03-21 21:12:00,848] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-21 21:12:00,860] ERROR: Invalid numeric value for original_report_date: 2011-06-30
+[2025-03-21 21:12:00,860] ERROR: pg (6/2011): Invalid data types: original_report_date=2011-06-30
+[2025-03-21 21:12:00,860] ERROR: pg (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-21 21:12:00,860] INFO: pg (6/2011): Created new record with 18 non-zero financial metrics
+[2025-03-21 21:12:00,873] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-21 21:12:00,884] ERROR: Invalid numeric value for original_report_date: 2011-09-30
+[2025-03-21 21:12:00,884] ERROR: pg (9/2011): Invalid data types: original_report_date=2011-09-30
+[2025-03-21 21:12:00,884] ERROR: pg (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-21 21:12:00,885] INFO: pg (9/2011): Created new record with 18 non-zero financial metrics
+[2025-03-21 21:12:00,898] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-21 21:12:00,909] ERROR: Invalid numeric value for original_report_date: 2011-12-31
+[2025-03-21 21:12:00,909] ERROR: pg (12/2011): Invalid data types: original_report_date=2011-12-31
+[2025-03-21 21:12:00,910] ERROR: pg (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-21 21:12:00,910] INFO: pg (12/2011): Created new record with 13 non-zero financial metrics
+[2025-03-21 21:12:00,923] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-21 21:12:00,934] ERROR: Invalid numeric value for original_report_date: 2012-03-31
+[2025-03-21 21:12:00,934] ERROR: pg (3/2012): Invalid data types: original_report_date=2012-03-31
+[2025-03-21 21:12:00,934] ERROR: pg (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-21 21:12:00,935] INFO: pg (3/2012): Created new record with 13 non-zero financial metrics
+[2025-03-21 21:12:00,948] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-21 21:12:00,960] ERROR: Invalid numeric value for original_report_date: 2012-06-30
+[2025-03-21 21:12:00,960] ERROR: pg (6/2012): Invalid data types: original_report_date=2012-06-30
+[2025-03-21 21:12:00,960] ERROR: pg (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-21 21:12:00,961] INFO: pg (6/2012): Created new record with 19 non-zero financial metrics
+[2025-03-21 21:12:00,974] ERROR: Invalid numeric value for original_report_date: 2012-09-30
+[2025-03-21 21:12:00,974] ERROR: pg (9/2012): Invalid data types: original_report_date=2012-09-30
+[2025-03-21 21:12:00,986] INFO: pg (9/2012): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:12:01,000] ERROR: Invalid numeric value for original_report_date: 2012-12-31
+[2025-03-21 21:12:01,001] ERROR: pg (12/2012): Invalid data types: original_report_date=2012-12-31
+[2025-03-21 21:12:01,012] INFO: pg (12/2012): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:12:01,025] ERROR: Invalid numeric value for original_report_date: 2013-03-31
+[2025-03-21 21:12:01,025] ERROR: pg (3/2013): Invalid data types: original_report_date=2013-03-31
+[2025-03-21 21:12:01,037] INFO: pg (3/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:12:01,050] ERROR: Invalid numeric value for original_report_date: 2013-06-30
+[2025-03-21 21:12:01,050] ERROR: pg (6/2013): Invalid data types: original_report_date=2013-06-30
+[2025-03-21 21:12:01,061] INFO: pg (6/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 21:12:01,073] ERROR: Invalid numeric value for original_report_date: 2013-09-30
+[2025-03-21 21:12:01,073] ERROR: pg (9/2013): Invalid data types: original_report_date=2013-09-30
+[2025-03-21 21:12:01,085] INFO: pg (9/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:12:01,097] ERROR: Invalid numeric value for original_report_date: 2013-12-31
+[2025-03-21 21:12:01,098] ERROR: pg (12/2013): Invalid data types: original_report_date=2013-12-31
+[2025-03-21 21:12:01,109] INFO: pg (12/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:12:01,122] ERROR: Invalid numeric value for original_report_date: 2014-03-31
+[2025-03-21 21:12:01,122] ERROR: pg (3/2014): Invalid data types: original_report_date=2014-03-31
+[2025-03-21 21:12:01,133] INFO: pg (3/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:12:01,145] ERROR: Invalid numeric value for original_report_date: 2014-06-30
+[2025-03-21 21:12:01,145] ERROR: pg (6/2014): Invalid data types: original_report_date=2014-06-30
+[2025-03-21 21:12:01,156] INFO: pg (6/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 21:12:01,169] ERROR: Invalid numeric value for original_report_date: 2014-09-30
+[2025-03-21 21:12:01,169] ERROR: pg (9/2014): Invalid data types: original_report_date=2014-09-30
+[2025-03-21 21:12:01,180] INFO: pg (9/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:12:01,192] ERROR: Invalid numeric value for original_report_date: 2014-12-31
+[2025-03-21 21:12:01,192] ERROR: pg (12/2014): Invalid data types: original_report_date=2014-12-31
+[2025-03-21 21:12:01,203] INFO: pg (12/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:12:01,216] ERROR: Invalid numeric value for original_report_date: 2015-03-31
+[2025-03-21 21:12:01,216] ERROR: pg (3/2015): Invalid data types: original_report_date=2015-03-31
+[2025-03-21 21:12:01,228] INFO: pg (3/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:12:01,241] ERROR: Invalid numeric value for original_report_date: 2015-06-30
+[2025-03-21 21:12:01,241] ERROR: pg (6/2015): Invalid data types: original_report_date=2015-06-30
+[2025-03-21 21:12:01,252] INFO: pg (6/2015): Updated existing record with 20 non-zero financial metrics
+[2025-03-21 21:12:01,264] ERROR: Invalid numeric value for original_report_date: 2015-09-30
+[2025-03-21 21:12:01,265] ERROR: pg (9/2015): Invalid data types: original_report_date=2015-09-30
+[2025-03-21 21:12:01,276] INFO: pg (9/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:12:01,288] ERROR: Invalid numeric value for original_report_date: 2015-12-31
+[2025-03-21 21:12:01,288] ERROR: pg (12/2015): Invalid data types: original_report_date=2015-12-31
+[2025-03-21 21:12:01,299] INFO: pg (12/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:12:01,312] ERROR: Invalid numeric value for original_report_date: 2016-03-31
+[2025-03-21 21:12:01,312] ERROR: pg (3/2016): Invalid data types: original_report_date=2016-03-31
+[2025-03-21 21:12:01,322] INFO: pg (3/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:12:01,334] ERROR: Invalid numeric value for original_report_date: 2016-06-30
+[2025-03-21 21:12:01,334] ERROR: pg (6/2016): Invalid data types: original_report_date=2016-06-30
+[2025-03-21 21:12:01,345] INFO: pg (6/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 21:12:01,358] ERROR: Invalid numeric value for original_report_date: 2016-09-30
+[2025-03-21 21:12:01,358] ERROR: pg (9/2016): Invalid data types: original_report_date=2016-09-30
+[2025-03-21 21:12:01,369] INFO: pg (9/2016): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:12:01,381] ERROR: Invalid numeric value for original_report_date: 2016-12-31
+[2025-03-21 21:12:01,381] ERROR: pg (12/2016): Invalid data types: original_report_date=2016-12-31
+[2025-03-21 21:12:01,392] INFO: pg (12/2016): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:12:01,405] ERROR: Invalid numeric value for original_report_date: 2017-03-31
+[2025-03-21 21:12:01,405] ERROR: pg (3/2017): Invalid data types: original_report_date=2017-03-31
+[2025-03-21 21:12:01,416] INFO: pg (3/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:12:01,429] ERROR: Invalid numeric value for original_report_date: 2017-06-30
+[2025-03-21 21:12:01,429] ERROR: pg (6/2017): Invalid data types: original_report_date=2017-06-30
+[2025-03-21 21:12:01,440] INFO: pg (6/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 21:12:01,452] ERROR: Invalid numeric value for original_report_date: 2017-09-30
+[2025-03-21 21:12:01,452] ERROR: pg (9/2017): Invalid data types: original_report_date=2017-09-30
+[2025-03-21 21:12:01,464] INFO: pg (9/2017): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:12:01,476] ERROR: Invalid numeric value for original_report_date: 2017-12-31
+[2025-03-21 21:12:01,476] ERROR: pg (12/2017): Invalid data types: original_report_date=2017-12-31
+[2025-03-21 21:12:01,488] INFO: pg (12/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:12:01,501] ERROR: Invalid numeric value for original_report_date: 2018-03-31
+[2025-03-21 21:12:01,501] ERROR: pg (3/2018): Invalid data types: original_report_date=2018-03-31
+[2025-03-21 21:12:01,512] INFO: pg (3/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:12:01,524] ERROR: Invalid numeric value for original_report_date: 2018-06-30
+[2025-03-21 21:12:01,525] ERROR: pg (6/2018): Invalid data types: original_report_date=2018-06-30
+[2025-03-21 21:12:01,536] INFO: pg (6/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 21:12:01,548] ERROR: Invalid numeric value for original_report_date: 2018-09-30
+[2025-03-21 21:12:01,548] ERROR: pg (9/2018): Invalid data types: original_report_date=2018-09-30
+[2025-03-21 21:12:01,560] INFO: pg (9/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:12:01,572] ERROR: Invalid numeric value for original_report_date: 2018-12-31
+[2025-03-21 21:12:01,572] ERROR: pg (12/2018): Invalid data types: original_report_date=2018-12-31
+[2025-03-21 21:12:01,583] INFO: pg (12/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:12:01,595] ERROR: Invalid numeric value for original_report_date: 2019-03-31
+[2025-03-21 21:12:01,595] ERROR: pg (3/2019): Invalid data types: original_report_date=2019-03-31
+[2025-03-21 21:12:01,607] INFO: pg (3/2019): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:12:01,618] ERROR: Invalid numeric value for original_report_date: 2019-06-30
+[2025-03-21 21:12:01,619] ERROR: pg (6/2019): Invalid data types: original_report_date=2019-06-30
+[2025-03-21 21:12:01,630] INFO: pg (6/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 21:12:01,644] ERROR: Invalid numeric value for original_report_date: 2019-09-30
+[2025-03-21 21:12:01,645] ERROR: pg (9/2019): Invalid data types: original_report_date=2019-09-30
+[2025-03-21 21:12:01,656] INFO: pg (9/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:12:01,669] ERROR: Invalid numeric value for original_report_date: 2019-12-31
+[2025-03-21 21:12:01,669] ERROR: pg (12/2019): Invalid data types: original_report_date=2019-12-31
+[2025-03-21 21:12:01,680] INFO: pg (12/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:12:01,692] ERROR: Invalid numeric value for original_report_date: 2020-03-31
+[2025-03-21 21:12:01,693] ERROR: pg (3/2020): Invalid data types: original_report_date=2020-03-31
+[2025-03-21 21:12:01,704] INFO: pg (3/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:12:01,716] ERROR: Invalid numeric value for original_report_date: 2020-06-30
+[2025-03-21 21:12:01,716] ERROR: pg (6/2020): Invalid data types: original_report_date=2020-06-30
+[2025-03-21 21:12:01,727] INFO: pg (6/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:12:01,740] ERROR: Invalid numeric value for original_report_date: 2020-09-30
+[2025-03-21 21:12:01,740] ERROR: pg (9/2020): Invalid data types: original_report_date=2020-09-30
+[2025-03-21 21:12:01,751] INFO: pg (9/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:12:01,763] ERROR: Invalid numeric value for original_report_date: 2020-12-31
+[2025-03-21 21:12:01,763] ERROR: pg (12/2020): Invalid data types: original_report_date=2020-12-31
+[2025-03-21 21:12:01,775] INFO: pg (12/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:12:01,787] ERROR: Invalid numeric value for original_report_date: 2021-03-31
+[2025-03-21 21:12:01,788] ERROR: pg (3/2021): Invalid data types: original_report_date=2021-03-31
+[2025-03-21 21:12:01,799] INFO: pg (3/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:12:01,811] ERROR: Invalid numeric value for original_report_date: 2021-06-30
+[2025-03-21 21:12:01,812] ERROR: pg (6/2021): Invalid data types: original_report_date=2021-06-30
+[2025-03-21 21:12:01,823] INFO: pg (6/2021): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:12:01,837] ERROR: Invalid numeric value for original_report_date: 2021-09-30
+[2025-03-21 21:12:01,837] ERROR: pg (9/2021): Invalid data types: original_report_date=2021-09-30
+[2025-03-21 21:12:01,848] INFO: pg (9/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:12:01,861] ERROR: Invalid numeric value for original_report_date: 2021-12-31
+[2025-03-21 21:12:01,861] ERROR: pg (12/2021): Invalid data types: original_report_date=2021-12-31
+[2025-03-21 21:12:01,872] INFO: pg (12/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:12:01,884] ERROR: Invalid numeric value for original_report_date: 2022-03-31
+[2025-03-21 21:12:01,884] ERROR: pg (3/2022): Invalid data types: original_report_date=2022-03-31
+[2025-03-21 21:12:01,896] INFO: pg (3/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:12:01,908] ERROR: Invalid numeric value for original_report_date: 2022-06-30
+[2025-03-21 21:12:01,908] ERROR: pg (6/2022): Invalid data types: original_report_date=2022-06-30
+[2025-03-21 21:12:01,919] INFO: pg (6/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:12:01,930] ERROR: Invalid numeric value for original_report_date: 2022-09-30
+[2025-03-21 21:12:01,930] ERROR: pg (9/2022): Invalid data types: original_report_date=2022-09-30
+[2025-03-21 21:12:01,942] INFO: pg (9/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:12:01,954] ERROR: Invalid numeric value for original_report_date: 2022-12-31
+[2025-03-21 21:12:01,954] ERROR: pg (12/2022): Invalid data types: original_report_date=2022-12-31
+[2025-03-21 21:12:01,965] INFO: pg (12/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:12:01,977] ERROR: Invalid numeric value for original_report_date: 2023-03-31
+[2025-03-21 21:12:01,977] ERROR: pg (3/2023): Invalid data types: original_report_date=2023-03-31
+[2025-03-21 21:12:01,989] INFO: pg (3/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:12:02,003] ERROR: Invalid numeric value for original_report_date: 2023-06-30
+[2025-03-21 21:12:02,004] ERROR: pg (6/2023): Invalid data types: original_report_date=2023-06-30
+[2025-03-21 21:12:02,015] INFO: pg (6/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:12:02,029] ERROR: Invalid numeric value for original_report_date: 2023-09-30
+[2025-03-21 21:12:02,029] ERROR: pg (9/2023): Invalid data types: original_report_date=2023-09-30
+[2025-03-21 21:12:02,041] INFO: pg (9/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:12:02,056] ERROR: Invalid numeric value for original_report_date: 2023-12-31
+[2025-03-21 21:12:02,056] ERROR: pg (12/2023): Invalid data types: original_report_date=2023-12-31
+[2025-03-21 21:12:02,070] INFO: pg (12/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:12:02,089] ERROR: Invalid numeric value for original_report_date: 2024-03-31
+[2025-03-21 21:12:02,089] ERROR: pg (3/2024): Invalid data types: original_report_date=2024-03-31
+[2025-03-21 21:12:02,100] INFO: pg (3/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:12:02,115] ERROR: Invalid numeric value for original_report_date: 2024-06-30
+[2025-03-21 21:12:02,115] ERROR: pg (6/2024): Invalid data types: original_report_date=2024-06-30
+[2025-03-21 21:12:02,127] INFO: pg (6/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:12:02,139] ERROR: Invalid numeric value for original_report_date: 2024-09-30
+[2025-03-21 21:12:02,139] ERROR: pg (9/2024): Invalid data types: original_report_date=2024-09-30
+[2025-03-21 21:12:02,151] INFO: pg (9/2024): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 21:12:02,163] ERROR: Invalid numeric value for original_report_date: 2024-12-31
+[2025-03-21 21:12:02,163] ERROR: pg (12/2024): Invalid data types: original_report_date=2024-12-31
+[2025-03-21 21:12:02,174] INFO: pg (12/2024): Updated existing record with 11 non-zero financial metrics

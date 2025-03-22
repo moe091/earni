@@ -12,6 +12,43 @@ import os
 from decimal import Decimal, InvalidOperation
 from datetime import datetime
 
+columns = [
+    "Revenue",
+    "Gross Profit",
+    "Share Repurchases",
+    "Capital Expenditures",
+    "Current Liabilities",
+    "Inventory",
+    "Accounts Receivable",
+    "Net Income",
+    "EPS Diluted",
+    "COGS",
+    "OperatingIncomeLoss",
+    "Total Assets",
+    "Total Liabilities",
+    "Stockholders Equity",
+    "Long Term Debt",
+    "Cash and Cash Equivalents",
+    "Goodwill",
+    "Deposits",
+    "Loans Held for Sale",
+    "Net Loans",
+    "Loan Loss Reserves",
+    "CET1 Capital Ratio",
+    "Non-Interest Income",
+    "R&D Expense",
+    "G&A Expense",
+    "Sales & Marketing Expense",
+    "Operating Cash Flow",
+    "Financing Cash Flow",
+    "Deferred Revenue",
+    "Capitalized Contract Costs",
+    "Investing Cash Flow",
+    "Interest Expense",
+    "Filing Type",
+    "report_date"
+]
+
 current_dir = Path(__file__).resolve().parent
 pwpath = (current_dir / ".."  / ".." / ".." / "db" / "dbpassword").resolve()
 
@@ -67,7 +104,7 @@ def close_conn():
         conn.close()
         conn = None
 
-def update_financial_data(ticker, report_date, financial_data):
+def update_financial_data(ticker, report_date, original_report_date, financial_data):
     """
     Create or update a row in the earnings_reports table with financial data from EDGAR.
     
@@ -115,6 +152,47 @@ def update_financial_data(ticker, report_date, financial_data):
             (ticker, report_date)
         )
         existing_row = cursor.fetchone()
+
+        if not existing_row and original_report_date:
+            try:
+                # Parse the original date
+                original_date = datetime.strptime(original_report_date, "%Y-%m-%d")
+                day = original_date.day
+                
+                # Adjust month based on day value
+                if day <= 15:
+                    # Go back one month
+                    if original_date.month == 1:
+                        adjusted_date = datetime(original_date.year - 1, 12, 1)
+                    else:
+                        adjusted_date = datetime(original_date.year, original_date.month - 1, 1)
+                else:
+                    # Go forward one month
+                    if original_date.month == 12:
+                        adjusted_date = datetime(original_date.year + 1, 1, 1)
+                    else:
+                        adjusted_date = datetime(original_date.year, original_date.month + 1, 1)
+                
+                # Format the adjusted date to MM/YYYY with no leading zeros
+                adjusted_report_date = f"{adjusted_date.month}/{adjusted_date.year}"
+                
+                ticker_logger.info(f"Trying adjusted date: {adjusted_report_date} (original: {report_date})")
+                
+                # Check if a row exists with the adjusted report_date
+                cursor.execute(
+                    "SELECT report_id FROM earnings_reports WHERE ticker = %s AND period_end = %s",
+                    (ticker, adjusted_report_date)
+                )
+                adjusted_existing_row = cursor.fetchone()
+                
+                if adjusted_existing_row:
+                    existing_row = adjusted_existing_row
+                    report_date = adjusted_report_date
+                    ticker_logger.info(f"Found existing row with adjusted date: {report_date}")
+            except (ValueError, TypeError) as e:
+                ticker_logger.warning(f"Could not adjust date: {original_report_date}: {str(e)}")
+
+
         
         # Validate data types and count non-zero fields for logging and consistency
         validated_data = {}
@@ -128,7 +206,7 @@ def update_financial_data(ticker, report_date, financial_data):
                 continue
             
             # For numeric fields, validate and convert
-            if field != "Filing Type":
+            if field != "Filing Type" and field != "original_report_date" and field != "Report Date":
                 try:
                     # Convert to Decimal for numeric validation
                     decimal_value = Decimal(str(value))
@@ -146,6 +224,8 @@ def update_financial_data(ticker, report_date, financial_data):
             else:
                 # For Filing Type (string field)
                 validated_data[field] = value
+                if not existing_row:
+                    validated_data['date'] = original_report_date
         
         # Log warnings for zero values
         if zero_fields:
@@ -161,6 +241,8 @@ def update_financial_data(ticker, report_date, financial_data):
         values = []
         
         for field, value in validated_data.items():
+            if field not in columns:
+                continue
             placeholders.append(f'"{field}" = %s')
             values.append(value)
             
@@ -175,6 +257,7 @@ def update_financial_data(ticker, report_date, financial_data):
                 cursor.execute(update_sql, values + [ticker, report_date])
                 ticker_logger.info(f"{ticker} ({report_date}): Updated existing record with {non_zero_count} non-zero financial metrics")
         else:
+            ticker_logger.error(f"{ticker} ({report_date}): No existing record found({report_date}, {original_report_date}) - creating new one")
             # Create new row
             fields = ['ticker', 'period_end'] + [f'"{field}"' for field in validated_data.keys()]
             placeholders = ['%s', '%s'] + ['%s'] * len(validated_data)

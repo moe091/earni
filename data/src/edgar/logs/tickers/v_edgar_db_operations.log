@@ -1,0 +1,200 @@
+[2025-03-21 21:04:23,691] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-21 21:04:23,702] ERROR: Invalid numeric value for original_report_date: 2010-03-31
+[2025-03-21 21:04:23,702] ERROR: v (3/2010): Invalid data types: original_report_date=2010-03-31
+[2025-03-21 21:04:23,702] ERROR: v (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-21 21:04:23,703] INFO: v (3/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 21:04:23,717] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-21 21:04:23,729] ERROR: Invalid numeric value for original_report_date: 2010-06-30
+[2025-03-21 21:04:23,729] ERROR: v (6/2010): Invalid data types: original_report_date=2010-06-30
+[2025-03-21 21:04:23,729] ERROR: v (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-21 21:04:23,729] INFO: v (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 21:04:23,742] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-21 21:04:23,753] ERROR: Invalid numeric value for original_report_date: 2010-09-30
+[2025-03-21 21:04:23,754] ERROR: v (9/2010): Invalid data types: original_report_date=2010-09-30
+[2025-03-21 21:04:23,754] ERROR: v (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-21 21:04:23,754] INFO: v (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 21:04:23,767] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-21 21:04:23,779] ERROR: Invalid numeric value for original_report_date: 2010-12-31
+[2025-03-21 21:04:23,779] ERROR: v (12/2010): Invalid data types: original_report_date=2010-12-31
+[2025-03-21 21:04:23,779] ERROR: v (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-21 21:04:23,779] INFO: v (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 21:04:23,792] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-21 21:04:23,804] ERROR: Invalid numeric value for original_report_date: 2011-03-31
+[2025-03-21 21:04:23,805] ERROR: v (3/2011): Invalid data types: original_report_date=2011-03-31
+[2025-03-21 21:04:23,805] ERROR: v (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-21 21:04:23,805] INFO: v (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-21 21:04:23,820] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-21 21:04:23,831] ERROR: Invalid numeric value for original_report_date: 2011-06-30
+[2025-03-21 21:04:23,831] ERROR: v (6/2011): Invalid data types: original_report_date=2011-06-30
+[2025-03-21 21:04:23,831] ERROR: v (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-21 21:04:23,832] INFO: v (6/2011): Created new record with 11 non-zero financial metrics
+[2025-03-21 21:04:23,844] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-21 21:04:23,856] ERROR: Invalid numeric value for original_report_date: 2011-09-30
+[2025-03-21 21:04:23,856] ERROR: v (9/2011): Invalid data types: original_report_date=2011-09-30
+[2025-03-21 21:04:23,856] ERROR: v (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-21 21:04:23,856] INFO: v (9/2011): Created new record with 16 non-zero financial metrics
+[2025-03-21 21:04:23,868] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-21 21:04:23,880] ERROR: Invalid numeric value for original_report_date: 2011-12-31
+[2025-03-21 21:04:23,880] ERROR: v (12/2011): Invalid data types: original_report_date=2011-12-31
+[2025-03-21 21:04:23,880] ERROR: v (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-21 21:04:23,880] INFO: v (12/2011): Created new record with 14 non-zero financial metrics
+[2025-03-21 21:04:23,893] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-21 21:04:23,905] ERROR: Invalid numeric value for original_report_date: 2012-03-31
+[2025-03-21 21:04:23,905] ERROR: v (3/2012): Invalid data types: original_report_date=2012-03-31
+[2025-03-21 21:04:23,905] ERROR: v (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-21 21:04:23,905] INFO: v (3/2012): Created new record with 10 non-zero financial metrics
+[2025-03-21 21:04:23,917] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-21 21:04:23,929] ERROR: Invalid numeric value for original_report_date: 2012-06-30
+[2025-03-21 21:04:23,929] ERROR: v (6/2012): Invalid data types: original_report_date=2012-06-30
+[2025-03-21 21:04:23,929] ERROR: v (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-21 21:04:23,930] INFO: v (6/2012): Created new record with 10 non-zero financial metrics
+[2025-03-21 21:04:23,942] ERROR: Invalid numeric value for original_report_date: 2012-09-30
+[2025-03-21 21:04:23,942] ERROR: v (9/2012): Invalid data types: original_report_date=2012-09-30
+[2025-03-21 21:04:23,954] INFO: v (9/2012): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 21:04:23,966] ERROR: Invalid numeric value for original_report_date: 2012-12-31
+[2025-03-21 21:04:23,966] ERROR: v (12/2012): Invalid data types: original_report_date=2012-12-31
+[2025-03-21 21:04:23,978] INFO: v (12/2012): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 21:04:23,991] ERROR: Invalid numeric value for original_report_date: 2013-03-31
+[2025-03-21 21:04:23,991] ERROR: v (3/2013): Invalid data types: original_report_date=2013-03-31
+[2025-03-21 21:04:24,002] INFO: v (3/2013): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 21:04:24,015] ERROR: Invalid numeric value for original_report_date: 2013-06-30
+[2025-03-21 21:04:24,015] ERROR: v (6/2013): Invalid data types: original_report_date=2013-06-30
+[2025-03-21 21:04:24,027] INFO: v (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-21 21:04:24,039] ERROR: Invalid numeric value for original_report_date: 2013-09-30
+[2025-03-21 21:04:24,039] ERROR: v (9/2013): Invalid data types: original_report_date=2013-09-30
+[2025-03-21 21:04:24,051] INFO: v (9/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 21:04:24,063] ERROR: Invalid numeric value for original_report_date: 2013-12-31
+[2025-03-21 21:04:24,064] ERROR: v (12/2013): Invalid data types: original_report_date=2013-12-31
+[2025-03-21 21:04:24,075] INFO: v (12/2013): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 21:04:24,088] ERROR: Invalid numeric value for original_report_date: 2014-03-31
+[2025-03-21 21:04:24,088] ERROR: v (3/2014): Invalid data types: original_report_date=2014-03-31
+[2025-03-21 21:04:24,100] INFO: v (3/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 21:04:24,112] ERROR: Invalid numeric value for original_report_date: 2014-06-30
+[2025-03-21 21:04:24,112] ERROR: v (6/2014): Invalid data types: original_report_date=2014-06-30
+[2025-03-21 21:04:24,124] INFO: v (6/2014): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 21:04:24,136] ERROR: Invalid numeric value for original_report_date: 2014-09-30
+[2025-03-21 21:04:24,136] ERROR: v (9/2014): Invalid data types: original_report_date=2014-09-30
+[2025-03-21 21:04:24,148] INFO: v (9/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 21:04:24,160] ERROR: Invalid numeric value for original_report_date: 2014-12-31
+[2025-03-21 21:04:24,160] ERROR: v (12/2014): Invalid data types: original_report_date=2014-12-31
+[2025-03-21 21:04:24,172] INFO: v (12/2014): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 21:04:24,184] ERROR: Invalid numeric value for original_report_date: 2015-03-31
+[2025-03-21 21:04:24,184] ERROR: v (3/2015): Invalid data types: original_report_date=2015-03-31
+[2025-03-21 21:04:24,195] INFO: v (3/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 21:04:24,207] ERROR: Invalid numeric value for original_report_date: 2015-06-30
+[2025-03-21 21:04:24,208] ERROR: v (6/2015): Invalid data types: original_report_date=2015-06-30
+[2025-03-21 21:04:24,218] INFO: v (6/2015): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 21:04:24,232] ERROR: Invalid numeric value for original_report_date: 2015-09-30
+[2025-03-21 21:04:24,232] ERROR: v (9/2015): Invalid data types: original_report_date=2015-09-30
+[2025-03-21 21:04:24,244] INFO: v (9/2015): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 21:04:24,256] ERROR: Invalid numeric value for original_report_date: 2015-12-31
+[2025-03-21 21:04:24,256] ERROR: v (12/2015): Invalid data types: original_report_date=2015-12-31
+[2025-03-21 21:04:24,267] INFO: v (12/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:04:24,280] ERROR: Invalid numeric value for original_report_date: 2016-03-31
+[2025-03-21 21:04:24,280] ERROR: v (3/2016): Invalid data types: original_report_date=2016-03-31
+[2025-03-21 21:04:24,291] INFO: v (3/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:04:24,305] ERROR: Invalid numeric value for original_report_date: 2016-06-30
+[2025-03-21 21:04:24,305] ERROR: v (6/2016): Invalid data types: original_report_date=2016-06-30
+[2025-03-21 21:04:24,316] INFO: v (6/2016): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 21:04:24,328] ERROR: Invalid numeric value for original_report_date: 2016-09-30
+[2025-03-21 21:04:24,329] ERROR: v (9/2016): Invalid data types: original_report_date=2016-09-30
+[2025-03-21 21:04:24,339] INFO: v (9/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 21:04:24,352] ERROR: Invalid numeric value for original_report_date: 2016-12-31
+[2025-03-21 21:04:24,352] ERROR: v (12/2016): Invalid data types: original_report_date=2016-12-31
+[2025-03-21 21:04:24,363] INFO: v (12/2016): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 21:04:24,375] ERROR: Invalid numeric value for original_report_date: 2017-03-31
+[2025-03-21 21:04:24,376] ERROR: v (3/2017): Invalid data types: original_report_date=2017-03-31
+[2025-03-21 21:04:24,386] INFO: v (3/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 21:04:24,398] ERROR: Invalid numeric value for original_report_date: 2017-06-30
+[2025-03-21 21:04:24,398] ERROR: v (6/2017): Invalid data types: original_report_date=2017-06-30
+[2025-03-21 21:04:24,410] INFO: v (6/2017): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 21:04:24,422] ERROR: Invalid numeric value for original_report_date: 2017-09-30
+[2025-03-21 21:04:24,422] ERROR: v (9/2017): Invalid data types: original_report_date=2017-09-30
+[2025-03-21 21:04:24,433] INFO: v (9/2017): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 21:04:24,446] ERROR: Invalid numeric value for original_report_date: 2017-12-31
+[2025-03-21 21:04:24,446] ERROR: v (12/2017): Invalid data types: original_report_date=2017-12-31
+[2025-03-21 21:04:24,457] INFO: v (12/2017): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:04:24,469] ERROR: Invalid numeric value for original_report_date: 2018-03-31
+[2025-03-21 21:04:24,469] ERROR: v (3/2018): Invalid data types: original_report_date=2018-03-31
+[2025-03-21 21:04:24,481] INFO: v (3/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 21:04:24,493] ERROR: Invalid numeric value for original_report_date: 2018-06-30
+[2025-03-21 21:04:24,493] ERROR: v (6/2018): Invalid data types: original_report_date=2018-06-30
+[2025-03-21 21:04:24,504] INFO: v (6/2018): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 21:04:24,516] ERROR: Invalid numeric value for original_report_date: 2018-09-30
+[2025-03-21 21:04:24,516] ERROR: v (9/2018): Invalid data types: original_report_date=2018-09-30
+[2025-03-21 21:04:24,527] INFO: v (9/2018): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 21:04:24,540] ERROR: Invalid numeric value for original_report_date: 2018-12-31
+[2025-03-21 21:04:24,540] ERROR: v (12/2018): Invalid data types: original_report_date=2018-12-31
+[2025-03-21 21:04:24,551] INFO: v (12/2018): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 21:04:24,563] ERROR: Invalid numeric value for original_report_date: 2019-03-31
+[2025-03-21 21:04:24,563] ERROR: v (3/2019): Invalid data types: original_report_date=2019-03-31
+[2025-03-21 21:04:24,574] INFO: v (3/2019): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 21:04:24,587] ERROR: Invalid numeric value for original_report_date: 2019-06-30
+[2025-03-21 21:04:24,587] ERROR: v (6/2019): Invalid data types: original_report_date=2019-06-30
+[2025-03-21 21:04:24,598] INFO: v (6/2019): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 21:04:24,610] ERROR: Invalid numeric value for original_report_date: 2019-09-30
+[2025-03-21 21:04:24,611] ERROR: v (9/2019): Invalid data types: original_report_date=2019-09-30
+[2025-03-21 21:04:24,622] INFO: v (9/2019): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 21:04:24,635] ERROR: Invalid numeric value for original_report_date: 2019-12-31
+[2025-03-21 21:04:24,635] ERROR: v (12/2019): Invalid data types: original_report_date=2019-12-31
+[2025-03-21 21:04:24,646] INFO: v (12/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 21:04:24,658] ERROR: Invalid numeric value for original_report_date: 2020-03-31
+[2025-03-21 21:04:24,658] ERROR: v (3/2020): Invalid data types: original_report_date=2020-03-31
+[2025-03-21 21:04:24,670] INFO: v (3/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 21:04:24,682] ERROR: Invalid numeric value for original_report_date: 2020-06-30
+[2025-03-21 21:04:24,683] ERROR: v (6/2020): Invalid data types: original_report_date=2020-06-30
+[2025-03-21 21:04:24,694] INFO: v (6/2020): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 21:04:24,706] ERROR: Invalid numeric value for original_report_date: 2020-09-30
+[2025-03-21 21:04:24,706] ERROR: v (9/2020): Invalid data types: original_report_date=2020-09-30
+[2025-03-21 21:04:24,719] INFO: v (9/2020): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 21:04:24,731] ERROR: Invalid numeric value for original_report_date: 2020-12-31
+[2025-03-21 21:04:24,732] ERROR: v (12/2020): Invalid data types: original_report_date=2020-12-31
+[2025-03-21 21:04:24,743] INFO: v (12/2020): Updated existing record with 16 non-zero financial metrics
+[2025-03-21 21:04:24,755] ERROR: Invalid numeric value for original_report_date: 2021-03-31
+[2025-03-21 21:04:24,755] ERROR: v (3/2021): Invalid data types: original_report_date=2021-03-31
+[2025-03-21 21:04:24,767] INFO: v (3/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 21:04:24,783] ERROR: Invalid numeric value for original_report_date: 2021-06-30
+[2025-03-21 21:04:24,783] ERROR: v (6/2021): Invalid data types: original_report_date=2021-06-30
+[2025-03-21 21:04:24,794] INFO: v (6/2021): Updated existing record with 11 non-zero financial metrics
+[2025-03-21 21:04:24,812] ERROR: Invalid numeric value for original_report_date: 2021-09-30
+[2025-03-21 21:04:24,812] ERROR: v (9/2021): Invalid data types: original_report_date=2021-09-30
+[2025-03-21 21:04:24,826] INFO: v (9/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 21:04:24,844] ERROR: Invalid numeric value for original_report_date: 2021-12-31
+[2025-03-21 21:04:24,844] ERROR: v (12/2021): Invalid data types: original_report_date=2021-12-31
+[2025-03-21 21:04:24,857] INFO: v (12/2021): Updated existing record with 15 non-zero financial metrics
+[2025-03-21 21:04:24,869] ERROR: Invalid numeric value for original_report_date: 2022-03-31
+[2025-03-21 21:04:24,869] ERROR: v (3/2022): Invalid data types: original_report_date=2022-03-31
+[2025-03-21 21:04:24,880] INFO: v (3/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 21:04:24,895] ERROR: Invalid numeric value for original_report_date: 2022-06-30
+[2025-03-21 21:04:24,896] ERROR: v (6/2022): Invalid data types: original_report_date=2022-06-30
+[2025-03-21 21:04:24,907] INFO: v (6/2022): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 21:04:24,919] ERROR: Invalid numeric value for original_report_date: 2022-09-30
+[2025-03-21 21:04:24,919] ERROR: v (9/2022): Invalid data types: original_report_date=2022-09-30
+[2025-03-21 21:04:24,930] INFO: v (9/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 21:04:24,942] ERROR: Invalid numeric value for original_report_date: 2022-12-31
+[2025-03-21 21:04:24,943] ERROR: v (12/2022): Invalid data types: original_report_date=2022-12-31
+[2025-03-21 21:04:24,954] INFO: v (12/2022): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 21:04:24,967] ERROR: Invalid numeric value for original_report_date: 2023-03-31
+[2025-03-21 21:04:24,967] ERROR: v (3/2023): Invalid data types: original_report_date=2023-03-31
+[2025-03-21 21:04:24,978] INFO: v (3/2023): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 21:04:24,991] ERROR: Invalid numeric value for original_report_date: 2023-06-30
+[2025-03-21 21:04:24,991] ERROR: v (6/2023): Invalid data types: original_report_date=2023-06-30
+[2025-03-21 21:04:25,001] INFO: v (6/2023): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 21:04:25,014] ERROR: Invalid numeric value for original_report_date: 2023-09-30
+[2025-03-21 21:04:25,014] ERROR: v (9/2023): Invalid data types: original_report_date=2023-09-30
+[2025-03-21 21:04:25,025] INFO: v (9/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 21:04:25,038] ERROR: Invalid numeric value for original_report_date: 2023-12-31
+[2025-03-21 21:04:25,038] ERROR: v (12/2023): Invalid data types: original_report_date=2023-12-31
+[2025-03-21 21:04:25,050] INFO: v (12/2023): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 21:04:25,062] ERROR: Invalid numeric value for original_report_date: 2024-03-31
+[2025-03-21 21:04:25,062] ERROR: v (3/2024): Invalid data types: original_report_date=2024-03-31
+[2025-03-21 21:04:25,073] INFO: v (3/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 21:04:25,086] ERROR: Invalid numeric value for original_report_date: 2024-06-30
+[2025-03-21 21:04:25,086] ERROR: v (6/2024): Invalid data types: original_report_date=2024-06-30
+[2025-03-21 21:04:25,097] INFO: v (6/2024): Updated existing record with 10 non-zero financial metrics
+[2025-03-21 21:04:25,110] ERROR: Invalid numeric value for original_report_date: 2024-09-30
+[2025-03-21 21:04:25,110] ERROR: v (9/2024): Invalid data types: original_report_date=2024-09-30
+[2025-03-21 21:04:25,121] INFO: v (9/2024): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 21:04:25,133] ERROR: Invalid numeric value for original_report_date: 2024-12-31
+[2025-03-21 21:04:25,133] ERROR: v (12/2024): Invalid data types: original_report_date=2024-12-31
+[2025-03-21 21:04:25,145] INFO: v (12/2024): Updated existing record with 14 non-zero financial metrics

@@ -1,15 +1,3 @@
-aapl
- msft
- unh
- jnj
- v
- tsm
- xom
- wmt
- jpm
- pg
- nvda
- ma
  cvx
  tsla
  lly

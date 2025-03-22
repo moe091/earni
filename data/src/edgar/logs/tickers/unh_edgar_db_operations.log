@@ -1,0 +1,200 @@
+[2025-03-21 20:56:10,054] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-21 20:56:10,065] ERROR: Invalid numeric value for original_report_date: 2010-03-31
+[2025-03-21 20:56:10,065] ERROR: unh (3/2010): Invalid data types: original_report_date=2010-03-31
+[2025-03-21 20:56:10,065] ERROR: unh (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-21 20:56:10,066] INFO: unh (3/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 20:56:10,091] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-21 20:56:10,102] ERROR: Invalid numeric value for original_report_date: 2010-06-30
+[2025-03-21 20:56:10,102] ERROR: unh (6/2010): Invalid data types: original_report_date=2010-06-30
+[2025-03-21 20:56:10,102] ERROR: unh (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-21 20:56:10,103] INFO: unh (6/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 20:56:10,115] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-21 20:56:10,127] ERROR: Invalid numeric value for original_report_date: 2010-09-30
+[2025-03-21 20:56:10,127] ERROR: unh (9/2010): Invalid data types: original_report_date=2010-09-30
+[2025-03-21 20:56:10,127] ERROR: unh (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-21 20:56:10,127] INFO: unh (9/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 20:56:10,140] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-21 20:56:10,151] ERROR: Invalid numeric value for original_report_date: 2010-12-31
+[2025-03-21 20:56:10,151] ERROR: unh (12/2010): Invalid data types: original_report_date=2010-12-31
+[2025-03-21 20:56:10,151] ERROR: unh (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-21 20:56:10,152] INFO: unh (12/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 20:56:10,164] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-21 20:56:10,176] ERROR: Invalid numeric value for original_report_date: 2011-03-31
+[2025-03-21 20:56:10,176] ERROR: unh (3/2011): Invalid data types: original_report_date=2011-03-31
+[2025-03-21 20:56:10,176] ERROR: unh (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-21 20:56:10,177] INFO: unh (3/2011): Created new record with 0 non-zero financial metrics
+[2025-03-21 20:56:10,189] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-21 20:56:10,201] ERROR: Invalid numeric value for original_report_date: 2011-06-30
+[2025-03-21 20:56:10,201] ERROR: unh (6/2011): Invalid data types: original_report_date=2011-06-30
+[2025-03-21 20:56:10,201] ERROR: unh (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-21 20:56:10,201] INFO: unh (6/2011): Created new record with 13 non-zero financial metrics
+[2025-03-21 20:56:10,214] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-21 20:56:10,226] ERROR: Invalid numeric value for original_report_date: 2011-09-30
+[2025-03-21 20:56:10,226] ERROR: unh (9/2011): Invalid data types: original_report_date=2011-09-30
+[2025-03-21 20:56:10,226] ERROR: unh (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-21 20:56:10,227] INFO: unh (9/2011): Created new record with 13 non-zero financial metrics
+[2025-03-21 20:56:10,239] INFO: Trying adjusted date: 1/2012 (original: 12/2011)
+[2025-03-21 20:56:10,251] ERROR: Invalid numeric value for original_report_date: 2011-12-31
+[2025-03-21 20:56:10,251] ERROR: unh (12/2011): Invalid data types: original_report_date=2011-12-31
+[2025-03-21 20:56:10,251] ERROR: unh (12/2011): No existing record found(12/2011, 2011-12-31) - creating new one
+[2025-03-21 20:56:10,252] INFO: unh (12/2011): Created new record with 18 non-zero financial metrics
+[2025-03-21 20:56:10,265] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-21 20:56:10,276] ERROR: Invalid numeric value for original_report_date: 2012-03-31
+[2025-03-21 20:56:10,276] ERROR: unh (3/2012): Invalid data types: original_report_date=2012-03-31
+[2025-03-21 20:56:10,276] ERROR: unh (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-21 20:56:10,277] INFO: unh (3/2012): Created new record with 18 non-zero financial metrics
+[2025-03-21 20:56:10,289] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-21 20:56:10,301] ERROR: Invalid numeric value for original_report_date: 2012-06-30
+[2025-03-21 20:56:10,301] ERROR: unh (6/2012): Invalid data types: original_report_date=2012-06-30
+[2025-03-21 20:56:10,301] ERROR: unh (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-21 20:56:10,301] INFO: unh (6/2012): Created new record with 13 non-zero financial metrics
+[2025-03-21 20:56:10,314] ERROR: Invalid numeric value for original_report_date: 2012-09-30
+[2025-03-21 20:56:10,314] ERROR: unh (9/2012): Invalid data types: original_report_date=2012-09-30
+[2025-03-21 20:56:10,326] INFO: unh (9/2012): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 20:56:10,340] ERROR: Invalid numeric value for original_report_date: 2012-12-31
+[2025-03-21 20:56:10,340] ERROR: unh (12/2012): Invalid data types: original_report_date=2012-12-31
+[2025-03-21 20:56:10,352] INFO: unh (12/2012): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:56:10,364] ERROR: Invalid numeric value for original_report_date: 2013-03-31
+[2025-03-21 20:56:10,365] ERROR: unh (3/2013): Invalid data types: original_report_date=2013-03-31
+[2025-03-21 20:56:10,376] INFO: unh (3/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:56:10,389] ERROR: Invalid numeric value for original_report_date: 2013-06-30
+[2025-03-21 20:56:10,389] ERROR: unh (6/2013): Invalid data types: original_report_date=2013-06-30
+[2025-03-21 20:56:10,401] INFO: unh (6/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-21 20:56:10,413] ERROR: Invalid numeric value for original_report_date: 2013-09-30
+[2025-03-21 20:56:10,414] ERROR: unh (9/2013): Invalid data types: original_report_date=2013-09-30
+[2025-03-21 20:56:10,425] INFO: unh (9/2013): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 20:56:10,437] ERROR: Invalid numeric value for original_report_date: 2013-12-31
+[2025-03-21 20:56:10,437] ERROR: unh (12/2013): Invalid data types: original_report_date=2013-12-31
+[2025-03-21 20:56:10,449] INFO: unh (12/2013): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:56:10,462] ERROR: Invalid numeric value for original_report_date: 2014-03-31
+[2025-03-21 20:56:10,462] ERROR: unh (3/2014): Invalid data types: original_report_date=2014-03-31
+[2025-03-21 20:56:10,474] INFO: unh (3/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:56:10,487] ERROR: Invalid numeric value for original_report_date: 2014-06-30
+[2025-03-21 20:56:10,487] ERROR: unh (6/2014): Invalid data types: original_report_date=2014-06-30
+[2025-03-21 20:56:10,498] INFO: unh (6/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 20:56:10,510] ERROR: Invalid numeric value for original_report_date: 2014-09-30
+[2025-03-21 20:56:10,510] ERROR: unh (9/2014): Invalid data types: original_report_date=2014-09-30
+[2025-03-21 20:56:10,522] INFO: unh (9/2014): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 20:56:10,535] ERROR: Invalid numeric value for original_report_date: 2014-12-31
+[2025-03-21 20:56:10,535] ERROR: unh (12/2014): Invalid data types: original_report_date=2014-12-31
+[2025-03-21 20:56:10,546] INFO: unh (12/2014): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:56:10,559] ERROR: Invalid numeric value for original_report_date: 2015-03-31
+[2025-03-21 20:56:10,560] ERROR: unh (3/2015): Invalid data types: original_report_date=2015-03-31
+[2025-03-21 20:56:10,571] INFO: unh (3/2015): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:56:10,584] ERROR: Invalid numeric value for original_report_date: 2015-06-30
+[2025-03-21 20:56:10,584] ERROR: unh (6/2015): Invalid data types: original_report_date=2015-06-30
+[2025-03-21 20:56:10,596] INFO: unh (6/2015): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 20:56:10,608] ERROR: Invalid numeric value for original_report_date: 2015-09-30
+[2025-03-21 20:56:10,609] ERROR: unh (9/2015): Invalid data types: original_report_date=2015-09-30
+[2025-03-21 20:56:10,620] INFO: unh (9/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:56:10,634] ERROR: Invalid numeric value for original_report_date: 2015-12-31
+[2025-03-21 20:56:10,634] ERROR: unh (12/2015): Invalid data types: original_report_date=2015-12-31
+[2025-03-21 20:56:10,646] INFO: unh (12/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:56:10,659] ERROR: Invalid numeric value for original_report_date: 2016-03-31
+[2025-03-21 20:56:10,660] ERROR: unh (3/2016): Invalid data types: original_report_date=2016-03-31
+[2025-03-21 20:56:10,672] INFO: unh (3/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:56:10,684] ERROR: Invalid numeric value for original_report_date: 2016-06-30
+[2025-03-21 20:56:10,685] ERROR: unh (6/2016): Invalid data types: original_report_date=2016-06-30
+[2025-03-21 20:56:10,696] INFO: unh (6/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:56:10,709] ERROR: Invalid numeric value for original_report_date: 2016-09-30
+[2025-03-21 20:56:10,709] ERROR: unh (9/2016): Invalid data types: original_report_date=2016-09-30
+[2025-03-21 20:56:10,721] INFO: unh (9/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:56:10,734] ERROR: Invalid numeric value for original_report_date: 2016-12-31
+[2025-03-21 20:56:10,734] ERROR: unh (12/2016): Invalid data types: original_report_date=2016-12-31
+[2025-03-21 20:56:10,746] INFO: unh (12/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:56:10,759] ERROR: Invalid numeric value for original_report_date: 2017-03-31
+[2025-03-21 20:56:10,759] ERROR: unh (3/2017): Invalid data types: original_report_date=2017-03-31
+[2025-03-21 20:56:10,771] INFO: unh (3/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:56:10,783] ERROR: Invalid numeric value for original_report_date: 2017-06-30
+[2025-03-21 20:56:10,783] ERROR: unh (6/2017): Invalid data types: original_report_date=2017-06-30
+[2025-03-21 20:56:10,795] INFO: unh (6/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:56:10,807] ERROR: Invalid numeric value for original_report_date: 2017-09-30
+[2025-03-21 20:56:10,807] ERROR: unh (9/2017): Invalid data types: original_report_date=2017-09-30
+[2025-03-21 20:56:10,819] INFO: unh (9/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:56:10,832] ERROR: Invalid numeric value for original_report_date: 2017-12-31
+[2025-03-21 20:56:10,832] ERROR: unh (12/2017): Invalid data types: original_report_date=2017-12-31
+[2025-03-21 20:56:10,843] INFO: unh (12/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:56:10,856] ERROR: Invalid numeric value for original_report_date: 2018-03-31
+[2025-03-21 20:56:10,856] ERROR: unh (3/2018): Invalid data types: original_report_date=2018-03-31
+[2025-03-21 20:56:10,868] INFO: unh (3/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:56:10,880] ERROR: Invalid numeric value for original_report_date: 2018-06-30
+[2025-03-21 20:56:10,880] ERROR: unh (6/2018): Invalid data types: original_report_date=2018-06-30
+[2025-03-21 20:56:10,892] INFO: unh (6/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:56:10,905] ERROR: Invalid numeric value for original_report_date: 2018-09-30
+[2025-03-21 20:56:10,905] ERROR: unh (9/2018): Invalid data types: original_report_date=2018-09-30
+[2025-03-21 20:56:10,917] INFO: unh (9/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:56:10,930] ERROR: Invalid numeric value for original_report_date: 2018-12-31
+[2025-03-21 20:56:10,930] ERROR: unh (12/2018): Invalid data types: original_report_date=2018-12-31
+[2025-03-21 20:56:10,941] INFO: unh (12/2018): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:56:10,954] ERROR: Invalid numeric value for original_report_date: 2019-03-31
+[2025-03-21 20:56:10,954] ERROR: unh (3/2019): Invalid data types: original_report_date=2019-03-31
+[2025-03-21 20:56:10,965] INFO: unh (3/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:56:10,978] ERROR: Invalid numeric value for original_report_date: 2019-06-30
+[2025-03-21 20:56:10,978] ERROR: unh (6/2019): Invalid data types: original_report_date=2019-06-30
+[2025-03-21 20:56:10,990] INFO: unh (6/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:56:11,003] ERROR: Invalid numeric value for original_report_date: 2019-09-30
+[2025-03-21 20:56:11,003] ERROR: unh (9/2019): Invalid data types: original_report_date=2019-09-30
+[2025-03-21 20:56:11,014] INFO: unh (9/2019): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:56:11,027] ERROR: Invalid numeric value for original_report_date: 2019-12-31
+[2025-03-21 20:56:11,028] ERROR: unh (12/2019): Invalid data types: original_report_date=2019-12-31
+[2025-03-21 20:56:11,039] INFO: unh (12/2019): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:56:11,053] ERROR: Invalid numeric value for original_report_date: 2020-03-31
+[2025-03-21 20:56:11,053] ERROR: unh (3/2020): Invalid data types: original_report_date=2020-03-31
+[2025-03-21 20:56:11,066] INFO: unh (3/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:56:11,079] ERROR: Invalid numeric value for original_report_date: 2020-06-30
+[2025-03-21 20:56:11,079] ERROR: unh (6/2020): Invalid data types: original_report_date=2020-06-30
+[2025-03-21 20:56:11,091] INFO: unh (6/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:56:11,104] ERROR: Invalid numeric value for original_report_date: 2020-09-30
+[2025-03-21 20:56:11,104] ERROR: unh (9/2020): Invalid data types: original_report_date=2020-09-30
+[2025-03-21 20:56:11,116] INFO: unh (9/2020): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:56:11,128] ERROR: Invalid numeric value for original_report_date: 2020-12-31
+[2025-03-21 20:56:11,128] ERROR: unh (12/2020): Invalid data types: original_report_date=2020-12-31
+[2025-03-21 20:56:11,140] INFO: unh (12/2020): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:56:11,153] ERROR: Invalid numeric value for original_report_date: 2021-03-31
+[2025-03-21 20:56:11,153] ERROR: unh (3/2021): Invalid data types: original_report_date=2021-03-31
+[2025-03-21 20:56:11,165] INFO: unh (3/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:56:11,178] ERROR: Invalid numeric value for original_report_date: 2021-06-30
+[2025-03-21 20:56:11,178] ERROR: unh (6/2021): Invalid data types: original_report_date=2021-06-30
+[2025-03-21 20:56:11,192] INFO: unh (6/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:56:11,206] ERROR: Invalid numeric value for original_report_date: 2021-09-30
+[2025-03-21 20:56:11,206] ERROR: unh (9/2021): Invalid data types: original_report_date=2021-09-30
+[2025-03-21 20:56:11,218] INFO: unh (9/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:56:11,231] ERROR: Invalid numeric value for original_report_date: 2021-12-31
+[2025-03-21 20:56:11,231] ERROR: unh (12/2021): Invalid data types: original_report_date=2021-12-31
+[2025-03-21 20:56:11,242] INFO: unh (12/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:56:11,257] ERROR: Invalid numeric value for original_report_date: 2022-03-31
+[2025-03-21 20:56:11,257] ERROR: unh (3/2022): Invalid data types: original_report_date=2022-03-31
+[2025-03-21 20:56:11,268] INFO: unh (3/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:56:11,281] ERROR: Invalid numeric value for original_report_date: 2022-06-30
+[2025-03-21 20:56:11,282] ERROR: unh (6/2022): Invalid data types: original_report_date=2022-06-30
+[2025-03-21 20:56:11,293] INFO: unh (6/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:56:11,308] ERROR: Invalid numeric value for original_report_date: 2022-09-30
+[2025-03-21 20:56:11,308] ERROR: unh (9/2022): Invalid data types: original_report_date=2022-09-30
+[2025-03-21 20:56:11,320] INFO: unh (9/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:56:11,332] ERROR: Invalid numeric value for original_report_date: 2022-12-31
+[2025-03-21 20:56:11,332] ERROR: unh (12/2022): Invalid data types: original_report_date=2022-12-31
+[2025-03-21 20:56:11,344] INFO: unh (12/2022): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:56:11,358] ERROR: Invalid numeric value for original_report_date: 2023-03-31
+[2025-03-21 20:56:11,358] ERROR: unh (3/2023): Invalid data types: original_report_date=2023-03-31
+[2025-03-21 20:56:11,370] INFO: unh (3/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:56:11,382] ERROR: Invalid numeric value for original_report_date: 2023-06-30
+[2025-03-21 20:56:11,383] ERROR: unh (6/2023): Invalid data types: original_report_date=2023-06-30
+[2025-03-21 20:56:11,394] INFO: unh (6/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:56:11,407] ERROR: Invalid numeric value for original_report_date: 2023-09-30
+[2025-03-21 20:56:11,408] ERROR: unh (9/2023): Invalid data types: original_report_date=2023-09-30
+[2025-03-21 20:56:11,419] INFO: unh (9/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:56:11,432] ERROR: Invalid numeric value for original_report_date: 2023-12-31
+[2025-03-21 20:56:11,433] ERROR: unh (12/2023): Invalid data types: original_report_date=2023-12-31
+[2025-03-21 20:56:11,444] INFO: unh (12/2023): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 20:56:11,457] ERROR: Invalid numeric value for original_report_date: 2024-03-31
+[2025-03-21 20:56:11,457] ERROR: unh (3/2024): Invalid data types: original_report_date=2024-03-31
+[2025-03-21 20:56:11,469] INFO: unh (3/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 20:56:11,481] ERROR: Invalid numeric value for original_report_date: 2024-06-30
+[2025-03-21 20:56:11,481] ERROR: unh (6/2024): Invalid data types: original_report_date=2024-06-30
+[2025-03-21 20:56:11,492] INFO: unh (6/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:56:11,506] ERROR: Invalid numeric value for original_report_date: 2024-09-30
+[2025-03-21 20:56:11,506] ERROR: unh (9/2024): Invalid data types: original_report_date=2024-09-30
+[2025-03-21 20:56:11,518] INFO: unh (9/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 20:56:11,530] ERROR: Invalid numeric value for original_report_date: 2024-12-31
+[2025-03-21 20:56:11,530] ERROR: unh (12/2024): Invalid data types: original_report_date=2024-12-31
+[2025-03-21 20:56:11,542] INFO: unh (12/2024): Updated existing record with 18 non-zero financial metrics

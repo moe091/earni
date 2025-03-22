@@ -1,0 +1,207 @@
+[2025-03-21 21:06:51,104] INFO: Trying adjusted date: 2/2010 (original: 1/2010)
+[2025-03-21 21:06:51,116] ERROR: Invalid numeric value for original_report_date: 2010-01-31
+[2025-03-21 21:06:51,116] ERROR: wmt (1/2010): Invalid data types: original_report_date=2010-01-31
+[2025-03-21 21:06:51,116] ERROR: wmt (1/2010): No existing record found(1/2010, 2010-01-31) - creating new one
+[2025-03-21 21:06:51,116] INFO: wmt (1/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 21:06:51,131] INFO: Trying adjusted date: 5/2010 (original: 4/2010)
+[2025-03-21 21:06:51,143] ERROR: Invalid numeric value for original_report_date: 2010-04-30
+[2025-03-21 21:06:51,143] ERROR: wmt (4/2010): Invalid data types: original_report_date=2010-04-30
+[2025-03-21 21:06:51,143] ERROR: wmt (4/2010): No existing record found(4/2010, 2010-04-30) - creating new one
+[2025-03-21 21:06:51,143] INFO: wmt (4/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 21:06:51,155] INFO: Trying adjusted date: 8/2010 (original: 7/2010)
+[2025-03-21 21:06:51,166] ERROR: Invalid numeric value for original_report_date: 2010-07-31
+[2025-03-21 21:06:51,166] ERROR: wmt (7/2010): Invalid data types: original_report_date=2010-07-31
+[2025-03-21 21:06:51,166] ERROR: wmt (7/2010): No existing record found(7/2010, 2010-07-31) - creating new one
+[2025-03-21 21:06:51,166] INFO: wmt (7/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 21:06:51,179] INFO: Trying adjusted date: 11/2010 (original: 10/2010)
+[2025-03-21 21:06:51,192] ERROR: Invalid numeric value for original_report_date: 2010-10-31
+[2025-03-21 21:06:51,192] ERROR: wmt (10/2010): Invalid data types: original_report_date=2010-10-31
+[2025-03-21 21:06:51,192] ERROR: wmt (10/2010): No existing record found(10/2010, 2010-10-31) - creating new one
+[2025-03-21 21:06:51,192] INFO: wmt (10/2010): Created new record with 0 non-zero financial metrics
+[2025-03-21 21:06:51,205] INFO: Trying adjusted date: 2/2011 (original: 1/2011)
+[2025-03-21 21:06:51,216] ERROR: Invalid numeric value for original_report_date: 2011-01-31
+[2025-03-21 21:06:51,216] ERROR: wmt (1/2011): Invalid data types: original_report_date=2011-01-31
+[2025-03-21 21:06:51,217] ERROR: wmt (1/2011): No existing record found(1/2011, 2011-01-31) - creating new one
+[2025-03-21 21:06:51,217] INFO: wmt (1/2011): Created new record with 0 non-zero financial metrics
+[2025-03-21 21:06:51,229] INFO: Trying adjusted date: 5/2011 (original: 4/2011)
+[2025-03-21 21:06:51,240] ERROR: Invalid numeric value for original_report_date: 2011-04-30
+[2025-03-21 21:06:51,240] ERROR: wmt (4/2011): Invalid data types: original_report_date=2011-04-30
+[2025-03-21 21:06:51,240] ERROR: wmt (4/2011): No existing record found(4/2011, 2011-04-30) - creating new one
+[2025-03-21 21:06:51,241] INFO: wmt (4/2011): Created new record with 20 non-zero financial metrics
+[2025-03-21 21:06:51,254] INFO: Trying adjusted date: 8/2011 (original: 7/2011)
+[2025-03-21 21:06:51,265] ERROR: Invalid numeric value for original_report_date: 2011-07-31
+[2025-03-21 21:06:51,265] ERROR: wmt (7/2011): Invalid data types: original_report_date=2011-07-31
+[2025-03-21 21:06:51,265] ERROR: wmt (7/2011): No existing record found(7/2011, 2011-07-31) - creating new one
+[2025-03-21 21:06:51,265] INFO: wmt (7/2011): Created new record with 15 non-zero financial metrics
+[2025-03-21 21:06:51,278] INFO: Trying adjusted date: 11/2011 (original: 10/2011)
+[2025-03-21 21:06:51,290] ERROR: Invalid numeric value for original_report_date: 2011-10-31
+[2025-03-21 21:06:51,290] ERROR: wmt (10/2011): Invalid data types: original_report_date=2011-10-31
+[2025-03-21 21:06:51,290] ERROR: wmt (10/2011): No existing record found(10/2011, 2011-10-31) - creating new one
+[2025-03-21 21:06:51,291] INFO: wmt (10/2011): Created new record with 15 non-zero financial metrics
+[2025-03-21 21:06:51,303] INFO: Trying adjusted date: 2/2012 (original: 1/2012)
+[2025-03-21 21:06:51,314] ERROR: Invalid numeric value for original_report_date: 2012-01-31
+[2025-03-21 21:06:51,314] ERROR: wmt (1/2012): Invalid data types: original_report_date=2012-01-31
+[2025-03-21 21:06:51,314] ERROR: wmt (1/2012): No existing record found(1/2012, 2012-01-31) - creating new one
+[2025-03-21 21:06:51,315] INFO: wmt (1/2012): Created new record with 19 non-zero financial metrics
+[2025-03-21 21:06:51,328] INFO: Trying adjusted date: 5/2012 (original: 4/2012)
+[2025-03-21 21:06:51,339] ERROR: Invalid numeric value for original_report_date: 2012-04-30
+[2025-03-21 21:06:51,340] ERROR: wmt (4/2012): Invalid data types: original_report_date=2012-04-30
+[2025-03-21 21:06:51,340] ERROR: wmt (4/2012): No existing record found(4/2012, 2012-04-30) - creating new one
+[2025-03-21 21:06:51,340] INFO: wmt (4/2012): Created new record with 17 non-zero financial metrics
+[2025-03-21 21:06:51,352] INFO: Trying adjusted date: 8/2012 (original: 7/2012)
+[2025-03-21 21:06:51,364] ERROR: Invalid numeric value for original_report_date: 2012-07-31
+[2025-03-21 21:06:51,364] ERROR: wmt (7/2012): Invalid data types: original_report_date=2012-07-31
+[2025-03-21 21:06:51,365] ERROR: wmt (7/2012): No existing record found(7/2012, 2012-07-31) - creating new one
+[2025-03-21 21:06:51,365] INFO: wmt (7/2012): Created new record with 12 non-zero financial metrics
+[2025-03-21 21:06:51,378] ERROR: Invalid numeric value for original_report_date: 2012-10-31
+[2025-03-21 21:06:51,378] ERROR: wmt (10/2012): Invalid data types: original_report_date=2012-10-31
+[2025-03-21 21:06:51,390] INFO: wmt (10/2012): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:06:51,403] ERROR: Invalid numeric value for original_report_date: 2013-01-31
+[2025-03-21 21:06:51,403] ERROR: wmt (1/2013): Invalid data types: original_report_date=2013-01-31
+[2025-03-21 21:06:51,414] INFO: wmt (1/2013): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 21:06:51,428] ERROR: Invalid numeric value for original_report_date: 2013-04-30
+[2025-03-21 21:06:51,428] ERROR: wmt (4/2013): Invalid data types: original_report_date=2013-04-30
+[2025-03-21 21:06:51,439] INFO: wmt (4/2013): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:06:51,452] ERROR: Invalid numeric value for original_report_date: 2013-07-31
+[2025-03-21 21:06:51,452] ERROR: wmt (7/2013): Invalid data types: original_report_date=2013-07-31
+[2025-03-21 21:06:51,464] INFO: wmt (7/2013): Updated existing record with 0 non-zero financial metrics
+[2025-03-21 21:06:51,478] ERROR: Invalid numeric value for original_report_date: 2013-10-31
+[2025-03-21 21:06:51,479] ERROR: wmt (10/2013): Invalid data types: original_report_date=2013-10-31
+[2025-03-21 21:06:51,490] INFO: wmt (10/2013): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:06:51,503] ERROR: Invalid numeric value for original_report_date: 2014-01-31
+[2025-03-21 21:06:51,503] ERROR: wmt (1/2014): Invalid data types: original_report_date=2014-01-31
+[2025-03-21 21:06:51,514] INFO: wmt (1/2014): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 21:06:51,527] ERROR: Invalid numeric value for original_report_date: 2014-04-30
+[2025-03-21 21:06:51,527] ERROR: wmt (4/2014): Invalid data types: original_report_date=2014-04-30
+[2025-03-21 21:06:51,539] INFO: wmt (4/2014): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:06:51,552] ERROR: Invalid numeric value for original_report_date: 2014-07-31
+[2025-03-21 21:06:51,552] ERROR: wmt (7/2014): Invalid data types: original_report_date=2014-07-31
+[2025-03-21 21:06:51,564] INFO: wmt (7/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:06:51,576] ERROR: Invalid numeric value for original_report_date: 2014-10-31
+[2025-03-21 21:06:51,576] ERROR: wmt (10/2014): Invalid data types: original_report_date=2014-10-31
+[2025-03-21 21:06:51,587] INFO: wmt (10/2014): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:06:51,600] ERROR: Invalid numeric value for original_report_date: 2015-01-31
+[2025-03-21 21:06:51,600] ERROR: wmt (1/2015): Invalid data types: original_report_date=2015-01-31
+[2025-03-21 21:06:51,612] INFO: wmt (1/2015): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 21:06:51,624] ERROR: Invalid numeric value for original_report_date: 2015-04-30
+[2025-03-21 21:06:51,624] ERROR: wmt (4/2015): Invalid data types: original_report_date=2015-04-30
+[2025-03-21 21:06:51,636] INFO: wmt (4/2015): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:06:51,649] ERROR: Invalid numeric value for original_report_date: 2015-07-31
+[2025-03-21 21:06:51,649] ERROR: wmt (7/2015): Invalid data types: original_report_date=2015-07-31
+[2025-03-21 21:06:51,661] INFO: wmt (7/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:06:51,673] ERROR: Invalid numeric value for original_report_date: 2015-10-31
+[2025-03-21 21:06:51,673] ERROR: wmt (10/2015): Invalid data types: original_report_date=2015-10-31
+[2025-03-21 21:06:51,685] INFO: wmt (10/2015): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:06:51,697] ERROR: Invalid numeric value for original_report_date: 2016-01-31
+[2025-03-21 21:06:51,698] ERROR: wmt (1/2016): Invalid data types: original_report_date=2016-01-31
+[2025-03-21 21:06:51,709] INFO: wmt (1/2016): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 21:06:51,721] ERROR: Invalid numeric value for original_report_date: 2016-04-30
+[2025-03-21 21:06:51,722] ERROR: wmt (4/2016): Invalid data types: original_report_date=2016-04-30
+[2025-03-21 21:06:51,733] INFO: wmt (4/2016): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:06:51,744] ERROR: Invalid numeric value for original_report_date: 2016-07-31
+[2025-03-21 21:06:51,745] ERROR: wmt (7/2016): Invalid data types: original_report_date=2016-07-31
+[2025-03-21 21:06:51,756] INFO: wmt (7/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:06:51,769] ERROR: Invalid numeric value for original_report_date: 2016-10-31
+[2025-03-21 21:06:51,769] ERROR: wmt (10/2016): Invalid data types: original_report_date=2016-10-31
+[2025-03-21 21:06:51,780] INFO: wmt (10/2016): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:06:51,792] ERROR: Invalid numeric value for original_report_date: 2017-01-31
+[2025-03-21 21:06:51,792] ERROR: wmt (1/2017): Invalid data types: original_report_date=2017-01-31
+[2025-03-21 21:06:51,804] INFO: wmt (1/2017): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 21:06:51,817] ERROR: Invalid numeric value for original_report_date: 2017-04-30
+[2025-03-21 21:06:51,818] ERROR: wmt (4/2017): Invalid data types: original_report_date=2017-04-30
+[2025-03-21 21:06:51,829] INFO: wmt (4/2017): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:06:51,842] ERROR: Invalid numeric value for original_report_date: 2017-07-31
+[2025-03-21 21:06:51,845] ERROR: wmt (7/2017): Invalid data types: original_report_date=2017-07-31
+[2025-03-21 21:06:51,857] INFO: wmt (7/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:06:51,870] ERROR: Invalid numeric value for original_report_date: 2017-10-31
+[2025-03-21 21:06:51,870] ERROR: wmt (10/2017): Invalid data types: original_report_date=2017-10-31
+[2025-03-21 21:06:51,882] INFO: wmt (10/2017): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:06:51,896] ERROR: Invalid numeric value for original_report_date: 2018-01-31
+[2025-03-21 21:06:51,896] ERROR: wmt (1/2018): Invalid data types: original_report_date=2018-01-31
+[2025-03-21 21:06:51,908] INFO: wmt (1/2018): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 21:06:51,920] ERROR: Invalid numeric value for original_report_date: 2018-04-30
+[2025-03-21 21:06:51,920] ERROR: wmt (4/2018): Invalid data types: original_report_date=2018-04-30
+[2025-03-21 21:06:51,932] INFO: wmt (4/2018): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:06:51,946] ERROR: Invalid numeric value for original_report_date: 2018-07-31
+[2025-03-21 21:06:51,946] ERROR: wmt (7/2018): Invalid data types: original_report_date=2018-07-31
+[2025-03-21 21:06:51,957] INFO: wmt (7/2018): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:06:51,970] ERROR: Invalid numeric value for original_report_date: 2018-10-31
+[2025-03-21 21:06:51,970] ERROR: wmt (10/2018): Invalid data types: original_report_date=2018-10-31
+[2025-03-21 21:06:51,981] INFO: wmt (10/2018): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:06:51,993] ERROR: Invalid numeric value for original_report_date: 2019-01-31
+[2025-03-21 21:06:51,993] ERROR: wmt (1/2019): Invalid data types: original_report_date=2019-01-31
+[2025-03-21 21:06:52,005] INFO: wmt (1/2019): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 21:06:52,017] ERROR: Invalid numeric value for original_report_date: 2019-04-30
+[2025-03-21 21:06:52,017] ERROR: wmt (4/2019): Invalid data types: original_report_date=2019-04-30
+[2025-03-21 21:06:52,029] INFO: wmt (4/2019): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:06:52,041] ERROR: Invalid numeric value for original_report_date: 2019-07-31
+[2025-03-21 21:06:52,041] ERROR: wmt (7/2019): Invalid data types: original_report_date=2019-07-31
+[2025-03-21 21:06:52,053] INFO: wmt (7/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 21:06:52,065] ERROR: Invalid numeric value for original_report_date: 2019-10-31
+[2025-03-21 21:06:52,065] ERROR: wmt (10/2019): Invalid data types: original_report_date=2019-10-31
+[2025-03-21 21:06:52,077] INFO: wmt (10/2019): Updated existing record with 14 non-zero financial metrics
+[2025-03-21 21:06:52,089] ERROR: Invalid numeric value for original_report_date: 2020-01-31
+[2025-03-21 21:06:52,089] ERROR: wmt (1/2020): Invalid data types: original_report_date=2020-01-31
+[2025-03-21 21:06:52,101] INFO: wmt (1/2020): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 21:06:52,113] ERROR: Invalid numeric value for original_report_date: 2020-04-30
+[2025-03-21 21:06:52,113] ERROR: wmt (4/2020): Invalid data types: original_report_date=2020-04-30
+[2025-03-21 21:06:52,125] INFO: wmt (4/2020): Updated existing record with 18 non-zero financial metrics
+[2025-03-21 21:06:52,137] ERROR: Invalid numeric value for original_report_date: 2020-07-31
+[2025-03-21 21:06:52,137] ERROR: wmt (7/2020): Invalid data types: original_report_date=2020-07-31
+[2025-03-21 21:06:52,148] INFO: wmt (7/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:06:52,161] ERROR: Invalid numeric value for original_report_date: 2020-10-31
+[2025-03-21 21:06:52,162] ERROR: wmt (10/2020): Invalid data types: original_report_date=2020-10-31
+[2025-03-21 21:06:52,173] INFO: wmt (10/2020): Updated existing record with 13 non-zero financial metrics
+[2025-03-21 21:06:52,184] ERROR: Invalid numeric value for original_report_date: 2021-01-31
+[2025-03-21 21:06:52,184] ERROR: wmt (1/2021): Invalid data types: original_report_date=2021-01-31
+[2025-03-21 21:06:52,196] INFO: wmt (1/2021): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 21:06:52,208] ERROR: Invalid numeric value for original_report_date: 2021-04-30
+[2025-03-21 21:06:52,208] ERROR: wmt (4/2021): Invalid data types: original_report_date=2021-04-30
+[2025-03-21 21:06:52,220] INFO: wmt (4/2021): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:06:52,233] ERROR: Invalid numeric value for original_report_date: 2021-07-31
+[2025-03-21 21:06:52,233] ERROR: wmt (7/2021): Invalid data types: original_report_date=2021-07-31
+[2025-03-21 21:06:52,245] INFO: wmt (7/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:06:52,258] ERROR: Invalid numeric value for original_report_date: 2021-10-31
+[2025-03-21 21:06:52,258] ERROR: wmt (10/2021): Invalid data types: original_report_date=2021-10-31
+[2025-03-21 21:06:52,269] INFO: wmt (10/2021): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:06:52,283] ERROR: Invalid numeric value for original_report_date: 2022-01-31
+[2025-03-21 21:06:52,283] ERROR: wmt (1/2022): Invalid data types: original_report_date=2022-01-31
+[2025-03-21 21:06:52,295] INFO: wmt (1/2022): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 21:06:52,308] ERROR: Invalid numeric value for original_report_date: 2022-04-30
+[2025-03-21 21:06:52,308] ERROR: wmt (4/2022): Invalid data types: original_report_date=2022-04-30
+[2025-03-21 21:06:52,319] INFO: wmt (4/2022): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:06:52,333] ERROR: Invalid numeric value for original_report_date: 2022-07-31
+[2025-03-21 21:06:52,333] ERROR: wmt (7/2022): Invalid data types: original_report_date=2022-07-31
+[2025-03-21 21:06:52,344] INFO: wmt (7/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:06:52,356] ERROR: Invalid numeric value for original_report_date: 2022-10-31
+[2025-03-21 21:06:52,357] ERROR: wmt (10/2022): Invalid data types: original_report_date=2022-10-31
+[2025-03-21 21:06:52,368] INFO: wmt (10/2022): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:06:52,381] ERROR: Invalid numeric value for original_report_date: 2023-01-31
+[2025-03-21 21:06:52,381] ERROR: wmt (1/2023): Invalid data types: original_report_date=2023-01-31
+[2025-03-21 21:06:52,392] INFO: wmt (1/2023): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 21:06:52,405] ERROR: Invalid numeric value for original_report_date: 2023-04-30
+[2025-03-21 21:06:52,405] ERROR: wmt (4/2023): Invalid data types: original_report_date=2023-04-30
+[2025-03-21 21:06:52,416] INFO: wmt (4/2023): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:06:52,431] ERROR: Invalid numeric value for original_report_date: 2023-07-31
+[2025-03-21 21:06:52,431] ERROR: wmt (7/2023): Invalid data types: original_report_date=2023-07-31
+[2025-03-21 21:06:52,443] INFO: wmt (7/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:06:52,456] ERROR: Invalid numeric value for original_report_date: 2023-10-31
+[2025-03-21 21:06:52,456] ERROR: wmt (10/2023): Invalid data types: original_report_date=2023-10-31
+[2025-03-21 21:06:52,469] INFO: wmt (10/2023): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:06:52,481] ERROR: Invalid numeric value for original_report_date: 2024-01-31
+[2025-03-21 21:06:52,481] ERROR: wmt (1/2024): Invalid data types: original_report_date=2024-01-31
+[2025-03-21 21:06:52,493] INFO: wmt (1/2024): Updated existing record with 19 non-zero financial metrics
+[2025-03-21 21:06:52,505] ERROR: Invalid numeric value for original_report_date: 2024-04-30
+[2025-03-21 21:06:52,505] ERROR: wmt (4/2024): Invalid data types: original_report_date=2024-04-30
+[2025-03-21 21:06:52,517] INFO: wmt (4/2024): Updated existing record with 17 non-zero financial metrics
+[2025-03-21 21:06:52,530] ERROR: Invalid numeric value for original_report_date: 2024-07-31
+[2025-03-21 21:06:52,530] ERROR: wmt (7/2024): Invalid data types: original_report_date=2024-07-31
+[2025-03-21 21:06:52,542] INFO: wmt (7/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:06:52,555] ERROR: Invalid numeric value for original_report_date: 2024-10-31
+[2025-03-21 21:06:52,555] ERROR: wmt (10/2024): Invalid data types: original_report_date=2024-10-31
+[2025-03-21 21:06:52,567] INFO: wmt (10/2024): Updated existing record with 12 non-zero financial metrics
+[2025-03-21 21:06:52,580] INFO: Trying adjusted date: 2/2025 (original: 1/2025)
+[2025-03-21 21:06:52,592] ERROR: Invalid numeric value for original_report_date: 2025-01-31
+[2025-03-21 21:06:52,592] ERROR: wmt (1/2025): Invalid data types: original_report_date=2025-01-31
+[2025-03-21 21:06:52,592] ERROR: wmt (1/2025): No existing record found(1/2025, 2025-01-31) - creating new one
+[2025-03-21 21:06:52,593] INFO: wmt (1/2025): Created new record with 19 non-zero financial metrics

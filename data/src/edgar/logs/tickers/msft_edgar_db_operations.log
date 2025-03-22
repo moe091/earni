@@ -1,0 +1,195 @@
+[2025-03-21 20:54:47,921] INFO: Trying adjusted date: 4/2010 (original: 3/2010)
+[2025-03-21 20:54:47,932] ERROR: Invalid numeric value for original_report_date: 2010-03-31
+[2025-03-21 20:54:47,932] ERROR: msft (3/2010): Invalid data types: original_report_date=2010-03-31
+[2025-03-21 20:54:47,932] ERROR: msft (3/2010): No existing record found(3/2010, 2010-03-31) - creating new one
+[2025-03-21 20:54:47,933] INFO: msft (3/2010): Created new record with 20 non-zero financial metrics
+[2025-03-21 20:54:47,952] INFO: Trying adjusted date: 7/2010 (original: 6/2010)
+[2025-03-21 20:54:47,964] ERROR: Invalid numeric value for original_report_date: 2010-06-30
+[2025-03-21 20:54:47,964] ERROR: msft (6/2010): Invalid data types: original_report_date=2010-06-30
+[2025-03-21 20:54:47,964] ERROR: msft (6/2010): No existing record found(6/2010, 2010-06-30) - creating new one
+[2025-03-21 20:54:47,965] INFO: msft (6/2010): Created new record with 24 non-zero financial metrics
+[2025-03-21 20:54:47,977] INFO: Trying adjusted date: 10/2010 (original: 9/2010)
+[2025-03-21 20:54:47,989] ERROR: Invalid numeric value for original_report_date: 2010-09-30
+[2025-03-21 20:54:47,989] ERROR: msft (9/2010): Invalid data types: original_report_date=2010-09-30
+[2025-03-21 20:54:47,989] ERROR: msft (9/2010): No existing record found(9/2010, 2010-09-30) - creating new one
+[2025-03-21 20:54:47,989] INFO: msft (9/2010): Created new record with 24 non-zero financial metrics
+[2025-03-21 20:54:48,004] INFO: Trying adjusted date: 1/2011 (original: 12/2010)
+[2025-03-21 20:54:48,016] ERROR: Invalid numeric value for original_report_date: 2010-12-31
+[2025-03-21 20:54:48,016] ERROR: msft (12/2010): Invalid data types: original_report_date=2010-12-31
+[2025-03-21 20:54:48,016] ERROR: msft (12/2010): No existing record found(12/2010, 2010-12-31) - creating new one
+[2025-03-21 20:54:48,017] INFO: msft (12/2010): Created new record with 24 non-zero financial metrics
+[2025-03-21 20:54:48,030] INFO: Trying adjusted date: 4/2011 (original: 3/2011)
+[2025-03-21 20:54:48,042] ERROR: Invalid numeric value for original_report_date: 2011-03-31
+[2025-03-21 20:54:48,042] ERROR: msft (3/2011): Invalid data types: original_report_date=2011-03-31
+[2025-03-21 20:54:48,042] ERROR: msft (3/2011): No existing record found(3/2011, 2011-03-31) - creating new one
+[2025-03-21 20:54:48,042] INFO: msft (3/2011): Created new record with 24 non-zero financial metrics
+[2025-03-21 20:54:48,055] INFO: Trying adjusted date: 7/2011 (original: 6/2011)
+[2025-03-21 20:54:48,067] ERROR: Invalid numeric value for original_report_date: 2011-06-30
+[2025-03-21 20:54:48,067] ERROR: msft (6/2011): Invalid data types: original_report_date=2011-06-30
+[2025-03-21 20:54:48,067] ERROR: msft (6/2011): No existing record found(6/2011, 2011-06-30) - creating new one
+[2025-03-21 20:54:48,068] INFO: msft (6/2011): Created new record with 25 non-zero financial metrics
+[2025-03-21 20:54:48,083] INFO: Trying adjusted date: 10/2011 (original: 9/2011)
+[2025-03-21 20:54:48,096] ERROR: Invalid numeric value for original_report_date: 2011-09-30
+[2025-03-21 20:54:48,096] ERROR: msft (9/2011): Invalid data types: original_report_date=2011-09-30
+[2025-03-21 20:54:48,096] ERROR: msft (9/2011): No existing record found(9/2011, 2011-09-30) - creating new one
+[2025-03-21 20:54:48,096] INFO: msft (9/2011): Created new record with 24 non-zero financial metrics
+[2025-03-21 20:54:48,109] INFO: Trying adjusted date: 4/2012 (original: 3/2012)
+[2025-03-21 20:54:48,121] ERROR: Invalid numeric value for original_report_date: 2012-03-31
+[2025-03-21 20:54:48,121] ERROR: msft (3/2012): Invalid data types: original_report_date=2012-03-31
+[2025-03-21 20:54:48,121] ERROR: msft (3/2012): No existing record found(3/2012, 2012-03-31) - creating new one
+[2025-03-21 20:54:48,122] INFO: msft (3/2012): Created new record with 23 non-zero financial metrics
+[2025-03-21 20:54:48,135] INFO: Trying adjusted date: 7/2012 (original: 6/2012)
+[2025-03-21 20:54:48,146] ERROR: Invalid numeric value for original_report_date: 2012-06-30
+[2025-03-21 20:54:48,147] ERROR: msft (6/2012): Invalid data types: original_report_date=2012-06-30
+[2025-03-21 20:54:48,147] ERROR: msft (6/2012): No existing record found(6/2012, 2012-06-30) - creating new one
+[2025-03-21 20:54:48,147] INFO: msft (6/2012): Created new record with 25 non-zero financial metrics
+[2025-03-21 20:54:48,160] ERROR: Invalid numeric value for original_report_date: 2012-09-30
+[2025-03-21 20:54:48,160] ERROR: msft (9/2012): Invalid data types: original_report_date=2012-09-30
+[2025-03-21 20:54:48,172] INFO: msft (9/2012): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:48,184] ERROR: Invalid numeric value for original_report_date: 2012-12-31
+[2025-03-21 20:54:48,184] ERROR: msft (12/2012): Invalid data types: original_report_date=2012-12-31
+[2025-03-21 20:54:48,196] INFO: msft (12/2012): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:48,209] ERROR: Invalid numeric value for original_report_date: 2013-03-31
+[2025-03-21 20:54:48,209] ERROR: msft (3/2013): Invalid data types: original_report_date=2013-03-31
+[2025-03-21 20:54:48,221] INFO: msft (3/2013): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:48,233] ERROR: Invalid numeric value for original_report_date: 2013-06-30
+[2025-03-21 20:54:48,233] ERROR: msft (6/2013): Invalid data types: original_report_date=2013-06-30
+[2025-03-21 20:54:48,245] INFO: msft (6/2013): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:48,258] ERROR: Invalid numeric value for original_report_date: 2013-09-30
+[2025-03-21 20:54:48,258] ERROR: msft (9/2013): Invalid data types: original_report_date=2013-09-30
+[2025-03-21 20:54:48,270] INFO: msft (9/2013): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 20:54:48,283] ERROR: Invalid numeric value for original_report_date: 2013-12-31
+[2025-03-21 20:54:48,284] ERROR: msft (12/2013): Invalid data types: original_report_date=2013-12-31
+[2025-03-21 20:54:48,295] INFO: msft (12/2013): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 20:54:48,308] ERROR: Invalid numeric value for original_report_date: 2014-03-31
+[2025-03-21 20:54:48,308] ERROR: msft (3/2014): Invalid data types: original_report_date=2014-03-31
+[2025-03-21 20:54:48,320] INFO: msft (3/2014): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 20:54:48,333] ERROR: Invalid numeric value for original_report_date: 2014-06-30
+[2025-03-21 20:54:48,334] ERROR: msft (6/2014): Invalid data types: original_report_date=2014-06-30
+[2025-03-21 20:54:48,345] INFO: msft (6/2014): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 20:54:48,358] ERROR: Invalid numeric value for original_report_date: 2014-09-30
+[2025-03-21 20:54:48,358] ERROR: msft (9/2014): Invalid data types: original_report_date=2014-09-30
+[2025-03-21 20:54:48,370] INFO: msft (9/2014): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 20:54:48,383] ERROR: Invalid numeric value for original_report_date: 2014-12-31
+[2025-03-21 20:54:48,383] ERROR: msft (12/2014): Invalid data types: original_report_date=2014-12-31
+[2025-03-21 20:54:48,395] INFO: msft (12/2014): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 20:54:48,408] ERROR: Invalid numeric value for original_report_date: 2015-03-31
+[2025-03-21 20:54:48,408] ERROR: msft (3/2015): Invalid data types: original_report_date=2015-03-31
+[2025-03-21 20:54:48,420] INFO: msft (3/2015): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 20:54:48,433] ERROR: Invalid numeric value for original_report_date: 2015-06-30
+[2025-03-21 20:54:48,433] ERROR: msft (6/2015): Invalid data types: original_report_date=2015-06-30
+[2025-03-21 20:54:48,445] INFO: msft (6/2015): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 20:54:48,459] ERROR: Invalid numeric value for original_report_date: 2015-09-30
+[2025-03-21 20:54:48,459] ERROR: msft (9/2015): Invalid data types: original_report_date=2015-09-30
+[2025-03-21 20:54:48,472] INFO: msft (9/2015): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 20:54:48,485] ERROR: Invalid numeric value for original_report_date: 2015-12-31
+[2025-03-21 20:54:48,485] ERROR: msft (12/2015): Invalid data types: original_report_date=2015-12-31
+[2025-03-21 20:54:48,497] INFO: msft (12/2015): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 20:54:48,511] ERROR: Invalid numeric value for original_report_date: 2016-03-31
+[2025-03-21 20:54:48,511] ERROR: msft (3/2016): Invalid data types: original_report_date=2016-03-31
+[2025-03-21 20:54:48,523] INFO: msft (3/2016): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 20:54:48,536] ERROR: Invalid numeric value for original_report_date: 2016-06-30
+[2025-03-21 20:54:48,536] ERROR: msft (6/2016): Invalid data types: original_report_date=2016-06-30
+[2025-03-21 20:54:48,548] INFO: msft (6/2016): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 20:54:48,563] ERROR: Invalid numeric value for original_report_date: 2016-09-30
+[2025-03-21 20:54:48,563] ERROR: msft (9/2016): Invalid data types: original_report_date=2016-09-30
+[2025-03-21 20:54:48,575] INFO: msft (9/2016): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 20:54:48,588] ERROR: Invalid numeric value for original_report_date: 2016-12-31
+[2025-03-21 20:54:48,588] ERROR: msft (12/2016): Invalid data types: original_report_date=2016-12-31
+[2025-03-21 20:54:48,600] INFO: msft (12/2016): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 20:54:48,616] ERROR: Invalid numeric value for original_report_date: 2017-03-31
+[2025-03-21 20:54:48,616] ERROR: msft (3/2017): Invalid data types: original_report_date=2017-03-31
+[2025-03-21 20:54:48,630] INFO: msft (3/2017): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 20:54:48,644] ERROR: Invalid numeric value for original_report_date: 2017-06-30
+[2025-03-21 20:54:48,644] ERROR: msft (6/2017): Invalid data types: original_report_date=2017-06-30
+[2025-03-21 20:54:48,656] INFO: msft (6/2017): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 20:54:48,673] ERROR: Invalid numeric value for original_report_date: 2017-09-30
+[2025-03-21 20:54:48,673] ERROR: msft (9/2017): Invalid data types: original_report_date=2017-09-30
+[2025-03-21 20:54:48,686] INFO: msft (9/2017): Updated existing record with 22 non-zero financial metrics
+[2025-03-21 20:54:48,700] ERROR: Invalid numeric value for original_report_date: 2017-12-31
+[2025-03-21 20:54:48,700] ERROR: msft (12/2017): Invalid data types: original_report_date=2017-12-31
+[2025-03-21 20:54:48,711] INFO: msft (12/2017): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:48,725] ERROR: Invalid numeric value for original_report_date: 2018-03-31
+[2025-03-21 20:54:48,725] ERROR: msft (3/2018): Invalid data types: original_report_date=2018-03-31
+[2025-03-21 20:54:48,738] INFO: msft (3/2018): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:48,751] ERROR: Invalid numeric value for original_report_date: 2018-06-30
+[2025-03-21 20:54:48,751] ERROR: msft (6/2018): Invalid data types: original_report_date=2018-06-30
+[2025-03-21 20:54:48,763] INFO: msft (6/2018): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:48,776] ERROR: Invalid numeric value for original_report_date: 2018-09-30
+[2025-03-21 20:54:48,776] ERROR: msft (9/2018): Invalid data types: original_report_date=2018-09-30
+[2025-03-21 20:54:48,788] INFO: msft (9/2018): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:48,801] ERROR: Invalid numeric value for original_report_date: 2018-12-31
+[2025-03-21 20:54:48,802] ERROR: msft (12/2018): Invalid data types: original_report_date=2018-12-31
+[2025-03-21 20:54:48,814] INFO: msft (12/2018): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:48,827] ERROR: Invalid numeric value for original_report_date: 2019-03-31
+[2025-03-21 20:54:48,827] ERROR: msft (3/2019): Invalid data types: original_report_date=2019-03-31
+[2025-03-21 20:54:48,840] INFO: msft (3/2019): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:48,853] ERROR: Invalid numeric value for original_report_date: 2019-06-30
+[2025-03-21 20:54:48,853] ERROR: msft (6/2019): Invalid data types: original_report_date=2019-06-30
+[2025-03-21 20:54:48,865] INFO: msft (6/2019): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:48,879] ERROR: Invalid numeric value for original_report_date: 2019-09-30
+[2025-03-21 20:54:48,879] ERROR: msft (9/2019): Invalid data types: original_report_date=2019-09-30
+[2025-03-21 20:54:48,891] INFO: msft (9/2019): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:48,904] ERROR: Invalid numeric value for original_report_date: 2019-12-31
+[2025-03-21 20:54:48,904] ERROR: msft (12/2019): Invalid data types: original_report_date=2019-12-31
+[2025-03-21 20:54:48,916] INFO: msft (12/2019): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:48,929] ERROR: Invalid numeric value for original_report_date: 2020-03-31
+[2025-03-21 20:54:48,929] ERROR: msft (3/2020): Invalid data types: original_report_date=2020-03-31
+[2025-03-21 20:54:48,941] INFO: msft (3/2020): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:48,954] ERROR: Invalid numeric value for original_report_date: 2020-06-30
+[2025-03-21 20:54:48,954] ERROR: msft (6/2020): Invalid data types: original_report_date=2020-06-30
+[2025-03-21 20:54:48,966] INFO: msft (6/2020): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:48,979] ERROR: Invalid numeric value for original_report_date: 2020-09-30
+[2025-03-21 20:54:48,980] ERROR: msft (9/2020): Invalid data types: original_report_date=2020-09-30
+[2025-03-21 20:54:48,992] INFO: msft (9/2020): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:49,005] ERROR: Invalid numeric value for original_report_date: 2020-12-31
+[2025-03-21 20:54:49,005] ERROR: msft (12/2020): Invalid data types: original_report_date=2020-12-31
+[2025-03-21 20:54:49,016] INFO: msft (12/2020): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:49,029] ERROR: Invalid numeric value for original_report_date: 2021-03-31
+[2025-03-21 20:54:49,030] ERROR: msft (3/2021): Invalid data types: original_report_date=2021-03-31
+[2025-03-21 20:54:49,042] INFO: msft (3/2021): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:49,055] ERROR: Invalid numeric value for original_report_date: 2021-06-30
+[2025-03-21 20:54:49,055] ERROR: msft (6/2021): Invalid data types: original_report_date=2021-06-30
+[2025-03-21 20:54:49,066] INFO: msft (6/2021): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:49,079] ERROR: Invalid numeric value for original_report_date: 2021-09-30
+[2025-03-21 20:54:49,080] ERROR: msft (9/2021): Invalid data types: original_report_date=2021-09-30
+[2025-03-21 20:54:49,091] INFO: msft (9/2021): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:49,104] ERROR: Invalid numeric value for original_report_date: 2021-12-31
+[2025-03-21 20:54:49,104] ERROR: msft (12/2021): Invalid data types: original_report_date=2021-12-31
+[2025-03-21 20:54:49,116] INFO: msft (12/2021): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:49,130] ERROR: Invalid numeric value for original_report_date: 2022-03-31
+[2025-03-21 20:54:49,130] ERROR: msft (3/2022): Invalid data types: original_report_date=2022-03-31
+[2025-03-21 20:54:49,142] INFO: msft (3/2022): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:49,154] ERROR: Invalid numeric value for original_report_date: 2022-06-30
+[2025-03-21 20:54:49,155] ERROR: msft (6/2022): Invalid data types: original_report_date=2022-06-30
+[2025-03-21 20:54:49,167] INFO: msft (6/2022): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:49,180] ERROR: Invalid numeric value for original_report_date: 2022-09-30
+[2025-03-21 20:54:49,181] ERROR: msft (9/2022): Invalid data types: original_report_date=2022-09-30
+[2025-03-21 20:54:49,192] INFO: msft (9/2022): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:49,205] ERROR: Invalid numeric value for original_report_date: 2022-12-31
+[2025-03-21 20:54:49,205] ERROR: msft (12/2022): Invalid data types: original_report_date=2022-12-31
+[2025-03-21 20:54:49,218] INFO: msft (12/2022): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:49,230] ERROR: Invalid numeric value for original_report_date: 2023-03-31
+[2025-03-21 20:54:49,230] ERROR: msft (3/2023): Invalid data types: original_report_date=2023-03-31
+[2025-03-21 20:54:49,242] INFO: msft (3/2023): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:49,255] ERROR: Invalid numeric value for original_report_date: 2023-06-30
+[2025-03-21 20:54:49,256] ERROR: msft (6/2023): Invalid data types: original_report_date=2023-06-30
+[2025-03-21 20:54:49,267] INFO: msft (6/2023): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:49,282] ERROR: Invalid numeric value for original_report_date: 2023-09-30
+[2025-03-21 20:54:49,283] ERROR: msft (9/2023): Invalid data types: original_report_date=2023-09-30
+[2025-03-21 20:54:49,294] INFO: msft (9/2023): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:49,307] ERROR: Invalid numeric value for original_report_date: 2023-12-31
+[2025-03-21 20:54:49,308] ERROR: msft (12/2023): Invalid data types: original_report_date=2023-12-31
+[2025-03-21 20:54:49,320] INFO: msft (12/2023): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:49,335] ERROR: Invalid numeric value for original_report_date: 2024-03-31
+[2025-03-21 20:54:49,335] ERROR: msft (3/2024): Invalid data types: original_report_date=2024-03-31
+[2025-03-21 20:54:49,347] INFO: msft (3/2024): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:49,367] ERROR: Invalid numeric value for original_report_date: 2024-06-30
+[2025-03-21 20:54:49,367] ERROR: msft (6/2024): Invalid data types: original_report_date=2024-06-30
+[2025-03-21 20:54:49,379] INFO: msft (6/2024): Updated existing record with 25 non-zero financial metrics
+[2025-03-21 20:54:49,392] ERROR: Invalid numeric value for original_report_date: 2024-09-30
+[2025-03-21 20:54:49,393] ERROR: msft (9/2024): Invalid data types: original_report_date=2024-09-30
+[2025-03-21 20:54:49,404] INFO: msft (9/2024): Updated existing record with 24 non-zero financial metrics
+[2025-03-21 20:54:49,417] ERROR: Invalid numeric value for original_report_date: 2024-12-31
+[2025-03-21 20:54:49,417] ERROR: msft (12/2024): Invalid data types: original_report_date=2024-12-31
+[2025-03-21 20:54:49,429] INFO: msft (12/2024): Updated existing record with 24 non-zero financial metrics
