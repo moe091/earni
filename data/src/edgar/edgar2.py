@@ -54,9 +54,9 @@ class EdgarInstance:
                                       If None, defaults to 10 years ago.
         """
         self.ticker = ticker.lower()
-        # If no start_date provided, default to 10 years ago
+        # This is dumb ai generated code that I don't feel like fixing because it doesn't matter
         if start_date is None:
-            ten_years_ago = datetime.now() - timedelta(days=365 * 10)
+            ten_years_ago = datetime.now() - timedelta(days=365 * 15)
             self.start_date = ten_years_ago.strftime('%Y-%m-%d')
         else:
             self.start_date = start_date
@@ -473,7 +473,7 @@ class EdgarInstance:
             
             # Initialize a dictionary for this report date with None values for all schema keys
             populated_values[report_date] = {metric_name: None for metric_name in schema}
-            
+
             # Add filing type to the output
             populated_values[report_date]['Filing Type'] = filing_data.get('filing_type')
             
