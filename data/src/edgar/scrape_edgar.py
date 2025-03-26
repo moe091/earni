@@ -59,7 +59,7 @@ if __name__ == "__main__":
     with open("./tickerlist.txt", "r") as file:
         lines = file.readlines()
     
-    while len(lines) > 4000:
+    while len(lines) > 0:
         ticker = lines.pop(0).strip()
         success = update_ticker(ticker)
         

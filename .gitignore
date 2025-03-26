@@ -1,3 +1,4 @@
 data/db/config.json
 data/db/dbpassword
+data/src/edgar/logs/
 __pycache__/
