@@ -28,7 +28,7 @@ def get_cash_flow(ticker):
 def get_daily(ticker):
     url = av_url % ("TIME_SERIES_DAILY", ticker) + "&outputsize=full&datatype=json"
     r = requests.get(url)
-    return r.json()
+    return r.json()['Time Series (Daily)']
 
 def get_month_interval(ticker, interval, month, extended=False):
     url = av_url % ("TIME_SERIES_INTRADAY", ticker) + "&interval=" + interval + "&month=" + month + "&outputsize=full&" + "&extended_hours=" + str(extended)

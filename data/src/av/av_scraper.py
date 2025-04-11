@@ -3,7 +3,7 @@ import time
 
 
 if __name__ == "__main__":
-    with open("./ftickers.txt", "r") as file:
+    with open("./tickerlist.txt", "r") as file:
         lines = file.readlines()
         lines = [l.strip() for l in lines]
 

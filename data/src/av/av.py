@@ -15,7 +15,7 @@ def get_stock_data(ticker, func):
 
 
 def populate_ticker(ticker):
-    data = get_stock_data(ticker, "INCOME_STATEMENT")
+    data = get_stock_data(ticker, "CASH_FLOW")
     try:
         for r in data['annualReports']:
             upsert_financials("yearly_financials", ticker, r)
