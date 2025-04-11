@@ -1,5 +1,7 @@
 from flask_sqlalchemy import SQLAlchemy
-from datetime import datetime
+from sqlalchemy import text
+import decimal
+from datetime import datetime, date
 fin_fields = [
     "totalrevenue",
     "costofrevenue",
@@ -22,6 +24,11 @@ fin_fields = [
     "operatingcashflow"
 ]
 
+fin_map = {
+    "cashandcashequivalents": "cashandcashequivalentsatcarryingvalue",
+    "cogs": "costofgoodsandservicessold"
+}
+
 
 
 db = SQLAlchemy()
@@ -32,6 +39,8 @@ def init_app(app):
 
 def query_financials(ticker, metrics, start_date=None, end_date=None):
     cols = [m for m in metrics if m in fin_fields]
+    cols = [fin_map[c] for c in cols if c in fin_map]
+
     cols.insert(0, "fiscaldateending")
     # check for 'stockprice' and handle it on it's own
     sql = f"SELECT {', '.join(cols)} FROM financials WHERE ticker = :ticker"
@@ -47,10 +56,28 @@ def query_financials(ticker, metrics, start_date=None, end_date=None):
     
     sql += " ORDER BY fiscaldateending DESC"
 
-    print("\n\nBASE SQL:", sql) 
-    print("PARAMS:", params)
-
-    return db.session.execute(sql, params).fetchall()
+    result_proxy = db.session.execute(text(sql), params)
+    
+    # Get column names from the result
+    column_names = result_proxy.keys()
+    
+    # Convert to a list of dictionaries with proper type conversion
+    result = []
+    for row in result_proxy:
+        row_dict = {}
+        for i, column in enumerate(column_names):
+            value = row[i]
+            # Convert special types to JSON-serializable formats
+            if isinstance(value, (datetime, date)):
+                row_dict[column] = value.isoformat()
+            elif isinstance(value, decimal.Decimal):
+                row_dict[column] = float(value)
+            else:
+                row_dict[column] = value
+                
+        result.append(row_dict)
+    
+    return result
 
     
     
