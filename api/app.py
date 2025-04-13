@@ -1,7 +1,9 @@
 from datetime import datetime
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, Response
 import util.db as db
+import util.charts as chart
 from config import Config
+import base64
 
 def create_app():
     app = Flask(__name__)
@@ -25,10 +27,11 @@ def create_app():
         metrics = request.args.getlist('metric')
         
         data = db.query_financials(ticker, metrics, start_date, end_date)
-        print("\n\nDATA:", data)
-        result = jsonify(data)
-        print("\n\nRESULT:", result)
-        return result
+        print("Columns:", data.columns)
+        img_buffer = chart.create_price_chart(data, ticker, metrics)
+        img_str = base64.b64encode(img_buffer).decode('utf-8')
+        
+        return f'<img src="data:image/png;base64,{img_str}" />'
 
 
 
@@ -37,4 +40,4 @@ def create_app():
 app = create_app()
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True) 
