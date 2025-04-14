@@ -53,13 +53,6 @@ def query_price(ticker, start_date, end_date, interval='daily'):
     return df
 
 
-    result_proxy = db.session.execute(text(sql), params)
-    
-    result = parse_output(result_proxy, 'date')
-    print("\nStock price result: ", result)
-    return result
-
-
 # Takes a ticker and a list of metrics and returns the financial data for that ticker
 def query_financials(ticker, metrics, start_date=None, end_date=None):
     if 'stockprice' in metrics:
@@ -67,6 +60,7 @@ def query_financials(ticker, metrics, start_date=None, end_date=None):
         stock_price = query_price(ticker, start_date, end_date)
 
     cols = [field_map[m] for m in metrics if m in field_map]
+    print("\nCOLS: ", cols)
     
     cols.insert(0, "fiscaldateending")
     
@@ -91,12 +85,6 @@ def query_financials(ticker, metrics, start_date=None, end_date=None):
     financials.set_index('date', inplace=True)
     financials.sort_index(inplace=True) # if data is already sorted, which it should be if nothing goes wrong, then this will add basically 0 overhead
     return pd.concat([financials, stock_price], axis=1)
-
-    result_proxy = db.session.execute(text(sql), params)
-    
-    result = parse_output(result_proxy, 'fiscaldateending')
-    print("\nFinancials result: ", result)
-    return result
 
     
 # Takes a SQLAlchemy result proxy and converts it to a dictionary of dictionaries, with key_field as the key for the outer dictionary

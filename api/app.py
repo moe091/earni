@@ -28,6 +28,7 @@ def create_app():
         
         data = db.query_financials(ticker, metrics, start_date, end_date)
         print("Columns:", data.columns)
+        print("Metrics:", metrics)
         img_buffer = chart.create_price_chart(data, ticker, metrics)
         img_str = base64.b64encode(img_buffer).decode('utf-8')
         

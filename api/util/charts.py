@@ -8,6 +8,9 @@ import io
 colors = ['green', 'red', 'orange', 'purple', 'brown', 'black']
 
 def create_price_chart(df, ticker, cols):
+    cols = list(df.columns)
+    cols.remove('close')
+
     lines = []
     labels = []
     fig, ax = plt.subplots(figsize=(12, 6))
@@ -50,6 +53,10 @@ def create_price_chart(df, ticker, cols):
     buffer.seek(0)
 
     return buffer.getvalue()
+
+
+
+
 
 def create_line_chart(df, ticker, cols):
     n_plots = len(cols)
